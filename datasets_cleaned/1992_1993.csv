@@ -1,0 +1,871 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Fiorentina,Brian Laudrup,23.0,Right Winger,Bayern Munich,5.00m,in,Summer,5,Serie A,1992,1992/1993
+Fiorentina,Stefan Effenberg,23.0,Central Midfield,Bayern Munich,3.75m,in,Summer,"3,75",Serie A,1992,1992/1993
+Fiorentina,Daniele Carnasciali,25.0,Right-Back,Brescia,?,in,Summer,0.01,Serie A,1992,1992/1993
+Fiorentina,Diego Latorre,22.0,Second Striker,South America,?,in,Summer,0.01,Serie A,1992,1992/1993
+Fiorentina,Andrea Vascotto,20.0,midfield,Barletta CS,?,in,Summer,0.01,Serie A,1992,1992/1993
+Fiorentina,Fabrizio Di Mauro,27.0,Defensive Midfield,AS Roma,?,in,Summer,0.01,Serie A,1992,1992/1993
+Fiorentina,Gianluca Luppi,25.0,Centre-Back,Juventus,?,in,Summer,0.01,Serie A,1992,1992/1993
+Fiorentina,Francesco Baiano,24.0,Right Winger,Foggia,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Paolo Ziliani,21.0,Sweeper,Brescia,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Roberto Policano,28.0,Left-Back,Torino,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Carlo Cornacchia,27.0,Right-Back,Atalanta,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Giorgio Bresciani,23.0,Centre-Forward,Cagliari Calcio,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Luca Altomare,20.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Fausto Pari,29.0,Defensive Midfield,Sampdoria,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Daniel Fonseca,22.0,Centre-Forward,Cagliari Calcio,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Jonas Thern,25.0,Central Midfield,Benfica,?,in,Summer,0.01,Serie A,1992,1992/1993
+SSC Napoli,Angelo Carbone,24.0,Right Midfield,Milan,loan transfer,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Ottavio Palladini,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Pescara,Roberto Gnoli,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Vincenzo Aureli,19.0,attack,Fucense,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Vittorio Pinciarelli,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Giuseppe Compagno,24.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Blaz Sliskovic,33.0,Central Midfield,Stade Rennais,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Mauro Zironelli,22.0,midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Stefano Borgonovo,28.0,Centre-Forward,Fiorentina,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Roger Mendy,32.0,Sweeper,Monaco,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,John Sivebaek,30.0,Right-Back,Monaco,?,in,Summer,0.01,Serie A,1992,1992/1993
+Pescara,Dunga,28.0,Defensive Midfield,Fiorentina,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Luis Oliveira,23.0,Centre-Forward,Belgium,3.00m,in,Summer,3,Serie A,1992,1992/1993
+Cagliari Calcio,Giuseppe Pancaro,20.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Guido Nanni,24.0,Goalkeeper,Ischia,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Marco Sanna,22.0,Central Midfield,Tempio,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Giorgio Bresciani,23.0,Centre-Forward,Torino,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Vittorio Pusceddu,28.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Francesco Moriero,23.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Marcelo Tejera,18.0,Central Midfield,South America,?,in,Summer,0.01,Serie A,1992,1992/1993
+Ancona,Sergio Zárate,23.0,Centre-Forward,1.FC Nuremberg,Loan fee:350Th.,in,Summer,"0,35",Serie A,1992,1992/1993
+Ancona,Nicola Caccia,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Ancona,Lajos Détári,29.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Ancona,Massimo Agostini,28.0,Centre-Forward,AC Parma,?,in,Summer,0.01,Serie A,1992,1992/1993
+Ancona,Felice Centofanti,23.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Ancona,Oscar Ruggeri,30.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,1992,1992/1993
+Ancona,Paolo Cangini,24.0,midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Ancona,Luca Bertarelli,18.0,attack,Riccione Vacanze,?,in,Summer,0.01,Serie A,1992,1992/1993
+Sampdoria,Des Walker,26.0,Centre-Back,Nottm Forest,1.70m,in,Summer,"1,7",Serie A,1992,1992/1993
+Sampdoria,Enrico Chiesa,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Sampdoria,Michele Serena,22.0,Left-Back,Verona,?,in,Summer,0.01,Serie A,1992,1992/1993
+Sampdoria,Mauro Bertarelli,21.0,attack,Ancona,?,in,Summer,0.01,Serie A,1992,1992/1993
+Sampdoria,Stefano Sacchetti,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Sampdoria,Vladimir Jugovic,22.0,Left Midfield,Central_EU,?,in,Summer,0.01,Serie A,1992,1992/1993
+Sampdoria,Nicola Zanini,18.0,Attacking Midfield,Juventus,?,in,Summer,0.01,Serie A,1992,1992/1993
+Sampdoria,Eugenio Corini,21.0,Defensive Midfield,Juventus,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Leonardo Rodríguez,25.0,Attacking Midfield,Marseille,4.80m,in,Summer,"4,8",Serie A,1992,1992/1993
+Atalanta BC,Maurizio Ganz,23.0,Centre-Forward,Brescia,120Th.,in,Summer,"0,12",Serie A,1992,1992/1993
+Atalanta BC,Claudio Mascheretti,22.0,defence,Palazzolo,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Oscar Magoni,24.0,Defensive Midfield,SC Leffe,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Maurizio Codispoti,28.0,defence,Foggia,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Roberto Rambaudi,26.0,Right Winger,Foggia,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Marco Ambrosio,19.0,Goalkeeper,Lumezzane U19,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Stefano De Agostini,27.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Davide Pinato,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Alemão,30.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Iván Valenciano,20.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Paolo Montero,20.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,1992,1992/1993
+Atalanta BC,Massimiliano Cappellini,21.0,Centre-Forward,Milan,loan transfer,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Luigi Di Biagio,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Foggia,Gianluca Grassadonia,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Foggia,Paolo Mandelli,24.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Giuseppe Fornaciari,24.0,Centre-Back,Barletta CS,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Giuseppe Di Bari,22.0,Centre-Back,Bisceglie,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Nicoló Sciacca,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Donatello Gasparini,20.0,defence,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Pier Luigi Nicoli,26.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Giovanni Pisano,23.0,Centre-Forward,Leonzio,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Giordano Caini,23.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,David Bianchini,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Mauro Bacchin,22.0,Goalkeeper,Barletta CS,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Pasquale De Vincenzo,24.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Oberdan Biagioni,22.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Andrea Seno,26.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Pierpaolo Bresciani,21.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Foggia,Hernán Medford,24.0,Centre-Forward,Rayo Vallecano,?,in,Summer,0.01,Serie A,1992,1992/1993
+Juventus,Gianluca Vialli,27.0,Centre-Forward,Sampdoria,16.50m,in,Summer,"16,5",Serie A,1992,1992/1993
+Juventus,David Platt,26.0,Attacking Midfield,Italy,9.75m,in,Summer,"9,75",Serie A,1992,1992/1993
+Juventus,Fabrizio Ravanelli,23.0,Centre-Forward,Italy,1.50m,in,Summer,"1,5",Serie A,1992,1992/1993
+Juventus,Andreas Möller,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Juventus,Moreno Torricelli,22.0,Right-Back,Italy,25Th.,in,Summer,"0,025",Serie A,1992,1992/1993
+Juventus,Daniel Terrera,18.0,defence,Sammargheritese,?,in,Summer,0.01,Serie A,1992,1992/1993
+Milan,Jean-Pierre Papin,28.0,Centre-Forward,Marseille,12.00m,in,Summer,12,Serie A,1992,1992/1993
+Milan,Gianluigi Lentini,23.0,Right Winger,Torino,9.55m,in,Summer,"9,55",Serie A,1992,1992/1993
+Milan,Dejan Savicevic,25.0,Attacking Midfield,Central_EU,4.60m,in,Summer,"4,6",Serie A,1992,1992/1993
+Milan,Stefano Eranio,25.0,Right Midfield,Genoa,?,in,Summer,0.01,Serie A,1992,1992/1993
+Milan,Martino Traversa,18.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Milan,Fernando De Napoli,28.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Milan,Davide Dionigi,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Milan,Guido Bistazzoni,32.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Maurizio Ferrarese,25.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Raffaele Sergio,25.0,Left-Back,Lazio,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Antonio Aloisi,23.0,defence,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Marcelo Saralegui,21.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Mohammed Gargo,17.0,Centre-Back,Africa Sports,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Daniele Fortunato,29.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Domenico Doardo,17.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Andrea Silenzi,26.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Torino,Carlos Aguilera,27.0,Centre-Forward,Genoa,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Marek Kozminski,21.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,1992,1992/1993
+Udinese Calcio,Paolo Di Sarno,24.0,Goalkeeper,Lazio,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Alessandro Testaferrata,18.0,Goalkeeper,Bozzano,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Stefano Pellegrini,24.0,Right-Back,AS Roma,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Stefano Desideri,27.0,Right Midfield,Inter,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Jonathan Bachini,17.0,Left Midfield,Alessandria Youth,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Piotr Czachowski,25.0,Centre-Back,Central_EU,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Alessandro Orlando,22.0,Left-Back,Sampdoria,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Marco Branca,27.0,Centre-Forward,Fiorentina,?,in,Summer,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Massimo Mariotto,26.0,midfield,Italy,loan transfer,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Paul Gascoigne,25.0,Attacking Midfield,Spurs,7.40m,in,Summer,"7,4",Serie A,1992,1992/1993
+Lazio,Giuseppe Favalli,20.0,Left-Back,Italy,2.58m,in,Summer,"2,58",Serie A,1992,1992/1993
+Lazio,Diego Fuser,23.0,Right Midfield,Milan,2.00m,in,Summer,2,Serie A,1992,1992/1993
+Lazio,Aron Winter,25.0,Defensive Midfield,Ajax,1.30m,in,Summer,"1,3",Serie A,1992,1992/1993
+Lazio,Giacomo Galli,20.0,attack,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Luca Luzardi,22.0,Centre-Back,Brescia,?,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Mauro Bonomi,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Paolo Di Sarno,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Dario Marcolin,20.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Giuseppe Signori,24.0,Centre-Forward,Foggia,?,in,Summer,0.01,Serie A,1992,1992/1993
+Lazio,Roberto Cravero,28.0,Sweeper,Torino,nan,in,Summer,0.01,Serie A,1992,1992/1993
+Genoa,Gianpaolo Spagnulo,27.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Genoa,Fabio Rossi,21.0,defence,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Genoa,Andrea Fortunato,20.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Genoa,Michele Padovano,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Genoa,Stefano Tacconi,35.0,Goalkeeper,Juventus,?,in,Summer,0.01,Serie A,1992,1992/1993
+Genoa,John van 't Schip,28.0,Right Winger,Ajax,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Salvatore Matrecano,21.0,Centre-Back,Foggia,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Marco Ferrante,21.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Gianluca Hervatin,18.0,attack,Tempio,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Antonio Sconziano,20.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Gianluca Franchini,19.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Giovanni Sorce,22.0,attack,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Marco Ferrari,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Fausto Pizzi,24.0,Attacking Midfield,Inter,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Faustino Asprilla,22.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Gabriele Pin,30.0,Central Midfield,Lazio,?,in,Summer,0.01,Serie A,1992,1992/1993
+AC Parma,Sergio Berti,23.0,Left Midfield,South America,loan transfer,in,Summer,0.01,Serie A,1992,1992/1993
+Inter,Darko Pancev,26.0,Centre-Forward,Central_EU,12.00m,in,Summer,12,Serie A,1992,1992/1993
+Inter,Igor Shalimov,23.0,Attacking Midfield,Foggia,6.75m,in,Summer,"6,75",Serie A,1992,1992/1993
+Inter,Rubén Sosa,26.0,Centre-Forward,Lazio,6.00m,in,Summer,6,Serie A,1992,1992/1993
+Inter,Matthias Sammer,24.0,Sweeper,VfB Stuttgart,6.00m,in,Summer,6,Serie A,1992,1992/1993
+Inter,Salvatore Schillaci,27.0,Centre-Forward,Juventus,1.10m,in,Summer,"1,1",Serie A,1992,1992/1993
+Inter,Antonio Manicone,25.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Inter,Paolo Tramezzani,21.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Inter,Stefano Vecchi,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Inter,Giuseppe Marino,23.0,midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Inter,Luigi De Agostini,31.0,Left-Back,Juventus,?,in,Summer,0.01,Serie A,1992,1992/1993
+Inter,Stefano Rossini,21.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Florin Raducioiu,22.0,Centre-Forward,Verona,4.50m,in,Summer,"4,5",Serie A,1992,1992/1993
+Brescia,Gheorghe Hagi,27.0,Attacking Midfield,Real Madrid,2.00m,in,Summer,2,Serie A,1992,1992/1993
+Brescia,Ovidiu Sabau,24.0,Central Midfield,Feyenoord,1.59m,in,Summer,"1,59",Serie A,1992,1992/1993
+Brescia,Luca Brunetti,27.0,defence,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Gabriele Pelati,18.0,defence,Unknown,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Nicola Marangon,21.0,Right-Back,CPR Ospitaletto,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Massimo Giannelli,22.0,Attacking Midfield,CPR Ospitaletto,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Massimo Paganin,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Marco Landucci,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Fabio Gallo,21.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Brescia,Paolo Negro,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AS Roma,Sinia Mihajlovic,23.0,Centre-Back,Central_EU,4.50m,in,Summer,"4,5",Serie A,1992,1992/1993
+AS Roma,Dario Rossi,19.0,defence,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+AS Roma,Claudio Caniggia,25.0,Right Winger,Atalanta,?,in,Summer,0.01,Serie A,1992,1992/1993
+AS Roma,Fabio Petruzzi,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1992,1992/1993
+Fiorentina,Lorenzo D'Anna,20.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1992,1992/1993
+SSC Napoli,Sebastiano Nela,31.0,Left-Back,AS Roma,?,in,Winter,0.01,Serie A,1992,1992/1993
+SSC Napoli,Fabrizio Carli,17.0,attack,AS Roma,?,in,Winter,0.01,Serie A,1992,1992/1993
+Cagliari Calcio,Francesco Bellucci,19.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1992,1992/1993
+Ancona,Milos Glonek,24.0,Centre-Back,Central_EU,?,in,Winter,0.01,Serie A,1992,1992/1993
+Foggia,Bryan Roy,22.0,Left Winger,Ajax,?,in,Winter,0.01,Serie A,1992,1992/1993
+Milan,Rufo Emiliano Verga,23.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Emiliano Bernardini,18.0,defence,AS Roma,?,in,Winter,0.01,Serie A,1992,1992/1993
+Udinese Calcio,Michele Gelsi,25.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,1992,1992/1993
+Inter,Mirko Taccola,22.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1992,1992/1993
+Brescia,Dorin Mateut,27.0,Attacking Midfield,Real Zaragoza,?,in,Winter,0.01,Serie A,1992,1992/1993
+Brescia,Paolo Ziliani,21.0,Sweeper,Italy,?,in,Winter,0.01,Serie A,1992,1992/1993
+AC Le Havre,Didier Angibeaud,17.0,Centre-Forward,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+AC Le Havre,Jean-Roch Testa,27.0,attack,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+AC Le Havre,Gia Guruli,28.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+AC Le Havre,Michel Rio,29.0,Attacking Midfield,SM Caen,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Laurent Dufresne,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Jorge Burruchaga,29.0,Attacking Midfield,FC Nantes,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Arnold Oosterveer,29.0,Centre-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Kálmán Kovács,26.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Philippe Gaillot,27.0,Left-Back,FC Metz,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Yves Bouger,22.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Christophe Robert,28.0,Left Winger,Monaco,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Thierry Fernier,27.0,Attacking Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Dominique Corroyer,27.0,Centre-Forward,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Sylvain Matrisciano,28.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SM Caen,Gabriel Calderón,32.0,Attacking Midfield,Uk,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SM Caen,Christophe Duboscq,25.0,midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SM Caen,Stéphane Dedebant,21.0,Central Midfield,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SM Caen,Faouzi Rouissi,21.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SM Caen,Clément Garcia,24.0,attack,Montpellier,loan transfer,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Stéphan Lerda,21.0,Centre-Back,Ol. Avignon,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Camille Derramond,18.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Christophe Buffat,22.0,attack,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Franck Lucchesi,28.0,Left-Back,Montpellier,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Didier Monczuk,31.0,Centre-Forward,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Didier Martel,20.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Laurent Blanc,26.0,Centre-Back,Italy,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Ludovic Gros,19.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Antoine Préget,19.0,Defensive Midfield,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Eric Allibert,16.0,Goalkeeper,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Nicolas Marx,18.0,Left Winger,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Gilles Leclerc,25.0,Centre-Back,Perpignan,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Philippe Mazzuchetti,25.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Nîmes Olympique,Dusan Tittel,25.0,Centre-Back,Central_EU,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+LOSC Lille,Pascal Nouma,20.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,1992,1992/1993
+LOSC Lille,José Bray,27.0,midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+LOSC Lille,Walquir Mota,24.0,attack,FC Tours,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+LOSC Lille,Edgar Borges,22.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+LOSC Lille,Samba N'Diaye,19.0,Centre-Forward,France,loan transfer,in,Summer,0.01,Ligue 1,1992,1992/1993
+Olympique Lyon,James Debbah,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Patrice Ferri,28.0,Centre-Back,SC Toulon Var,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Olympique Lyon,Éric Péan,28.0,Sweeper,SC Toulon Var,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Olympique Lyon,Laurent Delamontagne,26.0,Centre-Forward,Stade Rennais,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Olympique Lyon,Franck Gava,22.0,Left Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Olympique Lyon,Samassi Abou,19.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Olympique Lyon,Torben Frank,24.0,Centre-Forward,North_EU,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Nantes,Serge Le Dizet,28.0,Right-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Nantes,Fabien Debotté,28.0,Defensive Midfield,SM Caen,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Nantes,José Dalmao,22.0,attack,ES La Rochelle,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Montpellier,Pierre-Yves Bricon,28.0,defence,FC Sochaux,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Montpellier,Joël Fréchet,26.0,midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Montpellier,Olivier Pickeu,22.0,Centre-Forward,SM Caen,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Montpellier,Franck Rizzetto,21.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Montpellier,Aljosa Asanovic,26.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Jean-François Péron,26.0,Left Midfield,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Franck Raviot,18.0,Goalkeeper,INF Clairefontaine,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Guillaume Warmuz,22.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Didier Dubois,25.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Emmanuel Hutteau,23.0,Left-Back,Bourges,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Bernard Héréson,23.0,Right-Back,Paris SG,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,François Omam-Biyik,26.0,Centre-Forward,Marseille,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Nasko Sirakov,30.0,Centre-Forward,Central_EU,loan transfer,in,Summer,0.01,Ligue 1,1992,1992/1993
+Lens,Ryszard Tarasiewicz,30.0,Central Midfield,France,nan,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Sochaux,André Blanc,25.0,midfield,SC Toulon Var,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Sochaux,Frédéric Darras,25.0,Right-Back,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Sochaux,Patrice Garande,31.0,Centre-Forward,AC Le Havre,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Sochaux,Benjamin Clément,26.0,Defensive Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Sochaux,Bertrand Piton,21.0,Centre-Back,AS Red Star 93,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Zinédine Zidane,20.0,Attacking Midfield,France,7.00m,in,Summer,7,Ligue 1,1992,1992/1993
+G. Bordeaux,Valdeir,24.0,Second Striker,South America,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Eric Guérit,27.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Christophe Vecchioni,23.0,Left-Back,Endoume,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Michel Flos,27.0,Attacking Midfield,Endoume,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Jean-Francois Daniel,28.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Márcio Santos,22.0,Centre-Back,South America,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Philippe Lucas,28.0,Defensive Midfield,FC Sochaux,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+G. Bordeaux,Laurent Croci,27.0,Right-Back,FC Sochaux,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+R. Strasbourg,Michael Hughes,20.0,Attacking Midfield,Man City,500Th.,in,Summer,"0,5",Ligue 1,1992,1992/1993
+R. Strasbourg,Tomasz Frankowski,17.0,Centre-Forward,Central_EU,200Th.,in,Summer,"0,2",Ligue 1,1992,1992/1993
+R. Strasbourg,Martin Djetou,17.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+R. Strasbourg,Frank Farina,27.0,Centre-Forward,Italy,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+R. Strasbourg,Pascal Baills,27.0,Right-Back,Marseille,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+R. Strasbourg,Ali Bouafia,27.0,Left Winger,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+R. Strasbourg,Franck Mary,28.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Saint-Étienne,Miklos Molnar,22.0,Centre-Forward,Belgium,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Saint-Étienne,Gérald Passi,28.0,Attacking Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Saint-Étienne,Stéphane Santini,19.0,Right Midfield,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Saint-Étienne,Robin Huc,27.0,Goalkeeper,Toulouse,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Saint-Étienne,Pascal Despeyroux,27.0,Defensive Midfield,Toulouse,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Saint-Étienne,Patrick Moreau,18.0,Right-Back,RC Paris,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,George Weah,25.0,Centre-Forward,Monaco,6.50m,in,Summer,"6,5",Ligue 1,1992,1992/1993
+Paris SG,Joël Cloarec,26.0,attack,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,Bernard Lama,29.0,Goalkeeper,Lens,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,Francois Calderaro,28.0,Centre-Forward,FC Metz,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,Alain Roche,24.0,Centre-Back,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,Jean-Luc Sassus,29.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,David Ginola,25.0,Left Winger,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Paris SG,Vincent Guérin,26.0,Central Midfield,Montpellier,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SC Toulon Var,Éric Roy,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+SC Toulon Var,Daniel Xuereb,32.0,Centre-Forward,Marseille,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SC Toulon Var,Patrice Eyraud,24.0,Defensive Midfield,Marseille,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SC Toulon Var,Cédric Charlet,19.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SC Toulon Var,Pascal Danieri,16.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+SC Toulon Var,Frédéric Martin,23.0,Right-Back,France,loan transfer,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Dominique Arribagé,21.0,Centre-Back,AS Muret,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Philippe Lafon,21.0,Goalkeeper,RC Paris,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Alain Casanova,30.0,Goalkeeper,Marseille,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Éric Lada,26.0,attack,Marseille,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Serge Romano,28.0,midfield,FC Metz,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Rémy Loret,19.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Toulouse,Vaclav Nemecek,25.0,Central Midfield,Central_EU,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Robert Pirès,18.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Anthony Baffoe,27.0,midfield,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Thomas Kokkinis,20.0,Goalkeeper,AS Red Star 93,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Jean-Philippe Séchet,26.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,François Darcy,24.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Frédéric Hantz,26.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Éric Bertrand,28.0,defence,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Franck Meyrignac,21.0,defence,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Olivier Ichoua,21.0,midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,David Zitelli,23.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Metz,Mohamed Chaouch,25.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+AJ Auxerre,Moussa Saïb,23.0,Left Midfield,Africa Sports,38Th.,in,Summer,"0,038",Ligue 1,1992,1992/1993
+AJ Auxerre,Frank Verlaat,24.0,Centre-Back,Uk,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+AJ Auxerre,Lilian Laslandes,20.0,Centre-Forward,AS Saint-Seurin,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+AJ Auxerre,Thierry Bonalair,26.0,Left-Back,FC Nantes,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,Rafael Martín Vázquez,26.0,Attacking Midfield,Torino,2.16m,in,Summer,"2,16",Ligue 1,1992,1992/1993
+Marseille,Fabien Barthez,21.0,Goalkeeper,Toulouse,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,Jean-Jacques Eydelie,26.0,Defensive Midfield,FC Nantes,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,Jean-Christophe Thomas,27.0,Defensive Midfield,FC Sochaux,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,Jean-Marc Ferreri,29.0,Attacking Midfield,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,François Omam-Biyik,26.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,Marcel Desailly,23.0,Centre-Back,FC Nantes,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Marseille,Rudi Völler,32.0,Centre-Forward,AS Roma,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Monaco,Jürgen Klinsmann,27.0,Centre-Forward,Inter,7.00m,in,Summer,7,Ligue 1,1992,1992/1993
+Monaco,Sylvain Legwinski,19.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+Monaco,Denis Schaer,29.0,midfield,France,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Monaco,Luiz Henrique,23.0,Central Midfield,South America,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Monaco,Stjepan Andrijasevic,25.0,Right Midfield,Est_EU,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Monaco,Franck Dumas,24.0,Centre-Back,SM Caen,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+Monaco,Christian Perez,29.0,Attacking Midfield,Paris SG,?,in,Summer,0.01,Ligue 1,1992,1992/1993
+FC Sochaux,Pavlo Yakovenko,27.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,1992,1992/1993
+Marseille,Igor Dobrovolski,25.0,Attacking Midfield,Genoa,?,in,Winter,0.01,Ligue 1,1992,1992/1993
+Saarbrücken,Thomas Stratos,25.0,Defensive Midfield,Hamburger SV,150Th.,in,Summer,"0,15",1 Bundesliga,1992,1992/1993
+Saarbrücken,Matthias Lust,22.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Saarbrücken,Henning Bürger,22.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Saarbrücken,Michael Hennig,20.0,midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Saarbrücken,Malik Badji,24.0,defence,France,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Patrick Klyk,16.0,midfield,FV 08 Püttlingen,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Stephan Beckenbauer,23.0,Defensive Midfield,Central_EU,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Ralf Scherer,28.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Arno Glesius,26.0,Centre-Forward,Karlsruher SC,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Wolfram Wuttke,30.0,Second Striker,Spain,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Yuri Savichev,27.0,Centre-Forward,Central_EU,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Eric Wynalda,23.0,Centre-Forward,SF Bay Blackhawks,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Saarbrücken,Thomas Stickroth,27.0,Right-Back,Uk,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Wattenscheid,Marek Lesniak,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Wattenscheid,Guido Silberbach,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Wattenscheid,Karel Kula,28.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Wattenscheid,Thomas Audehm,25.0,defence,Unknown,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bay. Uerdingen,Dirk Bremser,26.0,Right Midfield,Germany,375Th.,in,Summer,"0,375",1 Bundesliga,1992,1992/1993
+Bay. Uerdingen,Mario Posch,24.0,Right-Back,Central_EU,300Th.,in,Summer,"0,3",1 Bundesliga,1992,1992/1993
+Bay. Uerdingen,Markus Kranz,22.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bay. Uerdingen,Zeljko Dakic,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bay. Uerdingen,Sergey Gorlukovich,30.0,Centre-Back,Bor. Dortmund,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Werder Bremen,Andreas Herzog,23.0,Attacking Midfield,Central_EU,1.50m,in,Summer,"1,5",1 Bundesliga,1992,1992/1993
+Werder Bremen,Dietmar Beiersdorfer,28.0,Centre-Back,Hamburger SV,1.00m,in,Summer,1,1 Bundesliga,1992,1992/1993
+Werder Bremen,Hans-Jürgen Gundelach,28.0,Goalkeeper,Germany,175Th.,in,Summer,"0,175",1 Bundesliga,1992,1992/1993
+VfL Bochum,Dimitrios Moutas,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+VfL Bochum,Sven Christians,25.0,defence,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+VfB Stuttgart,André Golke,27.0,Attacking Midfield,1.FC Nuremberg,1.25m,in,Summer,"1,25",1 Bundesliga,1992,1992/1993
+VfB Stuttgart,Thomas Strunz,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+VfB Stuttgart,Adrian Knup,23.0,Centre-Forward,Uk,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Karlsruher SC,Manfred Bender,26.0,Attacking Midfield,Bayern Munich,700Th.,in,Summer,"0,7",1 Bundesliga,1992,1992/1993
+Karlsruher SC,Sergey Kiryakov,22.0,Centre-Forward,Russia,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Karlsruher SC,Richard Benigno,24.0,midfield,Unknown,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Karlsruher SC,Markus Gehrig,18.0,midfield,FC Dossenheim,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Karlsruher SC,Javier Sanchez,19.0,midfield,Unknown,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Karlsruher SC,Dirk Klinge,26.0,Defensive Midfield,Uk,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Hamburger SV,Yordan Lechkov,24.0,Attacking Midfield,Central_EU,450Th.,in,Summer,"0,45",1 Bundesliga,1992,1992/1993
+Hamburger SV,Pavel Dotchev,26.0,Sweeper,Central_EU,200Th.,in,Summer,"0,2",1 Bundesliga,1992,1992/1993
+Hamburger SV,Karsten Bäron,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Hamburger SV,Thomas Lässig,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Hamburger SV,Oliver Möller,23.0,midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Hamburger SV,Marinus Bester,23.0,Centre-Forward,Werder Bremen,loan transfer,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Hamburger SV,Markus Babbel,19.0,Centre-Back,Bayern Munich,loan transfer,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Hamburger SV,Uwe Bormann,22.0,midfield,VfR Langelsheim,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Hamburger SV,Peter Woodring,24.0,Centre-Forward,SV Wehen,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Hamburger SV,Florian Weichert,24.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Hamburger SV,Michael Spies,26.0,Attacking Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+FC Schalke 04,Antoine Hey,21.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+FC Schalke 04,Thomas Linke,22.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+FC Schalke 04,Mike Büskens,24.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+FC Schalke 04,Gerald Hillringhaus,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+FC Schalke 04,Martin Spanring,22.0,Centre-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+FC Schalke 04,Uwe Scherr,25.0,Right Midfield,1.FC K'lautern,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bayern Munich,Thomas Helmer,27.0,Centre-Back,Bor. Dortmund,3.75m,in,Summer,"3,75",1 Bundesliga,1992,1992/1993
+Bayern Munich,Jorginho,27.0,Right-Back,Bay. Leverkusen,2.80m,in,Summer,"2,8",1 Bundesliga,1992,1992/1993
+Bayern Munich,Mehmet Scholl,21.0,Attacking Midfield,Karlsruher SC,2.50m,in,Summer,"2,5",1 Bundesliga,1992,1992/1993
+Bayern Munich,Lothar Matthäus,31.0,Defensive Midfield,Inter,2.00m,in,Summer,2,1 Bundesliga,1992,1992/1993
+Bayern Munich,Markus Schupp,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bayern Munich,Dieter Frey,19.0,Right-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+E. Frankfurt,Marek Penksa,18.0,Right Winger,Central_EU,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+E. Frankfurt,Uwe Rahn,30.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+E. Frankfurt,Rudi Bommer,34.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. M'gladbach,Dimo Wache,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bor. M'gladbach,Stefan Ertl,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bor. M'gladbach,Peter Nielsen,24.0,Attacking Midfield,North_EU,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. M'gladbach,Christian Hock,22.0,Left Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. M'gladbach,Johnny Mölby,23.0,Central Midfield,FC Nantes,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. Dortmund,Stefan Reuter,25.0,Right Midfield,Juventus,2.10m,in,Summer,"2,1",1 Bundesliga,1992,1992/1993
+Bor. Dortmund,René Tretschok,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bor. Dortmund,Ned Zelic,20.0,Defensive Midfield,Sydney Olympic,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. Dortmund,Lothar Sippel,27.0,Centre-Forward,E. Frankfurt,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. Dortmund,Christof Osigus,19.0,Goalkeeper,FC Schalke 04,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bor. Dortmund,Stefan Thiele,18.0,attack,FC Schalke 04,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bay. Leverkusen,Pavel Hapal,22.0,Attacking Midfield,Central_EU,1.25m,in,Summer,"1,25",1 Bundesliga,1992,1992/1993
+Bay. Leverkusen,Heiko Scholz,26.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Bay. Leverkusen,Mario Tolkmitt,21.0,Left Midfield,FC Berlin,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Bay. Leverkusen,Guido Hoffmann,26.0,Attacking Midfield,1.FC K'lautern,loan transfer,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+1.FC Nuremberg,Percy Olivares,24.0,Left-Back,South America,750Th.,in,Summer,"0,75",1 Bundesliga,1992,1992/1993
+1.FC Nuremberg,Uwe Rösler,23.0,Centre-Forward,Dynamo Dresden,600Th.,in,Summer,"0,6",1 Bundesliga,1992,1992/1993
+1.FC Nuremberg,Jürgen Kramny,20.0,Right Midfield,VfB Stuttgart,loan transfer,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+1.FC Nuremberg,Thomas Weissenberger,21.0,Right Winger,Central_EU,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+1.FC Nuremberg,Sergio Bustos,19.0,Attacking Midfield,South America,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+1. FC Köln,Kim Christofte,31.0,Left-Back,North_EU,135Th.,in,Summer,"0,135",1 Bundesliga,1992,1992/1993
+1. FC Köln,Dirk Lehmann,20.0,Attacking Midfield,Germany,15Th.,in,Summer,"0,015",1 Bundesliga,1992,1992/1993
+1. FC Köln,Roger Nilsen,22.0,Centre-Back,North_EU,loan transfer,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+1.FC K'lautern,Marcus Marin,25.0,Centre-Forward,Germany,720Th.,in,Summer,"0,72",1 Bundesliga,1992,1992/1993
+1.FC K'lautern,Martin Wagner,24.0,Left Midfield,1.FC Nuremberg,500Th.,in,Summer,"0,5",1 Bundesliga,1992,1992/1993
+1.FC K'lautern,Thomas Hengen,17.0,Sweeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+1.FC K'lautern,Thomas Ritter,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+1.FC K'lautern,Michael Zeyer,24.0,Central Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+1.FC K'lautern,Jan Eriksson,24.0,Centre-Back,North_EU,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Vladan Milovanovic,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Miroslav Stevic,22.0,Defensive Midfield,Uk,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Thomas Köhler,25.0,Goalkeeper,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Thomas Rath,21.0,Attacking Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,René Beuchel,18.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Wolfram Wagner,20.0,midfield,Unknown,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Nils Schmäler,22.0,Sweeper,VfB Stuttgart,?,in,Summer,0.01,1 Bundesliga,1992,1992/1993
+Dynamo Dresden,Nikica Maglica,27.0,attack,Est_EU,?,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+Wattenscheid,Günter Hermann,31.0,Defensive Midfield,Werder Bremen,?,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+Werder Bremen,Bernd Hobsch,24.0,Centre-Forward,VfB Leipzig,1.25m,in,Winter,"1,25",1 Bundesliga,1992,1992/1993
+VfL Bochum,Volodymyr Lyutyi,30.0,Centre-Forward,Turkey,?,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+VfL Bochum,Holger Aden,27.0,attack,Germany,?,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+Karlsruher SC,Christian Flindt Bjerg,18.0,Central Midfield,North_EU,?,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+E. Frankfurt,Dariusz Adamczuk,23.0,Defensive Midfield,Central_EU,375Th.,in,Winter,"0,375",1 Bundesliga,1992,1992/1993
+E. Frankfurt,Kakhaber Tskhadadze,24.0,Centre-Back,Russia,?,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+Bor. Dortmund,Matthias Sammer,25.0,Sweeper,Inter,4.25m,in,Winter,"4,25",1 Bundesliga,1992,1992/1993
+1.FC Nuremberg,Manfred Schwabl,26.0,Defensive Midfield,Bayern Munich,loan transfer,in,Winter,0.01,1 Bundesliga,1992,1992/1993
+1. FC Köln,Andrzej Kobylanski,22.0,Left Midfield,Central_EU,300Th.,in,Winter,"0,3",1 Bundesliga,1992,1992/1993
+Middlesbrough,Tommy Wright,26.0,Left Winger,Uk,910Th.,in,Summer,"0,91",Premier League,1992,1992/1993
+Middlesbrough,Jonathan Gittens,28.0,defence,Southampton,250Th.,in,Summer,"0,25",Premier League,1992,1992/1993
+Middlesbrough,Chris Morris,28.0,Right-Back,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Norwich,Mark Robins,22.0,Centre-Forward,Man Utd,1.00m,in,Summer,1,Premier League,1992,1992/1993
+Norwich,Gary Megson,33.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Norwich,Mark Peters,19.0,defence,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Oldham Athletic,Ian Olney,22.0,Centre-Forward,Aston Villa,894Th.,in,Summer,"0,894",Premier League,1992,1992/1993
+Oldham Athletic,Neil Pointon,27.0,Left-Back,Man City,675Th.,in,Summer,"0,675",Premier League,1992,1992/1993
+Oldham Athletic,Steve Redmond,24.0,Centre-Back,Man City,450Th.,in,Summer,"0,45",Premier League,1992,1992/1993
+Sheff Wed,Mark Bright,30.0,Centre-Forward,Crystal Palace,1.70m,in,Summer,"1,7",Premier League,1992,1992/1993
+Sheff Wed,Chris Waddle,31.0,Attacking Midfield,Marseille,1.50m,in,Summer,"1,5",Premier League,1992,1992/1993
+Wimbledon FC,Dean Holdsworth,23.0,Centre-Forward,Uk,1.00m,in,Summer,1,Premier League,1992,1992/1993
+Wimbledon FC,Vinnie Jones,27.0,Defensive Midfield,Chelsea,830Th.,in,Summer,"0,83",Premier League,1992,1992/1993
+Wimbledon FC,Greg Berry,21.0,midfield,Uk,313Th.,in,Summer,"0,313",Premier League,1992,1992/1993
+Wimbledon FC,Peter Fear,18.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1992,1992/1993
+Wimbledon FC,Timothy Alexander,18.0,Centre-Back,Unknown,?,in,Summer,0.01,Premier League,1992,1992/1993
+Wimbledon FC,Alan McLeary,28.0,defence,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Coventry,Phil Babb,21.0,Centre-Back,Uk,735Th.,in,Summer,"0,735",Premier League,1992,1992/1993
+Coventry,John Williams,24.0,Centre-Forward,Uk,300Th.,in,Summer,"0,3",Premier League,1992,1992/1993
+Coventry,Jonathan Gould,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Coventry,David Busst,25.0,defence,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Coventry,Paul Williams,29.0,attack,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Man Utd,Dion Dublin,23.0,Centre-Forward,Uk,1.50m,in,Summer,"1,5",Premier League,1992,1992/1993
+Man Utd,Pat McGibbon,18.0,Centre-Back,Uk,225Th.,in,Summer,"0,225",Premier League,1992,1992/1993
+Man Utd,Andy Arnott,18.0,Defensive Midfield,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Crystal Palace,Chris Armstrong,21.0,Centre-Forward,Uk,1.00m,in,Summer,1,Premier League,1992,1992/1993
+Crystal Palace,Darren Patterson,22.0,Right-Back,Uk,340Th.,in,Summer,"0,34",Premier League,1992,1992/1993
+Crystal Palace,Paul Williams,27.0,attack,Sheff Wed,?,in,Summer,0.01,Premier League,1992,1992/1993
+Crystal Palace,Paul Heald,23.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Nottm Forest,Neil Webb,28.0,Central Midfield,Man Utd,925Th.,in,Summer,"0,925",Premier League,1992,1992/1993
+Nottm Forest,Gary Bannister,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Nottm Forest,Ray McKinnon,21.0,midfield,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Nottm Forest,Steve Blatherwick,18.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Ipswich,Geraint Williams,30.0,Defensive Midfield,Uk,750Th.,in,Summer,"0,75",Premier League,1992,1992/1993
+Ipswich,Clive Baker,33.0,Goalkeeper,Coventry,?,in,Summer,0.01,Premier League,1992,1992/1993
+Ipswich,Jason Winters,20.0,Goalkeeper,Chelsea,?,in,Summer,0.01,Premier League,1992,1992/1993
+Ipswich,Vlado Bozinoski,28.0,Central Midfield,Portugal,?,in,Summer,0.01,Premier League,1992,1992/1993
+Arsenal,John Jensen,27.0,Central Midfield,North_EU,1.60m,in,Summer,"1,6",Premier League,1992,1992/1993
+Chelsea,Nigel Spackman,31.0,Central Midfield,Uk,600Th.,in,Summer,"0,6",Premier League,1992,1992/1993
+Chelsea,Anthony Barness,19.0,Right-Back,Uk,525Th.,in,Summer,"0,525",Premier League,1992,1992/1993
+Chelsea,David Hopkin,22.0,Right Midfield,Uk,450Th.,in,Summer,"0,45",Premier League,1992,1992/1993
+Chelsea,Mick Harford,33.0,Centre-Forward,Uk,350Th.,in,Summer,"0,35",Premier League,1992,1992/1993
+Chelsea,Mal Donaghy,34.0,Left-Back,Man Utd,200Th.,in,Summer,"0,2",Premier League,1992,1992/1993
+Chelsea,John Spencer,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Chelsea,Alec Chamberlain,28.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Chelsea,Robert Fleck,26.0,Centre-Forward,Norwich,?,in,Summer,0.01,Premier League,1992,1992/1993
+Chelsea,Nick Colgan,18.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Aston Villa,Dean Saunders,28.0,Centre-Forward,Uk,2.85m,in,Summer,"2,85",Premier League,1992,1992/1993
+Aston Villa,Ray Houghton,30.0,Central Midfield,Uk,1.08m,in,Summer,"1,08",Premier League,1992,1992/1993
+Aston Villa,Gareth Farrelly,16.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,1992,1992/1993
+Aston Villa,Frank McAvennie,32.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Leeds,David Rocastle,25.0,Attacking Midfield,Arsenal,2.40m,in,Summer,"2,4",Premier League,1992,1992/1993
+Leeds,Kevin Sharp,18.0,Left-Back,AJ Auxerre,90Th.,in,Summer,"0,09",Premier League,1992,1992/1993
+Leeds,Scott Sellars,26.0,Left Midfield,Blackburn,?,in,Summer,0.01,Premier League,1992,1992/1993
+Leeds,Jamie Forrester,17.0,Left Winger,France,?,in,Summer,0.01,Premier League,1992,1992/1993
+Sheff Utd,Alan Kelly,23.0,Goalkeeper,Uk,210Th.,in,Summer,"0,21",Premier League,1992,1992/1993
+Sheff Utd,Alan McLeary,27.0,defence,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Sheff Utd,Andy Scott,19.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Man City,Rick Holden,27.0,Left Midfield,Oldham Athletic,?,in,Summer,0.01,Premier League,1992,1992/1993
+Man City,Terry Phelan,25.0,Left-Back,Wimbledon FC,?,in,Summer,0.01,Premier League,1992,1992/1993
+Southampton,Perry Groves,27.0,Left Winger,Arsenal,850Th.,in,Summer,"0,85",Premier League,1992,1992/1993
+Southampton,Ken Monkou,27.0,Centre-Back,Chelsea,844Th.,in,Summer,"0,844",Premier League,1992,1992/1993
+Southampton,Kerry Dixon,30.0,Centre-Forward,Chelsea,650Th.,in,Summer,"0,65",Premier League,1992,1992/1993
+Southampton,David Speedie,32.0,Centre-Forward,Blackburn,600Th.,in,Summer,"0,6",Premier League,1992,1992/1993
+Southampton,Paul Sheerin,17.0,Left Midfield,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Southampton,Paul McDonald,25.0,Left-Back,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Blackburn,Alan Shearer,21.0,Centre-Forward,Southampton,4.50m,in,Summer,"4,5",Premier League,1992,1992/1993
+Blackburn,Stuart Ripley,24.0,Right Winger,Middlesbrough,2.00m,in,Summer,2,Premier League,1992,1992/1993
+Blackburn,Tim Sherwood,23.0,Central Midfield,Norwich,750Th.,in,Summer,"0,75",Premier League,1992,1992/1993
+Blackburn,Patrik Andersson,20.0,Centre-Back,North_EU,500Th.,in,Summer,"0,5",Premier League,1992,1992/1993
+Blackburn,Lee Makel,19.0,Attacking Midfield,Uk,240Th.,in,Summer,"0,24",Premier League,1992,1992/1993
+Blackburn,Wayne Burnett,20.0,midfield,Uk,96Th.,in,Summer,"0,096",Premier League,1992,1992/1993
+Blackburn,Frank Talia,20.0,Goalkeeper,Caroline Spring,?,in,Summer,0.01,Premier League,1992,1992/1993
+Blackburn,Nicky Marker,27.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Blackburn,Mickey Evans,19.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,1992,1992/1993
+Spurs,Teddy Sheringham,26.0,Centre-Forward,Nottm Forest,3.15m,in,Summer,"3,15",Premier League,1992,1992/1993
+Spurs,Darren Anderton,20.0,Right Midfield,Uk,2.70m,in,Summer,"2,7",Premier League,1992,1992/1993
+Spurs,Jason Cundy,22.0,Centre-Back,Chelsea,875Th.,in,Summer,"0,875",Premier League,1992,1992/1993
+Spurs,Neil Ruddock,24.0,Centre-Back,Southampton,850Th.,in,Summer,"0,85",Premier League,1992,1992/1993
+Spurs,Dean Austin,22.0,Right-Back,Uk,?,in,Summer,0.01,Premier League,1992,1992/1993
+Liverpool FC,Paul Stewart,27.0,Defensive Midfield,Spurs,2.75m,in,Summer,"2,75",Premier League,1992,1992/1993
+Liverpool FC,David James,21.0,Goalkeeper,Uk,1.40m,in,Summer,"1,4",Premier League,1992,1992/1993
+Liverpool FC,Torben Piechnik,29.0,Centre-Back,North_EU,?,in,Summer,0.01,Premier League,1992,1992/1993
+Everton,Paul Rideout,28.0,Centre-Forward,Uk,583Th.,in,Summer,"0,583",Premier League,1992,1992/1993
+Everton,Preki,29.0,Attacking Midfield,Storm,120Th.,in,Summer,"0,12",Premier League,1992,1992/1993
+Everton,Barry Horne,30.0,Defensive Midfield,Southampton,?,in,Summer,0.01,Premier League,1992,1992/1993
+Middlesbrough,Derek Whyte,24.0,Centre-Back,Uk,1.25m,in,Winter,"1,25",Premier League,1992,1992/1993
+Middlesbrough,Craig Hignett,22.0,Right Winger,Uk,750Th.,in,Winter,"0,75",Premier League,1992,1992/1993
+Middlesbrough,Dwight Marshall,27.0,attack,Uk,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Middlesbrough,Chris Kamara,35.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Middlesbrough,Richard Liburd,19.0,defence,Eastwood Town,24Th.,in,Winter,"0,024",Premier League,1992,1992/1993
+Norwich,Efan Ekoku,25.0,Centre-Forward,Uk,?,in,Winter,0.01,Premier League,1992,1992/1993
+Oldham Athletic,Darren Beckford,25.0,Centre-Forward,Norwich,330Th.,in,Winter,"0,33",Premier League,1992,1992/1993
+Oldham Athletic,Mark Brennan,27.0,Central Midfield,Man City,222Th.,in,Winter,"0,222",Premier League,1992,1992/1993
+Oldham Athletic,Orpheo Keizerweerd,24.0,Centre-Forward,France,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+QPR,Devon White,28.0,attack,Uk,126Th.,in,Winter,"0,126",Premier League,1992,1992/1993
+QPR,Tony Witter,28.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Wimbledon FC,Perry Digweed,33.0,Goalkeeper,Uk,?,in,Winter,0.01,Premier League,1992,1992/1993
+Coventry,Micky Quinn,30.0,Centre-Forward,Uk,300Th.,in,Winter,"0,3",Premier League,1992,1992/1993
+Coventry,David Rennie,28.0,Defensive Midfield,Uk,120Th.,in,Winter,"0,12",Premier League,1992,1992/1993
+Coventry,Roy Wegerle,28.0,attack,Blackburn,?,in,Winter,0.01,Premier League,1992,1992/1993
+Man Utd,Eric Cantona,26.0,Second Striker,Leeds,1.80m,in,Winter,"1,8",Premier League,1992,1992/1993
+Man Utd,Les Sealey,35.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1992,1992/1993
+Man Utd,Fraser Digby,25.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Crystal Palace,Neil Sullivan,23.0,Goalkeeper,Wimbledon FC,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Crystal Palace,Louie Donowa,28.0,Central Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Nottm Forest,Robert Rosario,26.0,attack,Coventry,485Th.,in,Winter,"0,485",Premier League,1992,1992/1993
+Ipswich,Boncho Genchev,28.0,Attacking Midfield,Sporting CP,?,in,Winter,0.01,Premier League,1992,1992/1993
+Arsenal,Martin Keown,26.0,Centre-Back,Everton,3.00m,in,Winter,3,Premier League,1992,1992/1993
+Chelsea,Dmitri Kharin,24.0,Goalkeeper,Russia,400Th.,in,Winter,"0,4",Premier League,1992,1992/1993
+Chelsea,Steve Livingstone,23.0,Centre-Forward,Blackburn,400Th.,in,Winter,"0,4",Premier League,1992,1992/1993
+Chelsea,Gerry Peyton,36.0,Goalkeeper,Everton,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Aston Villa,Henrik Larsen,26.0,Attacking Midfield,North_EU,?,in,Winter,0.01,Premier League,1992,1992/1993
+Leeds,David Kerslake,26.0,Right-Back,Uk,625Th.,in,Winter,"0,625",Premier League,1992,1992/1993
+Leeds,Mark Andrew Beeney,25.0,Goalkeeper,Uk,350Th.,in,Winter,"0,35",Premier League,1992,1992/1993
+Leeds,Frank Strandli,20.0,Centre-Forward,North_EU,350Th.,in,Winter,"0,35",Premier League,1992,1992/1993
+Sheff Utd,Franz Carr,26.0,Right Winger,Uk,150Th.,in,Winter,"0,15",Premier League,1992,1992/1993
+Sheff Utd,Chris Kamara,34.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,1992,1992/1993
+Sheff Utd,Jim Leighton,34.0,Goalkeeper,Uk,?,in,Winter,0.01,Premier League,1992,1992/1993
+Man City,Ray Ranson,32.0,Right-Back,free agents,free transfer,in,Winter,0,Premier League,1992,1992/1993
+Man City,Kare Ingebrigtsen,27.0,Defensive Midfield,North_EU,?,in,Winter,0.01,Premier League,1992,1992/1993
+Southampton,Frankie Bennett,24.0,Centre-Forward,Halesowen,9Th.,in,Winter,"0,009",Premier League,1992,1992/1993
+Blackburn,Graeme Le Saux,24.0,Left-Back,Chelsea,1.05m,in,Winter,"1,05",Premier League,1992,1992/1993
+Blackburn,Henning Berg,23.0,Right-Back,North_EU,550Th.,in,Winter,"0,55",Premier League,1992,1992/1993
+Blackburn,Simon Ireland,20.0,midfield,Uk,252Th.,in,Winter,"0,252",Premier League,1992,1992/1993
+Liverpool FC,Stig Inge Björnebye,23.0,Left-Back,North_EU,?,in,Winter,0.01,Premier League,1992,1992/1993
+Cádiz CF,Igor Stimac,24.0,Centre-Back,Est_EU,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Cádiz CF,Quino,21.0,attack,CD Málaga,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Cádiz CF,Feliciano Casanova,26.0,defence,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Real Oviedo,Cristóbal Parralo,24.0,Right-Back,Barcelona,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Sporting Gijón,Emilio Gutiérrez,21.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Sporting Gijón,Jose Maria Cela,22.0,attack,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Sporting Gijón,Darío Óscar Scotto,22.0,Centre-Forward,South America,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Antônio Carlos Zago,23.0,Centre-Back,South America,840Th.,in,Summer,"0,84",Primera Division,1992,1992/1993
+Albacete,Antonio Pinilla,21.0,Left Winger,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Pedro Cordero,23.0,midfield,Cartagena FC,36Th.,in,Summer,"0,036",Primera Division,1992,1992/1993
+Albacete,Francisco Oliete,21.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Delfí Geli,23.0,Right-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Raúl dos Santos,25.0,attack,South America,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Armando Tejera,24.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Miguel Bossio,32.0,midfield,CE Sabadell,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Jesús Unanua,23.0,Goalkeeper,CA Osasuna,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Albacete,Rommel Fernández,,attack,Valencia,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Valencia,Miodrag Belodedici,28.0,Sweeper,Central_EU,1.68m,in,Summer,"1,68",Primera Division,1992,1992/1993
+Valencia,Gaizka Mendieta,18.0,Right Midfield,CD Castellón,180Th.,in,Summer,"0,18",Primera Division,1992,1992/1993
+Valencia,Álvaro Cervera,26.0,attack,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Valencia,José González,27.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Santiago Cañizares,22.0,Goalkeeper,Real Madrid,Loan fee:343Th.,in,Summer,"0,343",Primera Division,1992,1992/1993
+Celta de Vigo,Ismael Urzaiz,20.0,Centre-Forward,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Patxi Salinas,28.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Vicente Engonga,26.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Milos Bursac,27.0,Centre-Forward,Olympique Lyon,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Alejo Indias,25.0,Centre-Back,UE Figueres,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Milorad Ratkovic,27.0,Left Midfield,Central_EU,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Celta de Vigo,Tito Vilanova,23.0,midfield,UE Figueres,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Dep. La Coruña,Mauro Silva,24.0,Defensive Midfield,South America,1.60m,in,Summer,"1,6",Primera Division,1992,1992/1993
+Dep. La Coruña,Bebeto,28.0,Centre-Forward,Portugal,700Th.,in,Summer,"0,7",Primera Division,1992,1992/1993
+Dep. La Coruña,Adolfo Aldana,26.0,Right Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Dep. La Coruña,Ramón,28.0,Centre-Forward,Sevilla FC,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Dep. La Coruña,Atanas Kirov,22.0,Attacking Midfield,CD Málaga,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Dep. La Coruña,Nando,25.0,defence,Valencia,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Dep. La Coruña,Juanito,22.0,Right Winger,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+RCD Espanyol Barcelona,Goyo Fonseca,26.0,attack,Spain,1.20m,in,Summer,"1,2",Primera Division,1992,1992/1993
+RCD Espanyol Barcelona,Juan José Elgezabal,28.0,Central Midfield,CD Logroñés,?,in,Summer,0.01,Primera Division,1992,1992/1993
+RCD Espanyol Barcelona,Santi Cuesta,20.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+RCD Espanyol Barcelona,Enrique Ayucar,26.0,midfield,Real Burgos CF,?,in,Summer,0.01,Primera Division,1992,1992/1993
+RCD Espanyol Barcelona,Emilio Isierte,28.0,Goalkeeper,Sporting Gijón,loan transfer,in,Summer,0.01,Primera Division,1992,1992/1993
+Atlético Madrid,Luis García,23.0,attack,North America,720Th.,in,Summer,"0,72",Primera Division,1992,1992/1993
+Atlético Madrid,Tilico,27.0,attack,South America,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Tenerife,Chemo del Solar,24.0,Central Midfield,South America,1.10m,in,Summer,"1,1",Primera Division,1992,1992/1993
+CD Tenerife,José Manuel Ochotorena,31.0,Goalkeeper,Valencia,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Tenerife,César Gómez,24.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Tenerife,Alexis Trujillo,26.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Tenerife,Ezequiel Castillo,25.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Real Madrid,Iván Zamorano,25.0,Centre-Forward,Sevilla FC,3.50m,in,Summer,"3,5",Primera Division,1992,1992/1993
+Real Madrid,Nando,24.0,Centre-Back,Sevilla FC,3.00m,in,Summer,3,Primera Division,1992,1992/1993
+Sevilla FC,Diego Maradona,31.0,Attacking Midfield,Ban,5.70m,in,Summer,"5,7",Primera Division,1992,1992/1993
+Sevilla FC,Ricardo Bango,23.0,midfield,Real Oviedo,1.20m,in,Summer,"1,2",Primera Division,1992,1992/1993
+Sevilla FC,Diego Simeone,22.0,Central Midfield,Italy,1.05m,in,Summer,"1,05",Primera Division,1992,1992/1993
+Sevilla FC,Sebastián Losada,24.0,attack,Atlético Madrid,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Toni Polster,28.0,Centre-Forward,CD Logroñés,1.20m,in,Summer,"1,2",Primera Division,1992,1992/1993
+Rayo Vallecano,Paco Jémez,22.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Manuel Momparlet,25.0,Centre-Back,Atl. Marbella,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Javi García,22.0,attack,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Toni Jiménez,21.0,Goalkeeper,Barcelona C,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Josip Visnjic,25.0,Defensive Midfield,CP Mérida,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Pablo Gómez,22.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Rayo Vallecano,Pizo Gómez,28.0,midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,1992,1992/1993
+CA Osasuna,Roman Kosecki,26.0,Centre-Forward,Turkey,800Th.,in,Summer,"0,8",Primera Division,1992,1992/1993
+CA Osasuna,Patxi Iru,29.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CA Osasuna,Javi Sánchez Jara,22.0,Right-Back,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Logroñés,Oleg Salenko,22.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Logroñés,Marcelo Vega,20.0,Attacking Midfield,South America,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Logroñés,Amarildo,27.0,attack,Famalicão,?,in,Summer,0.01,Primera Division,1992,1992/1993
+CD Logroñés,Francisco Antón,24.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Real Zaragoza,Andreas Brehme,31.0,Left-Back,Inter,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Real Zaragoza,José Ramón Bermell,30.0,Goalkeeper,Cádiz CF,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Real Zaragoza,Sergi López,24.0,Left-Back,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1992,1992/1993
+Barcelona,Pablo Alfaro,23.0,Centre-Back,Real Zaragoza,1.50m,in,Summer,"1,5",Primera Division,1992,1992/1993
+Barcelona,Goran Vucevic,21.0,Central Midfield,Est_EU,500Th.,in,Summer,"0,5",Primera Division,1992,1992/1993
+Barcelona,Quique Estebaranz,26.0,Centre-Forward,CD Tenerife,?,in,Summer,0.01,Primera Division,1992,1992/1993
+Sporting Gijón,Thomas Christiansen,19.0,Centre-Forward,Spain,loan transfer,in,Winter,0.01,Primera Division,1992,1992/1993
+Albacete,Nenad Bjelica,21.0,Central Midfield,Est_EU,?,in,Winter,0.01,Primera Division,1992,1992/1993
+Dep. La Coruña,Ricardo Serna,28.0,Centre-Back,Barcelona,?,in,Winter,0.01,Primera Division,1992,1992/1993
+RCD Espanyol Barcelona,Jordi Lardín,19.0,Left Winger,CE Sabadell,18Th.,in,Winter,"0,018",Primera Division,1992,1992/1993
+Atlético Madrid,Vladan Lukic,22.0,Centre-Forward,Central_EU,?,in,Winter,0.01,Primera Division,1992,1992/1993
+Atlético Madrid,José Luis Villarreal,26.0,Defensive Midfield,South America,?,in,Winter,0.01,Primera Division,1992,1992/1993
+CD Tenerife,Diego Latorre,23.0,Second Striker,Fiorentina,1.00m,in,Winter,1,Primera Division,1992,1992/1993
+Rayo Vallecano,Andoni Ayarza,27.0,defence,Spain,?,in,Winter,0.01,Primera Division,1992,1992/1993
+CD Logroñés,Víctor Torres Mestre,22.0,Left-Back,Spain,?,in,Winter,0.01,Primera Division,1992,1992/1993
+Real Zaragoza,Santi Aragón,24.0,Central Midfield,Real Madrid,360Th.,in,Winter,"0,36",Primera Division,1992,1992/1993
+FC Porto,Rui Jorge,19.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+FC Porto,Paulinho Santos,21.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+FC Porto,Antônio Carlos,28.0,Central Midfield,North America,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+FC Porto,Paulinho McLaren,22.0,attack,South America,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,João Pinto,20.0,Second Striker,Boavista,2.50m,in,Summer,"2,5",Liga Nos,1992,1992/1993
+Benfica,Luis Mariano,23.0,Central Midfield,Estoril Praia,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,Carlos Mozer,31.0,Centre-Back,Marseille,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,Sergey Yuran,23.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,Mário Jorge,22.0,Central Midfield,Estoril Praia,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,Fernando Mendes,25.0,Left-Back,Boavista,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,Hélder Cristóvão,21.0,Centre-Back,Estoril Praia,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Benfica,Pedro Roma,21.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Andrzej Juskowiak,21.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Carlos Jorge,25.0,Centre-Back,Marítimo,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Stan Valckx,28.0,Centre-Back,PSV Eindhoven,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Luís Manuel,21.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Pedro Barny,25.0,Centre-Back,Boavista,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Bilro,21.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Nuno Capucho,20.0,Right Winger,Gil Vicente,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Erwin Sánchez,22.0,Attacking Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Mateus,26.0,Attacking Midfield,Ferroviário,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Tozé,23.0,Centre-Forward,Sporting CP,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Zoran Lemajic,31.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Jaime Alves,27.0,Right-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,António Caetano,25.0,Left-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Pedro Venâncio,28.0,Centre-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Artur Oliveira,22.0,Second Striker,South America,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Litos,25.0,Attacking Midfield,Sporting CP,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Jojó,21.0,Central Midfield,Ferroviário,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Boavista,Rui Bento,20.0,Defensive Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Christian,17.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+Marítimo,Paulo Alves,22.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Bizarro,22.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Pedro Valido,22.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Cuca,20.0,Goalkeeper,Musgueira,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Soeiro,26.0,Centre-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Humberto Silva Nascimento,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Marítimo,Jorge Andrade,29.0,Second Striker,FC Porto,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Farense,Barrigana,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+SC Farense,Hassan Nader,26.0,Centre-Forward,Spain,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Farense,Hélder Baptista,20.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Farense,Armando dos Santos,27.0,attack,Gil Vicente,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Farense,Zé Carlos,30.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+CF Os Belenenses,Djamel Menad,31.0,Centre-Forward,Famalicão,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+CF Os Belenenses,Erik Tammer,23.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+CF Os Belenenses,Mauro Soares,23.0,Defensive Midfield,Unknown,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Dacroce,24.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+SC Beira-Mar,Carlos André,20.0,Central Midfield,Estoril Praia,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Aleksandar Krstic,30.0,Centre-Forward,France,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Acácio,33.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Helcinho,22.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Manuel Cabral,,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Marko Nenezic,28.0,midfield,France,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Marquinhos,28.0,midfield,Famalicão,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Eliseu,23.0,Centre-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Beira-Mar,Júlio,23.0,attack,Unknown,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Gil Vicente,Ljubinko Drulovic,23.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+Gil Vicente,Nando,29.0,defence,SC Braga,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Gil Vicente,Peter Hinds,30.0,attack,Marítimo,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Gil Vicente,Menayane Tueba,29.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Gil Vicente,Marcelo,22.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Gil Vicente,Hugo Costa,18.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Tulipa,19.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Luís Sobrinho,31.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Carlos Pinto,19.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Melo,29.0,midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Antonio Miranda,26.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Valtinho,25.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Carlos Padrão,32.0,Goalkeeper,FC Porto,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Paços Ferreira,Miguel Bruno,20.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,Dimas,23.0,Left-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,Quim Berto,20.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,Paulo Pereira,26.0,Right-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,João Oliveira Pinto,20.0,Right Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,Dane Kupreanin,25.0,Attacking Midfield,Famalicão,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,José Lima,25.0,Left Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Vit. Guimarães,Tanta,27.0,defence,Famalicão,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Luíz Fernando,20.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Armando,21.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Toni,25.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Zé Nuno,22.0,Right-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Eugénio,25.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Jorge Ferreira,26.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Artur Jorge,20.0,Centre-Back,Unknown,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Kiki,30.0,Attacking Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Secretário,22.0,Right-Back,Famalicão,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,António Folha,21.0,Left Winger,FC Porto,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Braga,Rui Correia,24.0,Goalkeeper,Chaves,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Estoril Praia,Marco Paulo,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+Estoril Praia,Andrade,18.0,Defensive Midfield,Sporting U19,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Estoril Praia,Carlos Manuel,34.0,Central Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Estoril Praia,Aziz Bouderbala,31.0,Attacking Midfield,Olympique Lyon,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Estoril Praia,João Pires,21.0,attack,Benfica,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Estoril Praia,Carlos Pereira,28.0,Goalkeeper,Louletano,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Artur Jorge,21.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Zé Nando,23.0,Left-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Thierry Pauk,26.0,defence,FC Metz,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Marito,24.0,Right Midfield,Chaves,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Jorginho,30.0,Centre-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Celestino da Silva,27.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Petar Mihtarski,25.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1992,1992/1993
+Famalicão,Careca,23.0,Attacking Midfield,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Salgueiros,Paulo Monteiro,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+FC Tirsense,Tozé,22.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1992,1992/1993
+FC Tirsense,Cao,23.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+FC Tirsense,Valério,29.0,defence,CF Estrela,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+FC Tirsense,Jorge Vital,30.0,Goalkeeper,CF Estrela,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+FC Tirsense,Carlos Carvalhal,26.0,Centre-Back,SC Braga,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Espinho,Dito,30.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Espinho,Alain Julien,28.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Espinho,Pingo,31.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Espinho,Chico Faria,27.0,Centre-Forward,Famalicão,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+SC Espinho,Amadeu,26.0,defence,Portugal,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Chaves,Mirsad Omerhodzic,25.0,Attacking Midfield,France,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Chaves,Marin Bakalov,30.0,Defensive Midfield,Central_EU,?,in,Summer,0.01,Liga Nos,1992,1992/1993
+Chaves,Kimmo Tarkkio,26.0,Centre-Forward,FC Kuusysi,loan transfer,in,Summer,0.01,Liga Nos,1992,1992/1993
+Sporting CP,Sergiy Shcherbakov,21.0,Attacking Midfield,Est_EU,?,in,Winter,0.01,Liga Nos,1992,1992/1993
+Marítimo,Rodrigo Costa,17.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,1992,1992/1993
+Gil Vicente,Jaime Cerqueira,25.0,Central Midfield,Boavista,?,in,Winter,0.01,Liga Nos,1992,1992/1993
+Estoril Praia,Tomislav Ivkovic,32.0,Goalkeeper,Sporting CP,?,in,Winter,0.01,Liga Nos,1992,1992/1993
+FC Tirsense,Émerson Thome,20.0,Centre-Back,Portugal,?,in,Winter,0.01,Liga Nos,1992,1992/1993
+Fortuna Sittard,René Hofman,31.0,Right Winger,Roda JC,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Fortuna Sittard,Kenneth Nysaether,22.0,Centre-Forward,North_EU,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Fortuna Sittard,Peter Schmitz,21.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,Arslan Yildiz,17.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,Robin Schmidt,27.0,attack,Twente FC,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,Steve Trittschuh,27.0,Centre-Back,North America,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,Michel Langerak,23.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,Hans Kraay Jr.,32.0,Defensive Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Go Ahead Eagles,Jan Michels,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+Go Ahead Eagles,Jason van Blerk,24.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+Go Ahead Eagles,Gijs Steinmann,31.0,defence,Heracles,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Go Ahead Eagles,Erik Willaarts,30.0,Centre-Forward,Dordrecht'90,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Go Ahead Eagles,Jacco Beerthuizen,23.0,Goalkeeper,Heracles,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Go Ahead Eagles,Niels Gerestein,20.0,midfield,Netherlands,nan,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Volendam,Michael Reiziger,19.0,Right-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Volendam,Hans Bond,18.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Volendam,André Wasiman,29.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Volendam,Pascal Jongsma,23.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Ajax,Marc Overmars,19.0,Left Winger,Willem II,908Th.,in,Summer,"0,908",Eredivisie,1992,1992/1993
+Ajax,Jari Litmanen,21.0,Attacking Midfield,North_EU,14Th.,in,Summer,"0,014",Eredivisie,1992,1992/1993
+Ajax,Dries Boussatta,19.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Vitesse,Erwin van de Looi,20.0,Centre-Back,FC Den Bosch,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Vitesse,Hans Gillhaus,28.0,Centre-Forward,Uk,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Winston Bogarde,21.0,Centre-Back,Netherlands,6Th.,in,Summer,"0,006",Eredivisie,1992,1992/1993
+Sparta R.,Arjan van der Laan,22.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Dennis de Bruin,20.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Tom Van Mol,19.0,Left-Back,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Arno Doomernik,21.0,Defensive Midfield,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,Hans Vonk,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+FC Den Bosch,Zeljko Petrovic,26.0,Right-Back,Sevilla FC,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,John Laponder,21.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,Dennis Heine,25.0,Central Midfield,North_EU,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,René Wolffs,27.0,defence,Willem II,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,Zoran Zoran,26.0,midfield,Poederlee,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,Leon Vlemmings,22.0,Right-Back,FC Wageningen,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,Wim Volkerink,26.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Den Bosch,Mark Verhoeven,22.0,Right-Back,MVV Maastricht,loan transfer,in,Summer,0.01,Eredivisie,1992,1992/1993
+Willem II,Yassine Abdellaoui,17.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+Willem II,Marc van Hintum,25.0,Left-Back,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Willem II,Adrie Bogers,27.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Willem II,Nabil Bouchlal,17.0,Centre-Forward,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Willem II,Bert Verhagen,25.0,Centre-Back,Roda JC,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Willem II,Ken Watanabe,18.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Willem II,Bart Griemink,20.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Guus Uhlenbeek,21.0,Right-Back,Ajax,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Winnie Haatrecht,28.0,attack,Central_EU,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Mark Oosterhof,20.0,Right-Back,Wolvega,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Jan Gösgens,25.0,defence,FC Den Bosch,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Martin Cruijff,20.0,Sweeper,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Ulrich Landvreugd,20.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Henk Koetje,33.0,Central Midfield,Harlingen,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Milko Gjurovski,29.0,attack,FC Groningen,loan transfer,in,Summer,0.01,Eredivisie,1992,1992/1993
+MVV Maastricht,Jeffrey van As,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+MVV Maastricht,Roger Knarren,22.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+MVV Maastricht,Erik Maes,20.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+MVV Maastricht,Roger Reijners,28.0,Left Midfield,Fortuna Sittard,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+MVV Maastricht,Jan van Grinsven,32.0,Goalkeeper,FC Den Bosch,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+MVV Maastricht,Twan Scheepers,20.0,Centre-Forward,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1992,1992/1993
+PSV Eindhoven,Arthur Numan,22.0,Left-Back,Twente FC,1.27m,in,Summer,"1,27",Eredivisie,1992,1992/1993
+PSV Eindhoven,Thomas Thorninger,19.0,Centre-Forward,North_EU,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+PSV Eindhoven,Ton Cornelissen,28.0,Centre-Forward,Belgium,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+PSV Eindhoven,Gregory Playfair,18.0,midfield,Neptunus,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Twente FC,Nico-Jan Hoogma,23.0,Centre-Back,Cambuur L.,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Twente FC,Arno Arts,23.0,Central Midfield,Uk,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Twente FC,Erik ten Hag,22.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Twente FC,Prince Polley,23.0,Centre-Forward,Germinal Ekeren,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+RKC Waalwijk,Edward Sijahailatua,21.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+RKC Waalwijk,Jos van Herpen,30.0,Sweeper,Belgium,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+RKC Waalwijk,Marco Boogers,25.0,Centre-Forward,Fortuna Sittard,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+RKC Waalwijk,Nico Jalink,28.0,Right Midfield,Uk,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+RKC Waalwijk,Jurgen Streppel,23.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Feyenoord,Michael Obiku,23.0,Centre-Forward,Est_EU,364Th.,in,Summer,"0,364",Eredivisie,1992,1992/1993
+Feyenoord,Rob van Dijk,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+Feyenoord,Arnar Gunnlaugsson,19.0,Right Winger,North_EU,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Feyenoord,Dean Gorré,21.0,Right Winger,SVV,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Feyenoord,Orlando Trustfull,21.0,Defensive Midfield,Twente FC,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Feyenoord,Errol Refos,22.0,Centre-Back,Dordrecht'90,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Feyenoord,Lloyd Kammeron,20.0,Centre-Forward,Dordrecht'90,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Groningen,Eric van Kessel,26.0,Left-Back,Netherlands,341Th.,in,Summer,"0,341",Eredivisie,1992,1992/1993
+FC Groningen,Rick Slor,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+FC Groningen,Lucian Ilie,24.0,Central Midfield,FC Wageningen,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Groningen,Ronald Hamming,19.0,Centre-Forward,Achilles 1894,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+FC Utrecht,Raymond Graanoogst,17.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Roda JC,Peter Hofstede,25.0,Centre-Forward,Netherlands,318Th.,in,Summer,"0,318",Eredivisie,1992,1992/1993
+Roda JC,David Nascimento,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1992,1992/1993
+Roda JC,Erwin Vanderbroeck,24.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Roda JC,Sergiy Pogodin,24.0,Attacking Midfield,Est_EU,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Roda JC,Anton Scheutjens,24.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,Ton Rietbroek,25.0,defence,Netherlands,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Dordrecht'90,John de Bever,27.0,attack,Unknown,loan transfer,in,Winter,0.01,Eredivisie,1992,1992/1993
+Ajax,Ronald de Boer,22.0,Right Winger,Twente FC,1.36m,in,Winter,"1,36",Eredivisie,1992,1992/1993
+Vitesse,Ben Iroha,23.0,Left-Back,ASEC Mimosas,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Carlo L'Ami,26.0,Goalkeeper,Without Club,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Marcel Peeper,27.0,Left Midfield,Twente FC,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Ton Cornelissen,29.0,Centre-Forward,PSV Eindhoven,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Sparta R.,Ton Pronk,27.0,defence,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,1992,1992/1993
+Willem II,Hans van Arum,26.0,Centre-Forward,Vitesse,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Cambuur L.,Bert Konterman,21.0,Centre-Back,Netherlands,136Th.,in,Winter,"0,136",Eredivisie,1992,1992/1993
+Cambuur L.,Michel van Oostrum,26.0,Centre-Forward,Netherlands,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Twente FC,Michael Mols,22.0,Centre-Forward,Cambuur L.,545Th.,in,Winter,"0,545",Eredivisie,1992,1992/1993
+Twente FC,Edwin Vurens,24.0,Centre-Forward,Sparta R.,450Th.,in,Winter,"0,45",Eredivisie,1992,1992/1993
+Feyenoord,John van Loen,27.0,Centre-Forward,Ajax,682Th.,in,Winter,"0,682",Eredivisie,1992,1992/1993
+Feyenoord,Bjarki Gunnlaugsson,19.0,Attacking Midfield,North_EU,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+FC Groningen,Jerry de Jong,28.0,Right-Back,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,1992,1992/1993
+FC Utrecht,Edwin de Kruyff,22.0,Attacking Midfield,Netherlands,?,in,Winter,0.01,Eredivisie,1992,1992/1993
+Roda JC,Arkadiusz Kaliszan,20.0,Defensive Midfield,Central_EU,?,in,Winter,0.01,Eredivisie,1992,1992/1993

@@ -1,0 +1,1277 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Milan,Andriy Shevchenko,22.0,Centre-Forward,Est_EU,23.91m,in,Summer,"23,91",Serie A,1999,1999/2000
+Milan,Serginho,28.0,Left Midfield,South America,8.90m,in,Summer,"8,9",Serie A,1999,1999/2000
+Milan,Gennaro Gattuso,21.0,Central Midfield,Italy,8.00m,in,Summer,8,Serie A,1999,1999/2000
+Milan,Mirco Sadotti,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Milan,Diego De Ascentis,22.0,Defensive Midfield,Bari,?,in,Summer,0.01,Serie A,1999,1999/2000
+Milan,Valerio Fiori,30.0,Goalkeeper,Piacenza,?,in,Summer,0.01,Serie A,1999,1999/2000
+Milan,Max Tonetto,24.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Milan,Mattia Graffiedi,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Daniele Conti,20.0,Defensive Midfield,AS Roma,650Th.,in,Summer,"0,65",Serie A,1999,1999/2000
+Cagliari Calcio,François Modesto,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Cagliari Calcio,Giovanni Sulcis,24.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Jason Mayélé,23.0,attack,France,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Nicola Diliso,24.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Nicola Di Liso,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Luis Oliveira,30.0,Centre-Forward,Fiorentina,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,David Suazo,19.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Domenico Morfeo,23.0,Attacking Midfield,Fiorentina,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Raffaele Ametrano,26.0,Right-Back,Juventus,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Gustavo Reggi,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Reggina,Riccardo Marroccolo,20.0,attack,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Nenad Pralija,28.0,Defensive Midfield,Est_EU,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Salvatore Vicari,18.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Vladimiro Sbaglia,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Helmut Rahner,28.0,Centre-Back,Germany,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Lorenzo Stovini,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Mohamed Kallon,19.0,Centre-Forward,Cagliari Calcio,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Jorge Vargas,23.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Giovanni Morabito,20.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Joseph Dayo Oshadogan,23.0,Centre-Back,AS Roma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Ezio Brevi,29.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Andrea Bernini,26.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Paolo Foglio,23.0,Right-Back,Hellas Verona,?,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Andrea Pirlo,20.0,Defensive Midfield,Inter,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Reggina,Roberto Baronio,21.0,Defensive Midfield,Lazio,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Bologna,Zé Elias,22.0,Central Midfield,Inter,750Th.,in,Summer,"0,75",Serie A,1999,1999/2000
+Bologna,Giulio Falcone,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Bologna,Fausto Ferrari,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bologna,Pierre Womé,20.0,Left-Back,AS Roma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bologna,Gianluca Pagliuca,32.0,Goalkeeper,Inter,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bologna,Andrea Ferrari,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bologna,Nicola Ventola,21.0,Centre-Forward,Inter,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Francisco Lima,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Lecce,Angelo Paradiso,22.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Ivan Aiardi,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Claudio Bonomi,26.0,Left Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Domenico Di Carlo,35.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Jorge Casanova,22.0,Central Midfield,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Alberto Savino,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,David Balleri,30.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Antonio Chimenti,29.0,Goalkeeper,AS Roma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Cristiano Lucarelli,23.0,Centre-Forward,Valencia,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Emiliano Biliotti,24.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Matteo Pivotto,24.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Gianluca Colonnello,26.0,Left-Back,Perugia,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Alessandro De Poli,29.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lecce,Francesco Marino,28.0,Second Striker,Italy,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Marco Materazzi,25.0,Centre-Back,Everton,4.13m,in,Summer,"4,13",Serie A,1999,1999/2000
+Perugia,Michele Di Piedi,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Perugia,Ibrahim Bá,25.0,Right Midfield,Milan,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Dani,20.0,attack,Belgium,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Stefano Guidoni,27.0,attack,Hellas Verona,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Cataldo Montesanto,22.0,Defensive Midfield,Gualdo,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Massimiliano Esposito,27.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Mauro Milanese,27.0,Left-Back,Inter,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Claudio Rivalta,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Marco Capparella,24.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Nicola Amoruso,24.0,Centre-Forward,Juventus,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Alessandro Calori,32.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Pierpaolo Bisoli,32.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Perugia,Daniele Daino,19.0,Right-Back,Milan,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Stefano Bettarini,27.0,Left-Back,Fiorentina,2.00m,in,Summer,2,Serie A,1999,1999/2000
+AC Venezia 1907,Dejan Petkovic,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+AC Venezia 1907,Michael Konsel,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+AC Venezia 1907,Runar Berg,28.0,Central Midfield,North_EU,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Rubén Maldonado,20.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Fabrizio Casazza,28.0,Goalkeeper,Torino,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Giampiero Maini,27.0,Defensive Midfield,Bologna,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Igor Budan,19.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Rosario La Marca,19.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Massimo Borgobello,28.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Juventus,Darko Kovacevic,25.0,Centre-Forward,Real Sociedad,17.00m,in,Summer,17,Serie A,1999,1999/2000
+Juventus,Sunday Oliseh,24.0,Defensive Midfield,Ajax,10.00m,in,Summer,10,Serie A,1999,1999/2000
+Juventus,Edwin van der Sar,28.0,Goalkeeper,Ajax,8.80m,in,Summer,"8,8",Serie A,1999,1999/2000
+Juventus,Gianluca Zambrotta,22.0,Right-Back,Bari,8.00m,in,Summer,8,Serie A,1999,1999/2000
+Juventus,Ronnie O'Brien,20.0,midfield,Uk,?,in,Summer,0.01,Serie A,1999,1999/2000
+Juventus,Jonathan Bachini,24.0,Left Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Predrag Mijatovic,30.0,Centre-Forward,Real Madrid,12.00m,in,Summer,12,Serie A,1999,1999/2000
+Fiorentina,Enrico Chiesa,28.0,Centre-Forward,AC Parma,10.70m,in,Summer,"10,7",Serie A,1999,1999/2000
+Fiorentina,Leandro Amaral,21.0,Centre-Forward,South America,2.00m,in,Summer,2,Serie A,1999,1999/2000
+Fiorentina,Angelo Di Livio,32.0,Right Midfield,Juventus,1.30m,in,Summer,"1,3",Serie A,1999,1999/2000
+Fiorentina,Daniele Adani,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Fiorentina,Mattia Passarini,18.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Mauro Bressan,28.0,Defensive Midfield,Bari,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Abel Balbo,33.0,Centre-Forward,AC Parma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Paul Okon,27.0,Defensive Midfield,Lazio,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Fabio Rossitto,27.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Alessandro Pierini,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Fiorentina,Giuseppe Taglialatela,30.0,Goalkeeper,Italy,nan,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Marcus Lantz,23.0,Central Midfield,Helsingborg,1.00m,in,Summer,1,Serie A,1999,1999/2000
+Torino,Francesco Coco,22.0,Left-Back,Milan,Loan fee:500Th.,in,Summer,"0,5",Serie A,1999,1999/2000
+Torino,André Pinga,18.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Torino,Djibril Diawara,24.0,Centre-Back,Monaco,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Andrea Silenzi,33.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Abdullah Fusseini,17.0,midfield,Africa Sports,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Alessandro Nista,33.0,Goalkeeper,AC Parma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Gustavo Méndez,28.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Luigi Panarelli,23.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Alejandro Escalona,19.0,Left-Back,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Fabio Pecchia,25.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Fabio Galante,25.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Erik Edman,20.0,Left-Back,Helsingborg,?,in,Summer,0.01,Serie A,1999,1999/2000
+Torino,Ilija Ivic,28.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Roberto Muzzi,27.0,Centre-Forward,Cagliari Calcio,10.00m,in,Summer,10,Serie A,1999,1999/2000
+Udinese Calcio,Stefano Fiore,24.0,Attacking Midfield,AC Parma,9.70m,in,Summer,"9,7",Serie A,1999,1999/2000
+Udinese Calcio,Warley,21.0,Centre-Forward,South America,7.00m,in,Summer,7,Serie A,1999,1999/2000
+Udinese Calcio,David Pizarro,19.0,Central Midfield,South America,1.50m,in,Summer,"1,5",Serie A,1999,1999/2000
+Udinese Calcio,Jorginho Paulista,19.0,Left-Back,PSV Eindhoven,900Th.,in,Summer,"0,9",Serie A,1999,1999/2000
+Udinese Calcio,Antonio Orefice,20.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Udinese Calcio,Édson Di,19.0,attack,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Udinese Calcio,Olivier Renard,20.0,Goalkeeper,Belgium,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Fabio Pittilino,22.0,defence,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Delio Toledo,22.0,Left-Back,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Morgan De Sanctis,22.0,Goalkeeper,Juventus,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Andrea Sottil,25.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Alberto Valentim,24.0,Right Midfield,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Mauro Esposito,20.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Massimo Margiotta,21.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Marco Zamboni,21.0,Centre-Back,Lecce,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Thomas Manfredini,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Francesco Pistolesi,18.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Lazio,Juan Sebastián Verón,24.0,Central Midfield,AC Parma,30.00m,in,Summer,30,Serie A,1999,1999/2000
+Lazio,Diego Simeone,29.0,Central Midfield,Inter,10.90m,in,Summer,"10,9",Serie A,1999,1999/2000
+Lazio,Néstor Sensini,32.0,Centre-Back,AC Parma,7.50m,in,Summer,"7,5",Serie A,1999,1999/2000
+Lazio,Simone Inzaghi,23.0,Centre-Forward,Piacenza,?,in,Summer,0.01,Serie A,1999,1999/2000
+Lazio,Luca Mondini,29.0,Goalkeeper,Italy,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Lazio,Kennet Andersson,31.0,Centre-Forward,Bologna,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Simone Perrotta,21.0,Attacking Midfield,Juventus,1.85m,in,Summer,"1,85",Serie A,1999,1999/2000
+Bari,Antonio Chisena,19.0,attack,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Alessio De Stefani,19.0,defence,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Alessandro Del Grosso,26.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Antonio Bellavista,21.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Hugo,18.0,Centre-Forward,Belgium,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Raphael Chukwu,23.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Mattia Collauto,25.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Diego Markic,22.0,midfield,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Bari,Matteo Ferrari,19.0,Centre-Back,Inter,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Anthony Seric,20.0,Left-Back,Est_EU,2.20m,in,Summer,"2,2",Serie A,1999,1999/2000
+Hellas Verona,Adaílton,22.0,Second Striker,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Hellas Verona,Sébastien Frey,19.0,Goalkeeper,Inter,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Alessandro Pagano,27.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Giuseppe Anastasi,25.0,defence,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Marco Franceschetti,32.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Luigi Apolloni,32.0,Centre-Back,AC Parma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Luca Mezzano,21.0,Centre-Back,Perugia,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Elvis Abbruscato,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Emiliano Salvetti,25.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Hellas Verona,Aimo Diana,21.0,Right Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Márcio Amoroso,24.0,Centre-Forward,Italy,28.00m,in,Summer,28,Serie A,1999,1999/2000
+AC Parma,Ousmane Dabo,22.0,Defensive Midfield,Inter,15.49m,in,Summer,"15,49",Serie A,1999,1999/2000
+AC Parma,Ariel Ortega,25.0,Attacking Midfield,Italy,9.40m,in,Summer,"9,4",Serie A,1999,1999/2000
+AC Parma,Paolo Cannavaro,18.0,Centre-Back,Italy,1.00m,in,Summer,1,Serie A,1999,1999/2000
+AC Parma,Stephen Appiah,18.0,Defensive Midfield,Italy,700Th.,in,Summer,"0,7",Serie A,1999,1999/2000
+AC Parma,Johan Walem,27.0,Left Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Roberto Breda,29.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Pietro Strada,29.0,Left Midfield,Perugia,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Johnnier Montaño,16.0,Attacking Midfield,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Fabio Moro,23.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Jorge Bolaño,22.0,Central Midfield,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Stefano Torrisi,28.0,Centre-Back,Atlético Madrid,?,in,Summer,0.01,Serie A,1999,1999/2000
+AC Parma,Marco Di Vaio,22.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Inter,Christian Vieri,25.0,Centre-Forward,Lazio,46.48m,in,Summer,"46,48",Serie A,1999,1999/2000
+Inter,Angelo Peruzzi,29.0,Goalkeeper,Juventus,19.00m,in,Summer,19,Serie A,1999,1999/2000
+Inter,Christian Panucci,26.0,Right-Back,Real Madrid,9.30m,in,Summer,"9,3",Serie A,1999,1999/2000
+Inter,Michele Serena,29.0,Left-Back,Atlético Madrid,7.50m,in,Summer,"7,5",Serie A,1999,1999/2000
+Inter,Grigoris Georgatos,26.0,Left-Back,Central_EU,7.00m,in,Summer,7,Serie A,1999,1999/2000
+Inter,Cyril Domoraud,27.0,Centre-Back,Marseille,7.00m,in,Summer,7,Serie A,1999,1999/2000
+Inter,Laurent Blanc,33.0,Centre-Back,Marseille,6.00m,in,Summer,6,Serie A,1999,1999/2000
+Inter,Vladimir Jugovic,29.0,Left Midfield,Atlético Madrid,2.00m,in,Summer,2,Serie A,1999,1999/2000
+Inter,Tiago Henrique,17.0,Right Winger,Comercial-SP,200Th.,in,Summer,"0,2",Serie A,1999,1999/2000
+Inter,Edinho,19.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,1999,1999/2000
+Inter,Luigi Di Biagio,28.0,Defensive Midfield,AS Roma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Inter,Fabrizio Ferron,33.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Inter,Giorgio Frezzolini,23.0,Goalkeeper,Milan,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Vincenzo Montella,25.0,Centre-Forward,Italy,25.82m,in,Summer,"25,82",Serie A,1999,1999/2000
+AS Roma,Sergey Gurenko,26.0,Right-Back,Russia,5.45m,in,Summer,"5,45",Serie A,1999,1999/2000
+AS Roma,Joseph Dayo Oshadogan,23.0,Centre-Back,Italy,550Th.,in,Summer,"0,55",Serie A,1999,1999/2000
+AS Roma,Nesat Gülünoglu,20.0,Attacking Midfield,Germany,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Alessandro Rinaldi,24.0,Right-Back,Bologna,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Cristiano Zanetti,22.0,Defensive Midfield,Cagliari Calcio,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Giuseppe Colucci,18.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Amedeo Mangone,30.0,Centre-Back,Bologna,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Cristiano Lupatelli,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Francesco Antonioli,29.0,Goalkeeper,Bologna,?,in,Summer,0.01,Serie A,1999,1999/2000
+AS Roma,Marcos Assunção,22.0,Central Midfield,South America,?,in,Summer,0.01,Serie A,1999,1999/2000
+Piacenza,Arturo Di Napoli,25.0,Centre-Forward,Italy,3.75m,in,Summer,"3,75",Serie A,1999,1999/2000
+Piacenza,Flavio Roma,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Piacenza,Carmine Gautieri,29.0,Right Winger,AS Roma,?,in,Summer,0.01,Serie A,1999,1999/2000
+Piacenza,Davide Bagnacani,19.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Piacenza,Francesco Zitolo,17.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Piacenza,Andrea Tagliaferri,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1999,1999/2000
+Piacenza,Stefano Morrone,21.0,Central Midfield,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,David Régis,31.0,Centre-Back,FC Metz,?,in,Winter,0.01,Serie A,1999,1999/2000
+Cagliari Calcio,Stefano Bianconi,31.0,Sweeper,Italy,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+Reggina,Erjon Bogdani,22.0,Centre-Forward,Est_EU,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bologna,Alessandro Dal Canto,24.0,Left-Back,AC Venezia 1907,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bologna,Roberto Goretti,23.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bologna,Giovanni Piacentini,31.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bologna,Max Tonetto,25.0,Left-Back,Milan,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bologna,Paolo Orlandoni,27.0,Goalkeeper,Reggina,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+Lecce,Juarez,26.0,Right-Back,free agents,free transfer,in,Winter,0,Serie A,1999,1999/2000
+Lecce,Mirco Sadotti,24.0,Centre-Back,Milan,?,in,Winter,0.01,Serie A,1999,1999/2000
+Lecce,Giacomo Cipriani,19.0,Centre-Forward,Bologna,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+Perugia,Jehad Muntasser,21.0,Right Midfield,free agents,free transfer,in,Winter,0,Serie A,1999,1999/2000
+Perugia,Giovanni Proietti,22.0,Goalkeeper,free agents,free transfer,in,Winter,0,Serie A,1999,1999/2000
+Perugia,Giorgio Sterchele,29.0,Goalkeeper,AS Roma,?,in,Winter,0.01,Serie A,1999,1999/2000
+Perugia,Salvatore Monaco,27.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Perugia,Héctor Tapia,22.0,Centre-Forward,South America,?,in,Winter,0.01,Serie A,1999,1999/2000
+Perugia,Giovanni Savarese,29.0,Centre-Forward,South America,?,in,Winter,0.01,Serie A,1999,1999/2000
+Perugia,Dmitri Alenichev,27.0,Central Midfield,AS Roma,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Bruno N'Gotty,28.0,Centre-Back,Milan,4.50m,in,Winter,"4,5",Serie A,1999,1999/2000
+AC Venezia 1907,Maurizio Ganz,31.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,1999,1999/2000
+AC Venezia 1907,Tomislav Rukavina,25.0,Right Midfield,Est_EU,?,in,Winter,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Robert Ibertsberger,22.0,Right-Back,Central_EU,?,in,Winter,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Ciro Ginestra,20.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Marco Cento,23.0,midfield,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+AC Venezia 1907,Pierluigi Orlandini,27.0,Right Midfield,Milan,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+Juventus,Enzo Maresca,19.0,Central Midfield,free agents,free transfer,in,Winter,0,Serie A,1999,1999/2000
+Juventus,Simone Malatesta,17.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Milan,José Mari,21.0,Centre-Forward,Atlético Madrid,19.00m,in,Winter,19,Serie A,1999,1999/2000
+Milan,Fabricio Coloccini,18.0,Centre-Back,South America,5.25m,in,Winter,"5,25",Serie A,1999,1999/2000
+Milan,José Chamot,30.0,Centre-Back,Atlético Madrid,3.00m,in,Winter,3,Serie A,1999,1999/2000
+Milan,Taribo West,25.0,Left-Back,Inter,2.50m,in,Winter,"2,5",Serie A,1999,1999/2000
+Milan,Dida,25.0,Goalkeeper,South America,1.39m,in,Winter,"1,39",Serie A,1999,1999/2000
+Torino,André Cruz,31.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,1999,1999/2000
+Torino,Gennaro Scarlato,22.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Torino,Krunoslav Jurcic,29.0,Defensive Midfield,Est_EU,?,in,Winter,0.01,Serie A,1999,1999/2000
+Torino,Alessandro Grandoni,22.0,Centre-Back,Italy,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+Udinese Calcio,Armando Perna,18.0,Centre-Back,Italy,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+Lazio,Fabrizio Ravanelli,31.0,Centre-Forward,Marseille,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bari,Jaime Valdés,18.0,midfield,South America,?,in,Winter,0.01,Serie A,1999,1999/2000
+Bari,Pasqual De Gregorio,27.0,attack,South America,?,in,Winter,0.01,Serie A,1999,1999/2000
+Hellas Verona,Michele Cossato,29.0,attack,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Hellas Verona,Alessandro Romano,30.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Hellas Verona,Domenico Morfeo,23.0,Attacking Midfield,Fiorentina,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+AC Parma,Júnior,26.0,Left-Back,South America,5.00m,in,Winter,5,Serie A,1999,1999/2000
+AC Parma,Paulo Sousa,29.0,Central Midfield,Inter,loan transfer,in,Winter,0.01,Serie A,1999,1999/2000
+AC Parma,Luciano Galletti,19.0,Right Winger,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+Inter,Clarence Seedorf,23.0,Central Midfield,Real Madrid,24.01m,in,Winter,"24,01",Serie A,1999,1999/2000
+Inter,Iván Córdoba,23.0,Centre-Back,South America,14.00m,in,Winter,14,Serie A,1999,1999/2000
+Inter,Adrian Mutu,20.0,Centre-Forward,Est_EU,6.50m,in,Winter,"6,5",Serie A,1999,1999/2000
+AS Roma,Hidetoshi Nakata,22.0,Attacking Midfield,Perugia,21.69m,in,Winter,"21,69",Serie A,1999,1999/2000
+AS Roma,Paolo Poggi,28.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,1999,1999/2000
+R. Strasbourg,Diego Garay,24.0,Attacking Midfield,South America,3.50m,in,Summer,"3,5",Ligue 1,1999,1999/2000
+R. Strasbourg,Mario Haas,24.0,Centre-Forward,Central_EU,3.12m,in,Summer,"3,12",Ligue 1,1999,1999/2000
+R. Strasbourg,Pape Malick Diop,24.0,Centre-Back,Jeanne d'Arc,900Th.,in,Summer,"0,9",Ligue 1,1999,1999/2000
+R. Strasbourg,Pascal Camadini,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+R. Strasbourg,Pierre Njanka,24.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+R. Strasbourg,Gonzalo Belloso,25.0,Centre-Forward,South America,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+R. Strasbourg,Joseph Cyrille Ndo,23.0,Attacking Midfield,Uk,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AS Nancy,Nicolas Rabuel,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+AS Nancy,Fabien Lefèvre,27.0,Left Midfield,Monaco,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+AS Nancy,Saïd Chiba,28.0,Defensive Midfield,Spain,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AS Nancy,Cédric Mouret,21.0,Attacking Midfield,Marseille,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AS Nancy,Ze Alcino,25.0,Left Winger,South America,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Nordin Jbari,24.0,Centre-Forward,Belgium,900Th.,in,Summer,"0,9",Ligue 1,1999,1999/2000
+Troyes,Sekou Berthé,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Troyes,Tony Heurtebis,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Troyes,Samuel Boutal,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Troyes,Rafik Saïfi,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Troyes,Amar Bouchemla,28.0,attack,SCO Roubaix 59,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Farid Ghazi,25.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Frédéric Arpinon,30.0,Attacking Midfield,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Samba Diawara,21.0,Centre-Back,AS Red Star 93,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Raphaël Nadé,18.0,Centre-Forward,Le Havre,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Pascal Renier,27.0,Left-Back,Belgium,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Luciano Zavagno,21.0,Left-Back,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Troyes,Didier Lang,28.0,Defensive Midfield,France,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+CS Sedan,Jean-Louis Montero,28.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+CS Sedan,Mathieu Verschuère,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+CS Sedan,Patrick Regnault,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+CS Sedan,Dzoni Novak,29.0,Left Midfield,AC Le Havre,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+CS Sedan,Eddy Capron,28.0,Centre-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+CS Sedan,Laurent Huard,25.0,Defensive Midfield,Stade Rennais,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+CS Sedan,Oumar Dieng,26.0,Centre-Back,AJ Auxerre,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+Olympique Lyon,Sonny Anderson,28.0,Centre-Forward,Barcelona,19.00m,in,Summer,19,Ligue 1,1999,1999/2000
+Olympique Lyon,Tony Vairelles,26.0,Centre-Forward,Lens,8.00m,in,Summer,8,Ligue 1,1999,1999/2000
+Olympique Lyon,Sébastien Grimaldi,19.0,Centre-Back,Unknown,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Olympique Lyon,Pierre Laigle,28.0,Left Midfield,Italy,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Olympique Lyon,Angelo Hugues,32.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+FC Nantes,Mirza Mesic,19.0,Centre-Forward,Central_EU,500Th.,in,Summer,"0,5",Ligue 1,1999,1999/2000
+FC Nantes,Goran Rubil,18.0,Right Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+FC Nantes,Vincent Talio,18.0,Centre-Back,Unknown,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+FC Nantes,Sergio Comba,20.0,Centre-Forward,South America,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+FC Nantes,Samba N'Diaye,26.0,Centre-Forward,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Montpellier,Olivier Sorlin,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Montpellier,Romain Ferrier,23.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Montpellier,Patrice Loko,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Montpellier,Éric Decroix,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Montpellier,Reynald Pedros,27.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Montpellier,Jocelyn Gourvennec,27.0,Attacking Midfield,Marseille,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Montpellier,Bruno Alicarte,27.0,Right-Back,Uk,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Olivier Dacourt,24.0,Defensive Midfield,Everton,6.00m,in,Summer,6,Ligue 1,1999,1999/2000
+Lens,Ibrahima N'Diaye,17.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Lens,Sébastien Chabbert,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Lens,Ferdinand Coly,25.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Lens,Adama Coulibaly,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Lens,Stéphane Collet,27.0,Right Midfield,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Olivier Bogaczyk,22.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Patrick Barul,21.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Lamine Sakho,21.0,Left Winger,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Joseph-Désiré Job,21.0,Centre-Forward,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Charles-Edouard Coridon,26.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Jocelyn Blanchard,27.0,Defensive Midfield,Juventus,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Lens,Ludovic Pollet,29.0,Centre-Back,AC Le Havre,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AC Le Havre,Mohammed Camara,24.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+AC Le Havre,Gustave Bahoken,20.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+AC Le Havre,Raphaël Miceli,23.0,Left Midfield,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AC Le Havre,Thomas Deniaud,27.0,Centre-Forward,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AC Le Havre,Eric Deloumeaux,26.0,defence,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AC Le Havre,Mickaël Debève,28.0,Right Midfield,Lens,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+G. Bordeaux,Jérôme Bonnissel,26.0,Left-Back,Dep. La Coruña,7.05m,in,Summer,"7,05",Ligue 1,1999,1999/2000
+G. Bordeaux,Stéphane Ziani,27.0,Attacking Midfield,Dep. La Coruña,7.05m,in,Summer,"7,05",Ligue 1,1999,1999/2000
+G. Bordeaux,Mathieu Beda,17.0,Centre-Back,France,450Th.,in,Summer,"0,45",Ligue 1,1999,1999/2000
+G. Bordeaux,Francois Dubourdeau,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+G. Bordeaux,Sylvain Legwinski,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+G. Bordeaux,Laurent Batlles,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+G. Bordeaux,Christophe Sanchez,27.0,Centre-Forward,Bologna,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+G. Bordeaux,Corentin Martins,30.0,Attacking Midfield,R. Strasbourg,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+G. Bordeaux,Jean-Christophe Rouviere,24.0,Defensive Midfield,Montpellier,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+G. Bordeaux,Teddy Richert,24.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+G. Bordeaux,Giuseppe Colucci,18.0,Central Midfield,AS Roma,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Bjørn Tore Kvarme,27.0,Centre-Back,Uk,1.40m,in,Summer,"1,4",Ligue 1,1999,1999/2000
+Saint-Étienne,Aloisio Chulapa,24.0,Centre-Forward,South America,900Th.,in,Summer,"0,9",Ligue 1,1999,1999/2000
+Saint-Étienne,David Grondin,19.0,Left-Back,Arsenal,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Jean-Guy Wallemme,31.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Francis Llacer,28.0,Left-Back,Paris SG,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Philippe Montanier,34.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Loïc Chavériat,22.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Stéphane Pédron,28.0,Left Midfield,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Tchiressoua Guel,23.0,Attacking Midfield,Marseille,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+SC Bastia,Lilian Nalis,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+SC Bastia,Yann Lachuer,26.0,Attacking Midfield,Paris SG,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+SC Bastia,Cyril Eboki-Poh,19.0,attack,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+SC Bastia,Milos Dobrijevic,19.0,Right-Back,Central_EU,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+SC Bastia,Dan Petersen,27.0,Centre-Forward,Uk,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+SC Bastia,Zoumana Camara,20.0,Centre-Back,Inter,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,Ali Benarbia,30.0,Attacking Midfield,G. Bordeaux,3.07m,in,Summer,"3,07",Ligue 1,1999,1999/2000
+Paris SG,Thomas Levaux,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Paris SG,Christian,24.0,Centre-Forward,South America,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,Patrice Grillon,19.0,defence,RC Paris,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,Stéphane Brando,15.0,Goalkeeper,Unknown,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,Godwin Okpara,26.0,Centre-Back,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,César,23.0,Centre-Back,South America,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,Talal El Karkouri,22.0,Centre-Back,Africa Sports,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Paris SG,Laurent Robert,24.0,Left Winger,Montpellier,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+FC Metz,Christophe Bastien,23.0,Right Midfield,AS Nancy,3.80m,in,Summer,"3,8",Ligue 1,1999,1999/2000
+FC Metz,Nicolas Goussé,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+FC Metz,Sergiy Skachenko,26.0,Centre-Forward,Russia,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AJ Auxerre,Stéphane Guivarc'h,28.0,Centre-Forward,Uk,3.85m,in,Summer,"3,85",Ligue 1,1999,1999/2000
+AJ Auxerre,Alexandre Comisetti,25.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+AJ Auxerre,Albert Michael Yobo,20.0,Centre-Back,Africa Sports,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+AJ Auxerre,Cyrille Magnier,29.0,Centre-Back,Lens,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Rennes,Christian Bassila,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Rennes,Julien Escudé,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Rennes,Franck Gava,29.0,Left Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Rennes,Steven Pelé,17.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Rennes,El-Hadji Diouf,18.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Rennes,Grégory Malicki,25.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Marseille,Stéphane Dalmat,20.0,Central Midfield,Lens,10.60m,in,Summer,"10,6",Ligue 1,1999,1999/2000
+Marseille,Ibrahima Bakayoko,22.0,Centre-Forward,Everton,6.00m,in,Summer,6,Ligue 1,1999,1999/2000
+Marseille,Kaba Diawara,23.0,Centre-Forward,Arsenal,3.50m,in,Summer,"3,5",Ligue 1,1999,1999/2000
+Marseille,Pablo Calandria,17.0,Centre-Forward,South America,2.00m,in,Summer,2,Ligue 1,1999,1999/2000
+Marseille,Dramane Coulibaly,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Marseille,Éric Decroix,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Marseille,Lilian Martin,28.0,Right-Back,Monaco,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Marseille,Sébastien Pérez,25.0,Right-Back,Uk,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Marseille,Stéphane Trévisan,25.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Marseille,Lamine Diatta,23.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+Marseille,Iván de la Peña,23.0,Attacking Midfield,Lazio,loan transfer,in,Summer,0.01,Ligue 1,1999,1999/2000
+Monaco,Rafael Márquez,20.0,Centre-Back,North America,4.50m,in,Summer,"4,5",Ligue 1,1999,1999/2000
+Monaco,Marco Simone,30.0,Second Striker,Paris SG,1.10m,in,Summer,"1,1",Ligue 1,1999,1999/2000
+Monaco,Pablo Contreras,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1999,1999/2000
+Monaco,Ebeli M'Bombo,18.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1999,1999/2000
+CS Sedan,Geir Frigard,29.0,Centre-Forward,Germany,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+CS Sedan,Billel Dziri,27.0,Right Midfield,Africa Sports,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+FC Nantes,Alain Caveglia,31.0,Second Striker,free agents,free transfer,in,Winter,0,Ligue 1,1999,1999/2000
+Montpellier,Rui Pataca,26.0,Centre-Forward,Belenenses,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Montpellier,Filipe Gouveia,26.0,Left Midfield,Belenenses,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Lens,Bruno Rodriguez,27.0,Centre-Forward,Paris SG,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+AC Le Havre,Xavier Gravelaine,31.0,Centre-Forward,Watford,450Th.,in,Winter,"0,45",Ligue 1,1999,1999/2000
+AC Le Havre,Philippe Brinquin,28.0,Centre-Back,Stade Rennais,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+G. Bordeaux,Christophe Dugarry,27.0,Centre-Forward,Marseille,6.00m,in,Winter,6,Ligue 1,1999,1999/2000
+Saint-Étienne,Bruno Carotti,27.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,1999,1999/2000
+Saint-Étienne,Luiz Alberto,22.0,Centre-Back,South America,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Saint-Étienne,Alain Masudi,21.0,Attacking Midfield,France,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Paris SG,Kaba Diawara,24.0,Centre-Forward,Marseille,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+FC Metz,Gérald Baticle,30.0,Centre-Forward,AJ Auxerre,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Rennes,Lamine Diatta,24.0,Centre-Back,Marseille,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Marseille,Daniel Montenegro,20.0,Attacking Midfield,South America,5.00m,in,Winter,5,Ligue 1,1999,1999/2000
+Marseille,Franck Dumas,31.0,Centre-Back,Newcastle,1.60m,in,Winter,"1,6",Ligue 1,1999,1999/2000
+Marseille,Jérôme Leroy,25.0,Attacking Midfield,Paris SG,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Marseille,Cyrille Pouget,27.0,Centre-Forward,AC Le Havre,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Marseille,Jean-Pierre Cyprien,30.0,Centre-Back,Italy,?,in,Winter,0.01,Ligue 1,1999,1999/2000
+Marseille,Adriano Gabirú,22.0,Attacking Midfield,South America,loan transfer,in,Winter,0.01,Ligue 1,1999,1999/2000
+Monaco,Marcelo Gallardo,23.0,Attacking Midfield,South America,8.00m,in,Winter,8,Ligue 1,1999,1999/2000
+Bayern Munich,Paulo Sérgio,30.0,Left Winger,AS Roma,6.60m,in,Summer,"6,6",1 Bundesliga,1999,1999/2000
+Bayern Munich,Roque Santa Cruz,17.0,Centre-Forward,South America,5.00m,in,Summer,5,1 Bundesliga,1999,1999/2000
+Bayern Munich,Patrik Andersson,27.0,Centre-Back,Germany,3.00m,in,Summer,3,1 Bundesliga,1999,1999/2000
+Bayern Munich,Michael Wiesinger,26.0,Right Midfield,Germany,1.25m,in,Summer,"1,25",1 Bundesliga,1999,1999/2000
+MSV Duisburg,Marijan Kovacevic,25.0,Centre-Back,VfL Wolfsburg,430Th.,in,Summer,"0,43",1 Bundesliga,1999,1999/2000
+MSV Duisburg,Pavel Drsek,22.0,Centre-Back,Central_EU,300Th.,in,Summer,"0,3",1 Bundesliga,1999,1999/2000
+MSV Duisburg,Andreas Voss,20.0,Defensive Midfield,Bay. Leverkusen,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,1999,1999/2000
+MSV Duisburg,Sercan Güvenisik,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Ralf Keidel,22.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Michael Zeyer,31.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Piotr Reiss,27.0,Centre-Forward,Hertha BSC,loan transfer,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Martin Schneider,30.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Stefan Trienekens,28.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Robson Ponté,22.0,Attacking Midfield,South America,4.50m,in,Summer,"4,5",1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Oliver Neuville,26.0,Centre-Forward,Hansa Rostock,4.50m,in,Summer,"4,5",1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Michael Ballack,22.0,Central Midfield,1.FC K'lautern,4.00m,in,Summer,4,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Bernd Schneider,25.0,Right Midfield,E. Frankfurt,1.25m,in,Summer,"1,25",1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Vratislav Gresko,21.0,Left-Back,Central_EU,1.00m,in,Summer,1,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Frank Juric,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Thomas Brdaric,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Miroslaw Spizak,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Torben Hoffmann,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Marko Rehmer,27.0,Right-Back,Hansa Rostock,3.60m,in,Summer,"3,6",1 Bundesliga,1999,1999/2000
+Hertha BSC,Ali Daei,30.0,Centre-Forward,Bayern Munich,2.70m,in,Summer,"2,7",1 Bundesliga,1999,1999/2000
+Hertha BSC,Sebastian Deisler,19.0,Right Midfield,Germany,2.00m,in,Summer,2,1 Bundesliga,1999,1999/2000
+Hertha BSC,Konstantinos Konstantinidis,26.0,Centre-Back,Central_EU,1.30m,in,Summer,"1,3",1 Bundesliga,1999,1999/2000
+Hertha BSC,Kai Michalke,23.0,Left Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Thomas Helmer,34.0,Centre-Back,Sunderland,loan transfer,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Hertha BSC,Joe Bacak,26.0,midfield,Vitesse,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Christian Wörns,27.0,Centre-Back,Paris SG,6.75m,in,Summer,"6,75",1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Evanilson,23.0,Right-Back,South America,6.50m,in,Summer,"6,5",1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Victor Ikpeba,26.0,Centre-Forward,Monaco,6.00m,in,Summer,6,1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Fredi Bobic,27.0,Centre-Forward,VfB Stuttgart,5.75m,in,Summer,"5,75",1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Giuseppe Reina,27.0,Right Winger,Arm. Bielefeld,2.20m,in,Summer,"2,2",1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Otto Addo,24.0,Attacking Midfield,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,1999,1999/2000
+Bor. Dortmund,Sead Kapetanovic,27.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Jörgen Pettersson,23.0,Left Winger,Germany,2.10m,in,Summer,"2,1",1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Youri Djorkaeff,31.0,Attacking Midfield,Inter,1.50m,in,Summer,"1,5",1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Igli Tare,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Slobodan Komljenovic,28.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Jeff Strasser,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Thomas Sobotzik,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jonathan Akpoborie,30.0,Centre-Forward,VfB Stuttgart,1.40m,in,Summer,"1,4",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Marino Biliskov,23.0,Centre-Back,Est_EU,1.00m,in,Summer,1,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Dorinel Munteanu,31.0,Central Midfield,Germany,850Th.,in,Summer,"0,85",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jéan-Kasongo Banza,25.0,Centre-Forward,Africa Sports,800Th.,in,Summer,"0,8",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Markus Feldhoff,24.0,Centre-Forward,Germany,520Th.,in,Summer,"0,52",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Zoltan Sebescen,23.0,Right-Back,Germany,425Th.,in,Summer,"0,425",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Patrick Weiser,27.0,Left-Back,Stade Rennais,375Th.,in,Summer,"0,375",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Christian Wück,26.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Christian Brand,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Marcus Pürk,24.0,Centre-Forward,Central_EU,1.25m,in,Summer,"1,25",1 Bundesliga,1999,1999/2000
+1860 Munich,Tomas Votava,25.0,Centre-Back,Central_EU,850Th.,in,Summer,"0,85",1 Bundesliga,1999,1999/2000
+1860 Munich,Martin Max,30.0,Centre-Forward,FC Schalke 04,750Th.,in,Summer,"0,75",1 Bundesliga,1999,1999/2000
+1860 Munich,Marcel Maison,19.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Thomas Meggle,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Uwe Ehlers,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Filip Tapalovic,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Stephan Paßlack,28.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Thomas Häßler,33.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Thomas Riedl,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+1860 Munich,Christian Prosenik,31.0,Central Midfield,Central_EU,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Ebbe Sand,26.0,Centre-Forward,North_EU,5.15m,in,Summer,"5,15",1 Bundesliga,1999,1999/2000
+FC Schalke 04,Niels Oude Kamphuis,21.0,Defensive Midfield,Twente FC,3.40m,in,Summer,"3,4",1 Bundesliga,1999,1999/2000
+FC Schalke 04,Tomasz Waldoch,28.0,Centre-Back,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,1999,1999/2000
+FC Schalke 04,Gerald Asamoah,20.0,Centre-Forward,Germany,1.35m,in,Summer,"1,35",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Didi,23.0,Centre-Forward,South America,2.50m,in,Summer,"2,5",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Ionel Ganea,25.0,Centre-Forward,Est_EU,1.75m,in,Summer,"1,75",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Sean Dundee,26.0,Centre-Forward,Uk,1.50m,in,Summer,"1,5",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Pavel Kuka,30.0,Centre-Forward,Germany,1.25m,in,Summer,"1,25",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Heiko Gerber,27.0,Left-Back,Arm. Bielefeld,750Th.,in,Summer,"0,75",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Achim Hollerieth,25.0,Goalkeeper,Germany,125Th.,in,Summer,"0,125",1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Jens Todt,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Nico Frommer,22.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+SC Freiburg,Oumar Kondé,19.0,Centre-Back,Uk,600Th.,in,Summer,"0,6",1 Bundesliga,1999,1999/2000
+SC Freiburg,Florian Bruns,19.0,Defensive Midfield,Germany,65Th.,in,Summer,"0,065",1 Bundesliga,1999,1999/2000
+SC Freiburg,Björn Dreyer,21.0,Defensive Midfield,SC Norderstedt,20Th.,in,Summer,"0,02",1 Bundesliga,1999,1999/2000
+SC Freiburg,Andreas Zeyer,31.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Werder Bremen,Claudio Pizarro,20.0,Centre-Forward,South America,1.50m,in,Summer,"1,5",1 Bundesliga,1999,1999/2000
+Werder Bremen,Jacek Chanko,25.0,defence,Central_EU,550Th.,in,Summer,"0,55",1 Bundesliga,1999,1999/2000
+Werder Bremen,Frank Baumann,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Werder Bremen,Júlio César,36.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Werder Bremen,Mamadou Masseye Thioub,19.0,Centre-Forward,AS Camberene,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Hansa Rostock,Magnus Arvidsson,26.0,Centre-Forward,North_EU,1.15m,in,Summer,"1,15",1 Bundesliga,1999,1999/2000
+Hansa Rostock,Kreso Kovacec,29.0,Centre-Forward,Germany,650Th.,in,Summer,"0,65",1 Bundesliga,1999,1999/2000
+Hansa Rostock,Steffen Baumgart,27.0,Centre-Forward,VfL Wolfsburg,500Th.,in,Summer,"0,5",1 Bundesliga,1999,1999/2000
+Hansa Rostock,Abdelaziz Ahanfouf,21.0,Centre-Forward,Unterhaching,125Th.,in,Summer,"0,125",1 Bundesliga,1999,1999/2000
+Hansa Rostock,Ronny Thielemann,25.0,Defensive Midfield,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1999,1999/2000
+Hansa Rostock,René Schneider,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hansa Rostock,Christian Brand,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hansa Rostock,Kai Oswald,21.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hansa Rostock,Sven Benken,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Mehdi Mahdavikia,21.0,Right-Back,Asia,Loan fee:1.25m,in,Summer,"1,25",1 Bundesliga,1999,1999/2000
+Hamburger SV,Vahid Hashemian,22.0,Centre-Forward,PAS Tehran,375Th.,in,Summer,"0,375",1 Bundesliga,1999,1999/2000
+Hamburger SV,Rasoul Khatibi,21.0,Centre-Forward,PAS Tehran,Loan fee:75Th.,in,Summer,"0,075",1 Bundesliga,1999,1999/2000
+Hamburger SV,Niko Kovac,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Roy Präger,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+E. Frankfurt,Bachirou Salou,28.0,Centre-Forward,Bor. Dortmund,3.60m,in,Summer,"3,6",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Rolf-Christel Guié-Mien,21.0,Right Winger,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Horst Heldt,29.0,Attacking Midfield,1860 Munich,1.80m,in,Summer,"1,8",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Chen Yang,25.0,Centre-Forward,Asia,1.00m,in,Summer,1,1 Bundesliga,1999,1999/2000
+E. Frankfurt,Torsten Kracht,31.0,Centre-Back,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Erol Bulut,24.0,Left-Back,Turkey,600Th.,in,Summer,"0,6",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Jens Rasiejewski,24.0,Sweeper,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Tibor Dombi,25.0,Right Midfield,Central_EU,100Th.,in,Summer,"0,1",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Patrick Falk,19.0,Attacking Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Markus Weissenberger,24.0,Attacking Midfield,Central_EU,900Th.,in,Summer,"0,9",1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Márcio Borges,26.0,Centre-Back,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Baya Baya,20.0,Attacking Midfield,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Thorsten Lenze,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Thorsten Nehrbauer,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Thijs Waterink,30.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Dirk van der Ven,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Alexander Klitzpera,21.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Josef Ivanovic,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Berkant Göktan,18.0,Centre-Forward,Bayern Munich,loan transfer,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Christian Saba,20.0,Centre-Back,Germany,loan transfer,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Lukas Kwasniok,18.0,Defensive Midfield,Karlsruhe,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Marc Ziegler,23.0,Goalkeeper,VfB Stuttgart,loan transfer,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+Unterhaching,Dennis Grassow,27.0,Centre-Back,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,1999,1999/2000
+Unterhaching,Oliver Straube,27.0,Left Midfield,Hamburger SV,125Th.,in,Summer,"0,125",1 Bundesliga,1999,1999/2000
+Unterhaching,Danny Schwarz,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Unterhaching,Hendrik Herzog,30.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Unterhaching,Marco Haber,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Unterhaching,Ludwig Kögl,33.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+Unterhaching,Alberto Méndez,24.0,Attacking Midfield,Arsenal,loan transfer,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,János Radoki,27.0,Left-Back,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Hans van de Haar,24.0,Centre-Forward,De Graafschap,250Th.,in,Summer,"0,25",1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Evans Wise,25.0,Left Winger,Tampa Bay,100Th.,in,Summer,"0,1",1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Oliver Tuzyna,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Uwe Grauer,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Rui Marques,21.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Serdar Erdinc,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Eduard Waldmann,23.0,defence,free agents,free transfer,in,Summer,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Rainer Scharinger,32.0,midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Mike Büskens,31.0,Left Midfield,FC Schalke 04,500Th.,in,Winter,"0,5",1 Bundesliga,1999,1999/2000
+Bayern Munich,Slawomir Wojciechowski,26.0,Left Midfield,Uk,700Th.,in,Winter,"0,7",1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Jurica Vranjes,19.0,Defensive Midfield,Est_EU,3.00m,in,Winter,3,1 Bundesliga,1999,1999/2000
+Bay. Leverkusen,Marko Babic,18.0,Left Midfield,Est_EU,2.00m,in,Winter,2,1 Bundesliga,1999,1999/2000
+Hertha BSC,Alex Alves,25.0,Centre-Forward,South America,7.60m,in,Winter,"7,6",1 Bundesliga,1999,1999/2000
+Hertha BSC,Josip Simunic,21.0,Centre-Back,Hamburger SV,175Th.,in,Winter,"0,175",1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Mario Basler,30.0,Right Midfield,Bayern Munich,750Th.,in,Winter,"0,75",1 Bundesliga,1999,1999/2000
+1.FC K'lautern,Georg Koch,27.0,Goalkeeper,Arm. Bielefeld,500Th.,in,Winter,"0,5",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jürgen Rische,29.0,Centre-Forward,1.FC K'lautern,250Th.,in,Winter,"0,25",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jonathan Akonnor,21.0,Left Midfield,Germany,25Th.,in,Winter,"0,025",1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Thomas Hengen,25.0,Sweeper,Bor. Dortmund,?,in,Winter,0.01,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Emile Mpenza,21.0,Centre-Forward,Belgium,8.50m,in,Winter,"8,5",1 Bundesliga,1999,1999/2000
+FC Schalke 04,Markus Happe,27.0,Centre-Back,Bay. Leverkusen,500Th.,in,Winter,"0,5",1 Bundesliga,1999,1999/2000
+FC Schalke 04,Thorsten Legat,31.0,Left Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Marcelo Bordon,23.0,Centre-Back,South America,2.25m,in,Winter,"2,25",1 Bundesliga,1999,1999/2000
+SC Freiburg,Abder Ramdane,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+Hansa Rostock,Marcus Lantz,24.0,Central Midfield,Torino,1.00m,in,Winter,1,1 Bundesliga,1999,1999/2000
+E. Frankfurt,Thomas Sobotzik,25.0,Attacking Midfield,1.FC K'lautern,1.25m,in,Winter,"1,25",1 Bundesliga,1999,1999/2000
+E. Frankfurt,Thomas Reichenberger,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+E. Frankfurt,Dirk Heinen,29.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Artur Wichniarek,22.0,Centre-Forward,Central_EU,1.50m,in,Winter,"1,5",1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Thomas Gansauge,29.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+Arm. Bielefeld,Bartosz Partyka,18.0,Left-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+Unterhaching,Tobias Iseli,21.0,Left-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+Unterhaching,André Breitenreiter,26.0,Second Striker,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Leandro,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,1999,1999/2000
+Chelsea,Chris Sutton,26.0,Centre-Forward,Uk,15.00m,in,Summer,15,Premier League,1999,1999/2000
+Chelsea,Gabriele Ambrosetti,25.0,Left Midfield,Italy,4.89m,in,Summer,"4,89",Premier League,1999,1999/2000
+Chelsea,Didier Deschamps,30.0,Defensive Midfield,Juventus,2.00m,in,Summer,2,Premier League,1999,1999/2000
+Chelsea,Jes Högh,33.0,Centre-Back,Turkey,470Th.,in,Summer,"0,47",Premier League,1999,1999/2000
+Chelsea,Mario Melchiot,22.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Chelsea,Stuart Reddington,21.0,defence,Lincoln United,?,in,Summer,0.01,Premier League,1999,1999/2000
+Chelsea,Carlo Cudicini,25.0,Goalkeeper,Italy,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Sheff Wed,Gilles De Bilde,28.0,Centre-Forward,PSV Eindhoven,5.00m,in,Summer,5,Premier League,1999,1999/2000
+Sheff Wed,Gerald Sibon,25.0,Centre-Forward,Ajax,3.00m,in,Summer,3,Premier League,1999,1999/2000
+Sheff Wed,Simon Donnelly,24.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Sheff Wed,Phil O'Donnell,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Sheff Wed,Alex Higgins,17.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1999,1999/2000
+Bradford,David Wetherall,28.0,Centre-Back,Leeds,2.10m,in,Summer,"2,1",Premier League,1999,1999/2000
+Bradford,Lee Sharpe,28.0,Left Midfield,Leeds,300Th.,in,Summer,"0,3",Premier League,1999,1999/2000
+Bradford,Neil Redfearn,34.0,Central Midfield,Uk,287Th.,in,Summer,"0,287",Premier League,1999,1999/2000
+Bradford,Andy Myers,25.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Bradford,Dean Saunders,35.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Bradford,Matt Clarke,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Bradford,Bruno Rodriguez,26.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Bradford,Gunnar Halle,33.0,Right-Back,Leeds,?,in,Summer,0.01,Premier League,1999,1999/2000
+Watford,Nordin Wooter,22.0,Right Winger,Real Zaragoza,1.40m,in,Summer,"1,4",Premier League,1999,1999/2000
+Watford,Charlie Miller,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Watford,Richard Johnson,25.0,midfield,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Watford,Dominic Foley,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Watford,Mark Williams,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Watford,Des Lyttle,27.0,Right-Back,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Watford,Herwig Walker,27.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Premier League,1999,1999/2000
+Leicester,Tim Flowers,32.0,Goalkeeper,Uk,1.80m,in,Summer,"1,8",Premier League,1999,1999/2000
+Leicester,Carl Bacon,18.0,Right-Back,Unknown,?,in,Summer,0.01,Premier League,1999,1999/2000
+Leicester,Matthew Nurse,17.0,Goalkeeper,Unknown,?,in,Summer,0.01,Premier League,1999,1999/2000
+Leicester,Alex Mortimer,16.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1999,1999/2000
+Leicester,Phil Gilchrist,25.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Wimbledon FC,Hermann Hreidarsson,24.0,Centre-Back,Uk,3.75m,in,Summer,"3,75",Premier League,1999,1999/2000
+Wimbledon FC,Martin Andresen,22.0,Central Midfield,North_EU,3.00m,in,Summer,3,Premier League,1999,1999/2000
+Wimbledon FC,Walid Badir,25.0,Defensive Midfield,Est_EU,1.50m,in,Summer,"1,5",Premier League,1999,1999/2000
+Wimbledon FC,Chris Willmott,21.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Wimbledon FC,Tore Pedersen,29.0,Centre-Back,E. Frankfurt,?,in,Summer,0.01,Premier League,1999,1999/2000
+Wimbledon FC,Kjetil Waehler,23.0,Centre-Back,FK Lyn,?,in,Summer,0.01,Premier League,1999,1999/2000
+Wimbledon FC,Trond Andersen,24.0,Centre-Back,North_EU,?,in,Summer,0.01,Premier League,1999,1999/2000
+Coventry,Robbie Keane,19.0,Centre-Forward,Uk,9.00m,in,Summer,9,Premier League,1999,1999/2000
+Coventry,Carlton Palmer,33.0,Defensive Midfield,Uk,600Th.,in,Summer,"0,6",Premier League,1999,1999/2000
+Coventry,Runar Normann,21.0,Left-Back,North_EU,?,in,Summer,0.01,Premier League,1999,1999/2000
+Coventry,Youssef Chippo,26.0,Central Midfield,FC Porto,?,in,Summer,0.01,Premier League,1999,1999/2000
+Coventry,Raffaele Nuzzo,26.0,Goalkeeper,Inter,?,in,Summer,0.01,Premier League,1999,1999/2000
+Coventry,Morten Hyldgaard,21.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Coventry,Cédric Roussel,21.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Man Utd,Mikaël Silvestre,22.0,Left-Back,Inter,5.70m,in,Summer,"5,7",Premier League,1999,1999/2000
+Man Utd,Mark Bosnich,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Man Utd,Massimo Taibi,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Man Utd,Kalam Mooniaruck,15.0,attack,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Newcastle,Kieron Dyer,20.0,Right Midfield,Uk,9.00m,in,Summer,9,Premier League,1999,1999/2000
+Newcastle,Alain Goma,26.0,Centre-Back,Paris SG,7.00m,in,Summer,7,Premier League,1999,1999/2000
+Newcastle,Marcelino,27.0,Centre-Back,RCD Mallorca,6.70m,in,Summer,"6,7",Premier League,1999,1999/2000
+Newcastle,Diego Gavilán,19.0,Central Midfield,South America,3.00m,in,Summer,3,Premier League,1999,1999/2000
+Newcastle,Kevin Gallacher,32.0,Right Winger,Uk,800Th.,in,Summer,"0,8",Premier League,1999,1999/2000
+Newcastle,Franck Dumas,31.0,Centre-Back,Monaco,750Th.,in,Summer,"0,75",Premier League,1999,1999/2000
+Newcastle,Jonny Brain,16.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Newcastle,Fumaça,22.0,Second Striker,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Newcastle,Gary Caldwell,17.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Newcastle,Hélder Cristóvão,28.0,Centre-Back,Dep. La Coruña,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Newcastle,Tommy Wright,35.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Newcastle,Lucas Cominelli,22.0,midfield,Spain,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Middlesbrough,Christian Ziege,27.0,Left Midfield,Milan,6.00m,in,Summer,6,Premier League,1999,1999/2000
+Middlesbrough,Paul Ince,31.0,Defensive Midfield,Uk,1.50m,in,Summer,"1,5",Premier League,1999,1999/2000
+Middlesbrough,Chris Bennion,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Middlesbrough,Juninho Paulista,26.0,Attacking Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Arsenal,Thierry Henry,21.0,Centre-Forward,Juventus,16.10m,in,Summer,"16,1",Premier League,1999,1999/2000
+Arsenal,Davor Suker,31.0,Centre-Forward,Real Madrid,5.40m,in,Summer,"5,4",Premier League,1999,1999/2000
+Arsenal,Oleg Luzhnyi,30.0,Right-Back,Est_EU,2.75m,in,Summer,"2,75",Premier League,1999,1999/2000
+Arsenal,Stefan Malz,27.0,Left-Back,1860 Munich,1.15m,in,Summer,"1,15",Premier League,1999,1999/2000
+Arsenal,Sylvinho,25.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Aston Villa,George Boateng,23.0,Defensive Midfield,Coventry,6.20m,in,Summer,"6,2",Premier League,1999,1999/2000
+Aston Villa,David James,28.0,Goalkeeper,Uk,2.40m,in,Summer,"2,4",Premier League,1999,1999/2000
+Aston Villa,Najwan Ghrayib,25.0,Left-Back,Est_EU,1.00m,in,Summer,1,Premier League,1999,1999/2000
+Aston Villa,Benny Carbone,27.0,Second Striker,Sheff Wed,?,in,Summer,0.01,Premier League,1999,1999/2000
+Leeds,Darren Huckerby,23.0,Right Winger,Coventry,7.60m,in,Summer,"7,6",Premier League,1999,1999/2000
+Leeds,Michael Bridges,20.0,Centre-Forward,Sunderland,7.50m,in,Summer,"7,5",Premier League,1999,1999/2000
+Leeds,Michael Duberry,23.0,Centre-Back,Chelsea,6.75m,in,Summer,"6,75",Premier League,1999,1999/2000
+Leeds,Danny Mills,22.0,Right-Back,Uk,6.00m,in,Summer,6,Premier League,1999,1999/2000
+Leeds,Eirik Bakke,21.0,Central Midfield,North_EU,2.60m,in,Summer,"2,6",Premier League,1999,1999/2000
+Leeds,Danny Hay,24.0,Centre-Back,Asia,280Th.,in,Summer,"0,28",Premier League,1999,1999/2000
+Leeds,Dejan Milosevic,21.0,Goalkeeper,Asia,175Th.,in,Summer,"0,175",Premier League,1999,1999/2000
+West Ham,Paulo Wanchope,22.0,Centre-Forward,Derby,5.35m,in,Summer,"5,35",Premier League,1999,1999/2000
+West Ham,Jermain Defoe,16.0,Centre-Forward,Uk,1.73m,in,Summer,"1,73",Premier League,1999,1999/2000
+West Ham,Igor Stimac,31.0,Centre-Back,Derby,700Th.,in,Summer,"0,7",Premier League,1999,1999/2000
+West Ham,Stuart Pearce,37.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+West Ham,Rob Jones,27.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+West Ham,Gary Charles,29.0,Right-Back,Benfica,?,in,Summer,0.01,Premier League,1999,1999/2000
+West Ham,Ömer Riza,19.0,Second Striker,Arsenal,?,in,Summer,0.01,Premier League,1999,1999/2000
+West Ham,Romarin Billong,29.0,Left-Back,Saint-Étienne,?,in,Summer,0.01,Premier League,1999,1999/2000
+Sunderland,Stefan Schwarz,30.0,Central Midfield,Valencia,6.00m,in,Summer,6,Premier League,1999,1999/2000
+Sunderland,Carsten Fredgaard,23.0,Left-Back,North_EU,2.20m,in,Summer,"2,2",Premier League,1999,1999/2000
+Sunderland,John Oster,20.0,Central Midfield,Everton,1.00m,in,Summer,1,Premier League,1999,1999/2000
+Sunderland,Steve Bould,36.0,Centre-Back,Arsenal,800Th.,in,Summer,"0,8",Premier League,1999,1999/2000
+Sunderland,Éric Roy,31.0,Defensive Midfield,Marseille,275Th.,in,Summer,"0,275",Premier League,1999,1999/2000
+Sunderland,Thomas Helmer,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Sunderland,Michael Ingham,18.0,Goalkeeper,Uk,45Th.,in,Summer,"0,045",Premier League,1999,1999/2000
+Sunderland,Esteban Lopez,22.0,Right-Back,Spain,?,in,Summer,0.01,Premier League,1999,1999/2000
+Sunderland,Bica,27.0,attack,South America,?,in,Summer,0.01,Premier League,1999,1999/2000
+Sunderland,Michael Reddy,19.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Southampton,Jo Tessem,27.0,Central Midfield,North_EU,900Th.,in,Summer,"0,9",Premier League,1999,1999/2000
+Southampton,Imants Bleidelis,23.0,Right Midfield,Est_EU,875Th.,in,Summer,"0,875",Premier League,1999,1999/2000
+Southampton,Luís Boa Morte,21.0,Left Midfield,Arsenal,700Th.,in,Summer,"0,7",Premier League,1999,1999/2000
+Southampton,Tahar El Khalej,31.0,Centre-Back,Benfica,500Th.,in,Summer,"0,5",Premier League,1999,1999/2000
+Southampton,Trond Soltvedt,32.0,Attacking Midfield,Coventry,450Th.,in,Summer,"0,45",Premier League,1999,1999/2000
+Southampton,Dean Richards,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Southampton,Kevin Davies,22.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Southampton,Richard Dryden,30.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Southampton,Kevin Gibbens,19.0,midfield,Uk,?,in,Summer,0.01,Premier League,1999,1999/2000
+Southampton,Dani Rodrigues,19.0,Left Winger,Farense,?,in,Summer,0.01,Premier League,1999,1999/2000
+Southampton,Patrice Kobenan Tano,16.0,attack,Belgium,nan,in,Summer,0.01,Premier League,1999,1999/2000
+Spurs,Chris Perry,26.0,Centre-Back,Wimbledon FC,6.00m,in,Summer,6,Premier League,1999,1999/2000
+Spurs,Öyvind Leonhardsen,28.0,Attacking Midfield,Uk,4.50m,in,Summer,"4,5",Premier League,1999,1999/2000
+Spurs,Willem Korsten,24.0,Left Winger,Vitesse,1.70m,in,Summer,"1,7",Premier League,1999,1999/2000
+Spurs,Matthew Etherington,17.0,Left Midfield,Uk,750Th.,in,Summer,"0,75",Premier League,1999,1999/2000
+Spurs,Yannick Kamanan,17.0,Centre-Forward,France,?,in,Summer,0.01,Premier League,1999,1999/2000
+Liverpool FC,Dietmar Hamann,25.0,Defensive Midfield,Newcastle,12.00m,in,Summer,12,Premier League,1999,1999/2000
+Liverpool FC,Vladimir Smicer,26.0,Attacking Midfield,Lens,6.80m,in,Summer,"6,8",Premier League,1999,1999/2000
+Liverpool FC,Sander Westerveld,24.0,Goalkeeper,Vitesse,6.00m,in,Summer,6,Premier League,1999,1999/2000
+Liverpool FC,Stéphane Henchoz,24.0,Centre-Back,Uk,5.40m,in,Summer,"5,4",Premier League,1999,1999/2000
+Liverpool FC,Sami Hyypiä,25.0,Centre-Back,Willem II,3.90m,in,Summer,"3,9",Premier League,1999,1999/2000
+Liverpool FC,Titi Camara,26.0,Centre-Forward,Marseille,3.90m,in,Summer,"3,9",Premier League,1999,1999/2000
+Liverpool FC,Erik Meijer,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1999,1999/2000
+Everton,Kevin Campbell,29.0,Centre-Forward,Turkey,4.50m,in,Summer,"4,5",Premier League,1999,1999/2000
+Everton,Abel Xavier,26.0,Right-Back,PSV Eindhoven,2.10m,in,Summer,"2,1",Premier League,1999,1999/2000
+Everton,Mark Pembridge,28.0,Left Midfield,Benfica,1.00m,in,Summer,1,Premier League,1999,1999/2000
+Everton,Tommy Johnson,28.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Everton,Richard Gough,37.0,Centre-Back,North America,?,in,Summer,0.01,Premier League,1999,1999/2000
+Derby,Seth Johnson,20.0,Central Midfield,Uk,4.50m,in,Summer,"4,5",Premier League,1999,1999/2000
+Derby,Lee Morris,19.0,Centre-Forward,Uk,4.20m,in,Summer,"4,2",Premier League,1999,1999/2000
+Derby,Andy Oakes,22.0,Goalkeeper,Uk,500Th.,in,Summer,"0,5",Premier League,1999,1999/2000
+Derby,Avi Nimni,27.0,Attacking Midfield,Est_EU,loan transfer,in,Summer,0.01,Premier League,1999,1999/2000
+Chelsea,Émerson Thome,27.0,Centre-Back,Sheff Wed,4.00m,in,Winter,4,Premier League,1999,1999/2000
+Chelsea,George Weah,33.0,Centre-Forward,Milan,loan transfer,in,Winter,0.01,Premier League,1999,1999/2000
+Sheff Wed,Barry Richardson,30.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1999,1999/2000
+Sheff Wed,Barry Horne,37.0,Defensive Midfield,Uk,?,in,Winter,0.01,Premier League,1999,1999/2000
+Bradford,Aidan Davison,31.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1999,1999/2000
+Bradford,Jorge Cadete,31.0,Centre-Forward,Benfica,?,in,Winter,0.01,Premier League,1999,1999/2000
+Bradford,Neville Southall,41.0,Goalkeeper,Uk,?,in,Winter,0.01,Premier League,1999,1999/2000
+Watford,Heidar Helguson,22.0,Centre-Forward,North_EU,2.25m,in,Winter,"2,25",Premier League,1999,1999/2000
+Watford,Neil Cox,28.0,Centre-Back,Uk,750Th.,in,Winter,"0,75",Premier League,1999,1999/2000
+Watford,Xavier Gravelaine,31.0,Centre-Forward,Paris SG,?,in,Winter,0.01,Premier League,1999,1999/2000
+Leicester,Darren Eadie,24.0,Left Midfield,Uk,4.50m,in,Winter,"4,5",Premier League,1999,1999/2000
+Leicester,Stan Collymore,29.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1999,1999/2000
+Wimbledon FC,Andreas Lund,24.0,Centre-Forward,North_EU,?,in,Winter,0.01,Premier League,1999,1999/2000
+Coventry,Mustapha Hadji,28.0,Attacking Midfield,Dep. La Coruña,6.00m,in,Winter,6,Premier League,1999,1999/2000
+Coventry,Cédric Roussel,22.0,Centre-Forward,Belgium,1.68m,in,Winter,"1,68",Premier League,1999,1999/2000
+Coventry,Ysrael Zúñiga,23.0,Centre-Forward,South America,1.50m,in,Winter,"1,5",Premier League,1999,1999/2000
+Coventry,Colin Hendry,34.0,Centre-Back,Uk,1.15m,in,Winter,"1,15",Premier League,1999,1999/2000
+Coventry,Tomas Antonelius,26.0,Right-Back,North_EU,400Th.,in,Winter,"0,4",Premier League,1999,1999/2000
+Coventry,Andreas Dahl,15.0,Central Midfield,IFK Hässleholm,?,in,Winter,0.01,Premier League,1999,1999/2000
+Man Utd,Quinton Fortune,22.0,Central Midfield,Atlético Madrid,2.25m,in,Winter,"2,25",Premier League,1999,1999/2000
+Middlesbrough,Carlos Marinelli,17.0,Attacking Midfield,South America,2.82m,in,Winter,"2,82",Premier League,1999,1999/2000
+Aston Villa,Neil Cutler,23.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1999,1999/2000
+Leeds,Jason Wilcox,28.0,Left Winger,Uk,4.50m,in,Winter,"4,5",Premier League,1999,1999/2000
+Leeds,Shaun Allaway,17.0,Goalkeeper,Uk,300Th.,in,Winter,"0,3",Premier League,1999,1999/2000
+West Ham,Sasa Ilic,27.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1999,1999/2000
+West Ham,Frédéric Kanouté,22.0,Centre-Forward,Olympique Lyon,loan transfer,in,Winter,0.01,Premier League,1999,1999/2000
+Sunderland,Kevin Kilbane,22.0,Left Midfield,Uk,3.75m,in,Winter,"3,75",Premier League,1999,1999/2000
+Sunderland,Milton Núñez,27.0,Centre-Forward,Central_EU,2.63m,in,Winter,"2,63",Premier League,1999,1999/2000
+Southampton,Paul Hughes,23.0,Central Midfield,free agents,free transfer,in,Winter,0,Premier League,1999,1999/2000
+Southampton,Marco Almeida,22.0,Centre-Back,Sporting CP,?,in,Winter,0.01,Premier League,1999,1999/2000
+Southampton,Richard Dryden,30.0,Centre-Back,Uk,?,in,Winter,0.01,Premier League,1999,1999/2000
+Spurs,Gary Doherty,20.0,Centre-Back,Uk,1.50m,in,Winter,"1,5",Premier League,1999,1999/2000
+Spurs,Anthony Gardner,19.0,Centre-Back,Uk,1.50m,in,Winter,"1,5",Premier League,1999,1999/2000
+Spurs,Simon Davies,20.0,Right Midfield,Uk,1.05m,in,Winter,"1,05",Premier League,1999,1999/2000
+Spurs,Dave McEwen,22.0,attack,Uk,?,in,Winter,0.01,Premier League,1999,1999/2000
+Liverpool FC,Emile Heskey,22.0,Centre-Forward,Leicester,16.50m,in,Winter,"16,5",Premier League,1999,1999/2000
+Everton,Mark Hughes,36.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1999,1999/2000
+Everton,Joe-Max Moore,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1999,1999/2000
+Derby,Branko Strupar,29.0,Centre-Forward,Belgium,4.20m,in,Winter,"4,2",Premier League,1999,1999/2000
+Derby,Esteban Fuertes,27.0,Centre-Forward,South America,3.00m,in,Winter,3,Premier League,1999,1999/2000
+Derby,Craig Burley,28.0,Attacking Midfield,Uk,?,in,Winter,0.01,Premier League,1999,1999/2000
+Derby,Giorgi Kinkladze,26.0,Attacking Midfield,Ajax,loan transfer,in,Winter,0.01,Premier League,1999,1999/2000
+Dep. La Coruña,Roy Makaay,24.0,Centre-Forward,Spain,8.60m,in,Summer,"8,6",Primera Division,1999,1999/2000
+Dep. La Coruña,Víctor Sánchez,23.0,Right Winger,Racing,7.60m,in,Summer,"7,6",Primera Division,1999,1999/2000
+Dep. La Coruña,César Martín,22.0,Centre-Back,Real Oviedo,7.40m,in,Summer,"7,4",Primera Division,1999,1999/2000
+Dep. La Coruña,Barata,27.0,Centre-Forward,CP Mérida,4.50m,in,Summer,"4,5",Primera Division,1999,1999/2000
+Dep. La Coruña,Slavisa Jokanovic,30.0,Defensive Midfield,Spain,4.50m,in,Summer,"4,5",Primera Division,1999,1999/2000
+Dep. La Coruña,Fernando,27.0,Left Midfield,Real Betis,3.00m,in,Summer,3,Primera Division,1999,1999/2000
+Dep. La Coruña,Jaime,26.0,Defensive Midfield,Real Madrid,2.50m,in,Summer,"2,5",Primera Division,1999,1999/2000
+Dep. La Coruña,José Manuel,25.0,Right Midfield,Spain,1.80m,in,Summer,"1,8",Primera Division,1999,1999/2000
+Dep. La Coruña,David Pirri,25.0,Left Midfield,CP Mérida,1.71m,in,Summer,"1,71",Primera Division,1999,1999/2000
+Dep. La Coruña,Iván Pérez,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Dep. La Coruña,Manel Menéndez,28.0,Right-Back,Real Oviedo,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Barcelona,Dani García,24.0,Centre-Forward,RCD Mallorca,15.00m,in,Summer,15,Primera Division,1999,1999/2000
+Barcelona,Simão,19.0,Left Winger,Sporting CP,14.00m,in,Summer,14,Primera Division,1999,1999/2000
+Barcelona,Jari Litmanen,28.0,Attacking Midfield,Ajax,4.00m,in,Summer,4,Primera Division,1999,1999/2000
+Barcelona,Frédéric Déhu,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Valencia,Rubén Baraja,23.0,Central Midfield,Atlético Madrid,10.80m,in,Summer,"10,8",Primera Division,1999,1999/2000
+Valencia,Juan Sánchez,27.0,Centre-Forward,Celta de Vigo,4.20m,in,Summer,"4,2",Primera Division,1999,1999/2000
+Valencia,Kily González,24.0,Left Midfield,Real Zaragoza,2.50m,in,Summer,"2,5",Primera Division,1999,1999/2000
+Valencia,Daniel Fagiani,25.0,Left-Back,South America,1.80m,in,Summer,"1,8",Primera Division,1999,1999/2000
+Valencia,Mauricio Pellegrino,27.0,Centre-Back,South America,1.20m,in,Summer,"1,2",Primera Division,1999,1999/2000
+Valencia,Gerardo,24.0,Right-Back,Spain,216Th.,in,Summer,"0,216",Primera Division,1999,1999/2000
+Valencia,Óscar García,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Valencia,Andrés Palop,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Real Zaragoza,Juanele,28.0,Second Striker,Spain,420Th.,in,Summer,"0,42",Primera Division,1999,1999/2000
+Real Zaragoza,Martín Vellisca,27.0,Left Midfield,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Zaragoza,Marco Lanna,30.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Madrid,Nicolas Anelka,20.0,Centre-Forward,Arsenal,35.00m,in,Summer,35,Primera Division,1999,1999/2000
+Real Madrid,Elvir Baljic,24.0,Left Winger,Turkey,21.00m,in,Summer,21,Primera Division,1999,1999/2000
+Real Madrid,Míchel Salgado,23.0,Right-Back,Celta de Vigo,6.00m,in,Summer,6,Primera Division,1999,1999/2000
+Real Madrid,Njitap Geremi,20.0,Right Midfield,Turkey,5.00m,in,Summer,5,Primera Division,1999,1999/2000
+Real Madrid,Edwin Congo,22.0,Centre-Forward,South America,4.80m,in,Summer,"4,8",Primera Division,1999,1999/2000
+Real Madrid,Iván Helguera,24.0,Centre-Back,Espanyol,2.50m,in,Summer,"2,5",Primera Division,1999,1999/2000
+Real Madrid,Perica Ognjenovic,22.0,Right Winger,Central_EU,2.40m,in,Summer,"2,4",Primera Division,1999,1999/2000
+Real Madrid,Albano Bizzarri,21.0,Goalkeeper,South America,1.80m,in,Summer,"1,8",Primera Division,1999,1999/2000
+Real Madrid,Júlio César,20.0,Centre-Back,Real Valladolid,1.80m,in,Summer,"1,8",Primera Division,1999,1999/2000
+Real Madrid,Steve McManaman,27.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Alavés,Cosmin Contra,23.0,Right-Back,Est_EU,1.80m,in,Summer,"1,8",Primera Division,1999,1999/2000
+Alavés,Jurica Vucko,22.0,Centre-Forward,Est_EU,250Th.,in,Summer,"0,25",Primera Division,1999,1999/2000
+Alavés,Óscar Téllez,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Alavés,Dan Eggen,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Alavés,Víctor Torres Mestre,28.0,Left-Back,G. Bordeaux,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Alavés,Martín Herrera,28.0,Goalkeeper,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Alavés,Meho Kodro,32.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Alavés,Martín Astudillo,21.0,Central Midfield,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Alavés,Àngel Morales,23.0,Defensive Midfield,Espanyol,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Alavés,Nan Ribera,24.0,midfield,Espanyol,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Celta de Vigo,Juan Velasco,22.0,Right-Back,Sevilla FC,6.60m,in,Summer,"6,6",Primera Division,1999,1999/2000
+Celta de Vigo,Benni McCarthy,21.0,Centre-Forward,Ajax,6.00m,in,Summer,6,Primera Division,1999,1999/2000
+Celta de Vigo,Iván Kaviedes,21.0,Centre-Forward,Perugia,5.00m,in,Summer,5,Primera Division,1999,1999/2000
+Celta de Vigo,Everton Giovanella,28.0,Central Midfield,Spain,4.20m,in,Summer,"4,2",Primera Division,1999,1999/2000
+Celta de Vigo,Mario Turdó,20.0,Centre-Forward,South America,3.60m,in,Summer,"3,6",Primera Division,1999,1999/2000
+Celta de Vigo,Sergio Fernández,22.0,Centre-Back,Spain,3.60m,in,Summer,"3,6",Primera Division,1999,1999/2000
+Celta de Vigo,Gustavo López,26.0,Left Winger,Real Zaragoza,2.40m,in,Summer,"2,4",Primera Division,1999,1999/2000
+Celta de Vigo,Juanfran,22.0,Left-Back,Valencia,2.00m,in,Summer,2,Primera Division,1999,1999/2000
+Celta de Vigo,Albert Celades,23.0,Defensive Midfield,Barcelona,1.70m,in,Summer,"1,7",Primera Division,1999,1999/2000
+Celta de Vigo,Marko Pantelic,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Celta de Vigo,Pablo Coira,19.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Celta de Vigo,Djamel Belmadi,23.0,Right Midfield,Marseille,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Celta de Vigo,José María Mena,20.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Manuel Tena,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Real Valladolid,Luis García,21.0,Right Winger,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Arílson,26.0,Attacking Midfield,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Jorge Brítez,18.0,Defensive Midfield,Club Hayes,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Edwin Congo,22.0,Centre-Forward,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Rodrigo Fabri,23.0,Attacking Midfield,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Sergio Ballesteros,23.0,Centre-Back,Spain,2.10m,in,Summer,"2,1",Primera Division,1999,1999/2000
+Rayo Vallecano,Jordi Ferrón,20.0,Right-Back,Spain,1.95m,in,Summer,"1,95",Primera Division,1999,1999/2000
+Rayo Vallecano,Kasey Keller,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Rayo Vallecano,Martín Mandra,21.0,Left Winger,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Hélder Baptista,27.0,Defensive Midfield,Paris SG,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,David Clotet,26.0,Centre-Back,CD Logroñés,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Quinzinho,25.0,Centre-Forward,FC Porto,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Dani Bouzas,25.0,Attacking Midfield,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Gerhard Poschner,29.0,Defensive Midfield,AC Venezia 1907,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Gilmar,28.0,Centre-Back,Real Zaragoza,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Manuel Canabal,24.0,Centre-Forward,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+RCD Mallorca,Juan José Serrizuela,22.0,Right-Back,South America,4.60m,in,Summer,"4,6",Primera Division,1999,1999/2000
+RCD Mallorca,Jorge Quinteros,24.0,Centre-Forward,South America,3.50m,in,Summer,"3,5",Primera Division,1999,1999/2000
+RCD Mallorca,Miguel Ángel Nadal,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+RCD Mallorca,Ardijan Djokaj,20.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+RCD Mallorca,David Castedo,25.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+RCD Mallorca,Armando Álvarez,28.0,Right-Back,Dep. La Coruña,?,in,Summer,0.01,Primera Division,1999,1999/2000
+RCD Mallorca,Iván Gabrich,26.0,Centre-Forward,CF Extremadura,?,in,Summer,0.01,Primera Division,1999,1999/2000
+RCD Mallorca,Germán Burgos,30.0,Goalkeeper,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+RCD Mallorca,Jorge Cordero,22.0,midfield,Spain,nan,in,Summer,0.01,Primera Division,1999,1999/2000
+Athletic,Sívori,22.0,Centre-Forward,Alavés,2.10m,in,Summer,"2,1",Primera Division,1999,1999/2000
+Athletic,Tiko,22.0,Central Midfield,Spain,1.05m,in,Summer,"1,05",Primera Division,1999,1999/2000
+Athletic,Oskar Vales,24.0,Right-Back,Celta de Vigo,900Th.,in,Summer,"0,9",Primera Division,1999,1999/2000
+Málaga CF,Darío Silva,26.0,Centre-Forward,Cagliari Calcio,500Th.,in,Summer,"0,5",Primera Division,1999,1999/2000
+Málaga CF,Roberto Rojas,24.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Málaga CF,Pedro Contreras,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Málaga CF,Albert Luque,21.0,Left Winger,RCD Mallorca,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Málaga CF,Fernando Sanz,25.0,Centre-Back,Real Madrid,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Málaga CF,Francisco Rufete,22.0,Right Winger,RCD Mallorca,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Málaga CF,Awule Quaye,18.0,Attacking Midfield,CD Ourense,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Sociedad,Víctor Bonilla,28.0,Centre-Forward,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Espanyol,Roger García,22.0,Left Midfield,Barcelona,2.70m,in,Summer,"2,7",Primera Division,1999,1999/2000
+Espanyol,Sergio Korino,24.0,Centre-Back,Athletic,1.80m,in,Summer,"1,8",Primera Division,1999,1999/2000
+Espanyol,Toni Velamazán,22.0,Right Midfield,Barcelona,450Th.,in,Summer,"0,45",Primera Division,1999,1999/2000
+Espanyol,Juan Luis Mora,25.0,Goalkeeper,Real Oviedo,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Espanyol,Carlos Casartelli,24.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Espanyol,Mauro Navas,24.0,Right Midfield,Italy,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Espanyol,Manel,25.0,Centre-Forward,CD Logroñés,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Espanyol,Pablo Rotchen,26.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Espanyol,Pablo Cavallero,25.0,Goalkeeper,South America,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Racing,Sigurd Rushfeldt,26.0,Centre-Forward,North_EU,5.00m,in,Summer,5,Primera Division,1999,1999/2000
+Racing,Fernando Morán,23.0,Right Midfield,CD Ourense,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Racing,Erwin Lemmens,23.0,Goalkeeper,Belgium,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Racing,Javier Manjarín,29.0,Second Striker,Dep. La Coruña,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Racing,Marcelo Espina,32.0,Attacking Midfield,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Oviedo,Óscar Álvarez,22.0,Centre-Back,Spain,270Th.,in,Summer,"0,27",Primera Division,1999,1999/2000
+Real Oviedo,Mateo Corbo,23.0,Left-Back,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Oviedo,Frédéric Danjou,24.0,Centre-Back,AJ Auxerre,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Oviedo,Juan Carlos Unzué,32.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Oviedo,Gert Claessens,27.0,Left Midfield,Belgium,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Damián Manusovich,26.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+CD Numancia,Alberto Belsué,31.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+CD Numancia,Txomin Nagore,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+CD Numancia,Fabrice Moreau,31.0,midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+CD Numancia,Alberto Rivera,21.0,Central Midfield,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Rubén Navarro,20.0,Centre-Forward,Valencia,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Diego Jaume,25.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Iván Rocha,30.0,Left-Back,Alavés,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Gabriel Popescu,25.0,Attacking Midfield,Valencia,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Pacheta,31.0,midfield,Espanyol,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Perico Ojeda,26.0,Centre-Forward,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Juan Muñiz,30.0,Centre-Back,Rayo Vallecano,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Jorge Delgado,23.0,Centre-Forward,Portugal,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Jorge Pérez,23.0,Central Midfield,Athletic,?,in,Summer,0.01,Primera Division,1999,1999/2000
+CD Numancia,Álvaro Núñez,26.0,Goalkeeper,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Betis,Diego Crosa,23.0,Centre-Back,South America,3.80m,in,Summer,"3,8",Primera Division,1999,1999/2000
+Real Betis,Joaquín Bornes,24.0,Centre-Back,Spain,180Th.,in,Summer,"0,18",Primera Division,1999,1999/2000
+Real Betis,Miroslav Karhan,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Real Betis,Sebastián Romero,21.0,Central Midfield,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Real Betis,Adilson,23.0,Left-Back,Central_EU,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Atlético Madrid,Jimmy Floyd Hasselbaink,27.0,Centre-Forward,Leeds,16.70m,in,Summer,"16,7",Primera Division,1999,1999/2000
+Atlético Madrid,Joan Capdevila,21.0,Left-Back,Espanyol,4.80m,in,Summer,"4,8",Primera Division,1999,1999/2000
+Atlético Madrid,Celso Ayala,28.0,Centre-Back,Real Betis,3.00m,in,Summer,3,Primera Division,1999,1999/2000
+Atlético Madrid,Hugo Leal,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Atlético Madrid,Cristian Díaz,23.0,Centre-Back,Málaga CF,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Atlético Madrid,Toni Jiménez,28.0,Goalkeeper,Espanyol,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Atlético Madrid,Leonel Pilipauskas,24.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Atlético Madrid,Carlos Gamarra,28.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Sevilla FC,Marcelo Otero,28.0,Centre-Forward,Italy,6.00m,in,Summer,6,Primera Division,1999,1999/2000
+Sevilla FC,Nicolás Olivera,21.0,Second Striker,Valencia,2.55m,in,Summer,"2,55",Primera Division,1999,1999/2000
+Sevilla FC,Juanjo Valencia,27.0,Goalkeeper,Athletic,1.20m,in,Summer,"1,2",Primera Division,1999,1999/2000
+Sevilla FC,Bakero,21.0,Left Winger,Leiria,1.20m,in,Summer,"1,2",Primera Division,1999,1999/2000
+Sevilla FC,Gabi Moya,33.0,midfield,RCD Mallorca,600Th.,in,Summer,"0,6",Primera Division,1999,1999/2000
+Sevilla FC,Inti Podestá,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,1999,1999/2000
+Sevilla FC,Marcelo Zalayeta,20.0,Centre-Forward,Juventus,loan transfer,in,Summer,0.01,Primera Division,1999,1999/2000
+Sevilla FC,Fredi,25.0,Left Midfield,Spain,?,in,Summer,0.01,Primera Division,1999,1999/2000
+Celta de Vigo,Rick Hoogendorp,24.0,Centre-Forward,RKC Waalwijk,Loan fee:315Th.,in,Winter,"0,315",Primera Division,1999,1999/2000
+Real Valladolid,Luis Márquez,28.0,midfield,Real Betis,?,in,Winter,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Javi Jiménez,23.0,Defensive Midfield,Spain,?,in,Winter,0.01,Primera Division,1999,1999/2000
+Real Valladolid,Shoji Jo,24.0,Centre-Forward,Asia,loan transfer,in,Winter,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Juan Carlos Villamayor,30.0,Right-Back,South America,?,in,Winter,0.01,Primera Division,1999,1999/2000
+Rayo Vallecano,Mark Draper,29.0,Central Midfield,Aston Villa,loan transfer,in,Winter,0.01,Primera Division,1999,1999/2000
+RCD Mallorca,Samuel Eto'o,18.0,Centre-Forward,Real Madrid,7.20m,in,Winter,"7,2",Primera Division,1999,1999/2000
+Real Sociedad,Sergio Korino,25.0,Centre-Back,Espanyol,2.10m,in,Winter,"2,1",Primera Division,1999,1999/2000
+Real Sociedad,Dmitri Khokhlov,24.0,Central Midfield,PSV Eindhoven,1.50m,in,Winter,"1,5",Primera Division,1999,1999/2000
+Espanyol,Delio Toledo,23.0,Left-Back,Italy,?,in,Winter,0.01,Primera Division,1999,1999/2000
+Racing,Léider Preciado,22.0,Centre-Forward,CD Toledo,?,in,Winter,0.01,Primera Division,1999,1999/2000
+Real Oviedo,Bruno Berner,22.0,Left-Back,Uk,loan transfer,in,Winter,0.01,Primera Division,1999,1999/2000
+CD Numancia,Tito Blanco,28.0,midfield,Spain,?,in,Winter,0.01,Primera Division,1999,1999/2000
+CD Numancia,Constantin Barbu,28.0,Attacking Midfield,Est_EU,?,in,Winter,0.01,Primera Division,1999,1999/2000
+CD Numancia,Raúl Muñoz,24.0,Left-Back,South America,?,in,Winter,0.01,Primera Division,1999,1999/2000
+CD Numancia,Jandro,20.0,Attacking Midfield,Spain,loan transfer,in,Winter,0.01,Primera Division,1999,1999/2000
+Real Betis,Fabão,23.0,Centre-Back,South America,2.10m,in,Winter,"2,1",Primera Division,1999,1999/2000
+Sevilla FC,Frode Olsen,32.0,Goalkeeper,North_EU,loan transfer,in,Winter,0.01,Primera Division,1999,1999/2000
+Sevilla FC,Adilson,23.0,Left-Back,Real Betis,?,in,Winter,0.01,Primera Division,1999,1999/2000
+Sporting CP,Peter Schmeichel,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Sporting CP,Toñito,22.0,Right Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Sporting CP,Ivone De Franceschi,25.0,Left Winger,AC Venezia 1907,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Marco Almeida,22.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Mauricio Hanuch,22.0,Central Midfield,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Hugo,22.0,Centre-Back,Italy,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Rui Jorge,26.0,Left-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Kwame Ayew,25.0,Centre-Forward,Boavista,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Toni Robaina,24.0,Left Winger,Spain,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+FC Porto,Argel Fuchs,24.0,Centre-Back,South America,2.50m,in,Summer,"2,5",Liga Nos,1999,1999/2000
+FC Porto,Domingos Paciência,30.0,Centre-Forward,Spain,1.90m,in,Summer,"1,9",Liga Nos,1999,1999/2000
+FC Porto,Rubens Júnior,24.0,Left-Back,South America,1.70m,in,Summer,"1,7",Liga Nos,1999,1999/2000
+FC Porto,Duda,25.0,Right Winger,Rio Ave FC,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+FC Porto,Paulo Ferreira,25.0,Left Winger,CF Estrela,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+FC Porto,Alessandro Cambalhota,26.0,Right Winger,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+FC Porto,Rodolfo Correia,22.0,midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+FC Porto,Ricardo Silva,23.0,Centre-Back,Leiria,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Ricardo Rojas,28.0,Right-Back,South America,1.20m,in,Summer,"1,2",Liga Nos,1999,1999/2000
+Benfica,Chano,34.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Benfica,Robert Enke,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Benfica,Toy,22.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Cristian Uribe,23.0,Central Midfield,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Carlos Bossio,25.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Sérgio Nunes,24.0,Centre-Back,Leiria,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Nuno Santos,26.0,Goalkeeper,Leeds,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Samuel Okunowo,20.0,Right-Back,Barcelona,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Benfica,Tote,20.0,Attacking Midfield,Real Madrid,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Whelliton,26.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Formoso,25.0,Left Winger,SC Braga,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Sérgio Carvalho,22.0,Centre-Back,Castêlo Maia,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Gilmar,32.0,Centre-Forward,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,César de Loma,23.0,Left Midfield,Spain,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Carlos Alberto,24.0,Right Midfield,Campinas-SP,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Emanuel,23.0,Central Midfield,Rio Ave FC,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Ricardo Silva,22.0,Right Winger,Gil Vicente,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Boavista,Augustine Ahinful,24.0,Centre-Forward,Leiria,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Fangueiro,22.0,Right Winger,Vit. Guimarães,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Rondinha,26.0,attack,Lajeadense,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Marquinhos,24.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Auri,25.0,Centre-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Peter Rufai,35.0,Goalkeeper,Dep. La Coruña,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Ovidiu Lucian Cuc,26.0,Centre-Forward,Santa Clara,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Rui Guerreiro,24.0,Right-Back,SC Braga,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Xandy,19.0,attack,Lajeadense,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Paulo Lopes,21.0,Goalkeeper,Benfica,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Ricardo Nascimento,25.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Carlos,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Petit,22.0,Defensive Midfield,Esposende,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Zé Nando,23.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,Ilian Iliev,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Marítimo,Paulo Pereira,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Marítimo,João Flores,19.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,Joel Santos,24.0,Attacking Midfield,Câmara Lobos,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,Mariano Toedtli,23.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,Nuno Afonso,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,Marius Sumudica,28.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,João Oliveira Pinto,27.0,Right Winger,Farense,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Marítimo,Ion Sburlea,28.0,Centre-Back,Est_EU,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Carlos Lima,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Vit. Guimarães,Vítor Nuno,24.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Brandão,29.0,Centre-Forward,Belenenses,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Carlos Pérez,27.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Preto Casagrande,24.0,midfield,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Nandinho,26.0,Right Winger,Benfica,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Nuno Claro,22.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Lixa,22.0,Left Winger,CA Felgueiras,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Rêgo,20.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+CF Estrela ,Verona,25.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+CF Estrela ,Serginho,26.0,Right Winger,Africa Sports,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+CF Estrela ,Tiago Ferreira,24.0,Goalkeeper,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Puma,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+SC Braga,José Luis Deus,22.0,Centre-Forward,Spain,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Maguinho,24.0,Right-Back,União São João,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Pedro Lavoura,25.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Sob Evariste Dibo,30.0,Attacking Midfield,Rio Ave FC,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Barroso,28.0,Central Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Nuno Cavaleiro,23.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Jean Paulista,21.0,Second Striker,Farense,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Braga,Zé Gomes,22.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Derlei,23.0,Centre-Forward,South America,150Th.,in,Summer,"0,15",Liga Nos,1999,1999/2000
+Leiria,Alfredo Bóia,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Leiria,Pedro Mingote,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Leiria,Marçal,24.0,defence,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Leiria,Marcelino Díaz,25.0,Centre-Forward,Spain,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Nuno Sousa,19.0,midfield,FC Porto U19,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Herivelto,23.0,Attacking Midfield,Marítimo,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Paulo Alves,29.0,Centre-Forward,SC Bastia,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Ramos,18.0,Centre-Back,FC Porto U19,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Paulo Vida,27.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Renato,26.0,Centre-Back,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Leiria,Nuno Valente,24.0,Left-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Sergey Ovchinnikov,28.0,Goalkeeper,Benfica,2.50m,in,Summer,"2,5",Liga Nos,1999,1999/2000
+Alverca,Paulo Costa,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Alverca,Bernardo,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Alverca,Zé António,22.0,Centre-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Marco Caneira,20.0,Centre-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Vasiliy Kulkov,33.0,Centre-Back,Russia,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Anderson,21.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Iván Miner,28.0,midfield,Cartagonova,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Nélson Veríssimo,22.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Gilber,23.0,defence,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Gaspar,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Sousa,21.0,Right-Back,Benfica,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Alverca,Nuno Assis,21.0,Attacking Midfield,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Wilson,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Belenenses,José Carlos,32.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Belenenses,Nilson,26.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Rui Pataca,26.0,Centre-Forward,CA Felgueiras,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Jesús Seba,25.0,Second Striker,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Haruna Doda,24.0,attack,Africa Sports,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Fajardo,20.0,Attacking Midfield,Pescadores,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Rui Duarte,20.0,Attacking Midfield,GDRC Os Sandinenses,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Cafú,21.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Fernando Mendes,32.0,Left-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Belenenses,Filipe Gouveia,26.0,Left Midfield,Farense,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Mário Jorge,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Arley,27.0,defence,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Jorge Ribeiro,23.0,defence,União Lamas,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Mickey,27.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Abilio,32.0,Attacking Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Cao,30.0,Defensive Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Torrão,22.0,Defensive Midfield,União Lamas,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Marco Silva,21.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Hugo Cunha,22.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Poejo,25.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Vítor Manuel,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Farense,Dino,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Farense,Carlos Fernandes,21.0,Left-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Nuno Campos,24.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Miguel Mota,23.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Diego Aguilera,19.0,attack,Spain,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Nuno Dieb,24.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Darko Butorovic,28.0,Right-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Tulipa,26.0,Attacking Midfield,Marítimo,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Ilshat Faizulin,26.0,Centre-Forward,Racing,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Zé Tó,21.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Farense,Cavaco,27.0,Right-Back,Boavista,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Pedrosa,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Salgueiros,André Macanga,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Salgueiros,Neves,28.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Salgueiros,Miklós Fehér,19.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Manuel Ramos,21.0,Right Winger,Farense,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Ricardo Fernandes,21.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Paquito,24.0,attack,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Renato,24.0,Right Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Renato,24.0,Central Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Basarab Panduru,28.0,Attacking Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Marco Cláudio,20.0,Right Winger,Montemor,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Basílio Almeida,27.0,Second Striker,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Candido Costa,18.0,Right Midfield,Benfica U19,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Rui Ferreira,26.0,Defensive Midfield,Gil Vicente,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Rio Ave FC,Hugo Henrique,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Rio Ave FC,Artur Jorge Vicente,26.0,attack,Leiria,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Rio Ave FC,Jader,21.0,Central Midfield,Vera Cruz-PE,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Marco Ferreira,21.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,1999,1999/2000
+Vitória Setúbal,Ricardo Carvalho,21.0,Centre-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Carlos Bossio,25.0,Goalkeeper,Benfica,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Sérgio João,30.0,attack,Wilstermann,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Nélson Silva,22.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Jorge Matos,23.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Carlos Sebastião,22.0,Defensive Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Gamboa,26.0,Right Winger,SC Braga,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Clayton,23.0,Left Winger,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Sérgio Freitas,32.0,Centre-Back,SC Braga,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,István Vincze,32.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Amaral,29.0,Right Winger,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Luis Carlos,30.0,midfield,SC Braga,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Pedro De Figueiredo,31.0,Centre-Back,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Sandro,27.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,George,21.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Raul Barbosa,27.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Patacas,21.0,Right-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1999,1999/2000
+Sporting CP,César Prates,24.0,Right-Back,South America,1.25m,in,Winter,"1,25",Liga Nos,1999,1999/2000
+Sporting CP,Mbo Mpenza,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Sporting CP,André Cruz,31.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Sporting CP,Robert Spehar,29.0,Centre-Forward,Italy,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Sporting CP,Marcos,24.0,Centre-Back,PSV Eindhoven,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+FC Porto,Clayton,24.0,Left Winger,Santa Clara,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+FC Porto,Cajú,23.0,Second Striker,Alverca,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Benfica,Abdelsattar Sabry,25.0,Left Winger,Central_EU,2.40m,in,Winter,"2,4",Liga Nos,1999,1999/2000
+Benfica,Triantafyllos Macheridis,26.0,Defensive Midfield,Central_EU,600Th.,in,Winter,"0,6",Liga Nos,1999,1999/2000
+Benfica,João Tomás,24.0,Centre-Forward,Portugal,500Th.,in,Winter,"0,5",Liga Nos,1999,1999/2000
+Boavista,Demétrios,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Boavista,Erwin Sánchez,30.0,Attacking Midfield,Benfica,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Boavista,Erivan,24.0,Left-Back,Portugal,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Carlitos,22.0,Right Winger,CF Estrela,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Gil Vicente,Carlos André,28.0,Central Midfield,Portugal,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Marítimo,Musa Shannon,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Marítimo,Jörg Smeets,29.0,Right Winger,North America,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Vit. Guimarães,Sergio Júnior,20.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+SC Braga,Luís Filipe,20.0,Right-Back,Spain,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+SC Braga,Tailson,24.0,Centre-Forward,Asia,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Leiria,Petar Krpan,25.0,Centre-Forward,Sporting CP,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Alverca,Duda,25.0,Right Winger,FC Porto,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Alverca,Alhandra,20.0,Left-Back,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),José Soares,23.0,Centre-Back,Benfica,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),César Cáceres,22.0,Left Winger,South America,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+SC Campomaiorense (- 2001),Constantino,32.0,Second Striker,Spain,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Farense,Lucian Marinescu,27.0,Attacking Midfield,Spain,loan transfer,in,Winter,0.01,Liga Nos,1999,1999/2000
+Farense,Ricardo Lunari,29.0,Right Winger,Spain,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Farense,Paulo Ferreira,26.0,Left Winger,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,1999,1999/2000
+Salgueiros,Marcelo Verón,21.0,attack,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Rio Ave FC,Rochinha,24.0,Centre-Back,Portugal,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Albert Meyong,19.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Vitória Setúbal,Herivelto,24.0,Attacking Midfield,Leiria,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Vitória Setúbal,Ricardo Esteves,20.0,Right-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Faysal El Idrissi,22.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,1999,1999/2000
+Santa Clara,Formoso,25.0,Left Winger,Boavista,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Renê Rivas,31.0,Centre-Back,Portugal,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Pedro Martins,29.0,Defensive Midfield,Boavista,?,in,Winter,0.01,Liga Nos,1999,1999/2000
+Santa Clara,Ricardo Sousa,20.0,Attacking Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,1999,1999/2000
+Fortuna Sittard,Dennis Gerritsen,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Fortuna Sittard,Brenny Evers,20.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Fortuna Sittard,Joost Volmer,25.0,Centre-Back,MVV Maastricht,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Fortuna Sittard,Dennis Krijgsman,26.0,Attacking Midfield,Sparta R.,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Fortuna Sittard,Samir Amari,19.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+AZ Alkmaar,John Bosman,34.0,Centre-Forward,Twente FC,400Th.,in,Summer,"0,4",Eredivisie,1999,1999/2000
+AZ Alkmaar,Miel Mans,21.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+AZ Alkmaar,Ervin Lee,25.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+AZ Alkmaar,Andrés Carevic,20.0,Defensive Midfield,South America,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+AZ Alkmaar,Jamal Dibi,19.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Milan Berck Beelenkamp,21.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+De Graafschap,René Bot,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+De Graafschap,Harald Berendsen,18.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+De Graafschap,Arno Splinter,21.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+De Graafschap,Massamasso Tchangai,20.0,Centre-Back,Italy,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Abdul Rahman Issah,18.0,Centre-Back,France,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Patrik Fredholm,21.0,Central Midfield,Italy,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Michal Nehoda,22.0,attack,Central_EU,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Denis Godeas,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Stefan Postma,22.0,Goalkeeper,FC Utrecht,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Marino Promes,22.0,attack,Willem II,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Ousmane Sanda Sanda,17.0,midfield,Italy,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+Ajax,Nikolaos Machlas,26.0,Centre-Forward,Vitesse,8.50m,in,Summer,"8,5",Eredivisie,1999,1999/2000
+Ajax,Frank Verlaat,31.0,Centre-Back,VfB Stuttgart,4.40m,in,Summer,"4,4",Eredivisie,1999,1999/2000
+Ajax,John Nieuwenburg,20.0,Defensive Midfield,Sparta R.,2.70m,in,Summer,"2,7",Eredivisie,1999,1999/2000
+Ajax,Cristian Chivu,18.0,Centre-Back,Est_EU,2.50m,in,Summer,"2,5",Eredivisie,1999,1999/2000
+Ajax,Brian Laudrup,30.0,Right Winger,North_EU,2.00m,in,Summer,2,Eredivisie,1999,1999/2000
+Ajax,Aron Winter,32.0,Defensive Midfield,Inter,600Th.,in,Summer,"0,6",Eredivisie,1999,1999/2000
+Ajax,Jason Culina,18.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Ajax,Aaron Mokoena,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Ajax,Jan van Halst,30.0,Defensive Midfield,Twente FC,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Ajax,Stanley Menzo,35.0,Goalkeeper,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Vitesse,Pierre van Hooijdonk,29.0,Centre-Forward,Uk,4.73m,in,Summer,"4,73",Eredivisie,1999,1999/2000
+Vitesse,Mahamadou Diarra,18.0,Defensive Midfield,Central_EU,1.15m,in,Summer,"1,15",Eredivisie,1999,1999/2000
+Vitesse,Pieter Collen,19.0,Centre-Back,Belgium,675Th.,in,Summer,"0,675",Eredivisie,1999,1999/2000
+Vitesse,Stefan Nanu,30.0,Left-Back,Est_EU,300Th.,in,Summer,"0,3",Eredivisie,1999,1999/2000
+Vitesse,Dragoslav Jevric,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Vitesse,Nenad Grozdic,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Vitesse,Dejan Stefanovic,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Vitesse,Victor Sikora,21.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Sparta R.,Frank Kooiman,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Sparta R.,Sieme Zijm,21.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Sparta R.,Silvan Inia,30.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Sparta R.,Fuat Usta,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Sparta R.,Roy Stroeve,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Sparta R.,Steve Goossen,30.0,Centre-Back,Vitesse,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Sparta R.,Richard Elzinga,30.0,Right-Back,Cambuur L.,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Sparta R.,Michel Langerak,30.0,Attacking Midfield,AZ Alkmaar,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Sparta R.,Houssin Bezzai,20.0,defence,UVS,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Sparta R.,Bram Marbus,27.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+NEC Nijmegen,René van Rijswijk,28.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+NEC Nijmegen,Youssef Rossi,26.0,Centre-Back,Stade Rennais,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+NEC Nijmegen,Richard Goulooze,31.0,Right-Back,North America,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+NEC Nijmegen,Adilson Ben David Dos Santos,25.0,Centre-Forward,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+NEC Nijmegen,Maarten Atmodikoro,28.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+NEC Nijmegen,Cor Prein,18.0,attack,PSV U19,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+NEC Nijmegen,Arno Arts,30.0,Central Midfield,Willem II,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Mourad Mghizrat,24.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+FC Den Bosch,Peter Uneken,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+FC Den Bosch,Chaly Jones,22.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+FC Den Bosch,Cedric van der Gun,20.0,Centre-Forward,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Henk Vos,31.0,Centre-Forward,Feyenoord,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Shalimar Jones,22.0,defence,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Bas Peijs,21.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Michel Ribeiro,23.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Ali Fattouchi,24.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Regie Martina,23.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Martijn van Strien,20.0,Goalkeeper,Vitesse,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Patricio Graff,23.0,Left-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Menno Willems,22.0,Left-Back,Vitesse,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+Willem II,Dmitri Shukov,23.0,Left Midfield,Vitesse,2.00m,in,Summer,2,Eredivisie,1999,1999/2000
+Willem II,Kew Jaliens,20.0,Centre-Back,Sparta R.,1.50m,in,Summer,"1,5",Eredivisie,1999,1999/2000
+Willem II,Denny Landzaat,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Willem II,Marco Gentile,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Willem II,Casper Nelis,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Willem II,Guy Veldeman,20.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Mischa Rook,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Cambuur L.,Robin Nelisse,21.0,Centre-Forward,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Rob Alflen,31.0,Defensive Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Kenneth Goudmijn,28.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Raymond de Waard,26.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Rob Hilbers,28.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Dennis Scharrenburg,20.0,Central Midfield,FC Utrecht,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Reinder Hendriks,26.0,Centre-Back,Willem II,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Jordy Geijselaars,,defence,Unknown,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Danillo Giulietti,19.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Roberto Blanquez,19.0,attack,KRC Genk U21,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Patrick Rondags,34.0,Goalkeeper,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Bobby Kociski,20.0,Attacking Midfield,Högaborg,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Rob Nuyts,21.0,midfield,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Theo Snelders,35.0,Goalkeeper,Uk,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Thomas Caers,26.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Igor Tomasic,22.0,Centre-Back,Roda JC,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+PSV Eindhoven,Eric Addo,20.0,Centre-Back,Belgium,5.00m,in,Summer,5,Eredivisie,1999,1999/2000
+PSV Eindhoven,Mark van Bommel,22.0,Defensive Midfield,Fortuna Sittard,2.70m,in,Summer,"2,7",Eredivisie,1999,1999/2000
+PSV Eindhoven,Johann Vogel,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+PSV Eindhoven,Jan Heintze,35.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+PSV Eindhoven,Ivica Kralj,26.0,Goalkeeper,FC Porto,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Twente FC,Scott Booth,27.0,Centre-Forward,Vitesse,550Th.,in,Summer,"0,55",Eredivisie,1999,1999/2000
+Twente FC,Arjan van der Laan,29.0,Attacking Midfield,Sparta R.,450Th.,in,Summer,"0,45",Eredivisie,1999,1999/2000
+Twente FC,Jan Verlinden,22.0,Right-Back,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Twente FC,Edwin Hilgerink,27.0,defence,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Twente FC,Frédéric Peiremans,25.0,Defensive Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Twente FC,Andy van der Meyde,19.0,Right Winger,Ajax,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+Heerenveen,Allan Jepsen,22.0,Left Midfield,Hamburger SV,350Th.,in,Summer,"0,35",Eredivisie,1999,1999/2000
+Heerenveen,Mika Nurmela,27.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Heerenveen,Harris Huizingh,36.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Heerenveen,Jesper Haakansson,17.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+Heerenveen,Barry Ditewig,21.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Heerenveen,Anthony Lurling,22.0,Attacking Midfield,FC Den Bosch,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Heerenveen,Mika Pulkkinen,26.0,Centre-Back,Kotka TP,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+RKC Waalwijk,Yuri Cornelisse,24.0,Right Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+RKC Waalwijk,Giovanni Franken,19.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+RKC Waalwijk,Tim Cornelisse,21.0,Right-Back,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+RKC Waalwijk,Emmanuel Nwakire,21.0,Left-Back,FC Utrecht,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Feyenoord,Tomasz Rzasa,26.0,Left-Back,De Graafschap,1.80m,in,Summer,"1,8",Eredivisie,1999,1999/2000
+Feyenoord,Jan de Visser,31.0,Left Midfield,Heerenveen,682Th.,in,Summer,"0,682",Eredivisie,1999,1999/2000
+Feyenoord,Radoslav Samardzic,29.0,Centre-Forward,Heerenveen,680Th.,in,Summer,"0,68",Eredivisie,1999,1999/2000
+Feyenoord,Patrick Mtiliga,18.0,Left-Back,North_EU,450Th.,in,Summer,"0,45",Eredivisie,1999,1999/2000
+Feyenoord,Somália,22.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Utrecht,Harald Wapenaar,29.0,Goalkeeper,Italy,650Th.,in,Summer,"0,65",Eredivisie,1999,1999/2000
+FC Utrecht,Marinus Dijkhuizen,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+FC Utrecht,Azubuike Oliseh,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+FC Utrecht,Karim Touzani,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1999,1999/2000
+FC Utrecht,Rodney Cairo,24.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Utrecht,Giuseppe Imburgia,19.0,Centre-Back,Italy,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Utrecht,Stijn Vreven,25.0,Right-Back,Belgium,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Utrecht,Sander Keller,19.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+FC Utrecht,Theo Lucius,22.0,Defensive Midfield,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1999,1999/2000
+Roda JC,Kevin Van Dessel,20.0,Left Midfield,Italy,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Roda JC,Jan Vercammen,20.0,Goalkeeper,KV Mechelen U21,?,in,Summer,0.01,Eredivisie,1999,1999/2000
+Fortuna Sittard,Matthew Amoah,19.0,attack,Vitesse,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+Fortuna Sittard,Remco van der Schaaf,20.0,Centre-Back,Vitesse,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+AZ Alkmaar,Olaf Lindenbergh,25.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Eredivisie,1999,1999/2000
+AZ Alkmaar,Kenneth Pérez,25.0,Centre-Forward,MVV Maastricht,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+De Graafschap,Robert Fuchs,24.0,Central Midfield,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+Ajax,Bogdan Lobont,21.0,Goalkeeper,Est_EU,3.00m,in,Winter,3,Eredivisie,1999,1999/2000
+NEC Nijmegen,Pieter Collen,19.0,Centre-Back,Vitesse,345Th.,in,Winter,"0,345",Eredivisie,1999,1999/2000
+FC Den Bosch,Mark Schenning,29.0,Centre-Back,Willem II,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Rob Wielaert,20.0,Centre-Back,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Martin Reijnders,27.0,Centre-Forward,North_EU,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+FC Den Bosch,Christopher Wreh,24.0,Centre-Forward,Arsenal,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+Willem II,Geert De Vlieger,28.0,Goalkeeper,Belgium,560Th.,in,Winter,"0,56",Eredivisie,1999,1999/2000
+Willem II,Tom Caluwé,21.0,Attacking Midfield,Belgium,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+Willem II,Tarik Sektioui,22.0,Right Winger,Uk,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+Cambuur L.,Erik Tammer,30.0,Centre-Forward,Sparta R.,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,John Mutsaers,27.0,Centre-Forward,AZ Alkmaar,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Robert van der Weert,29.0,Centre-Forward,AZ Alkmaar,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Stijn Meert,21.0,Left Midfield,Belgium,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+MVV Maastricht,Joey Gudjónsson,19.0,Central Midfield,Belgium,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+Heerenveen,Valeriy Popovich,29.0,Centre-Forward,North_EU,loan transfer,in,Winter,0.01,Eredivisie,1999,1999/2000
+Feyenoord,Mo Allach,26.0,Right-Back,Netherlands,250Th.,in,Winter,"0,25",Eredivisie,1999,1999/2000
+FC Utrecht,Viktor Bjarki Arnarsson,16.0,Defensive Midfield,North_EU,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+Roda JC,Tom Soetaers,19.0,Left Winger,Belgium,?,in,Winter,0.01,Eredivisie,1999,1999/2000
+Roda JC,Paolo Ramora,19.0,midfield,Italy,?,in,Winter,0.01,Eredivisie,1999,1999/2000

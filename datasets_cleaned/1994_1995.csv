@@ -1,0 +1,927 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Fiorentina,Rui Costa,22.0,Attacking Midfield,Benfica,5.50m,in,Summer,"5,5",Serie A,1994,1994/1995
+Fiorentina,Emiliano Betti,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Fiorentina,Stefano Carobbi,30.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Fiorentina,Sandro Cois,21.0,Defensive Midfield,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Fiorentina,Márcio Santos,24.0,Centre-Back,G. Bordeaux,?,in,Summer,0.01,Serie A,1994,1994/1995
+Fiorentina,Andrea Sottil,20.0,Centre-Back,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Fiorentina,Angelo Carbone,26.0,Right Midfield,Milan,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+Fiorentina,Enzo Gambaro,28.0,Left-Back,Milan,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,André Cruz,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1994,1994/1995
+SSC Napoli,Massimo Agostini,30.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Gaetano De Rosa,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Roberto Vezzosi,20.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Luca Luzardi,24.0,Centre-Back,Lazio,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Gabriele Grossi,22.0,Left-Back,Bari,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Salvatore Matrecano,23.0,Centre-Back,AC Parma,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Luca Altomare,22.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Alain Boghossian,23.0,Central Midfield,France,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Franco Lerda,26.0,Centre-Forward,Brescia,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Freddy Rincón,27.0,Central Midfield,South America,?,in,Summer,0.01,Serie A,1994,1994/1995
+SSC Napoli,Benny Carbone,22.0,Second Striker,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Paulo Futre,28.0,Left Winger,France,1.00m,in,Summer,1,Serie A,1994,1994/1995
+Reggiana,Monye Precious Onyabor,19.0,midfield,Africa Sports,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Nunzio Falco,20.0,attack,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Adriano Alex Taribello,17.0,attack,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Giorgio Bresciani,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Sunday Oliseh,19.0,Defensive Midfield,RC Liège,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Angelo Gregucci,30.0,Centre-Back,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Fernando De Napoli,30.0,Central Midfield,Milan,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Francesco Antonioli,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Padova,David Balleri,25.0,Right-Back,AC Parma,?,in,Summer,0.01,Serie A,1994,1994/1995
+Padova,Goran Vlaovic,21.0,Centre-Forward,Croatia Zagreb,?,in,Summer,0.01,Serie A,1994,1994/1995
+Padova,Daniele Zoratto,32.0,Central Midfield,AC Parma,?,in,Summer,0.01,Serie A,1994,1994/1995
+Padova,Carlo Perrone,33.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Padova,Gianluca Zattarin,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Padova,Roberto Putelli,24.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cremonese,Mauro Milanese,22.0,Left-Back,Italy,400Th.,in,Summer,"0,4",Serie A,1994,1994/1995
+Cremonese,Enrico Chiesa,23.0,Centre-Forward,Italy,100Th.,in,Summer,"0,1",Serie A,1994,1994/1995
+Cremonese,Marco Bruzzano,26.0,attack,Giarre,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cremonese,Riccardo Maspero,23.0,Attacking Midfield,Sampdoria,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cremonese,Jose Pirri,21.0,midfield,Centese,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cremonese,Claudio Sclosa,33.0,midfield,Lazio,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cremonese,Luigi Garzya,24.0,Centre-Back,AS Rom Youth,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cremonese,Giovanni Dall'Igna,21.0,Right-Back,Sampdoria,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cagliari Calcio,Roberto Muzzi,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1994,1994/1995
+Cagliari Calcio,Christian Lantignotti,24.0,Attacking Midfield,Reggiana,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cagliari Calcio,Antonio Bitetti,19.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cagliari Calcio,Andrea Benassi,18.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cagliari Calcio,Luigi Molino,22.0,attack,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Cagliari Calcio,Daniele Berretta,22.0,Defensive Midfield,AS Roma,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+Sampdoria,Sinia Mihajlovic,25.0,Centre-Back,AS Roma,6.00m,in,Summer,6,Serie A,1994,1994/1995
+Sampdoria,Riccardo Maspero,23.0,Attacking Midfield,Cremonese,?,in,Summer,0.01,Serie A,1994,1994/1995
+Sampdoria,Walter Zenga,34.0,Goalkeeper,Inter,?,in,Summer,0.01,Serie A,1994,1994/1995
+Sampdoria,Riccardo Ferri,30.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,1994,1994/1995
+Sampdoria,Alessandro Melli,24.0,Centre-Forward,AC Parma,?,in,Summer,0.01,Serie A,1994,1994/1995
+Sampdoria,Matteo Gianello,18.0,Goalkeeper,Italy,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+Foggia,Aniello Parisi,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Foggia,Mauro Bressan,23.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Foggia,Oberdan Biagioni,24.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Foggia,Pasquale Padalino,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Foggia,Alex Brunner,20.0,Goalkeeper,Formia Calcio,?,in,Summer,0.01,Serie A,1994,1994/1995
+Foggia,Massimo Marazzina,19.0,Centre-Forward,Inter,?,in,Summer,0.01,Serie A,1994,1994/1995
+Juventus,Didier Deschamps,25.0,Defensive Midfield,France,5.50m,in,Summer,"5,5",Serie A,1994,1994/1995
+Juventus,Ciro Ferrara,27.0,Centre-Back,Italy,5.17m,in,Summer,"5,17",Serie A,1994,1994/1995
+Juventus,Paulo Sousa,23.0,Central Midfield,Sporting CP,4.00m,in,Summer,4,Serie A,1994,1994/1995
+Juventus,Alessio Tacchinardi,18.0,Defensive Midfield,Italy,2.00m,in,Summer,2,Serie A,1994,1994/1995
+Juventus,Robert Jarni,25.0,Left-Back,Torino,465Th.,in,Summer,"0,465",Serie A,1994,1994/1995
+Juventus,Simone Tognon,19.0,midfield,Sparta Novara,?,in,Summer,0.01,Serie A,1994,1994/1995
+Juventus,Alessandro Orlando,24.0,Left-Back,Milan,?,in,Summer,0.01,Serie A,1994,1994/1995
+Juventus,Luca Fusi,31.0,Defensive Midfield,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Milan,Florin Raducioiu,24.0,Centre-Forward,Brescia,2.75m,in,Summer,"2,75",Serie A,1994,1994/1995
+Milan,Paolo Di Canio,26.0,Centre-Forward,Juventus,750Th.,in,Summer,"0,75",Serie A,1994,1994/1995
+Milan,Ruud Gullit,31.0,Second Striker,Sampdoria,600Th.,in,Summer,"0,6",Serie A,1994,1994/1995
+Milan,Massimo Orlando,23.0,attack,Fiorentina,?,in,Summer,0.01,Serie A,1994,1994/1995
+Milan,Gianluca Sordo,24.0,Right Midfield,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Milan,Giovanni Stroppa,26.0,Attacking Midfield,Foggia,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Jocelyn Angloma,28.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,1994,1994/1995
+Torino,Abédi Pelé,29.0,Attacking Midfield,Olympique Lyon,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Ivano Bonetti,29.0,Left Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Pasquale Luiso,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Nicola Caricola,31.0,Centre-Back,Genoa,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Gianluca Petrachi,25.0,midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Giuseppe Scienza,27.0,midfield,Reggiana,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Sean Sogliano,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Luigi Simoni,29.0,Goalkeeper,Centese,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Roberto Maltagliati,25.0,Centre-Back,AC Parma,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Ruggiero Rizzitelli,26.0,Centre-Forward,AS Roma,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Stefano Torrisi,23.0,Centre-Back,Reggiana,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Paolo Cristallini,22.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Gianluca Pessotto,23.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Marcão,21.0,Centre-Forward,Matsubara-PR,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Davide Possanzini,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Vittorio Tosto,20.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Vincenzo Sommese,18.0,Right Winger,AS Nola,?,in,Summer,0.01,Serie A,1994,1994/1995
+Torino,Antonino Bernardini,20.0,Defensive Midfield,AS Roma,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+Lazio,Pierluigi Casiraghi,25.0,Centre-Forward,Juventus,5.17m,in,Summer,"5,17",Serie A,1994,1994/1995
+Lazio,Daniele Adani,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Lazio,José Chamot,25.0,Centre-Back,Foggia,?,in,Summer,0.01,Serie A,1994,1994/1995
+Lazio,Giorgio Venturin,25.0,Central Midfield,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+Lazio,Roberto Rambaudi,28.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Lazio,Vincenzo De Sio,21.0,midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Lazio,Ivano Della Morte,19.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Bari,Carlo Sassarini,22.0,Left-Back,Barletta CS,?,in,Summer,0.01,Serie A,1994,1994/1995
+Bari,Paolo Annoni,24.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Bari,Miguel Ángel Guerrero,26.0,Second Striker,South America,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Daniele Delli Carri,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1994,1994/1995
+Genoa,Davide Micillo,23.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Pier Giovanni Rutzittu,18.0,midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Gianluca Francesconi,22.0,Centre-Back,Juventus,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Michele Padovano,27.0,Centre-Forward,Reggiana,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Kazuyoshi Miura,27.0,Centre-Forward,Verdy Kawasaki,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Giovanni Francini,30.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Dario Marcolin,22.0,Defensive Midfield,Cagliari Calcio,?,in,Summer,0.01,Serie A,1994,1994/1995
+Genoa,Antonio Manicone,27.0,Defensive Midfield,Inter,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Dino Baggio,22.0,Defensive Midfield,Juventus,4.50m,in,Summer,"4,5",Serie A,1994,1994/1995
+AC Parma,Fernando Couto,24.0,Centre-Back,FC Porto,2.70m,in,Summer,"2,7",Serie A,1994,1994/1995
+AC Parma,Mario Massimo Caruso,24.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Massimo Susic,27.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Gianfranco Circati,23.0,defence,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Gianluca Hervatin,20.0,attack,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Diego Pellegrini,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Marcello Castellini,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Roberto Mussi,30.0,Right-Back,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Giovanni Galli,36.0,Goalkeeper,Torino,?,in,Summer,0.01,Serie A,1994,1994/1995
+AC Parma,Marco Branca,29.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Inter,Gianluca Pagliuca,27.0,Goalkeeper,Sampdoria,?,in,Summer,0.01,Serie A,1994,1994/1995
+Inter,Luca Mondini,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Inter,Andrea Seno,28.0,Central Midfield,Foggia,?,in,Summer,0.01,Serie A,1994,1994/1995
+Inter,Pierluigi Orlandini,21.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Inter,Giovanni Bia,25.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Marco Ballotta,30.0,Goalkeeper,AC Parma,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Fabrizio Baldini,21.0,midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Davide Ratti,18.0,attack,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Ivan Gamberini,26.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Luigi Corino,28.0,defence,Lazio,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Antonio Bernardi,17.0,attack,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Danut Lupu,27.0,Attacking Midfield,Est_EU,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Sergio Battistini,31.0,Defensive Midfield,Inter,?,in,Summer,0.01,Serie A,1994,1994/1995
+Brescia,Stefano Borgonovo,30.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Daniel Fonseca,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Dario Rossi,21.0,defence,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Andrea Borsa,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Ferro Tontini,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Francesco Statuto,22.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Francesco Moriero,25.0,Right Winger,Cagliari Calcio,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Jonas Thern,27.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Francesco Colonnese,22.0,Centre-Back,Cremonese,?,in,Summer,0.01,Serie A,1994,1994/1995
+AS Roma,Giampiero Maini,22.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1994,1994/1995
+Reggiana,Igor Simutenkov,21.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,1994,1994/1995
+Reggiana,Alessandro Mazzola,25.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,1994,1994/1995
+Reggiana,Michele Padovano,28.0,Centre-Forward,Genoa,?,in,Winter,0.01,Serie A,1994,1994/1995
+Reggiana,Massimo Brambilla,21.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,1994,1994/1995
+Reggiana,Francesco Cozza,20.0,Attacking Midfield,Milan,loan transfer,in,Winter,0.01,Serie A,1994,1994/1995
+Reggiana,Enzo Gambaro,28.0,Left-Back,Milan,loan transfer,in,Winter,0.01,Serie A,1994,1994/1995
+Padova,Michel Kreek,23.0,Left-Back,Ajax,909Th.,in,Winter,"0,909",Serie A,1994,1994/1995
+Padova,Cristian Servidei,21.0,Centre-Back,Italy,loan transfer,in,Winter,0.01,Serie A,1994,1994/1995
+Sampdoria,Ruud Gullit,32.0,Second Striker,Milan,?,in,Winter,0.01,Serie A,1994,1994/1995
+Foggia,Matteo Baiocchi,20.0,attack,Italy,?,in,Winter,0.01,Serie A,1994,1994/1995
+Milan,Alessandro Melli,24.0,Centre-Forward,Sampdoria,?,in,Winter,0.01,Serie A,1994,1994/1995
+Torino,Roberto Lorenzini,28.0,Left-Back,Milan,?,in,Winter,0.01,Serie A,1994,1994/1995
+Torino,Felice Foglia,17.0,Left Winger,AS Nola,?,in,Winter,0.01,Serie A,1994,1994/1995
+Torino,Luca Pellegrini,31.0,defence,Italy,?,in,Winter,0.01,Serie A,1994,1994/1995
+Torino,Jean-Pierre Cyprien,25.0,Centre-Back,Stade Rennais,loan transfer,in,Winter,0.01,Serie A,1994,1994/1995
+Genoa,Nicola Caricola,31.0,Centre-Back,Torino,?,in,Winter,0.01,Serie A,1994,1994/1995
+AC Parma,Stefano Fiore,19.0,Attacking Midfield,Italy,750Th.,in,Winter,"0,75",Serie A,1994,1994/1995
+Brescia,Eugenio Corini,24.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,1994,1994/1995
+Brescia,Jorge Cadete,26.0,Centre-Forward,Sporting CP,?,in,Winter,0.01,Serie A,1994,1994/1995
+Brescia,Daniele Adani,20.0,Centre-Back,Lazio,?,in,Winter,0.01,Serie A,1994,1994/1995
+Brescia,Giovanni Francini,31.0,Left-Back,Genoa,?,in,Winter,0.01,Serie A,1994,1994/1995
+Brescia,Marco Nappi,28.0,Second Striker,Genoa,?,in,Winter,0.01,Serie A,1994,1994/1995
+Brescia,Ivano Bonetti,30.0,Left Midfield,Torino,?,in,Winter,0.01,Serie A,1994,1994/1995
+AS Roma,Marco Branca,29.0,Centre-Forward,AC Parma,?,in,Winter,0.01,Serie A,1994,1994/1995
+AC Le Havre,Frédéric Brando,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+AC Le Havre,Claude Fichaux,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+AC Le Havre,Sébastien Hamel,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+AC Le Havre,Christophe Lagrange,27.0,attack,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+AC Le Havre,Cédric Daury,24.0,midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+AC Le Havre,Alain Caveglia,26.0,Second Striker,FC Sochaux,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Martigues,Laurent David,22.0,midfield,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+FC Martigues,Henrik Bertilsson,24.0,Centre-Forward,North_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Martigues,Fabien Artès,16.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Martigues,Serge Romano,30.0,midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Martigues,Didier Dubois,27.0,Centre-Back,Lens,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Martigues,Eduardo Oliveira,21.0,Centre-Back,Île-Rousse,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Martigues,Abdoul Karim Bangoura,23.0,defence,SC Bastia B,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Milos Glonek,25.0,Centre-Back,Italy,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Jerry de Jong,29.0,Right-Back,PSV Eindhoven,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Olivier Bochu,22.0,defence,Ol. Grenoble,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Kennet Andersson,26.0,Centre-Forward,LOSC Lille,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Amara Simba,32.0,Centre-Forward,Monaco,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Jean-François Péron,28.0,Left Midfield,Lens,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Jean-Jacques Etamé,27.0,midfield,LOSC Lille,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SM Caen,Franck Suignard,20.0,midfield,Quimper,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+LOSC Lille,Jérôme Foulon,23.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+LOSC Lille,Arnaud Duncker,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+LOSC Lille,Philippe Lévenard,29.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+LOSC Lille,Lyambo Etshélé,25.0,Defensive Midfield,US Valenciennes,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+LOSC Lille,Henrik Lykke,24.0,Centre-Back,North_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+LOSC Lille,Roger Hitoto,25.0,Central Midfield,Rouen,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+LOSC Lille,Frank Farina,29.0,Centre-Forward,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+LOSC Lille,Christian Perez,31.0,Attacking Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Olympique Lyon,Jean-Luc Sassus,31.0,Right-Back,Paris SG,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Olympique Lyon,Stéphane Paille,29.0,Centre-Forward,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Nantes,Éric Decroix,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+FC Nantes,Benoît Cauet,25.0,Central Midfield,SM Caen,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Nantes,Dominique Casagrande,23.0,Goalkeeper,AS Muret,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Nantes,David Garcion,20.0,Attacking Midfield,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Montpellier,Michel Pavon,25.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Montpellier,Philippe Flucklinger,31.0,Goalkeeper,FC Metz,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Christian Potel,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+Cannes,Patrice Marquet,27.0,Left Midfield,AC Le Havre,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Lukasz Antczak,18.0,defence,Central_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Alexandre Bès,27.0,defence,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Alain Ravera,29.0,defence,Vallauris,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Sébastien Renaud,18.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Jean-Noël Cabezas,27.0,Centre-Forward,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Christophe Horlaville,25.0,Centre-Forward,Rouen,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Cannes,Christophe Delmotte,25.0,Left-Back,Lens,loan transfer,in,Summer,0.01,Ligue 1,1994,1994/1995
+Lens,Marc-Vivien Foé,19.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+Lens,Wilson Oruma,17.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+Lens,Mickaël Debève,23.0,Right Midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Lens,Joël Tiéhi,30.0,Centre-Forward,AC Le Havre,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Roman Szewczyk,29.0,Centre-Back,Central_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Philippe Cuervo,24.0,Right-Back,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Jérôme Gnako,26.0,Attacking Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Christophe Laurent,19.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Étienne Mendy,25.0,Centre-Forward,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Jean-François Hernandez,25.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+G. Bordeaux,William Prunier,26.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+G. Bordeaux,Daniel Dutuel,26.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+G. Bordeaux,Anthony Bancarel,23.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+G. Bordeaux,Laurent Fournier,29.0,Defensive Midfield,Paris SG,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+G. Bordeaux,David Costé,18.0,Centre-Forward,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+R. Strasbourg,Xavier Gravelaine,25.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,1994,1994/1995
+R. Strasbourg,Aleksandr Mostovoy,25.0,Attacking Midfield,Benfica,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+R. Strasbourg,Alexander Vencel,27.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+R. Strasbourg,Franck Sauzée,28.0,Central Midfield,Italy,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Saint-Étienne,Lucién Mettomo,17.0,Centre-Back,Ocean Kribi,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Saint-Étienne,David Charrièras,18.0,Left-Back,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Pierre Laurent,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+SC Bastia,Flávio Camargo,24.0,attack,South America,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Philippe Lalanne,28.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Stéphane Ziani,22.0,Attacking Midfield,FC Nantes,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Eric Dewilder,30.0,midfield,FC Sochaux,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Jean-Christophe Debu,30.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Frédéric Darras,27.0,Right-Back,FC Sochaux,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Franck Vandecasteele,26.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Anto Drobnjak,25.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+SC Bastia,Bernard Maraval,22.0,Centre-Back,FC Sochaux,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Paris SG,Jean-Philippe Séchet,29.0,Central Midfield,FC Metz,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Paris SG,Oumar Dieng,21.0,Centre-Back,LOSC Lille,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+OGC Nice,Frédéric Tatarian,23.0,defence,Mulhouse S-A,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+OGC Nice,Thierry De Neef,27.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+OGC Nice,Ludovic Stefano,17.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+OGC Nice,Yves Mangione,29.0,attack,US Valenciennes,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Metz,Rigobert Song,18.0,Centre-Back,Tonnerre,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Metz,Philippe Vercruysse,32.0,Attacking Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Metz,Sylvain Kastendeuch,30.0,Sweeper,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Metz,Zlatko Arambasic,24.0,Centre-Forward,Belgium,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Metz,Mickaël Hoy,23.0,Central Midfield,Mulhouse S-A,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+AJ Auxerre,Sabri Lamouchi,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1994,1994/1995
+AJ Auxerre,Georges Moureaux,25.0,attack,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Marco Grassi,26.0,Centre-Forward,Uk,1.00m,in,Summer,1,Ligue 1,1994,1994/1995
+Rennes,Jean-Pierre Cyprien,25.0,Centre-Back,Saint-Étienne,150Th.,in,Summer,"0,15",Ligue 1,1994,1994/1995
+Rennes,Patrice Carteron,23.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Fritz Emeran,18.0,Right-Back,Monaco,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Pascal Fugier,25.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Jean-Christophe Thomas,29.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Brian Jensen,26.0,Left-Back,North_EU,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Régis Le Bris,18.0,Right-Back,Unknown,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Christophe Ohrel,26.0,Right Midfield,Uk,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Rennes,Samuel Michel,23.0,Centre-Forward,AS Red Star 93,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Monaco,Sonny Anderson,23.0,Centre-Forward,Uk,8.25m,in,Summer,"8,25",Ligue 1,1994,1994/1995
+Monaco,Christophe Buffat,24.0,attack,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Monaco,Fabien Piveteau,30.0,Goalkeeper,AC Le Havre,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Monaco,Mickaël Madar,26.0,Centre-Forward,Cannes,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Monaco,Éric Di Meco,30.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+Monaco,Dan Petersen,22.0,Centre-Forward,Ajax,?,in,Summer,0.01,Ligue 1,1994,1994/1995
+FC Sochaux,Laurent Croci,29.0,Right-Back,G. Bordeaux,?,in,Winter,0.01,Ligue 1,1994,1994/1995
+Saint-Étienne,Franck Priou,31.0,Centre-Forward,Cannes,?,in,Winter,0.01,Ligue 1,1994,1994/1995
+1.FC K'lautern,Olaf Marschall,28.0,Centre-Forward,Dynamo Dresden,1.40m,in,Summer,"1,4",1 Bundesliga,1994,1994/1995
+1.FC K'lautern,Piotr Nowak,29.0,Attacking Midfield,Dynamo Dresden,675Th.,in,Summer,"0,675",1 Bundesliga,1994,1994/1995
+1.FC K'lautern,Andreas Reinke,25.0,Goalkeeper,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+1.FC K'lautern,Dirk Anders,27.0,Attacking Midfield,VfB Leipzig,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+1.FC K'lautern,Dirk Flock,22.0,Right Midfield,Germany,230Th.,in,Summer,"0,23",1 Bundesliga,1994,1994/1995
+1.FC K'lautern,Matthias Hamann,26.0,Defensive Midfield,Germany,200Th.,in,Summer,"0,2",1 Bundesliga,1994,1994/1995
+Bay. Uerdingen,Alexander Bade,23.0,Goalkeeper,1. FC Köln,500Th.,in,Summer,"0,5",1 Bundesliga,1994,1994/1995
+Bay. Uerdingen,Rainer Krieg,26.0,Centre-Forward,Karlsruher SC,450Th.,in,Summer,"0,45",1 Bundesliga,1994,1994/1995
+Bay. Uerdingen,Uwe Grauer,24.0,Centre-Back,Bor. Dortmund,150Th.,in,Summer,"0,15",1 Bundesliga,1994,1994/1995
+Bay. Uerdingen,Hannes Reinmayr,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Bay. Uerdingen,Jan Heintze,30.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Werder Bremen,Vladimir Beschastnykh,20.0,Centre-Forward,Russia,800Th.,in,Summer,"0,8",1 Bundesliga,1994,1994/1995
+Werder Bremen,Michael Schulz,32.0,Centre-Back,Bor. Dortmund,750Th.,in,Summer,"0,75",1 Bundesliga,1994,1994/1995
+Werder Bremen,Hany Ramzy,25.0,Centre-Back,Uk,700Th.,in,Summer,"0,7",1 Bundesliga,1994,1994/1995
+VfL Bochum,Eric Wynalda,25.0,Centre-Forward,Germany,750Th.,in,Summer,"0,75",1 Bundesliga,1994,1994/1995
+VfL Bochum,Michael Frontzeck,30.0,Left-Back,VfB Stuttgart,400Th.,in,Summer,"0,4",1 Bundesliga,1994,1994/1995
+VfL Bochum,Uwe Schneider,22.0,Centre-Back,VfB Stuttgart,250Th.,in,Summer,"0,25",1 Bundesliga,1994,1994/1995
+VfL Bochum,Robert Matiebel,20.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+VfL Bochum,Tomasz Waldoch,23.0,Centre-Back,Central_EU,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+VfL Bochum,Andreas Wieczorek,20.0,midfield,SV Langenau,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Giovane Elber,21.0,Centre-Forward,Milan,1.60m,in,Summer,"1,6",1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Gerhard Poschner,24.0,Defensive Midfield,Bor. Dortmund,1.00m,in,Summer,1,1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Franco Foda,28.0,Sweeper,Bay. Leverkusen,1.00m,in,Summer,1,1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Fredi Bobic,22.0,Centre-Forward,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Ante Covic,18.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Marc Ziegler,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Michél Dinzey,21.0,Left Midfield,VfB Lichterfelde,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+1860 Munich,Piotr Nowak,30.0,Attacking Midfield,1.FC K'lautern,750Th.,in,Summer,"0,75",1 Bundesliga,1994,1994/1995
+1860 Munich,Olaf Bodden,26.0,Centre-Forward,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,1994,1994/1995
+1860 Munich,Jens Dowe,26.0,Left Midfield,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,1994,1994/1995
+1860 Munich,Alexander Kutschera,26.0,Centre-Back,Bay. Uerdingen,320Th.,in,Summer,"0,32",1 Bundesliga,1994,1994/1995
+1860 Munich,Manfred Schwabl,28.0,Defensive Midfield,Central_EU,250Th.,in,Summer,"0,25",1 Bundesliga,1994,1994/1995
+1860 Munich,Miroslav Stevic,24.0,Defensive Midfield,Dynamo Dresden,250Th.,in,Summer,"0,25",1 Bundesliga,1994,1994/1995
+1860 Munich,Uwe Wolf,26.0,Centre-Back,Germany,240Th.,in,Summer,"0,24",1 Bundesliga,1994,1994/1995
+1860 Munich,Peter Knäbel,27.0,Attacking Midfield,Germany,125Th.,in,Summer,"0,125",1 Bundesliga,1994,1994/1995
+1860 Munich,Manfred Burghartswieser,20.0,Defensive Midfield,Bayern Munich,25Th.,in,Summer,"0,025",1 Bundesliga,1994,1994/1995
+1860 Munich,Thomas Schmidt,28.0,Sweeper,SC Freiburg,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+1860 Munich,Rudolf Vidal,23.0,Goalkeeper,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+SC Freiburg,Axel Sundermann,26.0,Centre-Back,Germany,325Th.,in,Summer,"0,325",1 Bundesliga,1994,1994/1995
+SC Freiburg,Jörg Heinrich,24.0,Left-Back,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,1994,1994/1995
+SC Freiburg,Karsten Neitzel,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+SC Freiburg,Andrés Cardoso,19.0,Central Midfield,South America,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+MSV Duisburg,Emmanuel Amunike,23.0,Left Winger,Africa Sports,850Th.,in,Summer,"0,85",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Rainer Schütterle,28.0,Attacking Midfield,Karlsruher SC,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Roger Ljung,28.0,Left-Back,Turkey,500Th.,in,Summer,"0,5",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Mario Krohm,27.0,Centre-Forward,Belgium,400Th.,in,Summer,"0,4",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Holger Gehrke,34.0,Goalkeeper,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Martin Pieckenhagen,22.0,Goalkeeper,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Thomas Puschmann,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+MSV Duisburg,Markus Osthoff,25.0,Left Winger,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+MSV Duisburg,Igor Shalimov,25.0,Attacking Midfield,Inter,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Karlsruher SC,Thomas Häßler,28.0,Attacking Midfield,AS Roma,3.70m,in,Summer,"3,7",1 Bundesliga,1994,1994/1995
+Karlsruher SC,Christian Wück,21.0,Second Striker,Germany,900Th.,in,Summer,"0,9",1 Bundesliga,1994,1994/1995
+Karlsruher SC,Adrian Knup,25.0,Centre-Forward,VfB Stuttgart,850Th.,in,Summer,"0,85",1 Bundesliga,1994,1994/1995
+Karlsruher SC,Claus Reitmaier,30.0,Goalkeeper,1.FC K'lautern,800Th.,in,Summer,"0,8",1 Bundesliga,1994,1994/1995
+Karlsruher SC,Thorsten Fink,26.0,Defensive Midfield,Wattenscheid 09,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+Karlsruher SC,Michael Tarnat,24.0,Left-Back,MSV Duisburg,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+Karlsruher SC,Josef Zinnbauer,24.0,midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Hamburger SV,Sergio Zárate,25.0,Centre-Forward,Germany,900Th.,in,Summer,"0,9",1 Bundesliga,1994,1994/1995
+Hamburger SV,Andreas Fischer,29.0,Defensive Midfield,Bay. Leverkusen,610Th.,in,Summer,"0,61",1 Bundesliga,1994,1994/1995
+Hamburger SV,Jörg Bach,28.0,Centre-Back,Wattenscheid 09,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+Hamburger SV,Marco Weißhaupt,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Hamburger SV,Ulrich Stein,39.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Hamburger SV,Marco Kostmann,28.0,Goalkeeper,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Hamburger SV,André Breitenreiter,20.0,Second Striker,Germany,loan transfer,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+FC Schalke 04,Olaf Thon,28.0,Central Midfield,Bayern Munich,1.25m,in,Summer,"1,25",1 Bundesliga,1994,1994/1995
+FC Schalke 04,Radoslav Latal,24.0,Right Midfield,Central_EU,Loan fee:125Th.,in,Summer,"0,125",1 Bundesliga,1994,1994/1995
+FC Schalke 04,Jörg Albracht,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+FC Schalke 04,Udo Mai,26.0,Goalkeeper,Wattenscheid 09,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+FC Schalke 04,Waldemar Ksienzyk,30.0,Right-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Bayern Munich,Jean-Pierre Papin,30.0,Centre-Forward,Milan,2.75m,in,Summer,"2,75",1 Bundesliga,1994,1994/1995
+Bayern Munich,Oliver Kahn,25.0,Goalkeeper,Karlsruher SC,2.30m,in,Summer,"2,3",1 Bundesliga,1994,1994/1995
+Bayern Munich,Alain Sutter,26.0,Left Midfield,Germany,1.40m,in,Summer,"1,4",1 Bundesliga,1994,1994/1995
+E. Frankfurt,Thomas Doll,28.0,Attacking Midfield,Lazio,1.75m,in,Summer,"1,75",1 Bundesliga,1994,1994/1995
+E. Frankfurt,Thorsten Legat,25.0,Left Midfield,Werder Bremen,1.15m,in,Summer,"1,15",1 Bundesliga,1994,1994/1995
+E. Frankfurt,Andreas Köpke,32.0,Goalkeeper,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,1994,1994/1995
+E. Frankfurt,Nihat Kaplan,21.0,midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+E. Frankfurt,Jochen Kientz,21.0,Centre-Back,1860 Munich,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+E. Frankfurt,Stephan Paßlack,23.0,Centre-Back,Bay. Uerdingen,loan transfer,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Bor. M'gladbach,Stefan Effenberg,25.0,Central Midfield,Fiorentina,Loan fee:750Th.,in,Summer,"0,75",1 Bundesliga,1994,1994/1995
+Bor. M'gladbach,Marco Villa,15.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Andreas Möller,26.0,Attacking Midfield,Juventus,4.60m,in,Summer,"4,6",1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Júlio César,31.0,Centre-Back,Juventus,1.25m,in,Summer,"1,25",1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Martin Kree,29.0,Centre-Back,Bay. Leverkusen,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Marco Kurz,25.0,Centre-Back,Germany,475Th.,in,Summer,"0,475",1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Yahaya Mallam,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Lars Müller,18.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Vladimir But,16.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Bor. Dortmund,Marc Arnold,23.0,Attacking Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Bay. Leverkusen,Markus Münch,21.0,Left-Back,Bayern Munich,750Th.,in,Summer,"0,75",1 Bundesliga,1994,1994/1995
+Bay. Leverkusen,Hans-Peter Lehnhoff,30.0,Right Midfield,Belgium,500Th.,in,Summer,"0,5",1 Bundesliga,1994,1994/1995
+Bay. Leverkusen,Rudi Völler,34.0,Centre-Forward,France,250Th.,in,Summer,"0,25",1 Bundesliga,1994,1994/1995
+Bay. Leverkusen,Mike Rietpietsch,20.0,Right Midfield,Germany,108Th.,in,Summer,"0,108",1 Bundesliga,1994,1994/1995
+Bay. Leverkusen,Andreas Neuendorf,19.0,Central Midfield,Germany,99Th.,in,Summer,"0,099",1 Bundesliga,1994,1994/1995
+Bay. Leverkusen,Claudio Reyna,21.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+1. FC Köln,Bruno Labbadia,28.0,Centre-Forward,Bayern Munich,1.25m,in,Summer,"1,25",1 Bundesliga,1994,1994/1995
+1. FC Köln,Reinhard Stumpf,32.0,Centre-Back,Turkey,125Th.,in,Summer,"0,125",1 Bundesliga,1994,1994/1995
+1. FC Köln,Chris Hermansen,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+1. FC Köln,Wolfgang Rolff,34.0,Central Midfield,Karlsruher SC,50Th.,in,Summer,"0,05",1 Bundesliga,1994,1994/1995
+1. FC Köln,Bjarne Goldbaek,25.0,Central Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+1. FC Köln,Michael Rösele,19.0,Right Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+1. FC Köln,Dariusz Dziekanowski,31.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Johnny Ekström,29.0,Centre-Forward,Reggiana,600Th.,in,Summer,"0,6",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Andrzej Lesiak,28.0,Sweeper,Central_EU,450Th.,in,Summer,"0,45",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Michael Spies,28.0,Attacking Midfield,Hamburger SV,225Th.,in,Summer,"0,225",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Mathias Stammann,26.0,Left Midfield,SC Fortuna Köln,150Th.,in,Summer,"0,15",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Mark Schwarzer,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Thomas Hoßmang,27.0,Sweeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Sascha Licht,19.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Daniel Küttner,21.0,Defensive Midfield,Germany,20Th.,in,Summer,"0,02",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Kai-Uwe Börner,23.0,midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Florian Weichert,26.0,Centre-Forward,VfB Leipzig,loan transfer,in,Summer,0.01,1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Andreas Sassen,26.0,Attacking Midfield,Hamburger SV,350Th.,in,Winter,"0,35",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Jörn Andersen,31.0,Centre-Forward,Hamburger SV,250Th.,in,Winter,"0,25",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Herbert Waas,31.0,Centre-Forward,Uk,160Th.,in,Winter,"0,16",1 Bundesliga,1994,1994/1995
+Dynamo Dresden,Marco Dittgen,20.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,1994,1994/1995
+VfL Bochum,Henryk Baluszynski,22.0,Centre-Forward,Central_EU,?,in,Winter,0.01,1 Bundesliga,1994,1994/1995
+VfL Bochum,Roland Wohlfarth,31.0,Centre-Forward,Saint-Étienne,?,in,Winter,0.01,1 Bundesliga,1994,1994/1995
+VfB Stuttgart,Helgi Sigurdsson,20.0,attack,North_EU,?,in,Winter,0.01,1 Bundesliga,1994,1994/1995
+1860 Munich,Elvis Brajkovic,25.0,Centre-Back,Est_EU,400Th.,in,Winter,"0,4",1 Bundesliga,1994,1994/1995
+1860 Munich,René Rydlewicz,21.0,Right Midfield,Bay. Leverkusen,Loan fee:100Th.,in,Winter,"0,1",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Marcus Marin,28.0,Centre-Forward,1.FC K'lautern,500Th.,in,Winter,"0,5",1 Bundesliga,1994,1994/1995
+MSV Duisburg,Alexander Löbe,22.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,1994,1994/1995
+Hamburger SV,Frank Ordenewitz,29.0,Centre-Forward,JEF Utd Ichihara,400Th.,in,Winter,"0,4",1 Bundesliga,1994,1994/1995
+Hamburger SV,Michael Mason,23.0,Right Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,1994,1994/1995
+Hamburger SV,Niclas Kindvall,27.0,Centre-Forward,North_EU,?,in,Winter,0.01,1 Bundesliga,1994,1994/1995
+FC Schalke 04,Stefan Kohn,29.0,Centre-Forward,1. FC Köln,loan transfer,in,Winter,0.01,1 Bundesliga,1994,1994/1995
+Bayern Munich,Emil Kostadinov,27.0,Centre-Forward,Dep. La Coruña,Loan fee:250Th.,in,Winter,"0,25",1 Bundesliga,1994,1994/1995
+E. Frankfurt,Josef Obajdin,24.0,Centre-Forward,Central_EU,Loan fee:125Th.,in,Winter,"0,125",1 Bundesliga,1994,1994/1995
+Ipswich,Claus Thomsen,24.0,Centre-Back,North_EU,350Th.,in,Summer,"0,35",Premier League,1994,1994/1995
+Ipswich,Mauricio Taricco,21.0,Left-Back,South America,245Th.,in,Summer,"0,245",Premier League,1994,1994/1995
+Ipswich,Adrián Paz,25.0,midfield,South America,?,in,Summer,0.01,Premier League,1994,1994/1995
+Norwich,Jon Newsome,23.0,Right-Back,Leeds,1.50m,in,Summer,"1,5",Premier League,1994,1994/1995
+Norwich,Mike Sheron,22.0,Centre-Forward,Man City,1.38m,in,Summer,"1,38",Premier League,1994,1994/1995
+Norwich,Carl Bradshaw,25.0,Right-Back,Uk,580Th.,in,Summer,"0,58",Premier League,1994,1994/1995
+Norwich,Mike Milligan,27.0,midfield,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Norwich,Keith O'Neill,18.0,Left Winger,Home Farm,?,in,Summer,0.01,Premier League,1994,1994/1995
+QPR,Steve Hodge,31.0,Central Midfield,Leeds,360Th.,in,Summer,"0,36",Premier League,1994,1994/1995
+QPR,Sieb Dijkstra,27.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Sheff Wed,Ian Nolan,24.0,Left-Back,Uk,2.25m,in,Summer,"2,25",Premier League,1994,1994/1995
+Sheff Wed,Peter Atherton,24.0,Right-Back,Coventry,1.15m,in,Summer,"1,15",Premier League,1994,1994/1995
+Sheff Wed,Klas Ingesson,25.0,Defensive Midfield,PSV Eindhoven,?,in,Summer,0.01,Premier League,1994,1994/1995
+Sheff Wed,Ian Taylor,26.0,Defensive Midfield,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Sheff Wed,Dan Petrescu,26.0,Right-Back,Genoa,?,in,Summer,0.01,Premier League,1994,1994/1995
+Leicester,Mark Draper,23.0,Central Midfield,Uk,1.88m,in,Summer,"1,88",Premier League,1994,1994/1995
+Leicester,Franz Carr,28.0,Right Winger,Uk,120Th.,in,Summer,"0,12",Premier League,1994,1994/1995
+Leicester,Franz Carr,27.0,Right Winger,Uk,loan transfer,in,Summer,0.01,Premier League,1994,1994/1995
+Wimbledon FC,Efan Ekoku,27.0,Centre-Forward,Norwich,750Th.,in,Summer,"0,75",Premier League,1994,1994/1995
+Wimbledon FC,Mick Harford,35.0,Centre-Forward,Coventry,55Th.,in,Summer,"0,055",Premier League,1994,1994/1995
+Wimbledon FC,Lutz Pfannenstiel,21.0,Goalkeeper,Asia,?,in,Summer,0.01,Premier League,1994,1994/1995
+Wimbledon FC,Alan Reeves,26.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Wimbledon FC,Andy Thorn,27.0,Centre-Back,Crystal Palace,?,in,Summer,0.01,Premier League,1994,1994/1995
+Wimbledon FC,Brendan Murphy,18.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Coventry,Dion Dublin,25.0,Centre-Forward,Man Utd,3.00m,in,Summer,3,Premier League,1994,1994/1995
+Coventry,Steven Pressley,20.0,Centre-Back,Uk,900Th.,in,Summer,"0,9",Premier League,1994,1994/1995
+Coventry,Cobi Jones,24.0,Right Winger,Unknown,?,in,Summer,0.01,Premier League,1994,1994/1995
+Coventry,Gary Gillespie,34.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Coventry,Alexander Robertson,23.0,midfield,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Coventry,Paul Cook,27.0,Central Midfield,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Man Utd,David May,24.0,Centre-Back,Blackburn,2.10m,in,Summer,"2,1",Premier League,1994,1994/1995
+Man Utd,Graeme Tomlinson,18.0,attack,Uk,120Th.,in,Summer,"0,12",Premier League,1994,1994/1995
+Crystal Palace,Darren Pitcher,24.0,Right-Back,Uk,890Th.,in,Summer,"0,89",Premier League,1994,1994/1995
+Crystal Palace,Ray Wilkins,37.0,Central Midfield,QPR,?,in,Summer,0.01,Premier League,1994,1994/1995
+Crystal Palace,Rhys Wilmot,32.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Newcastle,Darren Peacock,26.0,Centre-Back,QPR,5.00m,in,Summer,5,Premier League,1994,1994/1995
+Newcastle,Paul Kitson,23.0,Centre-Forward,Uk,3.38m,in,Summer,"3,38",Premier League,1994,1994/1995
+Newcastle,Marc Hottiger,26.0,Right-Back,Uk,800Th.,in,Summer,"0,8",Premier League,1994,1994/1995
+Newcastle,Steve Guppy,25.0,Left Winger,Uk,200Th.,in,Summer,"0,2",Premier League,1994,1994/1995
+Newcastle,Philippe Albert,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1994,1994/1995
+Nottm Forest,Kevin Campbell,24.0,Centre-Forward,Uk,4.20m,in,Summer,"4,2",Premier League,1994,1994/1995
+Nottm Forest,Bryan Roy,24.0,Left Winger,Foggia,2.50m,in,Summer,"2,5",Premier League,1994,1994/1995
+Arsenal FC,Stefan Schwarz,25.0,Central Midfield,Benfica,1.00m,in,Summer,1,Premier League,1994,1994/1995
+Arsenal FC,Lee Harper,22.0,Goalkeeper,Sittingbourne FC,180Th.,in,Summer,"0,18",Premier League,1994,1994/1995
+Arsenal FC,Vince Bartram,25.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Chelsea,Paul Furlong,25.0,Centre-Forward,Uk,3.50m,in,Summer,"3,5",Premier League,1994,1994/1995
+Chelsea,David Rocastle,27.0,Attacking Midfield,Man City,1.48m,in,Summer,"1,48",Premier League,1994,1994/1995
+Chelsea,Scott Minto,22.0,Left-Back,Uk,1.15m,in,Summer,"1,15",Premier League,1994,1994/1995
+Chelsea,Alan Judge,34.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1994,1994/1995
+Aston Villa,John Fashanu,31.0,Centre-Forward,Wimbledon FC,1.62m,in,Summer,"1,62",Premier League,1994,1994/1995
+Aston Villa,Phil King,26.0,Left-Back,Sheff Wed,240Th.,in,Summer,"0,24",Premier League,1994,1994/1995
+Aston Villa,Nii Lamptey,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,1994,1994/1995
+Leeds,Carlton Palmer,28.0,Defensive Midfield,Sheff Wed,3.15m,in,Summer,"3,15",Premier League,1994,1994/1995
+Leeds,Nigel Worthington,32.0,Left-Back,Sheff Wed,400Th.,in,Summer,"0,4",Premier League,1994,1994/1995
+Leeds,Lucas Radebe,25.0,Centre-Back,Africa Sports,375Th.,in,Summer,"0,375",Premier League,1994,1994/1995
+Leeds,Philemon Masinga,25.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Premier League,1994,1994/1995
+West Ham,Don Hutchison,19.0,Attacking Midfield,Uk,2.25m,in,Summer,"2,25",Premier League,1994,1994/1995
+West Ham,Marc Rieper,26.0,Centre-Back,North_EU,1.70m,in,Summer,"1,7",Premier League,1994,1994/1995
+West Ham,Julian Dicks,26.0,Left-Back,Uk,1.50m,in,Summer,"1,5",Premier League,1994,1994/1995
+West Ham,Joey Beauchamp,23.0,Left Midfield,Uk,1.40m,in,Summer,"1,4",Premier League,1994,1994/1995
+West Ham,Adrian Richard Whitbread,22.0,Centre-Back,Uk,623Th.,in,Summer,"0,623",Premier League,1994,1994/1995
+West Ham,John Moncur,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,1994,1994/1995
+West Ham,Ian Feuer,23.0,Goalkeeper,LA Salsa,?,in,Summer,0.01,Premier League,1994,1994/1995
+West Ham,Mark Watson,21.0,attack,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+West Ham,Tony Cottee,29.0,Centre-Forward,Everton,?,in,Summer,0.01,Premier League,1994,1994/1995
+Man City,Nicky Summerbee,22.0,Right Midfield,Uk,2.25m,in,Summer,"2,25",Premier League,1994,1994/1995
+Man City,Simon Tracey,26.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1994,1994/1995
+Man City,Ray Kelly,17.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1994,1994/1995
+Southampton,Bruce Grobbelaar,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1994,1994/1995
+Southampton,Peter Whiston,26.0,Centre-Back,Uk,38Th.,in,Summer,"0,038",Premier League,1994,1994/1995
+Southampton,Ronnie Ekelund,22.0,Left Midfield,Spain,loan transfer,in,Summer,0.01,Premier League,1994,1994/1995
+Blackburn,Chris Sutton,21.0,Centre-Forward,Norwich,7.50m,in,Summer,"7,5",Premier League,1994,1994/1995
+Blackburn,Shay Given,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1994,1994/1995
+Blackburn,Tony Gale,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1994,1994/1995
+Blackburn,Robbie Slater,29.0,Central Midfield,Lens,?,in,Summer,0.01,Premier League,1994,1994/1995
+Spurs,Ilie Dumitrescu,25.0,Left Winger,Est_EU,3.70m,in,Summer,"3,7",Premier League,1994,1994/1995
+Spurs,Gheorghe Popescu,26.0,Centre-Back,PSV Eindhoven,2.90m,in,Summer,"2,9",Premier League,1994,1994/1995
+Spurs,Jürgen Klinsmann,29.0,Centre-Forward,Monaco,2.75m,in,Summer,"2,75",Premier League,1994,1994/1995
+Spurs,Owen Coll,18.0,Centre-Back,Enfield FC,?,in,Summer,0.01,Premier League,1994,1994/1995
+Liverpool FC,Phil Babb,23.0,Centre-Back,Coventry,5.43m,in,Summer,"5,43",Premier League,1994,1994/1995
+Liverpool FC,John Scales,28.0,Centre-Back,Wimbledon FC,4.10m,in,Summer,"4,1",Premier League,1994,1994/1995
+Liverpool FC,Michael Stensgaard,19.0,Goalkeeper,North_EU,480Th.,in,Summer,"0,48",Premier League,1994,1994/1995
+Everton,Daniel Amokachi,21.0,Centre-Forward,Belgium,3.50m,in,Summer,"3,5",Premier League,1994,1994/1995
+Everton,Gary Rowett,20.0,Right-Back,Uk,280Th.,in,Summer,"0,28",Premier League,1994,1994/1995
+Everton,Vinny Samways,25.0,Central Midfield,Spurs,?,in,Summer,0.01,Premier League,1994,1994/1995
+Everton,David Burrows,25.0,Left-Back,West Ham,?,in,Summer,0.01,Premier League,1994,1994/1995
+Everton,Ian Durrant,27.0,Attacking Midfield,Uk,loan transfer,in,Summer,0.01,Premier League,1994,1994/1995
+Ipswich,Chris Swailes,24.0,Centre-Back,Uk,338Th.,in,Winter,"0,338",Premier League,1994,1994/1995
+Ipswich,Lee Chapman,35.0,Centre-Forward,West Ham,88Th.,in,Winter,"0,088",Premier League,1994,1994/1995
+Norwich,Simon Tracey,27.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1994,1994/1995
+Norwich,Ashley Ward,24.0,Centre-Forward,Uk,?,in,Winter,0.01,Premier League,1994,1994/1995
+Sheff Wed,Guy Whittingham,30.0,Centre-Forward,Aston Villa,1.00m,in,Winter,1,Premier League,1994,1994/1995
+Sheff Wed,O'Neill Donaldson,25.0,Centre-Forward,Uk,57Th.,in,Winter,"0,057",Premier League,1994,1994/1995
+Leicester,Mark Robins,25.0,Centre-Forward,Norwich,1.25m,in,Winter,"1,25",Premier League,1994,1994/1995
+Leicester,Garry Parker,29.0,Central Midfield,Aston Villa,450Th.,in,Winter,"0,45",Premier League,1994,1994/1995
+Leicester,Mike Galloway,29.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Premier League,1994,1994/1995
+Wimbledon FC,Öyvind Leonhardsen,24.0,Attacking Midfield,North_EU,975Th.,in,Winter,"0,975",Premier League,1994,1994/1995
+Wimbledon FC,Kenny Cunningham,23.0,Centre-Back,Uk,900Th.,in,Winter,"0,9",Premier League,1994,1994/1995
+Wimbledon FC,Jon Goodman,23.0,Centre-Forward,Uk,650Th.,in,Winter,"0,65",Premier League,1994,1994/1995
+Wimbledon FC,Peter Shilton,45.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1994,1994/1995
+Coventry,David Burrows,26.0,Left-Back,Everton,1.65m,in,Winter,"1,65",Premier League,1994,1994/1995
+Coventry,John Filan,24.0,Goalkeeper,Uk,600Th.,in,Winter,"0,6",Premier League,1994,1994/1995
+Coventry,Mike Marsh,25.0,Central Midfield,West Ham,550Th.,in,Winter,"0,55",Premier League,1994,1994/1995
+Coventry,Kevin Richardson,32.0,Central Midfield,Aston Villa,380Th.,in,Winter,"0,38",Premier League,1994,1994/1995
+Coventry,Nigel Jemson,25.0,attack,Uk,loan transfer,in,Winter,0.01,Premier League,1994,1994/1995
+Man Utd,Andy Cole,23.0,Centre-Forward,Newcastle,9.60m,in,Winter,"9,6",Premier League,1994,1994/1995
+Crystal Palace,Iain Dowie,30.0,Centre-Forward,Southampton,500Th.,in,Winter,"0,5",Premier League,1994,1994/1995
+Crystal Palace,Ray Houghton,33.0,Central Midfield,Aston Villa,359Th.,in,Winter,"0,359",Premier League,1994,1994/1995
+Newcastle,Keith Gillespie,19.0,Right Midfield,Man Utd,1.50m,in,Winter,"1,5",Premier League,1994,1994/1995
+Newcastle,Jim Crawford,21.0,Right Midfield,free agents,free transfer,in,Winter,0,Premier League,1994,1994/1995
+Arsenal FC,John Hartson,19.0,Centre-Forward,Uk,3.75m,in,Winter,"3,75",Premier League,1994,1994/1995
+Arsenal FC,Chris Kiwomya,25.0,Centre-Forward,Ipswich,2.25m,in,Winter,"2,25",Premier League,1994,1994/1995
+Arsenal FC,Glenn Helder,26.0,Left Winger,Vitesse,?,in,Winter,0.01,Premier League,1994,1994/1995
+Aston Villa,Tommy Johnson,23.0,Centre-Forward,Uk,2.18m,in,Winter,"2,18",Premier League,1994,1994/1995
+Aston Villa,Alan Wright,23.0,Left-Back,Blackburn,1.50m,in,Winter,"1,5",Premier League,1994,1994/1995
+Aston Villa,Ian Taylor,26.0,Defensive Midfield,Sheff Wed,1.50m,in,Winter,"1,5",Premier League,1994,1994/1995
+Aston Villa,Franz Carr,28.0,Right Winger,Leicester,300Th.,in,Winter,"0,3",Premier League,1994,1994/1995
+Aston Villa,Gary Charles,24.0,Right-Back,Uk,?,in,Winter,0.01,Premier League,1994,1994/1995
+Leeds,Anthony Yeboah,28.0,Centre-Forward,E. Frankfurt,Loan fee:1.00m,in,Winter,1,Premier League,1994,1994/1995
+West Ham,Michael Hughes,23.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Premier League,1994,1994/1995
+West Ham,Les Sealey,37.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1994,1994/1995
+West Ham,Dieter Eckstein,30.0,Centre-Forward,FC Schalke 04,?,in,Winter,0.01,Premier League,1994,1994/1995
+Man City,Maurizio Gaudino,28.0,Central Midfield,E. Frankfurt,Loan fee:250Th.,in,Winter,"0,25",Premier League,1994,1994/1995
+Man City,John Burridge,43.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1994,1994/1995
+Southampton,Neil Shipperley,20.0,Centre-Forward,Chelsea,1.75m,in,Winter,"1,75",Premier League,1994,1994/1995
+Southampton,Gordon Watson,23.0,Centre-Forward,Sheff Wed,1.45m,in,Winter,"1,45",Premier League,1994,1994/1995
+Southampton,Christer Warren,20.0,midfield,Uk,50Th.,in,Winter,"0,05",Premier League,1994,1994/1995
+Blackburn,Jeff Kenna,24.0,Right-Back,Southampton,2.25m,in,Winter,"2,25",Premier League,1994,1994/1995
+Blackburn,Richard Witschge,25.0,Central Midfield,G. Bordeaux,loan transfer,in,Winter,0.01,Premier League,1994,1994/1995
+Liverpool FC,Mark Kennedy,18.0,Left-Back,Uk,2.05m,in,Winter,"2,05",Premier League,1994,1994/1995
+Liverpool FC,Alec Chamberlain,30.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1994,1994/1995
+Liverpool FC,Mark Prudhoe,31.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1994,1994/1995
+Everton,Duncan Ferguson,23.0,Centre-Forward,Uk,6.10m,in,Winter,"6,1",Premier League,1994,1994/1995
+Everton,Earl Barrett,27.0,Right-Back,Aston Villa,2.50m,in,Winter,"2,5",Premier League,1994,1994/1995
+CD Tenerife,Juanele,23.0,Second Striker,Sporting Gijón,1.65m,in,Summer,"1,65",Primera Division,1994,1994/1995
+CD Tenerife,Marcelo Ojeda,25.0,Goalkeeper,South America,540Th.,in,Summer,"0,54",Primera Division,1994,1994/1995
+CD Tenerife,Ángel Vivar Dorado,20.0,Attacking Midfield,Spain,120Th.,in,Summer,"0,12",Primera Division,1994,1994/1995
+CD Tenerife,José María Buljubasich,23.0,Goalkeeper,South America,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Tenerife,Víctor Fernández,20.0,Centre-Forward,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Tenerife,Luis Miguel Ramis,23.0,Centre-Back,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+SD Compostela,Juan Carlos Paniagua,28.0,Centre-Forward,CD Toledo,30Th.,in,Summer,"0,03",Primera Division,1994,1994/1995
+SD Compostela,Ángel Lekunberri,24.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+SD Compostela,Paco Llorente,29.0,Right Winger,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+SD Compostela,Franck Passi,28.0,Defensive Midfield,Monaco,?,in,Summer,0.01,Primera Division,1994,1994/1995
+SD Compostela,Javier Villena,27.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+SD Compostela,José Manuel Galdames,23.0,Centre-Back,Athletic,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+SD Compostela,Bent Christensen,27.0,Centre-Forward,FC Schalke 04,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Oviedo,Robert Prosinecki,25.0,Central Midfield,Real Madrid,600Th.,in,Summer,"0,6",Primera Division,1994,1994/1995
+Real Oviedo,Georgi Yordanov,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Sporting Gijón,Igor Ledyakhov,26.0,Central Midfield,Russia,1.20m,in,Summer,"1,2",Primera Division,1994,1994/1995
+Sporting Gijón,Pier,22.0,Centre-Forward,CD Tenerife,1.20m,in,Summer,"1,2",Primera Division,1994,1994/1995
+Sporting Gijón,Marcos Vales,19.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Sporting Gijón,José Luis Morales,20.0,attack,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Sporting Gijón,Jesús Enrique Velasco,22.0,Right-Back,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Albacete,José Francisco Molina,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Albacete,Ivaylo Andonov,26.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Albacete,Albert Tomàs,23.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Albacete,Óscar Dertycia,29.0,Centre-Forward,CD Tenerife,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Albacete,Óscar García,21.0,Attacking Midfield,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+Valencia,Andoni Zubizarreta,32.0,Goalkeeper,Barcelona,2.10m,in,Summer,"2,1",Primera Division,1994,1994/1995
+Valencia,Oleg Salenko,24.0,Centre-Forward,CD Logroñés,2.07m,in,Summer,"2,07",Primera Division,1994,1994/1995
+Valencia,Juan Carlos,,defence,Barcelona,900Th.,in,Summer,"0,9",Primera Division,1994,1994/1995
+Valencia,Jorge Otero,25.0,Right-Back,Celta de Vigo,300Th.,in,Summer,"0,3",Primera Division,1994,1994/1995
+Valencia,Vicente Engonga,28.0,Central Midfield,Celta de Vigo,300Th.,in,Summer,"0,3",Primera Division,1994,1994/1995
+Valencia,Enrique Romero,23.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Valencia,Antonio Poyatos,28.0,midfield,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Valencia,David Clotet,21.0,Centre-Back,Gramenet,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Valencia,Juan Carlos,29.0,Left-Back,Barcelona,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Valencia,Juanjo Maqueda,25.0,midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Valencia,Mazinho,28.0,Defensive Midfield,South America,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Celta de Vigo,Juan Sánchez,22.0,Centre-Forward,Valencia,600Th.,in,Summer,"0,6",Primera Division,1994,1994/1995
+Celta de Vigo,Srdjan Bajcetic,22.0,midfield,Central_EU,540Th.,in,Summer,"0,54",Primera Division,1994,1994/1995
+Celta de Vigo,Jon Uribarrena,25.0,attack,Athletic,180Th.,in,Summer,"0,18",Primera Division,1994,1994/1995
+Celta de Vigo,Mariano Hoyas,23.0,Right-Back,Dep. La Coruña,180Th.,in,Summer,"0,18",Primera Division,1994,1994/1995
+Celta de Vigo,Mikel Antía,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Celta de Vigo,Hermes Desio,24.0,Defensive Midfield,South America,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Celta de Vigo,Carlos Cano,24.0,Goalkeeper,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Celta de Vigo,Angel Merino,27.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Celta de Vigo,José Manuel Tárraga,23.0,defence,Valencia,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Celta de Vigo,Alberto Toril,20.0,midfield,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+Dep. La Coruña,Julio Salinas,32.0,Centre-Forward,Barcelona,2.40m,in,Summer,"2,4",Primera Division,1994,1994/1995
+Dep. La Coruña,Emil Kostadinov,26.0,Centre-Forward,FC Porto,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Dep. La Coruña,Javier Villarroya,27.0,Left Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Florin Raducioiu,24.0,Centre-Forward,Milan,2.40m,in,Summer,"2,4",Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Mauricio Pochettino,22.0,Centre-Back,South America,900Th.,in,Summer,"0,9",Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Branko Brnovic,26.0,Defensive Midfield,Central_EU,900Th.,in,Summer,"0,9",Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Sebastián Herrera,25.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Pacheta,26.0,midfield,CP Mérida,?,in,Summer,0.01,Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Jaime Molina,25.0,Centre-Back,CP Mérida,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Sociedad,Gica Craioveanu,26.0,Centre-Forward,Est_EU,1.00m,in,Summer,1,Primera Division,1994,1994/1995
+Real Sociedad,Valeriy Karpin,25.0,Right Midfield,Russia,750Th.,in,Summer,"0,75",Primera Division,1994,1994/1995
+Real Sociedad,Luis García,25.0,attack,Atlético Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Atlético Madrid,Diego Simeone,24.0,Central Midfield,Sevilla FC,2.70m,in,Summer,"2,7",Primera Division,1994,1994/1995
+Atlético Madrid,Adolfo Valencia,26.0,Centre-Forward,Bayern Munich,2.25m,in,Summer,"2,25",Primera Division,1994,1994/1995
+Atlético Madrid,Delfí Geli,25.0,Right-Back,Albacete,1.20m,in,Summer,"1,2",Primera Division,1994,1994/1995
+Atlético Madrid,Santi Denia,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Atlético Madrid,Iván Rocha,25.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Atlético Madrid,Igor Dobrovolski,26.0,Attacking Midfield,Russia,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Racing,Thomas Christiansen,21.0,Centre-Forward,Spain,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+Racing,Alfredo Grelak,23.0,defence,South America,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Racing,Iñaki Bollain,19.0,Right-Back,Gimnástica,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Racing,Lluís Carreras,21.0,Left-Back,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+Athletic,Jon Andoni Goikoetxea,28.0,Right Midfield,Barcelona,4.20m,in,Summer,"4,2",Primera Division,1994,1994/1995
+Athletic,Bittor Alkiza,23.0,Left Midfield,Real Sociedad,1.30m,in,Summer,"1,3",Primera Division,1994,1994/1995
+Real Madrid,Michael Laudrup,30.0,Attacking Midfield,Barcelona,9.60m,in,Summer,"9,6",Primera Division,1994,1994/1995
+Real Madrid,Fernando Redondo,25.0,Defensive Midfield,CD Tenerife,3.50m,in,Summer,"3,5",Primera Division,1994,1994/1995
+Real Madrid,Quique Sánchez Flores,29.0,Right-Back,Valencia,1.20m,in,Summer,"1,2",Primera Division,1994,1994/1995
+Real Madrid,José Amavisca,23.0,Left Midfield,Spain,900Th.,in,Summer,"0,9",Primera Division,1994,1994/1995
+Sevilla FC,Moacir,24.0,Defensive Midfield,Atlético Madrid,800Th.,in,Summer,"0,8",Primera Division,1994,1994/1995
+Sevilla FC,Juanito,29.0,Centre-Back,Atlético Madrid,600Th.,in,Summer,"0,6",Primera Division,1994,1994/1995
+Sevilla FC,Pedro,26.0,Left-Back,Atlético Madrid,400Th.,in,Summer,"0,4",Primera Division,1994,1994/1995
+Sevilla FC,Zigor Aranalde,21.0,Left-Back,Atl. Marbella,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Sevilla FC,David Linde,25.0,Left Winger,CD Logroñés,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,José María Cidoncha,24.0,defence,Badajoz,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Manolo Herrero,24.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Nilson,28.0,Attacking Midfield,Albacete,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Santi Cuesta,22.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Manuel Carou,25.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Juan Carlos Quero,21.0,attack,CP Mérida,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Manuel Chumilla,25.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Gustavo Matosas,27.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,José González,29.0,Goalkeeper,Valencia,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Albert Albesa,29.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Mami Quevedo,25.0,Central Midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Pablo Gómez,24.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Miodrag Belodedici,30.0,Sweeper,Valencia,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Javi Navarro,20.0,Centre-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Atila Kasa,25.0,attack,Becej,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Arturo,25.0,defence,Sporting Gijón,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Felipe Herrero,24.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Nebojsa Gudelj,25.0,Left-Back,Central_EU,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Víctor Segura,21.0,Centre-Back,Palamós CF,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,José Manuel Ochotorena,33.0,Goalkeeper,CD Tenerife,?,in,Summer,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Antonio Acosta,22.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Betis,Wojciech Kowalczyk,22.0,Centre-Forward,Central_EU,1.25m,in,Summer,"1,25",Primera Division,1994,1994/1995
+Real Betis,Risto Vidakovic,25.0,Centre-Back,Central_EU,612Th.,in,Summer,"0,612",Primera Division,1994,1994/1995
+Real Betis,Jaime Quesada,22.0,Right-Back,Spain,480Th.,in,Summer,"0,48",Primera Division,1994,1994/1995
+Real Betis,Josete,24.0,defence,Spain,270Th.,in,Summer,"0,27",Primera Division,1994,1994/1995
+Real Betis,Vlada Stosic,29.0,midfield,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Real Betis,José Menéndez,30.0,midfield,Albacete,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Betis,Juan Sabas,27.0,Centre-Forward,Atlético Madrid,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Real Zaragoza,José Luis Loreto,23.0,Centre-Forward,Spain,150Th.,in,Summer,"0,15",Primera Division,1994,1994/1995
+Real Zaragoza,Óscar,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Real Zaragoza,Sergi López,26.0,Left-Back,Barcelona,?,in,Summer,0.01,Primera Division,1994,1994/1995
+Barcelona,Gheorghe Hagi,29.0,Attacking Midfield,Brescia,4.00m,in,Summer,4,Primera Division,1994,1994/1995
+Barcelona,Xabier Eskurza,24.0,Central Midfield,Athletic,4.00m,in,Summer,4,Primera Division,1994,1994/1995
+Barcelona,Abelardo,24.0,Centre-Back,Sporting Gijón,3.00m,in,Summer,3,Primera Division,1994,1994/1995
+Barcelona,Xavier Escaich,25.0,Centre-Forward,Sporting Gijón,150Th.,in,Summer,"0,15",Primera Division,1994,1994/1995
+Barcelona,Igor Korneev,26.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Barcelona,Julen Lopetegui,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1994,1994/1995
+Sporting Gijón,Hugo Pérez,26.0,Right Midfield,South America,?,in,Winter,0.01,Primera Division,1994,1994/1995
+Albacete,Goyo Fonseca,29.0,attack,free agents,free transfer,in,Winter,0,Primera Division,1994,1994/1995
+Albacete,Manolo Salvador,31.0,Central Midfield,Atl. Marbella,?,in,Winter,0.01,Primera Division,1994,1994/1995
+RCD Espanyol Barcelona,Luis Cembranos,22.0,Attacking Midfield,Spain,600Th.,in,Winter,"0,6",Primera Division,1994,1994/1995
+Sevilla FC,Ilie Dumitrescu,25.0,Left Winger,Spurs,loan transfer,in,Winter,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Jan Urban,32.0,Attacking Midfield,Spain,180Th.,in,Winter,"0,18",Primera Division,1994,1994/1995
+Real Valladolid CF,Amado Guevara,18.0,Attacking Midfield,South America,?,in,Winter,0.01,Primera Division,1994,1994/1995
+Real Valladolid CF,Pedro Riesco,25.0,attack,Dep. La Coruña,loan transfer,in,Winter,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Rubén Ruiz,25.0,Goalkeeper,North America,?,in,Winter,0.01,Primera Division,1994,1994/1995
+CD Logroñés,Javier Delgado,22.0,midfield,Spain,loan transfer,in,Winter,0.01,Primera Division,1994,1994/1995
+Real Zaragoza,Cafú,24.0,Right-Back,South America,1.50m,in,Winter,"1,5",Primera Division,1994,1994/1995
+Barcelona,José Mari,23.0,Attacking Midfield,Spain,900Th.,in,Winter,"0,9",Primera Division,1994,1994/1995
+FC Porto,Russell Latapy,25.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+FC Porto,Ronald Baroni,26.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+FC Porto,Mandla Zwane,21.0,attack,Africa Sports,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+FC Porto,Rui Barros,28.0,Attacking Midfield,France,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+FC Porto,Sergey Yuran,25.0,Centre-Forward,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+FC Porto,Vasiliy Kulkov,28.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+FC Porto,Émerson,22.0,Defensive Midfield,Belenenses,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Emmanuel Amunike,23.0,Left Winger,MSV Duisburg,1.75m,in,Summer,"1,75",Liga Nos,1994,1994/1995
+Sporting CP,Pedrosa,22.0,Central Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Luis Vasco,27.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Carlos Xavier,32.0,Defensive Midfield,Real Sociedad,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Chiquinho Conde,28.0,Centre-Forward,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Marco Aurelio,27.0,Centre-Back,União Madeira,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Oceano Cruz,31.0,Defensive Midfield,Real Sociedad,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Nuno Valente,19.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Ricardo Sá Pinto,21.0,Second Striker,Salgueiros,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Sporting CP,Noureddine Naybet,24.0,Centre-Back,FC Nantes,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Edílson,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Benfica,Amaral,24.0,Right Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Rui Esteves,27.0,midfield,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Paulo Pereira,28.0,Right-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Paulao,27.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Nelo,26.0,Central Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Tavares,28.0,Defensive Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Michel Preud'homme,35.0,Goalkeeper,Belgium,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Dimas,25.0,Left-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Paulo Bento,25.0,Defensive Midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Benfica,Mario Stanic,22.0,Right Winger,Sporting Gijón,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vit. Guimarães,José Carlos,27.0,Right-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vit. Guimarães,Gilmar,27.0,Centre-Forward,Chaves,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vit. Guimarães,Pedro Martins,23.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vit. Guimarães,Vitor Silva,25.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vit. Guimarães,Zé Carlos,32.0,Goalkeeper,Farense,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vit. Guimarães,Walter,26.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,King,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Farense,Christian,19.0,Centre-Forward,CF Estrela,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Peter Rufai,30.0,Goalkeeper,Go Ahead Eagles,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Tozé,28.0,attack,Gil Vicente,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Helcinho,24.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Miroslav Curcic,32.0,attack,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Moussa N'Daw,25.0,Centre-Forward,Asia,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Raul Barbosa,22.0,Right-Back,Padernense,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Farense,Paulo Pilar,22.0,Central Midfield,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Poejo,20.0,Defensive Midfield,Sporting CP,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Tahar El Khalej,26.0,Centre-Back,Africa Sports,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Lula,28.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Bambo,19.0,Centre-Forward,Boavista,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Uche Okafor,26.0,Centre-Back,Germany,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Nélson Bertolazzi,28.0,attack,Boavista,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Paulito,26.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Leiria,Moisés Guilherme,19.0,defence,Unknown,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Marítimo,Alexandre Margarido,24.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Marítimo,Fernando Aguiar,22.0,Defensive Midfield,Toronto Bliz.,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Marítimo,Carlos Jorge,27.0,Centre-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Marítimo,Robson,20.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Marítimo,Luís Fernando,30.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Marítimo,Herivelto,18.0,Attacking Midfield,Unknown,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Tirsense,Cabral,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Tirsense,Rui Gregório,25.0,Centre-Back,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Tirsense,Luis Mariano,25.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Tirsense,Porfírio,20.0,Centre-Forward,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1994,1994/1995
+SC Braga,Moké Kajima,18.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+SC Braga,Hélder Baptista,22.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+SC Braga,Litos,27.0,Attacking Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+SC Braga,Stéphane Demol,28.0,Centre-Back,Belgium,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+SC Braga,Bruno,23.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+SC Braga,Bruno Vaza,23.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+SC Braga,Baltasar,27.0,Attacking Midfield,Louletano,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Ion Timofte,26.0,Left Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Cobra,25.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Vasco Oliveira,19.0,midfield,Peniche,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Eduard Abazaj,30.0,Left-Back,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Jovica Simanic,28.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Ricardo Nascimento,20.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Boavista,Fernando Mendes,27.0,Left-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Edmílson,22.0,Second Striker,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Fernando Almeida,27.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Basílio Almeida,22.0,Second Striker,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Luis Carlos,25.0,midfield,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Vinha,27.0,Centre-Forward,FC Porto,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Paulo Sérgio,26.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Nandinho,21.0,Right Winger,Castêlo Maia,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Pedro Espinha,28.0,Goalkeeper,Belenenses,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Ricky,32.0,Centre-Forward,Boavista,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Miguel Bruno,22.0,Centre-Forward,Beira-Mar,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Abilio,27.0,Attacking Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Alen Petrovic,24.0,Centre-Back,Est_EU,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Darci,25.0,Left Winger,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Tomislav Ivkovic,33.0,Goalkeeper,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Álvaro Gregório,21.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Nuno Afonso,19.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Leal,29.0,Centre-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Zoran Ban,21.0,Centre-Forward,Juventus,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,M'Jid Bouyboud,27.0,Right Winger,Africa Sports,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Tulipa,21.0,Attacking Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Dariusz Adamczuk,24.0,Defensive Midfield,Italy,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Bino,21.0,Defensive Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Belenenses,Bruno Caires,18.0,Defensive Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,1994,1994/1995
+Gil Vicente,Wilson,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Gil Vicente,José Lemos,22.0,Centre-Back,Esposende,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Gil Vicente,Neves,23.0,Right-Back,SC Braga,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Gil Vicente,Fernando Brassard,22.0,Goalkeeper,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Gil Vicente,João Oliveira Pinto,22.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Gil Vicente,César Gomes,18.0,Goalkeeper,Santa Maria,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Edinho,27.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Rui Loja,22.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Silvino Morais,28.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Edinho,26.0,attack,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Marito,26.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Jaime Cerqueira,26.0,Central Midfield,Gil Vicente,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,Tonino,22.0,midfield,Spain,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,José Antonio Castillo,24.0,midfield,Spain,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Chaves,José María,23.0,attack,Real Madrid,loan transfer,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Chaínho,19.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Rui Neves,24.0,Right-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Rui Águas,34.0,Centre-Forward,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Sinisa Koncalovic,27.0,midfield,Central_EU,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,José Taira,25.0,Defensive Midfield,Belenenses,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Quim Machado,27.0,midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Gil,21.0,Left Winger,SC Braga,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,Gonçalves,26.0,Left Midfield,Belenenses,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+CF Estrela ,João Peixe,18.0,attack,Benfica,loan transfer,in,Summer,0.01,Liga Nos,1994,1994/1995
+União Madeira,Sasa Simic,25.0,Attacking Midfield,Central_EU,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Piguita,23.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Tó Ferreira,22.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Pedro Miguel,26.0,defence,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Morgado,24.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Toni,21.0,Centre-Forward,SC Braga,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Nando,31.0,defence,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Beira-Mar,Bira,25.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Goran Stevanovic,27.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Vitória Setúbal,Dino,33.0,attack,Beira-Mar,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Tó Sá,25.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Paulão,24.0,Right Winger,Estrela Clube,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Hernâni,30.0,Defensive Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Michael Brundin,28.0,Centre-Back,North_EU,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Silvino Louro,35.0,Goalkeeper,Benfica,?,in,Summer,0.01,Liga Nos,1994,1994/1995
+Tirsense,Everton Giovanella,24.0,Central Midfield,Portugal,?,in,Winter,0.01,Liga Nos,1994,1994/1995
+Boavista,Alex Dias,22.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,1994,1994/1995
+Boavista,Rosario,29.0,attack,Vitória Setúbal,?,in,Winter,0.01,Liga Nos,1994,1994/1995
+Salgueiros,Tulipa,22.0,Attacking Midfield,Belenenses,loan transfer,in,Winter,0.01,Liga Nos,1994,1994/1995
+Belenenses,Dacroce,26.0,midfield,free agents,free transfer,in,Winter,0,Liga Nos,1994,1994/1995
+Belenenses,Basaúla Lemba,29.0,Attacking Midfield,Vit. Guimarães,?,in,Winter,0.01,Liga Nos,1994,1994/1995
+Gil Vicente,Miguel Bruno,23.0,Centre-Forward,Belenenses,?,in,Winter,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Abel Silva,25.0,Right-Back,Benfica,?,in,Winter,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Jorge Andrade,31.0,Second Striker,Marítimo,?,in,Winter,0.01,Liga Nos,1994,1994/1995
+Vitória Setúbal,Pedro Henriques,20.0,Left-Back,Benfica,loan transfer,in,Winter,0.01,Liga Nos,1994,1994/1995
+Ajax,Winston Bogarde,23.0,Centre-Back,Sparta R.,1.00m,in,Summer,1,Eredivisie,1994,1994/1995
+Ajax,Fred Grim,28.0,Goalkeeper,Netherlands,341Th.,in,Summer,"0,341",Eredivisie,1994,1994/1995
+PSV Eindhoven,Ronaldo,17.0,Centre-Forward,South America,5.48m,in,Summer,"5,48",Eredivisie,1994,1994/1995
+PSV Eindhoven,Vampeta,20.0,Central Midfield,South America,3.00m,in,Summer,3,Eredivisie,1994,1994/1995
+PSV Eindhoven,Luc Nilis,27.0,Centre-Forward,Belgium,2.50m,in,Summer,"2,5",Eredivisie,1994,1994/1995
+PSV Eindhoven,Ronald Waterreus,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+PSV Eindhoven,Stanley Menzo,30.0,Goalkeeper,Ajax,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+PSV Eindhoven,Boudewijn Pahlplatz,22.0,attack,Twente FC,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+PSV Eindhoven,Marciano Vink,23.0,Defensive Midfield,Genoa,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Vitesse,Theo ten Caat,29.0,Attacking Midfield,Uk,127Th.,in,Summer,"0,127",Eredivisie,1994,1994/1995
+Vitesse,Arco Jochemsen,23.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+Vitesse,Chris van der Weerden,21.0,Right-Back,NEC Nijmegen,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Vitesse,Ante Mise,26.0,Defensive Midfield,Est_EU,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Vitesse,Dejan Curovic,25.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Twente FC,Juul Ellerman,28.0,Centre-Forward,PSV Eindhoven,450Th.,in,Summer,"0,45",Eredivisie,1994,1994/1995
+Twente FC,Paul Bosvelt,24.0,Defensive Midfield,Go Ahead Eagles,200Th.,in,Summer,"0,2",Eredivisie,1994,1994/1995
+Twente FC,Berthil ter Avest,23.0,Left Midfield,FC Groningen,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Roda JC,Tomasz Iwan,23.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+Roda JC,Johan de Kock,29.0,Centre-Back,FC Utrecht,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Roda JC,Danny Hesp,24.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Roda JC,Maurice Graef,24.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Roda JC,Ruud Hesp,28.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Roda JC,Raymond Atteveld,27.0,Centre-Back,KSV Waregem,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NAC Breda,Jan Gaasbeek,31.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+NAC Breda,Kees van Wonderen,25.0,Centre-Back,NEC Nijmegen,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NAC Breda,Paul Janssen,22.0,defence,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NAC Breda,François Gesthuizen,21.0,Right Midfield,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NAC Breda,Yassine Abdellaoui,19.0,Left Midfield,Willem II,nan,in,Summer,0.01,Eredivisie,1994,1994/1995
+Willem II,Danny Blankers,17.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Willem II,Ronald Rombouts,19.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Sparta R.,Maikel Renfurm,17.0,Right Winger,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Sparta R.,Alfons Groenendijk,30.0,Defensive Midfield,Man City,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Sparta R.,Ricardo Darsan,18.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Sparta R.,Gilbert Taument,25.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Sparta R.,Edgar van de Roer,22.0,Centre-Forward,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+MVV Maastricht,Rein van Duijnhoven,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+MVV Maastricht,Roberto Straal,27.0,Centre-Back,Vitesse,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+MVV Maastricht,Sjoerd Sanders,20.0,defence,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Volendam,André Ooijer,19.0,Centre-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Volendam,Ulrich Wilson,30.0,Left-Back,FC Groningen,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Volendam,Rogier Hoogland,19.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Volendam,Jacintho Mormon,19.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Volendam,Edwin Hermans,20.0,Left-Back,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1994,1994/1995
+Go Ahead Eagles,Lloyd Kammeron,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+Go Ahead Eagles,Joop Hiele,35.0,Goalkeeper,Dordrecht'90,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Go Ahead Eagles,Marcel Valk,27.0,Right Midfield,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Go Ahead Eagles,Jack de Gier,25.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Go Ahead Eagles,Bert Verhagen,27.0,Centre-Back,Willem II,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Heerenveen,Tom Sier,24.0,Left-Back,FC Volendam,227Th.,in,Summer,"0,227",Eredivisie,1994,1994/1995
+Heerenveen,Melchior Schoenmakers,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+Heerenveen,Jon Dahl Tomasson,17.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+Heerenveen,Prince Polley,25.0,Centre-Forward,Twente FC,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Heerenveen,Pieter Bijl,29.0,Central Midfield,FC Utrecht,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Heerenveen,Hennie Meijer,32.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Mariano Bombarda,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+FC Groningen,Dick Schreuder,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+FC Groningen,Jussi Nuorela,20.0,Centre-Back,North_EU,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Gian Paolo Assorgia,22.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Arafath Heuvel,18.0,Left Winger,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Romano Sion,23.0,Centre-Forward,RBC,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Marcel Boudesteyn,22.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Erwin Koeman,32.0,Left Midfield,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Dick Kooijman,21.0,Defensive Midfield,Heracles,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Arjan Blaauw,20.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Raymond Beerens,22.0,midfield,MVV Maastricht,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Utrecht,Foeke Booy,32.0,Centre-Forward,Belgium,182Th.,in,Summer,"0,182",Eredivisie,1994,1994/1995
+FC Utrecht,David Nascimento,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+FC Utrecht,René Ponk,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+FC Utrecht,Peter Hofstede,27.0,Centre-Forward,Roda JC,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Utrecht,Carlos Hasselbaink,25.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Utrecht,Elroy Asmus,20.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Utrecht,Edwin Gorter,30.0,Attacking Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+FC Utrecht,Niels Creutzburg,19.0,Defensive Midfield,Go Ahead Eagles,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+RKC Waalwijk,Bobby Petta,19.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+RKC Waalwijk,Yuri Petrov,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+RKC Waalwijk,Zeljko Petrovic,28.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+RKC Waalwijk,Erik ten Hag,24.0,Centre-Back,Twente FC,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+RKC Waalwijk,Danny Muller,24.0,Attacking Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Juan Viedma Schenkhuizen,19.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+NEC Nijmegen,Patrick Pothuizen,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1994,1994/1995
+NEC Nijmegen,Mark Verhoeven,24.0,Right-Back,MVV Maastricht,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Emiel van Eijkeren,26.0,attack,FC Den Haag,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Ejo Elburg,31.0,midfield,PAX Hengelo,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Bas Hendriks,17.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Lodewijk van der Heijden,17.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Michael Dikken,26.0,Left-Back,Heracles,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Anton Janssen,30.0,Left Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+NEC Nijmegen,Patrick van Diemen,22.0,Defensive Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Ronald Hoop,27.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Adri van Tiggelen,37.0,Left-Back,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Michel Valke,34.0,Left Midfield,Sparta R.,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Peter Heijstek,20.0,midfield,DFC,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Peter van der Kwaak,25.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Benny Gall,23.0,Goalkeeper,North_EU,?,in,Summer,0.01,Eredivisie,1994,1994/1995
+Dordrecht'90,Lars Brögger,24.0,Attacking Midfield,Germany,loan transfer,in,Summer,0.01,Eredivisie,1994,1994/1995
+Feyenoord,Bernard Schuiteman,21.0,Centre-Back,Bay. Leverkusen,750Th.,in,Winter,"0,75",Eredivisie,1994,1994/1995
+Feyenoord,Denis Klyuev,21.0,Central Midfield,Russia,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+Feyenoord,Gláucio,19.0,Attacking Midfield,South America,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+PSV Eindhoven,Eidur Gudjohnsen,16.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,1994,1994/1995
+PSV Eindhoven,Stan Valckx,31.0,Centre-Back,Sporting CP,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+NAC Breda,Olaf Schaap,23.0,midfield,Dordrecht'90,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+Sparta R.,Marco Boogers,27.0,Centre-Forward,RKC Waalwijk,440Th.,in,Winter,"0,44",Eredivisie,1994,1994/1995
+Go Ahead Eagles,Harry Decheiver,24.0,Centre-Forward,RKC Waalwijk,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+Heerenveen,Alex Pastoor,28.0,midfield,FC Volendam,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Dean Gorré,24.0,Right Winger,Feyenoord,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+FC Groningen,Maarten de Jong,32.0,midfield,Heerenveen,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+FC Utrecht,Erik Mykland,23.0,Central Midfield,North_EU,loan transfer,in,Winter,0.01,Eredivisie,1994,1994/1995
+RKC Waalwijk,Patrick Vervoort,29.0,Left Midfield,Belgium,?,in,Winter,0.01,Eredivisie,1994,1994/1995
+RKC Waalwijk,Hans van Arum,28.0,Centre-Forward,Willem II,?,in,Winter,0.01,Eredivisie,1994,1994/1995

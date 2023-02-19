@@ -1,0 +1,831 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Foggia,Massimiliano Cappellini,22.0,Centre-Forward,Milan,?,in,Summer,0.01,Serie A,1993,1993/1994
+Foggia,José Chamot,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Foggia,Giovanni Stroppa,25.0,Attacking Midfield,Lazio,?,in,Summer,0.01,Serie A,1993,1993/1994
+Foggia,Giovanni Bucaro,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Paolo Di Canio,24.0,Centre-Forward,Juventus,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Eugenio Corini,22.0,Defensive Midfield,Sampdoria,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Mario Massimo Caruso,23.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Roberto Bordin,28.0,Defensive Midfield,Atalanta,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Raffaele Di Fusco,31.0,Goalkeeper,Torino,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Giovanni Bia,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Renato Buso,23.0,Right Midfield,Sampdoria,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Fabio Pecchia,19.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+SSC Napoli,Enzo Gambaro,27.0,Left-Back,Milan,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Stefano Daniel,24.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Alessio Costagli,18.0,Goalkeeper,Cecina,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Ettore Gandini,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Tarcisio Catanese,25.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Stefano Torrisi,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Christian Lantignotti,23.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Michele Padovano,26.0,Centre-Forward,Genoa,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Luigi De Agostini,32.0,Left-Back,Inter,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Johnny Ekström,28.0,Centre-Forward,North_EU,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Claudio Taffarel,27.0,Goalkeeper,AC Parma,?,in,Summer,0.01,Serie A,1993,1993/1994
+Reggiana,Massimiliano Esposito,21.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cremonese,Stefano De Agostini,28.0,Defensive Midfield,Atalanta,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cremonese,Alfredo Bassani,22.0,defence,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cremonese,Alessandro Mannini,35.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cremonese,Manolo Guindani,22.0,attack,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Piacenza,Marco Ferrante,22.0,Centre-Forward,AC Parma,100Th.,in,Summer,"0,1",Serie A,1993,1993/1994
+Piacenza,Cleto Polonia,24.0,Right-Back,Verona,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Angelo Di Livio,26.0,Right Midfield,Italy,12.90m,in,Summer,"12,9",Serie A,1993,1993/1994
+Juventus,Alessandro Del Piero,18.0,Second Striker,Italy,2.58m,in,Summer,"2,58",Serie A,1993,1993/1994
+Juventus,Zoran Ban,20.0,Centre-Forward,Est_EU,450Th.,in,Summer,"0,45",Serie A,1993,1993/1994
+Juventus,Marco Moro,23.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Massimiliano Notari,21.0,defence,Saronno,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Francesco Baldini,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Andrea Fortunato,21.0,Left-Back,Genoa,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Gianluca Francesconi,21.0,Centre-Back,Reggiana,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Federico Giampaolo,23.0,Attacking Midfield,Verona,?,in,Summer,0.01,Serie A,1993,1993/1994
+Juventus,Sergio Porrini,24.0,Right-Back,Atalanta,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Marco Osio,27.0,Defensive Midfield,AC Parma,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Marco Sinigaglia,25.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Enzo Francescoli,31.0,Centre-Forward,Cagliari Calcio,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Marco Sesia,23.0,midfield,Nizzamillefonti,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Luca Pastine,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Angelo Gregucci,29.0,Centre-Back,Lazio,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Giovanni Galli,35.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Torino,Robert Jarni,24.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Massimiliano Corrado,22.0,Right-Back,Reggiana,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Roberto Murgita,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Andrea Bianchi,24.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Roberto Lorenzini,26.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Massimo Ciocci,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Marco Nappi,27.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Simone Pasticcio,17.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Fabio Galante,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Dan Petrescu,25.0,Right-Back,Foggia,?,in,Summer,0.01,Serie A,1993,1993/1994
+Genoa,Marciano Vink,22.0,Defensive Midfield,Ajax,?,in,Summer,0.01,Serie A,1993,1993/1994
+Inter,Dennis Bergkamp,24.0,Second Striker,Ajax,9.77m,in,Summer,"9,77",Serie A,1993,1993/1994
+Inter,Wim Jonk,26.0,Defensive Midfield,Ajax,5.68m,in,Summer,"5,68",Serie A,1993,1993/1994
+Inter,Francesco Dell'Anno,26.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Inter,Marco Grossi,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Inter,Gianluca Festa,24.0,Right-Back,Cagliari Calcio,?,in,Summer,0.01,Serie A,1993,1993/1994
+Inter,Massimo Paganin,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Inter,Alessandro Rossi,18.0,defence,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Fabrizio Lorieri,29.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Walter Lapini,19.0,attack,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Gabriele Grossi,21.0,Left-Back,Lecce,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Marco Lanna,24.0,Centre-Back,Sampdoria,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Andrea Pazzagli,33.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Abel Balbo,27.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AS Roma,Alessio Scarchilli,20.0,Attacking Midfield,Lecce,?,in,Summer,0.01,Serie A,1993,1993/1994
+Milan,Brian Laudrup,24.0,Right Winger,Italy,7.50m,in,Summer,"7,5",Serie A,1993,1993/1994
+Milan,Christian Panucci,20.0,Right-Back,Genoa,5.94m,in,Summer,"5,94",Serie A,1993,1993/1994
+Milan,Florin Raducioiu,23.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+Milan,Marco Pullo,25.0,defence,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Milan,Mario Ielpo,30.0,Goalkeeper,Cagliari Calcio,?,in,Summer,0.01,Serie A,1993,1993/1994
+Milan,Alessandro Orlando,23.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Valerio Bertotto,20.0,Right-Back,Italy,1.50m,in,Summer,"1,5",Serie A,1993,1993/1994
+Udinese Calcio,Marco Delvecchio,20.0,Centre-Forward,Inter,Loan fee:150Th.,in,Summer,"0,15",Serie A,1993,1993/1994
+Udinese Calcio,Thomas Helveg,22.0,Right-Back,North_EU,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Vincenzo Montalbano,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Alessandro Manni,19.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Oberdan Biagioni,23.0,Attacking Midfield,Foggia,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Manuel Marcuz,21.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Fausto Pizzi,25.0,Attacking Midfield,AC Parma,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Massimiliano Caniato,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Francesco Statuto,21.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Andrea Carnevale,32.0,Centre-Forward,AS Roma,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Stefano Rossini,22.0,Left-Back,Inter,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Graziano Battistini,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Fabio Petruzzi,22.0,Centre-Back,AS Roma,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+Sampdoria,David Platt,27.0,Attacking Midfield,Juventus,7.80m,in,Summer,"7,8",Serie A,1993,1993/1994
+Sampdoria,Ruud Gullit,30.0,Second Striker,free agents,free transfer,in,Summer,0,Serie A,1993,1993/1994
+Sampdoria,Roberto Breda,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Sampdoria,Fausto Salsano,33.0,Right Winger,AS Roma,?,in,Summer,0.01,Serie A,1993,1993/1994
+Sampdoria,Marco Rossi,28.0,Sweeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Sampdoria,Alberico Evani,30.0,Left Midfield,Milan,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lazio,Luca Marchegiani,27.0,Goalkeeper,Torino,7.00m,in,Summer,7,Serie A,1993,1993/1994
+Lazio,Roberto Di Matteo,23.0,Central Midfield,Uk,1.70m,in,Summer,"1,7",Serie A,1993,1993/1994
+Lazio,Pierluigi Casiraghi,24.0,Centre-Forward,Juventus,Loan fee:775Th.,in,Summer,"0,775",Serie A,1993,1993/1994
+Lazio,Giampaolo Saurini,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lazio,Luciano De Paola,32.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lazio,Paolo Negro,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lazio,Fabrizio Di Mauro,28.0,Defensive Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,André Gumprecht,18.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,1993,1993/1994
+Lecce,Gaúcho,29.0,attack,South America,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Riccardo Napolitano,18.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Franco Marchegiani,28.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Valerio Gazzani,26.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Rufo Emiliano Verga,23.0,Centre-Back,Milan,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Pasquale Padalino,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Kwame Ayew,19.0,Centre-Forward,Asia,?,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Gerson,26.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+Lecce,Marco Barollo,20.0,midfield,Inter,loan transfer,in,Summer,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Massimiliano Allegri,25.0,Central Midfield,Italy,2.50m,in,Summer,"2,5",Serie A,1993,1993/1994
+Cagliari Calcio,Valerio Fiori,24.0,Goalkeeper,Lazio,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Julio Dely Valdés,26.0,Centre-Forward,Portugal,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Simone Veronese,18.0,Right-Back,Inter,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Antonio Aloisi,24.0,defence,Torino,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Felice Falaguerra,22.0,attack,Ischia,?,in,Summer,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Nunzio La Torre,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,Graziano Mannari,24.0,Centre-Forward,Ravenna U19,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,Roberto Maltagliati,24.0,Centre-Back,Solbiatese Arno Calcio,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,Davide Falcioni,18.0,Goalkeeper,Fano,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,Gianfranco Zola,26.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,Luca Bucci,24.0,Goalkeeper,Reggiana,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,David Balleri,24.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+AC Parma,Massimo Crippa,28.0,Central Midfield,Italy,nan,in,Summer,0.01,Serie A,1993,1993/1994
+Atalanta BC,Andrea Poggi,27.0,defence,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Atalanta BC,Pietro Assennato,21.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Atalanta BC,Franck Sauzée,27.0,Central Midfield,Marseille,?,in,Summer,0.01,Serie A,1993,1993/1994
+Atalanta BC,Cristiano Scapolo,22.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Atalanta BC,Pierluigi Orlandini,20.0,Right Midfield,Lecce,?,in,Summer,0.01,Serie A,1993,1993/1994
+Atalanta BC,Nicola Boselli,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1993,1993/1994
+Foggia,Massimiliano Giacobbo,19.0,Central Midfield,Juventus,?,in,Winter,0.01,Serie A,1993,1993/1994
+Reggiana,Dorin Mateut,28.0,Attacking Midfield,Italy,?,in,Winter,0.01,Serie A,1993,1993/1994
+Genoa,Lajos Détári,30.0,Attacking Midfield,Central_EU,?,in,Winter,0.01,Serie A,1993,1993/1994
+AS Roma,Massimiliano Cappioli,25.0,Central Midfield,Cagliari Calcio,?,in,Winter,0.01,Serie A,1993,1993/1994
+AS Roma,Gianluca Festa,24.0,Right-Back,Inter,loan transfer,in,Winter,0.01,Serie A,1993,1993/1994
+Milan,Marcel Desailly,25.0,Centre-Back,Marseille,5.50m,in,Winter,"5,5",Serie A,1993,1993/1994
+Milan,Roberto Lorenzini,27.0,Left-Back,Genoa,?,in,Winter,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Dariusz Adamczuk,24.0,Defensive Midfield,Uk,?,in,Winter,0.01,Serie A,1993,1993/1994
+Udinese Calcio,Stefano Borgonovo,29.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,1993,1993/1994
+Lazio,Alen Boksic,23.0,Centre-Forward,Marseille,11.00m,in,Winter,11,Serie A,1993,1993/1994
+Lecce,Simone Erba,22.0,attack,Italy,?,in,Winter,0.01,Serie A,1993,1993/1994
+Cagliari Calcio,Dario Marcolin,22.0,Defensive Midfield,Lazio,?,in,Winter,0.01,Serie A,1993,1993/1994
+AC Parma,Néstor Sensini,27.0,Centre-Back,Italy,1.50m,in,Winter,"1,5",Serie A,1993,1993/1994
+Atalanta BC,Giampaolo Saurini,24.0,Centre-Forward,Lazio,?,in,Winter,0.01,Serie A,1993,1993/1994
+Atalanta BC,Marco Sgrò,23.0,Attacking Midfield,Italy,?,in,Winter,0.01,Serie A,1993,1993/1994
+Atalanta BC,Luciano De Paola,32.0,Defensive Midfield,Lazio,?,in,Winter,0.01,Serie A,1993,1993/1994
+FC Sochaux,Henk Vos,25.0,Centre-Forward,Belgium,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Sochaux,Didier Otokoré,24.0,Left Winger,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Sochaux,Franck Chaumin,23.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Sochaux,Laurent Croce,21.0,midfield,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Angers SCO,Christophe Galtier,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+Angers SCO,Nicolas Sachy,25.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Angers SCO,Mustapha El Haddaoui,31.0,Central Midfield,Lens,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Angers SCO,Bruno Germain,33.0,Defensive Midfield,Paris SG,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Angers SCO,Éric Péan,29.0,Sweeper,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Angers SCO,Thierry Oleksiak,31.0,Defensive Midfield,LOSC Lille,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Patrick Collot,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+FC Martigues,Didier Tholot,29.0,Centre-Forward,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Sylver Hoffer,25.0,attack,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Stéphane Mazzolini,26.0,Right-Back,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Maurice Bouquet,30.0,Central Midfield,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Philippe Anziani,31.0,Second Striker,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Thierry Rabat,31.0,Centre-Back,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Christophe Chaintreuil,29.0,Defensive Midfield,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Karim Malagouen,17.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Jean-Marc Ferreri,30.0,Attacking Midfield,Marseille,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Joël Bossis,28.0,Left Winger,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Martigues,Jean-Claude Pagal,28.0,Defensive Midfield,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Pascal Nouma,21.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Nicolas Huysman,25.0,Left Midfield,FC Metz,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Lilian Nalis,21.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Laurent Dufour,18.0,midfield,Mondeville,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Celio Silva,25.0,Centre-Back,South America,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Patrick Revelles,24.0,Centre-Forward,Monaco,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Ronan Salaün,24.0,Centre-Forward,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Arnaud Tanguy,17.0,midfield,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Richard Dutruel,20.0,Goalkeeper,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,1993,1993/1994
+LOSC Lille,Emmanuel Coquelet,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+LOSC Lille,Kennet Andersson,25.0,Centre-Forward,North_EU,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+LOSC Lille,Jean-Jacques Etamé,26.0,midfield,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+LOSC Lille,Thierry Bonalair,27.0,Left-Back,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+LOSC Lille,Clément Garcia,25.0,attack,Montpellier,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Olympique Lyon,Éric Roy,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+Olympique Lyon,Abédi Pelé,28.0,Attacking Midfield,Marseille,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Olympique Lyon,Manuel Amoros,31.0,Right-Back,Marseille,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Olympique Lyon,Stéphane Roche,22.0,Central Midfield,FC Martigues,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Olympique Lyon,Marcelo Djian,26.0,Centre-Back,South America,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Olympique Lyon,Pascal Olmeta,32.0,Goalkeeper,Marseille,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Nantes,Christophe Pignol,23.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Nantes,Samson Siasia,25.0,attack,Belgium,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Nantes,Noureddine Naybet,23.0,Centre-Back,Africa Sports,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Montpellier,Jérôme Sykora,22.0,Goalkeeper,Unknown,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Montpellier,Zalán Zombori,18.0,Attacking Midfield,Central_EU,loan transfer,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Patrick Vieira,17.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+Cannes,Jean-Christophe Marquet,19.0,Left-Back,Marseille,loan transfer,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Gábor Márton,26.0,Attacking Midfield,Central_EU,30Th.,in,Summer,"0,03",Ligue 1,1993,1993/1994
+Cannes,Marc Andrieux,26.0,Defensive Midfield,Mulhouse S-A,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Fabrice Grondin,20.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Didier Otokoré,24.0,Left Winger,FC Sochaux,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Kader Ferhaoui,28.0,Left Midfield,Montpellier,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Ardian Kozniku,25.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Tal Banin,22.0,Defensive Midfield,Est_EU,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Cannes,Nicolas Bastère,23.0,attack,Toulouse,loan transfer,in,Summer,0.01,Ligue 1,1993,1993/1994
+Lens,Frédéric Meyrieu,25.0,Attacking Midfield,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Lens,Patrice Marquet,26.0,Left Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Lens,Anicet Saussé,25.0,defence,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+G. Bordeaux,Richard Witschge,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+G. Bordeaux,Youssouf Fofana,26.0,Left Winger,Monaco,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+G. Bordeaux,Marcel Dib,32.0,Central Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+G. Bordeaux,Stéphane Paille,28.0,Centre-Forward,SM Caen,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+G. Bordeaux,Philippe Vercruysse,31.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+G. Bordeaux,Lionel Perez,26.0,Goalkeeper,France,nan,in,Summer,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Eric Lestrade,24.0,midfield,Bourges,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Didier Lelong,23.0,midfield,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Géza Mészöly,26.0,Centre-Back,Central_EU,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Bernard Pascual,26.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Jean-Luc Courtet,25.0,attack,Bourges,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Pierre Haon,26.0,Defensive Midfield,Perpignan,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+R. Strasbourg,Joël Corminboeuf,29.0,Goalkeeper,Uk,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+R. Strasbourg,Rémi Garde,27.0,Defensive Midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+R. Strasbourg,David Régis,24.0,Centre-Back,US Valenciennes,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+R. Strasbourg,Wilfrid Gohel,24.0,Right Winger,US Valenciennes,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+R. Strasbourg,Philippe Thys,33.0,Left-Back,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Saint-Étienne,Roland Wohlfarth,30.0,Centre-Forward,Bayern Munich,1.25m,in,Summer,"1,25",Ligue 1,1993,1993/1994
+Saint-Étienne,Lionel Potillon,19.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+Saint-Étienne,Piotr Swierczewski,21.0,Defensive Midfield,Central_EU,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Saint-Étienne,Laurent Blanc,27.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Saint-Étienne,Jean-Philippe Delpech,25.0,Defensive Midfield,Toulouse,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Paris SG,Raí,28.0,Attacking Midfield,South America,5.00m,in,Summer,5,Ligue 1,1993,1993/1994
+Paris SG,Xavier Gravelaine,24.0,Centre-Forward,SM Caen,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Paris SG,Luc Borrelli,27.0,Goalkeeper,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Paris SG,José Cobos,25.0,Left-Back,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Toulouse,Sylvain Kastendeuch,29.0,Sweeper,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Toulouse,Olivier Pickeu,23.0,Centre-Forward,Montpellier,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Toulouse,Alain Gouaméné,27.0,Goalkeeper,ASEC Mimosas,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Toulouse,Nicolas Bastère,24.0,attack,Cannes,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Metz,Thomas Kokkinis,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+FC Metz,Jacques Songo'o,29.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Metz,Philippe Gaillot,28.0,Left-Back,US Valenciennes,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+FC Metz,Patrice Eyraud,25.0,Defensive Midfield,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AJ Auxerre,Philippe Violeau,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1993,1993/1994
+AJ Auxerre,Taribo West,19.0,Left-Back,Julius Berger,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AJ Auxerre,Franck Silvestre,26.0,Centre-Back,FC Sochaux,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AJ Auxerre,Yann Lachuer,20.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+AJ Auxerre,Christian Henna,21.0,Defensive Midfield,Mulhouse S-A,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,Fabrice Henry,25.0,Central Midfield,FC Sochaux,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,Gilles Rousset,29.0,Goalkeeper,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,Pascal Fugier,24.0,Right-Back,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,Daniel Dutuel,25.0,Central Midfield,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,Rui Barros,27.0,Attacking Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,William Prunier,25.0,Centre-Back,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Marseille,Stéphane Porato,19.0,Goalkeeper,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Monaco,Victor Ikpeba,20.0,Centre-Forward,RC Liège,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Monaco,Enzo Scifo,27.0,Attacking Midfield,Torino,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Monaco,Sam Dominique Abouo,19.0,Centre-Back,ASEC Mimosas,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Monaco,Laurent Viaud,23.0,Defensive Midfield,Angers SCO,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Monaco,Amara Simba,31.0,Centre-Forward,Paris SG,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+Monaco,Franck Passi,27.0,Defensive Midfield,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1993,1993/1994
+SM Caen,Aleksandr Mostovoy,25.0,Attacking Midfield,Benfica,loan transfer,in,Winter,0.01,Ligue 1,1993,1993/1994
+Lens,Felix Aladesanmi Ademola,19.0,midfield,Stationery Stores FC,?,in,Winter,0.01,Ligue 1,1993,1993/1994
+AC Le Havre,Patrice Marquet,27.0,Left Midfield,Lens,?,in,Winter,0.01,Ligue 1,1993,1993/1994
+Saint-Étienne,Marcin Szulik,16.0,Attacking Midfield,Arka Nowa Sol,?,in,Winter,0.01,Ligue 1,1993,1993/1994
+FC Metz,Dragoljub Brnovic,30.0,midfield,free agents,free transfer,in,Winter,0,Ligue 1,1993,1993/1994
+AJ Auxerre,Stéphane Ferrand,25.0,Goalkeeper,FC Sochaux,loan transfer,in,Winter,0.01,Ligue 1,1993,1993/1994
+Marseille,Paulo Futre,27.0,Left Winger,Benfica,4.50m,in,Winter,"4,5",Ligue 1,1993,1993/1994
+Marseille,Sonny Anderson,23.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Ligue 1,1993,1993/1994
+Hamburger SV,Valdas Ivanauskas,26.0,Centre-Forward,Central_EU,850Th.,in,Summer,"0,85",1 Bundesliga,1993,1993/1994
+Hamburger SV,Michael Kostner,24.0,Sweeper,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,1993,1993/1994
+Hamburger SV,Andreas Sassen,25.0,Attacking Midfield,Bay. Uerdingen,400Th.,in,Summer,"0,4",1 Bundesliga,1993,1993/1994
+Hamburger SV,Jörg Albertz,22.0,Left Midfield,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,1993,1993/1994
+Hamburger SV,Stig Töfting,23.0,Defensive Midfield,North_EU,300Th.,in,Summer,"0,3",1 Bundesliga,1993,1993/1994
+VfB Leipzig,Florian Weichert,25.0,Centre-Forward,Hamburger SV,375Th.,in,Summer,"0,375",1 Bundesliga,1993,1993/1994
+VfB Leipzig,Steffen Heidrich,25.0,Attacking Midfield,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,1993,1993/1994
+VfB Leipzig,Holger Bühner,26.0,Centre-Back,Germany,70Th.,in,Summer,"0,07",1 Bundesliga,1993,1993/1994
+VfB Leipzig,Karen Markosyan,24.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+VfB Leipzig,Marcel Geißler,9.0,midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+VfB Leipzig,John Doyle,27.0,Left-Back,North_EU,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Olaf Marschall,27.0,Centre-Forward,Admira/Wacker,425Th.,in,Summer,"0,425",1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Markus Kranz,23.0,Left-Back,Bay. Uerdingen,400Th.,in,Summer,"0,4",1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Piotr Nowak,28.0,Attacking Midfield,Uk,360Th.,in,Summer,"0,36",1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Rico Hanke,17.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Ringo Herrig,17.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Uwe Rösler,24.0,Centre-Forward,1.FC Nuremberg,Loan fee:9Th.,in,Summer,"0,009",1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Stanislav Cherchesov,29.0,Goalkeeper,Russia,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Werner Rank,25.0,Centre-Forward,BSV Brandenburg,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Marek Penksa,19.0,Right Winger,E. Frankfurt,loan transfer,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Wattenscheid,Stefan Studer,29.0,Left Midfield,E. Frankfurt,225Th.,in,Summer,"0,225",1 Bundesliga,1993,1993/1994
+Wattenscheid,Karsten Hutwelker,21.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Wattenscheid,Alexander Löbe,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Wattenscheid,Thomas Ridder,20.0,Sweeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Wattenscheid,Ivica Jozic,23.0,Attacking Midfield,Germany,25Th.,in,Summer,"0,025",1 Bundesliga,1993,1993/1994
+Wattenscheid,Olaf Skok,23.0,Centre-Back,SpVgg Marl,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Werder Bremen,Mario Basler,24.0,Right Midfield,Germany,1.10m,in,Summer,"1,1",1 Bundesliga,1993,1993/1994
+VfB Stuttgart,Dunga,29.0,Defensive Midfield,Italy,2.00m,in,Summer,2,1 Bundesliga,1993,1993/1994
+VfB Stuttgart,Axel Kruse,25.0,Centre-Forward,E. Frankfurt,850Th.,in,Summer,"0,85",1 Bundesliga,1993,1993/1994
+VfB Stuttgart,Torsten Kracht,25.0,Centre-Back,VfB Leipzig,400Th.,in,Summer,"0,4",1 Bundesliga,1993,1993/1994
+VfB Stuttgart,Thomas Berthold,28.0,Centre-Back,Bayern Munich,325Th.,in,Summer,"0,325",1 Bundesliga,1993,1993/1994
+VfB Stuttgart,Thomas Brdaric,18.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+SC Freiburg,Jörg Schmadtke,29.0,Goalkeeper,Germany,200Th.,in,Summer,"0,2",1 Bundesliga,1993,1993/1994
+SC Freiburg,Jan Seifert,24.0,Centre-Back,Germany,175Th.,in,Summer,"0,175",1 Bundesliga,1993,1993/1994
+SC Freiburg,Uwe Wassmer,27.0,Centre-Forward,Uk,125Th.,in,Summer,"0,125",1 Bundesliga,1993,1993/1994
+SC Freiburg,Stefan Müller,19.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+SC Freiburg,Rodolfo Cardoso,24.0,Attacking Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+SC Freiburg,Martin Spanring,23.0,Centre-Back,FC Schalke 04,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+SC Freiburg,Paschalis Seretis,26.0,Centre-Forward,Central_EU,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+SC Freiburg,René Linderer,22.0,midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+MSV Duisburg,Peter Közle,25.0,Centre-Forward,Uk,600Th.,in,Summer,"0,6",1 Bundesliga,1993,1993/1994
+MSV Duisburg,Uwe Weidemann,30.0,Attacking Midfield,1.FC Nuremberg,300Th.,in,Summer,"0,3",1 Bundesliga,1993,1993/1994
+MSV Duisburg,Markus Reiter,16.0,Centre-Back,SW Essen U19,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+MSV Duisburg,Torsten Wohlert,27.0,Centre-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+MSV Duisburg,Alois Schwartz,26.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+MSV Duisburg,Mini Jakobsen,27.0,Left Winger,Uk,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Karlsruher SC,Slaven Bilic,24.0,Centre-Back,Est_EU,500Th.,in,Summer,"0,5",1 Bundesliga,1993,1993/1994
+Karlsruher SC,Edgar Schmitt,30.0,Centre-Forward,E. Frankfurt,475Th.,in,Summer,"0,475",1 Bundesliga,1993,1993/1994
+Karlsruher SC,Heiko Bonan,27.0,Attacking Midfield,Germany,325Th.,in,Summer,"0,325",1 Bundesliga,1993,1993/1994
+Karlsruher SC,Tomislav Maric,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Karlsruher SC,Pero Skoric,24.0,Sweeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Karlsruher SC,Karl-Heinz Lutz,18.0,attack,Unknown,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+1.FC K'lautern,Uwe Fuchs,26.0,Centre-Forward,1. FC Köln,650Th.,in,Summer,"0,65",1 Bundesliga,1993,1993/1994
+1.FC K'lautern,Michael Lusch,29.0,Right Midfield,Bor. Dortmund,475Th.,in,Summer,"0,475",1 Bundesliga,1993,1993/1994
+1.FC K'lautern,Claus Reitmaier,29.0,Goalkeeper,Germany,400Th.,in,Summer,"0,4",1 Bundesliga,1993,1993/1994
+1.FC K'lautern,Andreas Brehme,32.0,Left-Back,Real Zaragoza,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+1.FC K'lautern,Ciriaco Sforza,23.0,Central Midfield,Uk,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+FC Schalke 04,Youri Mulder,24.0,Centre-Forward,Twente FC,700Th.,in,Summer,"0,7",1 Bundesliga,1993,1993/1994
+FC Schalke 04,Jiri Nemec,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+FC Schalke 04,Marinus Bester,24.0,Centre-Forward,Werder Bremen,loan transfer,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+FC Schalke 04,Chad Deering,22.0,Defensive Midfield,Werder Bremen,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Bayern Munich,Adolfo Valencia,25.0,Centre-Forward,South America,2.55m,in,Summer,"2,55",1 Bundesliga,1993,1993/1994
+Bayern Munich,Marcel Witeczek,24.0,Centre-Forward,1.FC K'lautern,2.50m,in,Summer,"2,5",1 Bundesliga,1993,1993/1994
+Bayern Munich,Alexander Zickler,19.0,Centre-Forward,Dynamo Dresden,1.15m,in,Summer,"1,15",1 Bundesliga,1993,1993/1994
+Bayern Munich,Marco Grimm,21.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+E. Frankfurt,Maurizio Gaudino,26.0,Central Midfield,VfB Stuttgart,1.50m,in,Summer,"1,5",1 Bundesliga,1993,1993/1994
+E. Frankfurt,Jan Furtok,31.0,Centre-Forward,Hamburger SV,1.10m,in,Summer,"1,1",1 Bundesliga,1993,1993/1994
+E. Frankfurt,Mirko Dickhaut,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+E. Frankfurt,Michael Osei,21.0,Sweeper,Central_EU,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+E. Frankfurt,Radmilo Mihajlovic,28.0,Centre-Forward,FC Schalke 04,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Bor. M'gladbach,Heiko Herrlich,21.0,Centre-Forward,Bay. Leverkusen,800Th.,in,Summer,"0,8",1 Bundesliga,1993,1993/1994
+Bor. M'gladbach,Dietmar Hirsch,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Bor. M'gladbach,Jörg Kässmann,24.0,Goalkeeper,Eintr. Haiger,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Bor. Dortmund,Karl-Heinz Riedle,27.0,Centre-Forward,Lazio,4.50m,in,Summer,"4,5",1 Bundesliga,1993,1993/1994
+Bor. Dortmund,Steffen Freund,23.0,Defensive Midfield,FC Schalke 04,1.50m,in,Summer,"1,5",1 Bundesliga,1993,1993/1994
+Bor. Dortmund,Dr. Philipp Laux,20.0,Goalkeeper,VfB Gaggenau,40Th.,in,Summer,"0,04",1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Paulo Sérgio,24.0,Left Winger,South America,1.15m,in,Summer,"1,15",1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Jens Melzig,27.0,Centre-Back,Dynamo Dresden,875Th.,in,Summer,"0,875",1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Ralf Becker,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Bernd Schuster,33.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Taifour Diane,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Jörg Nowotny,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Daniel Addo,16.0,midfield,Africa Sports,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Manfred Schwabl,27.0,Defensive Midfield,Bayern Munich,1.00m,in,Summer,1,1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,André Golke,28.0,Attacking Midfield,VfB Stuttgart,750Th.,in,Summer,"0,75",1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Jürgen Kramny,21.0,Right Midfield,VfB Stuttgart,300Th.,in,Summer,"0,3",1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Hans-Jörg Criens,32.0,Centre-Forward,Bor. M'gladbach,300Th.,in,Summer,"0,3",1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Alain Sutter,25.0,Left Midfield,Uk,Loan fee:175Th.,in,Summer,"0,175",1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Michael Wiesinger,20.0,Right Midfield,FC Starnberg,30Th.,in,Summer,"0,03",1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Oliver Straube,21.0,Left Midfield,Germany,30Th.,in,Summer,"0,03",1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Thomas Kristl,30.0,midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+1. FC Köln,Stefan Kohn,27.0,Centre-Forward,Werder Bremen,775Th.,in,Summer,"0,775",1 Bundesliga,1993,1993/1994
+1. FC Köln,Ralf Hauptmann,24.0,Defensive Midfield,Dynamo Dresden,475Th.,in,Summer,"0,475",1 Bundesliga,1993,1993/1994
+1. FC Köln,Toni Polster,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+1. FC Köln,Michael Kraft,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1993,1993/1994
+1. FC Köln,Stephan Paßlack,22.0,Centre-Back,Bay. Uerdingen,loan transfer,in,Summer,0.01,1 Bundesliga,1993,1993/1994
+Hamburger SV,Jörn Andersen,30.0,Centre-Forward,E. Frankfurt,250Th.,in,Winter,"0,25",1 Bundesliga,1993,1993/1994
+Hamburger SV,Petar Hubchev,29.0,Sweeper,Central_EU,225Th.,in,Winter,"0,225",1 Bundesliga,1993,1993/1994
+VfB Leipzig,Torsten Kracht,26.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,1993,1993/1994
+VfB Leipzig,Darko Pancev,28.0,Centre-Forward,Inter,loan transfer,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Henri Fuchs,23.0,Centre-Forward,1. FC Köln,500Th.,in,Winter,"0,5",1 Bundesliga,1993,1993/1994
+Dynamo Dresden,Henrik Risom,25.0,Right-Back,North_EU,125Th.,in,Winter,"0,125",1 Bundesliga,1993,1993/1994
+SC Freiburg,Aleksandr Borodyuk,31.0,Centre-Forward,FC Schalke 04,250Th.,in,Winter,"0,25",1 Bundesliga,1993,1993/1994
+MSV Duisburg,Ivica Vastic,24.0,Second Striker,free agents,free transfer,in,Winter,0,1 Bundesliga,1993,1993/1994
+MSV Duisburg,Zoran Zeljko,25.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,1993,1993/1994
+MSV Duisburg,Peter Ogaba,19.0,midfield,Belgium,?,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+1.FC K'lautern,Pavel Kuka,25.0,Centre-Forward,Central_EU,?,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+FC Schalke 04,Dieter Eckstein,29.0,Centre-Forward,1.FC Nuremberg,?,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+FC Schalke 04,Fabijan Komljenovic,25.0,Attacking Midfield,NK Istra Pula,loan transfer,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+E. Frankfurt,Thomas Doll,27.0,Attacking Midfield,Lazio,Loan fee:350Th.,in,Winter,"0,35",1 Bundesliga,1993,1993/1994
+Bor. M'gladbach,Patrik Andersson,22.0,Centre-Back,Blackburn,550Th.,in,Winter,"0,55",1 Bundesliga,1993,1993/1994
+Bor. Dortmund,Leonardo Rodríguez,27.0,Attacking Midfield,Atalanta,loan transfer,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+Bay. Leverkusen,Walter Junghans,35.0,Goalkeeper,Germany,?,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+1.FC Nuremberg,Lubos Kubik,29.0,Central Midfield,FC Metz,?,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+1. FC Köln,Revaz Arveladze,24.0,Attacking Midfield,Est_EU,loan transfer,in,Winter,0.01,1 Bundesliga,1993,1993/1994
+Aston Villa,Andy Townsend,29.0,Central Midfield,Chelsea,2.40m,in,Summer,"2,4",Premier League,1993,1993/1994
+Aston Villa,Guy Whittingham,28.0,Centre-Forward,Uk,1.80m,in,Summer,"1,8",Premier League,1993,1993/1994
+Aston Villa,Gordon Cowans,34.0,midfield,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Norwich City,Spencer Prior,22.0,Centre-Back,Uk,250Th.,in,Summer,"0,25",Premier League,1993,1993/1994
+Norwich City,Scott Howie,21.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Oldham Athletic,Ole Björn Sundgot,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Oldham Athletic,Rick Holden,28.0,Left Midfield,Man City,?,in,Summer,0.01,Premier League,1993,1993/1994
+Oldham Athletic,Richard Graham,18.0,Centre-Back,Unknown,?,in,Summer,0.01,Premier League,1993,1993/1994
+Oldham Athletic,Paul Rickers,18.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1993,1993/1994
+Oldham Athletic,Gary Walsh,25.0,Goalkeeper,Man Utd,loan transfer,in,Summer,0.01,Premier League,1993,1993/1994
+QPR,Steve Yates,23.0,defence,Uk,820Th.,in,Summer,"0,82",Premier League,1993,1993/1994
+QPR,Trevor Sinclair,20.0,Left Winger,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Sheff Wed,Andy Sinton,27.0,Left Midfield,QPR,3.35m,in,Summer,"3,35",Premier League,1993,1993/1994
+Sheff Wed,Des Walker,27.0,Centre-Back,Sampdoria,3.00m,in,Summer,3,Premier League,1993,1993/1994
+Sheff Wed,Andy Pearce,27.0,Centre-Back,Coventry,600Th.,in,Summer,"0,6",Premier League,1993,1993/1994
+Sheff Wed,Adem Poric,20.0,Central Midfield,St. George Saints,72Th.,in,Summer,"0,072",Premier League,1993,1993/1994
+Wimbledon FC,Alan Kimble,26.0,Left-Back,Uk,210Th.,in,Summer,"0,21",Premier League,1993,1993/1994
+Wimbledon FC,Gary Blissett,29.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Coventry,Mick Harford,34.0,Centre-Forward,Uk,225Th.,in,Summer,"0,225",Premier League,1993,1993/1994
+Coventry,Paul Williams,23.0,defence,Uk,185Th.,in,Summer,"0,185",Premier League,1993,1993/1994
+Coventry,Julian Darby,25.0,midfield,Uk,180Th.,in,Summer,"0,18",Premier League,1993,1993/1994
+Coventry,Steve Morgan,24.0,Left-Back,Uk,135Th.,in,Summer,"0,135",Premier League,1993,1993/1994
+Coventry,John Gayle,29.0,Centre-Forward,Uk,120Th.,in,Summer,"0,12",Premier League,1993,1993/1994
+Coventry,Ally Pickering,26.0,defence,Uk,100Th.,in,Summer,"0,1",Premier League,1993,1993/1994
+Coventry,Tim Dalton,27.0,Goalkeeper,Ernest Borel,?,in,Summer,0.01,Premier League,1993,1993/1994
+Coventry,Leigh Jenkinson,23.0,Central Midfield,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Coventry,Zbigniew Kruszynski,32.0,midfield,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Man Utd,Roy Keane,21.0,Defensive Midfield,Uk,8.50m,in,Summer,"8,5",Premier League,1993,1993/1994
+Newcastle United,Peter Beardsley,32.0,Second Striker,Uk,1.70m,in,Summer,"1,7",Premier League,1993,1993/1994
+Newcastle United,Scott Sellars,27.0,Left Midfield,Leeds,700Th.,in,Summer,"0,7",Premier League,1993,1993/1994
+Newcastle United,Mike Hooper,29.0,Goalkeeper,Uk,628Th.,in,Summer,"0,628",Premier League,1993,1993/1994
+Newcastle United,Malcolm Allen,26.0,Centre-Forward,Uk,350Th.,in,Summer,"0,35",Premier League,1993,1993/1994
+Newcastle United,Alex Mathie,24.0,Centre-Forward,Uk,320Th.,in,Summer,"0,32",Premier League,1993,1993/1994
+Newcastle United,Nikodimos Papavasiliou,22.0,Left Winger,Central_EU,180Th.,in,Summer,"0,18",Premier League,1993,1993/1994
+Newcastle United,Michael Jeffrey,21.0,Centre-Forward,Uk,100Th.,in,Summer,"0,1",Premier League,1993,1993/1994
+Newcastle United,John Burridge,41.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Newcastle United,Steve Harper,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Ipswich,Steve Sedgley,26.0,Central Midfield,Spurs,1.25m,in,Summer,"1,25",Premier League,1993,1993/1994
+Ipswich,Ian Marshall,27.0,Centre-Forward,Oldham Athletic,1.13m,in,Summer,"1,13",Premier League,1993,1993/1994
+Ipswich,Paul Mason,29.0,midfield,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Chelsea,Gavin Peacock,25.0,midfield,Uk,1.70m,in,Summer,"1,7",Premier League,1993,1993/1994
+Chelsea,Mark Stein,27.0,Centre-Forward,Uk,1.66m,in,Summer,"1,66",Premier League,1993,1993/1994
+Chelsea,Jakob Kjeldbjerg,23.0,Centre-Back,North_EU,480Th.,in,Summer,"0,48",Premier League,1993,1993/1994
+Chelsea,Andy Dow,20.0,Left-Back,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Chelsea,Glenn Hoddle,35.0,Attacking Midfield,Swindon Town,?,in,Summer,0.01,Premier League,1993,1993/1994
+Arsenal,Eddie McGoldrick,28.0,Right Winger,Uk,1.28m,in,Summer,"1,28",Premier League,1993,1993/1994
+Leeds,Brian Deane,25.0,Centre-Forward,Sheff Utd,4.35m,in,Summer,"4,35",Premier League,1993,1993/1994
+Leeds,David O'Leary,35.0,Centre-Back,Arsenal,?,in,Summer,0.01,Premier League,1993,1993/1994
+West Ham,Dale Gordon,26.0,Right Midfield,Uk,850Th.,in,Summer,"0,85",Premier League,1993,1993/1994
+West Ham,Simon Webster,29.0,defence,Uk,650Th.,in,Summer,"0,65",Premier League,1993,1993/1994
+West Ham,Lee Chapman,33.0,Centre-Forward,Uk,313Th.,in,Summer,"0,313",Premier League,1993,1993/1994
+West Ham,Keith Rowland,21.0,Left-Back,Uk,165Th.,in,Summer,"0,165",Premier League,1993,1993/1994
+West Ham,Mike Marsh,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+West Ham,Jeroen Boere,25.0,Centre-Forward,Go Ahead Eagles,?,in,Summer,0.01,Premier League,1993,1993/1994
+West Ham,David Burrows,24.0,Left-Back,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Swindon Town,Jan Aage Fjörtoft,26.0,Centre-Forward,Central_EU,700Th.,in,Summer,"0,7",Premier League,1993,1993/1994
+Swindon Town,Adrian Richard Whitbread,21.0,Centre-Back,Uk,623Th.,in,Summer,"0,623",Premier League,1993,1993/1994
+Swindon Town,Andy Mutch,29.0,attack,Uk,310Th.,in,Summer,"0,31",Premier League,1993,1993/1994
+Swindon Town,Ty Gooden,20.0,midfield,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Swindon Town,Terry Fenwick,33.0,Centre-Back,Spurs,?,in,Summer,0.01,Premier League,1993,1993/1994
+Swindon Town,Luc Nijholt,31.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Sheff Utd,Willie Falconer,27.0,Centre-Forward,Uk,600Th.,in,Summer,"0,6",Premier League,1993,1993/1994
+Sheff Utd,Jonas Wirmola,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Sheff Utd,Chris Kamara,35.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Sheff Utd,Rob Scott,19.0,Right-Back,Uk,25Th.,in,Summer,"0,025",Premier League,1993,1993/1994
+Sheff Utd,Jostein Flo,28.0,Centre-Forward,North_EU,?,in,Summer,0.01,Premier League,1993,1993/1994
+Sheff Utd,Dave Tuttle,21.0,defence,Spurs,?,in,Summer,0.01,Premier League,1993,1993/1994
+Man City,Alan Kernaghan,26.0,Centre-Back,Uk,2.40m,in,Summer,"2,4",Premier League,1993,1993/1994
+Man City,Carl Griffiths,21.0,Centre-Forward,Uk,600Th.,in,Summer,"0,6",Premier League,1993,1993/1994
+Man City,Alfons Groenendijk,29.0,Defensive Midfield,Ajax,341Th.,in,Summer,"0,341",Premier League,1993,1993/1994
+Southampton,Paul Allen,30.0,Right Midfield,Spurs,660Th.,in,Summer,"0,66",Premier League,1993,1993/1994
+Southampton,Simon Charlton,21.0,Left-Back,Uk,350Th.,in,Summer,"0,35",Premier League,1993,1993/1994
+Southampton,Peter Reid,37.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,1993,1993/1994
+Southampton,Derek Allan,18.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Southampton,Colin Cramb,19.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Blackburn,Paul Warhurst,23.0,Centre-Back,Sheff Wed,3.75m,in,Summer,"3,75",Premier League,1993,1993/1994
+Blackburn,Ian Pearce,19.0,Centre-Back,Chelsea,450Th.,in,Summer,"0,45",Premier League,1993,1993/1994
+Blackburn,Kevin Gallacher,26.0,Right Winger,Coventry,?,in,Summer,0.01,Premier League,1993,1993/1994
+Blackburn,Andy Morrison,22.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Spurs,Jason Dozzell,25.0,Central Midfield,Ipswich,2.40m,in,Summer,"2,4",Premier League,1993,1993/1994
+Spurs,David Kerslake,27.0,Right-Back,Leeds,563Th.,in,Summer,"0,563",Premier League,1993,1993/1994
+Spurs,Colin Calderwood,28.0,Centre-Back,Swindon Town,?,in,Summer,0.01,Premier League,1993,1993/1994
+Spurs,Garry Brady,16.0,Central Midfield,Celtic Boys Club,?,in,Summer,0.01,Premier League,1993,1993/1994
+Liverpool FC,Neil Ruddock,25.0,Centre-Back,Spurs,3.00m,in,Summer,3,Premier League,1993,1993/1994
+Liverpool FC,Nigel Clough,27.0,Attacking Midfield,Uk,2.75m,in,Summer,"2,75",Premier League,1993,1993/1994
+Liverpool FC,Julian Dicks,25.0,Left-Back,West Ham,2.25m,in,Summer,"2,25",Premier League,1993,1993/1994
+Everton FC,Graham Stuart,22.0,Attacking Midfield,Chelsea,1.28m,in,Summer,"1,28",Premier League,1993,1993/1994
+Everton FC,Brett Angell,25.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,1993,1993/1994
+Everton FC,Paul Holmes,25.0,midfield,Uk,?,in,Summer,0.01,Premier League,1993,1993/1994
+Aston Villa,Scott Murray,19.0,Right Midfield,Uk,50Th.,in,Winter,"0,05",Premier League,1993,1993/1994
+Norwich City,Neil Adams,28.0,Right-Back,Oldham Athletic,375Th.,in,Winter,"0,375",Premier League,1993,1993/1994
+Oldham Athletic,Sean McCarthy,26.0,attack,Uk,628Th.,in,Winter,"0,628",Premier League,1993,1993/1994
+Oldham Athletic,Tore Pedersen,24.0,Centre-Back,North_EU,?,in,Winter,0.01,Premier League,1993,1993/1994
+Sheff Wed,Simon Coleman,25.0,Centre-Back,Uk,382Th.,in,Winter,"0,382",Premier League,1993,1993/1994
+Wimbledon FC,Marcus Gayle,23.0,Centre-Forward,Uk,375Th.,in,Winter,"0,375",Premier League,1993,1993/1994
+Coventry,Chris Marsden,24.0,Left Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+Newcastle United,Ruel Fox,26.0,Right Winger,Uk,2.50m,in,Winter,"2,5",Premier League,1993,1993/1994
+Newcastle United,Chris Holland,18.0,Central Midfield,Uk,119Th.,in,Winter,"0,119",Premier League,1993,1993/1994
+Newcastle United,Brian Reid,23.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+Leeds,John Pemberton,28.0,Centre-Back,Sheff Utd,313Th.,in,Winter,"0,313",Premier League,1993,1993/1994
+Leeds,David White,26.0,Right Winger,Man City,?,in,Winter,0.01,Premier League,1993,1993/1994
+West Ham,Gary Kelly,27.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+West Ham,Malcolm McPherson,19.0,Centre-Forward,Uk,36Th.,in,Winter,"0,036",Premier League,1993,1993/1994
+West Ham,Paul Mitchell,22.0,Central Midfield,Uk,?,in,Winter,0.01,Premier League,1993,1993/1994
+Swindon Town,Brian Kilcline,31.0,Centre-Back,Uk,113Th.,in,Winter,"0,113",Premier League,1993,1993/1994
+Swindon Town,Paul Heald,25.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+Sheff Utd,Nathan Blake,21.0,Centre-Forward,Uk,420Th.,in,Winter,"0,42",Premier League,1993,1993/1994
+Sheff Utd,Bobby Davison,34.0,attack,free agents,free transfer,in,Winter,0,Premier League,1993,1993/1994
+Sheff Utd,Roger Nilsen,24.0,Centre-Back,North_EU,?,in,Winter,0.01,Premier League,1993,1993/1994
+Sheff Utd,Tom Cowan,24.0,Left-Back,Uk,?,in,Winter,0.01,Premier League,1993,1993/1994
+Sheff Utd,Carl Muggleton,25.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+Man City,David Rocastle,26.0,Attacking Midfield,Leeds,2.40m,in,Winter,"2,4",Premier League,1993,1993/1994
+Man City,Uwe Rösler,25.0,Centre-Forward,1.FC Nuremberg,1.00m,in,Winter,1,Premier League,1993,1993/1994
+Man City,Paul Walsh,31.0,Centre-Forward,Uk,850Th.,in,Winter,"0,85",Premier League,1993,1993/1994
+Man City,Steffen Karl,23.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Premier League,1993,1993/1994
+Man City,Peter Beagrie,28.0,Left Winger,Uk,?,in,Winter,0.01,Premier League,1993,1993/1994
+Man City,Carl-Steven Shutt,32.0,attack,Uk,?,in,Winter,0.01,Premier League,1993,1993/1994
+Southampton,Jim Magilton,24.0,Right Midfield,Uk,800Th.,in,Winter,"0,8",Premier League,1993,1993/1994
+Southampton,Neil Heaney,22.0,Right Winger,Arsenal,380Th.,in,Winter,"0,38",Premier League,1993,1993/1994
+Southampton,Dave Beasant,34.0,Goalkeeper,Chelsea,380Th.,in,Winter,"0,38",Premier League,1993,1993/1994
+Southampton,Craig Maskell,25.0,Centre-Forward,Swindon Town,350Th.,in,Winter,"0,35",Premier League,1993,1993/1994
+Blackburn,Tim Flowers,26.0,Goalkeeper,Southampton,3.80m,in,Winter,"3,8",Premier League,1993,1993/1994
+Blackburn,David Batty,25.0,Defensive Midfield,Leeds,3.78m,in,Winter,"3,78",Premier League,1993,1993/1994
+Spurs,Kevin Scott,27.0,Centre-Back,Uk,1.10m,in,Winter,"1,1",Premier League,1993,1993/1994
+Spurs,Ronny Rosenthal,30.0,Left Winger,Uk,300Th.,in,Winter,"0,3",Premier League,1993,1993/1994
+Spurs,Micky Hazard,33.0,Central Midfield,Swindon Town,55Th.,in,Winter,"0,055",Premier League,1993,1993/1994
+Liverpool FC,Mark Gayle,24.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+Everton FC,Anders Limpar,28.0,Attacking Midfield,Arsenal,1.90m,in,Winter,"1,9",Premier League,1993,1993/1994
+Everton FC,Brett Angell,25.0,Centre-Forward,Uk,500Th.,in,Winter,"0,5",Premier League,1993,1993/1994
+Everton FC,Joe Parkinson,22.0,midfield,Uk,375Th.,in,Winter,"0,375",Premier League,1993,1993/1994
+Everton FC,Brett Angell,25.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Premier League,1993,1993/1994
+Racing,Dmitri Radchenko,22.0,Centre-Forward,Russia,1.20m,in,Summer,"1,2",Primera Division,1993,1993/1994
+Racing,Dmitriy Popov,26.0,Right-Back,Russia,300Th.,in,Summer,"0,3",Primera Division,1993,1993/1994
+Racing,Pablo Alfaro,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+Racing,Quique Setién,34.0,Central Midfield,CD Logroñés,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Racing,David Billabona,23.0,Central Midfield,Athletic,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Racing,Michel Pineda,29.0,Centre-Forward,SC Toulon 83,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Racing,Toño Torrecilla,29.0,Right-Back,CD Tenerife,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Racing,Óscar Engonga,24.0,midfield,CD Toledo,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Racing,Juan Endrino,27.0,defence,AEC Manlleu,?,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Urbano Ortega,31.0,Defensive Midfield,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Nikola Milinkovic,25.0,Attacking Midfield,Becej,?,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Javi García,23.0,attack,Rayo Vallecano,?,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Alberto Aguilà,22.0,attack,CA Osasuna,?,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Sören Andersen,23.0,Centre-Forward,North_EU,?,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Albert Tomàs,22.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+UE Lleida,Sebastián Herrera,24.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Oviedo,Slavisa Jokanovic,24.0,Defensive Midfield,Central_EU,750Th.,in,Summer,"0,75",Primera Division,1993,1993/1994
+Real Oviedo,Pablo Maqueda,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+Real Oviedo,Roberto Suárez,19.0,Central Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Oviedo,Lluís Carreras,20.0,Left-Back,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+Sporting Gijón,Xavier Escaich,24.0,Centre-Forward,Spain,150Th.,in,Summer,"0,15",Primera Division,1993,1993/1994
+Sporting Gijón,Mario Stanic,21.0,Right Winger,Croatia Zagreb,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Sporting Gijón,Daniel Saric,20.0,Right-Back,Est_EU,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Sporting Gijón,Marcel Sabou,27.0,midfield,Racing,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,Josep Sala,29.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,Alejandro Rodríguez,29.0,Right-Back,Real Burgos CF,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,Vladan Dimitrijevic,20.0,defence,UE Figueres,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,José González,26.0,attack,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,Esteve Fradera,30.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,Gabelo Conejo,33.0,Goalkeeper,Unknown,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Albacete,Ramón,29.0,Centre-Forward,Dep. La Coruña,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Valencia,Predrag Mijatovic,24.0,Centre-Forward,Central_EU,2.10m,in,Summer,"2,1",Primera Division,1993,1993/1994
+Valencia,Pepe Gálvez,18.0,Centre-Forward,Spain,900Th.,in,Summer,"0,9",Primera Division,1993,1993/1994
+Valencia,Juan Antonio Pizzi,25.0,Centre-Forward,CD Tenerife,Loan fee:600Th.,in,Summer,"0,6",Primera Division,1993,1993/1994
+Valencia,José Serer,27.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Celta de Vigo,Luisinho,28.0,Central Midfield,Portugal,2.40m,in,Summer,"2,4",Primera Division,1993,1993/1994
+Celta de Vigo,Rafa Berges,22.0,Left-Back,CD Tenerife,270Th.,in,Summer,"0,27",Primera Division,1993,1993/1994
+Celta de Vigo,Sebastián Losada,25.0,attack,Sevilla FC,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Celta de Vigo,Joseba Aguirre,29.0,midfield,Real Burgos CF,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Celta de Vigo,Francisco Oliete,22.0,Left-Back,Albacete,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+Celta de Vigo,Stjepan Andrijasevic,26.0,Right Midfield,Est_EU,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+Dep. La Coruña,Javier Manjarín,23.0,Second Striker,Sporting Gijón,1.30m,in,Summer,"1,3",Primera Division,1993,1993/1994
+Dep. La Coruña,Pedro Riesco,23.0,attack,Rayo Vallecano,600Th.,in,Summer,"0,6",Primera Division,1993,1993/1994
+Dep. La Coruña,Paco Jémez,23.0,Centre-Back,Rayo Vallecano,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Dep. La Coruña,Donato,30.0,Defensive Midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Dep. La Coruña,Agustín Elduayen,28.0,Goalkeeper,Real Burgos CF,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Dep. La Coruña,Voro,29.0,Centre-Back,Valencia,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Dep. La Coruña,Alfredo Santaelena,25.0,midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Sociedad,Bixente Biurrun,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+Real Sociedad,Loren,26.0,Centre-Back,Real Burgos CF,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Sociedad,Alberto Albistegui,28.0,Centre-Back,Dep. La Coruña,?,in,Summer,0.01,Primera Division,1993,1993/1994
+CD Tenerife,Nacho Conte,24.0,midfield,Sevilla FC,900Th.,in,Summer,"0,9",Primera Division,1993,1993/1994
+CD Tenerife,Juan Carlos Aguilera,24.0,Right-Back,Atlético Madrid,750Th.,in,Summer,"0,75",Primera Division,1993,1993/1994
+CD Tenerife,Antonio Pinilla,22.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+CD Tenerife,Percy Olivares,25.0,Left-Back,South America,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Atlético Madrid,José Luis Caminero,25.0,Central Midfield,Spain,2.40m,in,Summer,"2,4",Primera Division,1993,1993/1994
+Atlético Madrid,Roman Kosecki,27.0,Centre-Forward,CA Osasuna,1.80m,in,Summer,"1,8",Primera Division,1993,1993/1994
+Atlético Madrid,Moacir,23.0,Defensive Midfield,South America,1.20m,in,Summer,"1,2",Primera Division,1993,1993/1994
+Atlético Madrid,Kiko Narváez,21.0,Centre-Forward,Spain,1.20m,in,Summer,"1,2",Primera Division,1993,1993/1994
+Atlético Madrid,Mami Quevedo,24.0,Central Midfield,Spain,900Th.,in,Summer,"0,9",Primera Division,1993,1993/1994
+Atlético Madrid,Serge-Alain Maguy,22.0,midfield,Africa Sports,600Th.,in,Summer,"0,6",Primera Division,1993,1993/1994
+Atlético Madrid,Pirri Mori,22.0,Attacking Midfield,Real Oviedo,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Athletic,Iñigo Larrainzar,22.0,Right-Back,CA Osasuna,1.20m,in,Summer,"1,2",Primera Division,1993,1993/1994
+Real Madrid,Peter Dubovsky,21.0,Second Striker,Central_EU,4.30m,in,Summer,"4,3",Primera Division,1993,1993/1994
+Real Madrid,Rafael Martín Vázquez,27.0,Attacking Midfield,Marseille,3.75m,in,Summer,"3,75",Primera Division,1993,1993/1994
+Real Madrid,Rafael Alkorta,24.0,Centre-Back,Athletic,2.30m,in,Summer,"2,3",Primera Division,1993,1993/1994
+Real Madrid,Vítor,20.0,Right-Back,South America,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Sevilla FC,Gabi Moya,27.0,midfield,Atlético Madrid,420Th.,in,Summer,"0,42",Primera Division,1993,1993/1994
+Sevilla FC,Miquel Soler,28.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+Sevilla FC,Patxi Ferreira,26.0,Centre-Back,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Ismael Urzaiz,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+Rayo Vallecano,Luis Delgado,27.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Julián Palacios,22.0,Left-Back,Talavera CF,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Eduardo Rodríguez,27.0,attack,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Armando Tejera,25.0,Centre-Back,Albacete,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Onésimo,24.0,Right Winger,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Ángel Luis Alcázar,26.0,Centre-Back,Sporting Gijón,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Antonio Orejuela,32.0,midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Hugo Sánchez,34.0,Centre-Forward,North America,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Rayo Vallecano,Álex García,23.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Valladolid CF,Javi Gracia,23.0,Defensive Midfield,Spain,300Th.,in,Summer,"0,3",Primera Division,1993,1993/1994
+Real Valladolid CF,Manolo Alfaro,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+Real Valladolid CF,Javier Torres Gómez,23.0,Right-Back,Real Madrid,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Valladolid CF,Gabi Correa,25.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Valladolid CF,Miguelo,24.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Valladolid CF,Juli,23.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+CA Osasuna,Thomas Christiansen,20.0,Centre-Forward,Spain,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+CA Osasuna,Ramón de Quintana,21.0,Centre-Back,UE Figueres,?,in,Summer,0.01,Primera Division,1993,1993/1994
+CA Osasuna,Jesús Unanua,24.0,Goalkeeper,Albacete,?,in,Summer,0.01,Primera Division,1993,1993/1994
+CA Osasuna,Ryszard Staniek,22.0,Attacking Midfield,Central_EU,?,in,Summer,0.01,Primera Division,1993,1993/1994
+CA Osasuna,Javi Luke,25.0,midfield,Athletic,loan transfer,in,Summer,0.01,Primera Division,1993,1993/1994
+CD Logroñés,Dejan Markovic,20.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,1993,1993/1994
+CD Logroñés,Juan Carlos Mandiá,26.0,Centre-Back,Celta de Vigo,?,in,Summer,0.01,Primera Division,1993,1993/1994
+CD Logroñés,Paco Fernández,25.0,Central Midfield,Real Oviedo,?,in,Summer,0.01,Primera Division,1993,1993/1994
+CD Logroñés,Juan José Vallina,22.0,midfield,Real Burgos CF,?,in,Summer,0.01,Primera Division,1993,1993/1994
+Real Zaragoza,Juan Esnáider,20.0,Centre-Forward,Real Madrid,1.40m,in,Summer,"1,4",Primera Division,1993,1993/1994
+Real Zaragoza,Fernando Cáceres,24.0,Centre-Back,South America,1.05m,in,Summer,"1,05",Primera Division,1993,1993/1994
+Real Zaragoza,Juanmi,22.0,Goalkeeper,Real Madrid,300Th.,in,Summer,"0,3",Primera Division,1993,1993/1994
+Real Zaragoza,Nayim,26.0,Right Midfield,Spurs,300Th.,in,Summer,"0,3",Primera Division,1993,1993/1994
+Barcelona,Romário,27.0,Centre-Forward,PSV Eindhoven,8.00m,in,Summer,8,Primera Division,1993,1993/1994
+Barcelona,Iván Iglesias,21.0,Central Midfield,Sporting Gijón,650Th.,in,Summer,"0,65",Primera Division,1993,1993/1994
+UE Lleida,Antonio Acosta,22.0,midfield,Spain,?,in,Winter,0.01,Primera Division,1993,1993/1994
+UE Lleida,Gustavo Matosas,26.0,midfield,South America,?,in,Winter,0.01,Primera Division,1993,1993/1994
+Albacete,Nilson,28.0,Attacking Midfield,South America,?,in,Winter,0.01,Primera Division,1993,1993/1994
+Valencia,Víctor Aristizábal,22.0,Centre-Forward,South America,500Th.,in,Winter,"0,5",Primera Division,1993,1993/1994
+Celta de Vigo,Zsolt Limperger,25.0,Centre-Back,Real Burgos CF,Loan fee:78Th.,in,Winter,"0,078",Primera Division,1993,1993/1994
+Atlético Madrid,José Soler,26.0,midfield,Badajoz,?,in,Winter,0.01,Primera Division,1993,1993/1994
+Sevilla FC,Quique Estebaranz,28.0,Centre-Forward,Barcelona,210Th.,in,Winter,"0,21",Primera Division,1993,1993/1994
+Real Valladolid CF,Marlon Brandão,30.0,attack,Boavista,?,in,Winter,0.01,Primera Division,1993,1993/1994
+CD Logroñés,Grzegorz Lewandowski,24.0,Defensive Midfield,Central_EU,?,in,Winter,0.01,Primera Division,1993,1993/1994
+Benfica,Paulo Futre,27.0,Left Winger,Atlético Madrid,1.00m,in,Summer,1,Liga Nos,1993,1993/1994
+Benfica,Abel Xavier,20.0,Right-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Benfica,Aílton,24.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Benfica,Eduard Abazaj,29.0,Left-Back,Central_EU,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Benfica,Jovica Simanic,27.0,Centre-Back,Germany,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,Cândido Rego,22.0,Goalkeeper,Lousanense,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,António Folha,22.0,Left Winger,SC Braga,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,Secretário,23.0,Right-Back,SC Braga,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,Vítor Nóvoa,30.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,Paulo Pereira,27.0,Right-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,Vinha,26.0,Centre-Forward,Salgueiros,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Sporting CP,Paulo Sousa,22.0,Central Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Sporting CP,Costinha,19.0,Goalkeeper,Boavista,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Sporting CP,Budimir Vujacic,29.0,Centre-Back,Central_EU,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Sporting CP,Pacheco,26.0,Left Winger,Benfica,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Sporting CP,Zoran Lemajic,32.0,Goalkeeper,Boavista,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Boavista,Pedro Barny,26.0,Centre-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Boavista,Valente,28.0,Goalkeeper,FC Porto,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Boavista,Luciano,24.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Boavista,Tó Luis,25.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Boavista,Castro,24.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Marítimo,Paulo Duarte,24.0,Centre-Back,Salgueiros,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Marítimo,Alex Bunbury,26.0,Centre-Forward,West Ham,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Marítimo,Wilson Gottardo,30.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Marítimo,Paulo Madeira,22.0,Centre-Back,Benfica,loan transfer,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Rui Gregório,24.0,Centre-Back,Belenenses,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Sérgio Araújo,29.0,attack,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Chiquinho Carlos,30.0,Attacking Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Rui Esteves,26.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Rosario,28.0,attack,Unknown,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+CF Estrela ,José Carlos,26.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+CF Estrela ,Fernando Mendes,26.0,Left-Back,Benfica,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+CF Estrela ,Christian,18.0,Centre-Forward,Marítimo,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+CF Estrela ,Tico-Tico,19.0,Centre-Forward,Maputo,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+CF Estrela ,Paulinho,27.0,Centre-Back,Estoril Praia,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vit. Guimarães,Zlatko Zahovic,22.0,Attacking Midfield,Central_EU,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vit. Guimarães,Artur Jorge,22.0,Centre-Forward,Famalicão,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vit. Guimarães,Samuel,26.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Vit. Guimarães,Fernando Brassard,21.0,Goalkeeper,Gil Vicente,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Farense,Goran Stevanovic,26.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+Farense,Floris Schaap,28.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+União Madeira,Predrag Jokanovic,24.0,Centre-Back,OFK Kikinda,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+União Madeira,António Caldas,34.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+União Madeira,Germano,27.0,Centre-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+União Madeira,Paulo Jorge,30.0,Right Winger,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+União Madeira,Rodrigão,21.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Bino,20.0,Defensive Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Tulipa,20.0,Attacking Midfield,Paços Ferreira,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Luís Manuel,22.0,Defensive Midfield,Sporting CP,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Joni,23.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Miguel Simao,20.0,attack,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Tozé,24.0,Centre-Forward,Boavista,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Salgueiros,Chico Faria,28.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Gil Vicente,Rui Neves,23.0,Right-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Gil Vicente,António Sousa,36.0,Left Midfield,Beira-Mar,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Gil Vicente,Jorge Vital,31.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Gil Vicente,Dito,31.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Gil Vicente,Pedro Roma,22.0,Goalkeeper,Benfica,loan transfer,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Vítor Manuel,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+Belenenses,Serge Honi,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+Belenenses,Dacroce,25.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+Belenenses,Zé Rui,28.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Vítor Vieira,20.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Toninho Cruz,24.0,Defensive Midfield,CA Felgueiras,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Darci,24.0,Left Winger,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,David Embé,19.0,Centre-Forward,RC Bafoussam,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Pinho,21.0,Goalkeeper,Esposende,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Tito,21.0,Left-Back,Moreirense,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Belenenses,Clêisson,21.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,1993,1993/1994
+Beira-Mar,Miguel Bruno,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+Beira-Mar,Hugo Costa,19.0,Centre-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Beira-Mar,Carlos Costa,26.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Beira-Mar,Dragan Punisic,27.0,Attacking Midfield,CD Castellón,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Beira-Mar,Nuno Sampaio,18.0,Goalkeeper,Benfica,loan transfer,in,Summer,0.01,Liga Nos,1993,1993/1994
+SC Braga,Neves,22.0,Right-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+SC Braga,Jaime Pacheco,35.0,Central Midfield,Paços Ferreira,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+SC Braga,Mladen Karoglan,29.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+SC Braga,Gil,20.0,Left Winger,France,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+SC Braga,Paulo Alves,23.0,Centre-Forward,Marítimo,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+SC Braga,Paulo Monteiro,29.0,Central Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Riva,22.0,Left Winger,Valeriodoce-MG,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Riva,22.0,Left Winger,Valeriodoce-MG,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Helcinho,23.0,Attacking Midfield,Beira-Mar,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Vlado Bozinoski,29.0,Central Midfield,Ipswich,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Álvaro Gregório,20.0,Left-Back,Salgueiros,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Kiki,31.0,Attacking Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Paulo Sérgio,25.0,Centre-Forward,Belenenses,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Tiago,17.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Goran Milanko,24.0,Central Midfield,Spain,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Silvino Morais,27.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Morgado,23.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Amarildo,28.0,attack,CD Logroñés,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Nando,30.0,defence,Gil Vicente,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Famalicão,Leomir,31.0,midfield,South America,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Estoril Praia,Litos,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1993,1993/1994
+Estoril Praia,João Oliveira Pinto,21.0,Right Winger,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Estoril Praia,Miroslav Curcic,31.0,attack,Belenenses,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Estoril Praia,Idrissa Thiam,22.0,attack,France,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Estoril Praia,Mário Jorge,23.0,Central Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+Estoril Praia,Paulo Morais,18.0,Goalkeeper,Sporting U19,?,in,Summer,0.01,Liga Nos,1993,1993/1994
+FC Porto,Ljubinko Drulovic,25.0,Left Winger,Gil Vicente,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Marítimo,Paulo Alves,23.0,Centre-Forward,SC Braga,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Filgueira,26.0,Centre-Back,Portugal,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Vitória Setúbal,Tomislav Ivkovic,33.0,Goalkeeper,Estoril Praia,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Vit. Guimarães,Emerson Almeida,21.0,midfield,South America,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Gil Vicente,Tozé,28.0,attack,FC Porto,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Belenenses,Aleksandr Eshchenko,23.0,Left-Back,Russia,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+SC Braga,Toni,21.0,Centre-Forward,FC Porto,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Paços Ferreira,Dacroce,25.0,midfield,free agents,free transfer,in,Winter,0,Liga Nos,1993,1993/1994
+Estoril Praia,Fernando Barboza,29.0,attack,Deportivo Quito,?,in,Winter,0.01,Liga Nos,1993,1993/1994
+Feyenoord,Rob Maas,23.0,Defensive Midfield,RKC Waalwijk,295Th.,in,Summer,"0,295",Eredivisie,1993,1993/1994
+Feyenoord,Giovanni van Bronckhorst,18.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+Feyenoord,Wessel Weezenberg,24.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+PSV Eindhoven,Erik Meijer,23.0,Centre-Forward,MVV Maastricht,1.55m,in,Summer,"1,55",Eredivisie,1993,1993/1994
+PSV Eindhoven,Luuk Maes,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+PSV Eindhoven,Nii Lamptey,18.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+PSV Eindhoven,Klas Ingesson,24.0,Defensive Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+PSV Eindhoven,Edwin van Ankeren,24.0,Right Winger,Belgium,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+PSV Eindhoven,Jussi Nuorela,18.0,Centre-Back,North_EU,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Ajax,Peter van Vossen,25.0,Left Winger,Belgium,4.55m,in,Summer,"4,55",Eredivisie,1993,1993/1994
+Ajax,John van den Brom,26.0,Attacking Midfield,Vitesse,1.36m,in,Summer,"1,36",Eredivisie,1993,1993/1994
+Ajax,Frank Rijkaard,30.0,Defensive Midfield,Milan,636Th.,in,Summer,"0,636",Eredivisie,1993,1993/1994
+Ajax,Nwankwo Kanu,16.0,Centre-Forward,Iwuanyanwu Nat.,200Th.,in,Summer,"0,2",Eredivisie,1993,1993/1994
+Ajax,Finidi George,22.0,Right Winger,Africa Sports,4Th.,in,Summer,"0,004",Eredivisie,1993,1993/1994
+Ajax,Donny Huysen,19.0,attack,DWS,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Ajax,Hans Erik Ramberg,16.0,Central Midfield,North_EU,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Vitesse,Glenn Helder,24.0,Left Winger,Sparta R.,240Th.,in,Summer,"0,24",Eredivisie,1993,1993/1994
+Vitesse,Willem Korsten,18.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Vitesse,Jerry Simons,23.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Twente FC,Joost Volmer,19.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Twente FC,Michel Boerebach,30.0,midfield,Real Burgos CF,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Volendam,Maickel Ferrier,17.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Volendam,Ivica Vukov,23.0,attack,Central_EU,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Volendam,Ronald Bond,20.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Volendam,Miroslav Stefanovic,26.0,attack,Cukaricki,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Volendam,Elroy Kromheer,23.0,Sweeper,Uk,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+MVV Maastricht,Twan Scheepers,21.0,Centre-Forward,PSV Eindhoven,318Th.,in,Summer,"0,318",Eredivisie,1993,1993/1994
+MVV Maastricht,Raymond Beerens,21.0,midfield,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Utrecht,Jean-Paul de Jong,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+FC Utrecht,Ferdino Hernández,22.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+FC Utrecht,Willem van der Ark,29.0,Centre-Forward,FC Den Haag,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Hans Vonk,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+RKC Waalwijk,Bobby Schoonens,18.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Dennis Purperhart,24.0,attack,TOP,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Paul Nortan,30.0,defence,Feyenoord,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Marcel Valk,26.0,Right Midfield,FC Den Haag,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Hans Werdekker,33.0,Centre-Back,Ajax,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Alfred Schreuder,20.0,Defensive Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Willem II,Marc Latupeirissa,22.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Willem II,Arne van den Berg,20.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Willem II,Ron Vos,19.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Roda JC,Barry van Galen,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+Roda JC,Marco van Hoogdalem,21.0,Centre-Back,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Roda JC,Roy van den Heuvel,21.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Roda JC,Arno Doomernik,22.0,Defensive Midfield,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Roda JC,Dirk-Jan Derksen,21.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Groningen,Arjan Ebbinge,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+FC Groningen,Clyde Wijnhard,19.0,Centre-Forward,Ajax,loan transfer,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Groningen,Michael Reiziger,20.0,Right-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Groningen,Berthil ter Avest,22.0,Left Midfield,Roda JC,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+FC Groningen,Marian Chlad,23.0,midfield,TJ Vitkovice,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Sparta R.,Dick Schreuder,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+Sparta R.,Frank Kooiman,23.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Sparta R.,Milco Pieren,22.0,Left Midfield,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Sparta R.,Nico Jalink,29.0,Right Midfield,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Sparta R.,Dennis Krijgsman,20.0,Attacking Midfield,Vitesse,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Sparta R.,René Klomp,18.0,Defensive Midfield,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Jaap Stam,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1993,1993/1994
+Cambuur L.,Mitar Mrkela,28.0,Left Winger,Turkey,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Hennie Meijer,31.0,Centre-Forward,Verdy Kawasaki,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Jan van Raalte,24.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Bart van der Meulen,23.0,midfield,Be Quick,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Ron Postma,22.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Jeppe Tengbjerg,19.0,attack,Naestved IF,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Cambuur L.,Harry Wiebenga,24.0,attack,Sneek,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Go Ahead Eagles,Harry Buisman,25.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Go Ahead Eagles,Bas Martron,21.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Go Ahead Eagles,Peter Rufai,29.0,Goalkeeper,Belgium,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Go Ahead Eagles,Niels Creutzburg,18.0,Defensive Midfield,Houten,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Go Ahead Eagles,Lloyd Kammeron,21.0,Centre-Forward,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,1993,1993/1994
+NAC Breda,Dick Van Burik,19.0,Centre-Back,Ajax,300Th.,in,Summer,"0,3",Eredivisie,1993,1993/1994
+NAC Breda,Dennis Gerritsen,22.0,Centre-Forward,Netherlands,114Th.,in,Summer,"0,114",Eredivisie,1993,1993/1994
+NAC Breda,John Achterberg,21.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+NAC Breda,Ton van Bremen,25.0,defence,Vitesse,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+NAC Breda,Paul Lieftink,20.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+NAC Breda,Yureck Persoon,20.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+VVV-Venlo,Eugène Hanssen,34.0,defence,Verdy Kawasaki,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+VVV-Venlo,Remco Torken,21.0,attack,TOP,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+VVV-Venlo,Carlos Hasselbaink,24.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+VVV-Venlo,Hans Vincent,31.0,Attacking Midfield,Willem II,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+VVV-Venlo,Nico van der Meer,21.0,Central Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Heerenveen,Carlo L'Ami,27.0,Goalkeeper,Sparta R.,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Heerenveen,Arnold Oosterveer,30.0,Centre-Back,US Valenciennes,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Heerenveen,Piet Keur,32.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Heerenveen,Bert Zuurman,20.0,Centre-Forward,FC Groningen,?,in,Summer,0.01,Eredivisie,1993,1993/1994
+Feyenoord,Henrik Larsson,22.0,Centre-Forward,Helsingborg,340Th.,in,Winter,"0,34",Eredivisie,1993,1993/1994
+PSV Eindhoven,Jan Wouters,33.0,Defensive Midfield,Bayern Munich,767Th.,in,Winter,"0,767",Eredivisie,1993,1993/1994
+MVV Maastricht,Dirk-Jan Derksen,21.0,Centre-Forward,Roda JC,loan transfer,in,Winter,0.01,Eredivisie,1993,1993/1994
+FC Utrecht,Eric van Kessel,27.0,Left-Back,FC Groningen,nan,in,Winter,0.01,Eredivisie,1993,1993/1994
+RKC Waalwijk,Giovanni van Bronckhorst,18.0,Left-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,1993,1993/1994
+FC Groningen,Ernest Faber,22.0,Centre-Back,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,1993,1993/1994
+Go Ahead Eagles,Donny Huysen,20.0,attack,Ajax,loan transfer,in,Winter,0.01,Eredivisie,1993,1993/1994
+Heerenveen,Johan Hansma,24.0,Centre-Back,Netherlands,?,in,Winter,0.01,Eredivisie,1993,1993/1994

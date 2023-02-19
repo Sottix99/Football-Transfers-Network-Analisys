@@ -1,0 +1,1338 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+US Palermo,Mauricio Pinilla,26.0,Centre-Forward,Italy,5.10m,in,Summer,"5,1",Serie A,2010,2010/2011
+US Palermo,Ezequiel Muñoz,19.0,Centre-Back,South America,5.00m,in,Summer,5,Serie A,2010,2010/2011
+US Palermo,Massimo Maccarone,30.0,Centre-Forward,Italy,4.40m,in,Summer,"4,4",Serie A,2010,2010/2011
+US Palermo,João Pedro,18.0,Second Striker,South America,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+US Palermo,Josip Ilicic,22.0,Second Striker,Central_EU,2.30m,in,Summer,"2,3",Serie A,2010,2010/2011
+US Palermo,Santiago García,22.0,Centre-Back,South America,1.60m,in,Summer,"1,6",Serie A,2010,2010/2011
+US Palermo,Matteo Darmian,20.0,Right-Back,AC Milan,1.30m,in,Summer,"1,3",Serie A,2010,2010/2011
+US Palermo,Armin Bacinovic,20.0,Defensive Midfield,Central_EU,1.20m,in,Summer,"1,2",Serie A,2010,2010/2011
+US Palermo,Kamil Glik,22.0,Centre-Back,Central_EU,1.00m,in,Summer,1,Serie A,2010,2010/2011
+US Palermo,Nicola Rigoni,19.0,Defensive Midfield,Italy,990Th.,in,Summer,"0,99",Serie A,2010,2010/2011
+US Palermo,Gianni Munari,27.0,Central Midfield,Lecce,391Th.,in,Summer,"0,391",Serie A,2010,2010/2011
+US Palermo,Francesco Benussi,28.0,Goalkeeper,Lecce,?,in,Summer,0.01,Serie A,2010,2010/2011
+US Palermo,Giacomo Brichetto,27.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+US Palermo,Pajtim Kasami,18.0,Central Midfield,Uk,?,in,Summer,0.01,Serie A,2010,2010/2011
+SSC Napoli,Edinson Cavani,23.0,Centre-Forward,US Palermo,Loan fee:5.00m,in,Summer,5,Serie A,2010,2010/2011
+SSC Napoli,José Sosa,25.0,Central Midfield,Bayern Munich,3.00m,in,Summer,3,Serie A,2010,2010/2011
+SSC Napoli,Nicolao Dumitru,18.0,Left Winger,Italy,1.50m,in,Summer,"1,5",Serie A,2010,2010/2011
+SSC Napoli,Cribari,30.0,Centre-Back,Lazio,500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+SSC Napoli,Hassan Yebda,26.0,Central Midfield,Benfica,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+SSC Napoli,Cristiano Lucarelli,34.0,Centre-Forward,Parma,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Catania SSD,Papu Gómez,22.0,Attacking Midfield,South America,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Catania SSD,Maikol Negro,22.0,Left Winger,Celano,300Th.,in,Summer,"0,3",Serie A,2010,2010/2011
+Catania SSD,Raphael Martinho,22.0,Left Midfield,Monte Alegre-SP,200Th.,in,Summer,"0,2",Serie A,2010,2010/2011
+Catania SSD,Federico Moretti,22.0,Central Midfield,Italy,200Th.,in,Summer,"0,2",Serie A,2010,2010/2011
+Catania SSD,Nicola Lanzolla,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Catania SSD,Cristian Suarino,21.0,Defensive Midfield,SS Milazzo,?,in,Summer,0.01,Serie A,2010,2010/2011
+Catania SSD,Rocco Benci,20.0,Centre-Back,HinterReggio,?,in,Summer,0.01,Serie A,2010,2010/2011
+Catania SSD,Raffaele Imparato,23.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Giacomo Tulli,22.0,Left Winger,Italy,1.30m,in,Summer,"1,3",Serie A,2010,2010/2011
+Cesena,Yohan Benalouane,23.0,Centre-Back,Saint-Étienne,1.10m,in,Summer,"1,1",Serie A,2010,2010/2011
+Cesena,Luis Jiménez,26.0,Attacking Midfield,Italy,Loan fee:1.00m,in,Summer,1,Serie A,2010,2010/2011
+Cesena,David Meza Colli,21.0,Defensive Midfield,Central_EU,85Th.,in,Summer,"0,085",Serie A,2010,2010/2011
+Cesena,Steve von Bergen,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cesena,Caio De Cenco,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cesena,Sacha Cori,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cesena,Diego Cavalieri,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cesena,Stephen Appiah,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cesena,Panagiotis Tachtsidis,19.0,Defensive Midfield,Genoa,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Nicolás Gorobsov,20.0,Defensive Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Yuto Nagatomo,23.0,Left-Back,Asia,Loan fee:30Th.,in,Summer,"0,03",Serie A,2010,2010/2011
+Cesena,Alberto Galuppo,24.0,Centre-Back,Parma,?,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Erjon Bogdani,33.0,Centre-Forward,Chievo Verona,?,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Ezequiel Schelotto,21.0,Right-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Ivan Fatic,21.0,Centre-Back,Genoa,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Gabriele Paonessa,23.0,Attacking Midfield,Parma,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Odion Ighalo,21.0,Centre-Forward,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Maximiliano Pellegrino,30.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Igor Budan,30.0,Centre-Forward,US Palermo,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cesena,Fabio Caserta,31.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cagliari Calcio,Lorenzo Ariaudo,21.0,Centre-Back,Juventus,3.80m,in,Summer,"3,8",Serie A,2010,2010/2011
+Cagliari Calcio,Andrea Cocco,25.0,Centre-Forward,Italy,150Th.,in,Summer,"0,15",Serie A,2010,2010/2011
+Cagliari Calcio,Alex Pinardi,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cagliari Calcio,Ivan Pelizzoli,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Cagliari Calcio,Dario Biasi,30.0,Centre-Back,Cesena,?,in,Summer,0.01,Serie A,2010,2010/2011
+Cagliari Calcio,Gabriele Perico,26.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Cagliari Calcio,Simon Laner,26.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Cagliari Calcio,Robert Acquafresca,22.0,Centre-Forward,Genoa,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Sampdoria,Nicola Pozzi,24.0,Centre-Forward,Italy,5.20m,in,Summer,"5,2",Serie A,2010,2010/2011
+Sampdoria,Daniele Dessena,23.0,Central Midfield,Cagliari Calcio,4.00m,in,Summer,4,Serie A,2010,2010/2011
+Sampdoria,Gianluca Curci,24.0,Goalkeeper,Italy,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Sampdoria,Stefano Guberti,25.0,Left Winger,AS Roma,1.50m,in,Summer,"1,5",Serie A,2010,2010/2011
+Sampdoria,Alessandro Romeo,24.0,Centre-Forward,Italy,60Th.,in,Summer,"0,06",Serie A,2010,2010/2011
+Sampdoria,Angelo da Costa,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Bologna,Gastón Ramírez,19.0,Attacking Midfield,South America,3.36m,in,Summer,"3,36",Serie A,2010,2010/2011
+Bologna,Riccardo Meggiorini,24.0,Centre-Forward,Genoa,3.00m,in,Summer,3,Serie A,2010,2010/2011
+Bologna,György Garics,26.0,Right-Back,Italy,3.00m,in,Summer,3,Serie A,2010,2010/2011
+Bologna,Rene Krhin,20.0,Defensive Midfield,Inter,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Bologna,Albin Ekdal,21.0,Defensive Midfield,Juventus,2.40m,in,Summer,"2,4",Serie A,2010,2010/2011
+Bologna,Diego Pérez,30.0,Defensive Midfield,Monaco,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Bologna,Henry Giménez,24.0,Centre-Forward,South America,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Bologna,Nicolò Cherubin,23.0,Centre-Back,Italy,1.50m,in,Summer,"1,5",Serie A,2010,2010/2011
+Bologna,Archimede Morleo,26.0,Left-Back,Italy,950Th.,in,Summer,"0,95",Serie A,2010,2010/2011
+Bologna,Luca Siligardi,22.0,Right Winger,Inter,Loan fee:550Th.,in,Summer,"0,55",Serie A,2010,2010/2011
+Bologna,Daniele Paponi,22.0,Centre-Forward,Parma,500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Bologna,Manuel Gavilán,19.0,Centre-Forward,Betis,350Th.,in,Summer,"0,35",Serie A,2010,2010/2011
+Bologna,Ivan Radovanovic,21.0,Defensive Midfield,Italy,Loan fee:200Th.,in,Summer,"0,2",Serie A,2010,2010/2011
+Bologna,Filippo Lombardi,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Bologna,Andrea Esposito,24.0,Centre-Back,Genoa,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Bologna,Cristiano Lupatelli,32.0,Goalkeeper,Cagliari Calcio,?,in,Summer,0.01,Serie A,2010,2010/2011
+Bologna,Matteo Rubin,23.0,Left-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Lecce,Ignacio Piatti,25.0,Attacking Midfield,South America,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Lecce,Jeda,31.0,Second Striker,Cagliari Calcio,1.00m,in,Summer,1,Serie A,2010,2010/2011
+Lecce,Davide Brivio,22.0,Left-Back,Italy,750Th.,in,Summer,"0,75",Serie A,2010,2010/2011
+Lecce,Manuel Coppola,28.0,Central Midfield,Parma,Loan fee:400Th.,in,Summer,"0,4",Serie A,2010,2010/2011
+Lecce,Tore Reginiussen,24.0,Centre-Back,FC Schalke 04,Loan fee:150Th.,in,Summer,"0,15",Serie A,2010,2010/2011
+Lecce,Rubén Olivera,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Lecce,Carlos Grossmüller,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Lecce,Massimiliano Benassi,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Lecce,Javier Chevantón,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Lecce,David Di Michele,34.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Lecce,Edward Ofere,24.0,Centre-Forward,North_EU,?,in,Summer,0.01,Serie A,2010,2010/2011
+Lecce,Gustavo,28.0,Centre-Back,Desp. Brasil,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Lecce,Andrea Rispoli,21.0,Right-Back,Parma,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Lecce,Giulio Donati,20.0,Right-Back,Inter,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Lecce,Simone Sini,18.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Mattia Minesso,20.0,Second Striker,Italy,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Chievo Verona,Bojan Jokic,24.0,Left-Back,FC Sochaux,1.00m,in,Summer,1,Serie A,2010,2010/2011
+Chievo Verona,Cyril Théréau,27.0,Second Striker,Belgium,900Th.,in,Summer,"0,9",Serie A,2010,2010/2011
+Chievo Verona,Marco Andreolli,24.0,Centre-Back,AS Roma,800Th.,in,Summer,"0,8",Serie A,2010,2010/2011
+Chievo Verona,Gennaro Sardo,31.0,Right-Back,Italy,500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Chievo Verona,Gelson Fernandes,23.0,Defensive Midfield,Saint-Étienne,Loan fee:500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Chievo Verona,Kévin Constant,23.0,Central Midfield,France,Loan fee:250Th.,in,Summer,"0,25",Serie A,2010,2010/2011
+Chievo Verona,Francesco Dettori,27.0,Central Midfield,Italy,50Th.,in,Summer,"0,05",Serie A,2010,2010/2011
+Chievo Verona,Ledian Memushaj,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Chievo Verona,Bostjan Cesar,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Chievo Verona,Jefferson Leonardo Trazzi,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Chievo Verona,Filippo Fondi,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Chievo Verona,Matteo Di Piazza,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Chievo Verona,Michele Sansotta,18.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Chievo Verona,Rincón,23.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Roberto Inglese,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Roberto Cortese,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Piero Robertiello,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Francesco Checcucci,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Mattia Marchi,21.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Davide Moscardelli,30.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Mariano Bogliacino,30.0,Attacking Midfield,SSC Napoli,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Marco Silvestri,19.0,Goalkeeper,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Chievo Verona,Roberto Guana,29.0,Central Midfield,US Palermo,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Juventus,Leonardo Bonucci,23.0,Centre-Back,Bari,15.50m,in,Summer,"15,5",Serie A,2010,2010/2011
+Juventus,Milos Krasic,25.0,Right Winger,Russia,15.00m,in,Summer,15,Serie A,2010,2010/2011
+Juventus,Jorge Martínez,27.0,Right Winger,Italy,12.00m,in,Summer,12,Serie A,2010,2010/2011
+Juventus,Marco Storari,33.0,Goalkeeper,AC Milan,4.50m,in,Summer,"4,5",Serie A,2010,2010/2011
+Juventus,Fabio Quagliarella,27.0,Centre-Forward,SSC Napoli,Loan fee:4.50m,in,Summer,"4,5",Serie A,2010,2010/2011
+Juventus,Simone Pepe,26.0,Right Winger,Udinese Calcio,Loan fee:2.60m,in,Summer,"2,6",Serie A,2010,2010/2011
+Juventus,Marco Motta,24.0,Right-Back,Udinese Calcio,Loan fee:1.25m,in,Summer,"1,25",Serie A,2010,2010/2011
+Juventus,Leandro Rinaudo,27.0,Centre-Back,SSC Napoli,Loan fee:600Th.,in,Summer,"0,6",Serie A,2010,2010/2011
+Juventus,Armand Traoré,20.0,Left-Back,Arsenal,Loan fee:500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Juventus,André Cuneaz,23.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Juventus,Alberto Aquilani,26.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Juventus,Frederik Sörensen,18.0,Centre-Back,North_EU,Loan fee:20Th.,in,Summer,"0,02",Serie A,2010,2010/2011
+Juventus,Sergio Almirón,29.0,Central Midfield,Bari,?,in,Summer,0.01,Serie A,2010,2010/2011
+Juventus,Marco Costantino,19.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Juventus,Davide Lanzafame,23.0,Centre-Forward,US Palermo,?,in,Summer,0.01,Serie A,2010,2010/2011
+Juventus,Jesus Garcia Tena,20.0,Centre-Back,Spain,?,in,Summer,0.01,Serie A,2010,2010/2011
+AC Milan,Robinho,26.0,Left Winger,Man City,21.00m,in,Summer,21,Serie A,2010,2010/2011
+AC Milan,Zlatan Ibrahimovic,28.0,Centre-Forward,Barcelona,Loan fee:6.00m,in,Summer,6,Serie A,2010,2010/2011
+AC Milan,Alberto Paloschi,20.0,Centre-Forward,Genoa,5.00m,in,Summer,5,Serie A,2010,2010/2011
+AC Milan,Sokratis Papastathopoulos,22.0,Centre-Back,Genoa,4.50m,in,Summer,"4,5",Serie A,2010,2010/2011
+AC Milan,Kevin-Prince Boateng,23.0,Attacking Midfield,Genoa,Loan fee:3.00m,in,Summer,3,Serie A,2010,2010/2011
+AC Milan,Attila Filkor,22.0,Central Midfield,Inter,1.00m,in,Summer,1,Serie A,2010,2010/2011
+AC Milan,Cristian Daminuta,20.0,Defensive Midfield,Inter,1.00m,in,Summer,1,Serie A,2010,2010/2011
+AC Milan,Mario Yepes,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+AC Milan,Rodney Strasser,20.0,Defensive Midfield,Genoa,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+AC Milan,Bruno Montelongo,22.0,Right Midfield,South America,?,in,Summer,0.01,Serie A,2010,2010/2011
+AC Milan,Ferdinando Coppola,32.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+AC Milan,Marco Amelia,28.0,Goalkeeper,Genoa,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Fiorentina,Felipe,25.0,Centre-Back,Udinese Calcio,6.30m,in,Summer,"6,3",Serie A,2010,2010/2011
+Fiorentina,Gaetano D'Agostino,28.0,Central Midfield,Udinese Calcio,4.50m,in,Summer,"4,5",Serie A,2010,2010/2011
+Fiorentina,Alessio Cerci,23.0,Right Winger,AS Roma,4.00m,in,Summer,4,Serie A,2010,2010/2011
+Fiorentina,Artur Boruc,30.0,Goalkeeper,Uk,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Fiorentina,Lorenzo Tafi,20.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Udinese Calcio,Matej Vydra,18.0,Centre-Forward,Central_EU,3.00m,in,Summer,3,Serie A,2010,2010/2011
+Udinese Calcio,Gabriele Angella,21.0,Centre-Back,Italy,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Udinese Calcio,Germán Denis,28.0,Centre-Forward,SSC Napoli,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Udinese Calcio,Luis Muriel,19.0,Centre-Forward,South America,1.50m,in,Summer,"1,5",Serie A,2010,2010/2011
+Udinese Calcio,Marco Motta,24.0,Right-Back,AS Roma,1.45m,in,Summer,"1,45",Serie A,2010,2010/2011
+Udinese Calcio,Pablo Armero,23.0,Left-Back,South America,1.20m,in,Summer,"1,2",Serie A,2010,2010/2011
+Udinese Calcio,Steve Beleck,17.0,Centre-Forward,Central_EU,600Th.,in,Summer,"0,6",Serie A,2010,2010/2011
+Udinese Calcio,Jacob Akrong,17.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Udinese Calcio,Carlos Calvo,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Udinese Calcio,Medhi Benatia,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Udinese Calcio,Almen Abdi,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Udinese Calcio,Fernando Forestieri,20.0,Second Striker,Genoa,?,in,Summer,0.01,Serie A,2010,2010/2011
+Udinese Calcio,Mohammed Rabiu,20.0,Defensive Midfield,Africa Sports,?,in,Summer,0.01,Serie A,2010,2010/2011
+Lazio,Hernanes,25.0,Attacking Midfield,South America,13.50m,in,Summer,"13,5",Serie A,2010,2010/2011
+Lazio,Sergio Floccari,28.0,Centre-Forward,Genoa,8.50m,in,Summer,"8,5",Serie A,2010,2010/2011
+Lazio,Javier Garrido,25.0,Left-Back,Man City,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Lazio,Álvaro González,25.0,Central Midfield,Nacional,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Lazio,Mark Bresciano,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Bari,Barreto,24.0,Second Striker,Udinese Calcio,4.50m,in,Summer,"4,5",Serie A,2010,2010/2011
+Bari,Sergio Almirón,29.0,Central Midfield,Juventus,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Bari,Nico Pulzetti,26.0,Central Midfield,Italy,Loan fee:500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Bari,Marco D'Alessandro,19.0,Right Winger,AS Roma,Loan fee:300Th.,in,Summer,"0,3",Serie A,2010,2010/2011
+Bari,Marco Rossi,22.0,Centre-Back,Parma,Loan fee:250Th.,in,Summer,"0,25",Serie A,2010,2010/2011
+Bari,Michele Rinaldi,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Bari,Jaime Romero,19.0,Right Winger,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Bari,Abdelkader Ghezzal,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Bari,Andrea Raggi,26.0,Centre-Back,US Palermo,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Genoa,Miguel Veloso,24.0,Defensive Midfield,Sporting CP,9.00m,in,Summer,9,Serie A,2010,2010/2011
+Genoa,Rafinha,24.0,Right-Back,FC Schalke 04,8.00m,in,Summer,8,Serie A,2010,2010/2011
+Genoa,Kevin-Prince Boateng,23.0,Attacking Midfield,Uk,5.70m,in,Summer,"5,7",Serie A,2010,2010/2011
+Genoa,Chico Flores,23.0,Centre-Back,UD Almería,5.00m,in,Summer,5,Serie A,2010,2010/2011
+Genoa,Eduardo,27.0,Goalkeeper,SC Braga,4.50m,in,Summer,"4,5",Serie A,2010,2010/2011
+Genoa,Riccardo Meggiorini,25.0,Centre-Forward,Bologna,3.00m,in,Summer,3,Serie A,2010,2010/2011
+Genoa,Rodney Strasser,20.0,Defensive Midfield,AC Milan,2.25m,in,Summer,"2,25",Serie A,2010,2010/2011
+Genoa,Diego Ângelo,24.0,Centre-Back,Naval,1.50m,in,Summer,"1,5",Serie A,2010,2010/2011
+Genoa,Franco Zuculini,19.0,Central Midfield,TSG Hoffenheim,Loan fee:700Th.,in,Summer,"0,7",Serie A,2010,2010/2011
+Genoa,Panagiotis Tachtsidis,19.0,Defensive Midfield,Central_EU,200Th.,in,Summer,"0,2",Serie A,2010,2010/2011
+Genoa,Kakhaber Kaladze,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Genoa,Luca Toni,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Genoa,Gergely Rudolf,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Genoa,Danilo Russo,23.0,Goalkeeper,Italy,500,in,Summer,0.01,Serie A,2010,2010/2011
+Genoa,Francesco Acerbi,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Genoa,Antonio Caracciolo,20.0,Centre-Back,Pavia U19,?,in,Summer,0.01,Serie A,2010,2010/2011
+Genoa,Mattia Destro,19.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+Parma,Andrea Rispoli,21.0,Right-Back,Brescia,7.00m,in,Summer,7,Serie A,2010,2010/2011
+Parma,Blerim Dzemaili,24.0,Central Midfield,Italy,7.00m,in,Summer,7,Serie A,2010,2010/2011
+Parma,Gabriel Paletta,24.0,Centre-Back,South America,2.50m,in,Summer,"2,5",Serie A,2010,2010/2011
+Parma,Valeri Bozhinov,24.0,Centre-Forward,Man City,2.00m,in,Summer,2,Serie A,2010,2010/2011
+Parma,Sebastian Giovinco,23.0,Second Striker,Juventus,Loan fee:1.00m,in,Summer,1,Serie A,2010,2010/2011
+Parma,Gabriele Paonessa,23.0,Attacking Midfield,Bologna,600Th.,in,Summer,"0,6",Serie A,2010,2010/2011
+Parma,Antonio Candreva,23.0,Right Midfield,Udinese Calcio,Loan fee:500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Parma,Zé Eduardo,18.0,Defensive Midfield,Maga,Loan fee:500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+Parma,Paolo Dellafiore,25.0,Centre-Back,US Palermo,400Th.,in,Summer,"0,4",Serie A,2010,2010/2011
+Parma,Milan Djuric,20.0,Centre-Forward,Cesena,300Th.,in,Summer,"0,3",Serie A,2010,2010/2011
+Parma,Alberto Galuppo,25.0,Centre-Back,Cesena,200Th.,in,Summer,"0,2",Serie A,2010,2010/2011
+Parma,Fernando Marqués,25.0,Right Winger,Espanyol,Loan fee:200Th.,in,Summer,"0,2",Serie A,2010,2010/2011
+Parma,Angelo,29.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Mario Merlonghi,22.0,Left Winger,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Massimo Gobbi,29.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Alain Mendy,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Rolf Feltscher,19.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Danilo Pereira,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Filipe Oliveira,26.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Parma,Fabio Lebran,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Parma,Niccolò Galli,22.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Parma,Marco Pisano,28.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Parma,Abderrazzak Jadid,27.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Inter,Jonathan Biabiany,22.0,Right Winger,Parma,4.20m,in,Summer,"4,2",Serie A,2010,2010/2011
+Inter,Luca Tremolada,19.0,Attacking Midfield,Italy,750Th.,in,Summer,"0,75",Serie A,2010,2010/2011
+Inter,Marko Livaja,16.0,Centre-Forward,Est_EU,185Th.,in,Summer,"0,185",Serie A,2010,2010/2011
+Inter,Luca Castellazzi,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Inter,Andrea Mei,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Inter,Dennis Esposito,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+Brescia,Éder,23.0,Second Striker,Italy,4.20m,in,Summer,"4,2",Serie A,2010,2010/2011
+Brescia,Alessandro Diamanti,27.0,Attacking Midfield,West Ham,2.20m,in,Summer,"2,2",Serie A,2010,2010/2011
+Brescia,Panagiotis Kone,22.0,Central Midfield,Central_EU,800Th.,in,Summer,"0,8",Serie A,2010,2010/2011
+Brescia,Fabio Daprelà,19.0,Centre-Back,West Ham,750Th.,in,Summer,"0,75",Serie A,2010,2010/2011
+Brescia,Jonathan Zebina,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Brescia,Antonio Filippini,37.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+Brescia,Matteo Sereni,35.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2010,2010/2011
+AS Roma,Nicolás Burdisso,29.0,Centre-Back,Inter,8.00m,in,Summer,8,Serie A,2010,2010/2011
+AS Roma,Aleandro Rosi,23.0,Right-Back,Italy,1.90m,in,Summer,"1,9",Serie A,2010,2010/2011
+AS Roma,Bogdan Lobont,32.0,Goalkeeper,Est_EU,800Th.,in,Summer,"0,8",Serie A,2010,2010/2011
+AS Roma,Guillermo Burdisso,21.0,Centre-Back,South America,Loan fee:500Th.,in,Summer,"0,5",Serie A,2010,2010/2011
+AS Roma,Fábio Simplício,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+AS Roma,Adriano,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2010,2010/2011
+AS Roma,Paolo Castellini,31.0,Left-Back,Parma,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+AS Roma,Marco Borriello,28.0,Centre-Forward,AC Milan,loan transfer,in,Summer,0.01,Serie A,2010,2010/2011
+AS Roma,Stefano Guberti,26.0,Left Winger,Sampdoria,500,in,Summer,0.01,Serie A,2010,2010/2011
+AS Roma,Federico Maria Erba,21.0,Centre-Back,Cesena,?,in,Summer,0.01,Serie A,2010,2010/2011
+US Palermo,Pablo González,25.0,Right Winger,Italy,5.00m,in,Winter,5,Serie A,2010,2010/2011
+US Palermo,Sinisa Andjelkovic,24.0,Centre-Back,Central_EU,1.20m,in,Winter,"1,2",Serie A,2010,2010/2011
+US Palermo,Jasmin Kurtic,21.0,Central Midfield,Central_EU,800Th.,in,Winter,"0,8",Serie A,2010,2010/2011
+US Palermo,Michele Paolucci,24.0,Centre-Forward,Italy,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+SSC Napoli,Víctor Ruiz,21.0,Centre-Back,Espanyol,8.50m,in,Winter,"8,5",Serie A,2010,2010/2011
+SSC Napoli,Giuseppe Mascara,31.0,Second Striker,Italy,1.30m,in,Winter,"1,3",Serie A,2010,2010/2011
+SSC Napoli,Umberto Varriale,19.0,Second Striker,Italy,?,in,Winter,0.01,Serie A,2010,2010/2011
+SSC Napoli,Kevin Koffi,24.0,Centre-Forward,Sanremo,?,in,Winter,0.01,Serie A,2010,2010/2011
+SSC Napoli,Alessandro Diana,19.0,Right-Back,Italy,?,in,Winter,0.01,Serie A,2010,2010/2011
+Catania SSD,Francesco Lodi,26.0,Defensive Midfield,Italy,1.00m,in,Winter,1,Serie A,2010,2010/2011
+Catania SSD,Gonzalo Bergessio,26.0,Centre-Forward,Saint-Étienne,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Catania SSD,Ezequiel Schelotto,21.0,Right-Back,Italy,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Cesena,Yuto Nagatomo,24.0,Left-Back,Asia,1.60m,in,Winter,"1,6",Serie A,2010,2010/2011
+Cesena,Roope Riski,19.0,Centre-Forward,North_EU,750Th.,in,Winter,"0,75",Serie A,2010,2010/2011
+Cesena,Paolo Sammarco,27.0,Central Midfield,Sampdoria,Loan fee:200Th.,in,Winter,"0,2",Serie A,2010,2010/2011
+Cesena,Alessandro Rosina,26.0,Right Winger,Russia,Loan fee:200Th.,in,Winter,"0,2",Serie A,2010,2010/2011
+Cesena,Paolo Dellafiore,25.0,Centre-Back,Parma,Loan fee:200Th.,in,Winter,"0,2",Serie A,2010,2010/2011
+Cesena,Alex Calderoni,34.0,Goalkeeper,Italy,Loan fee:100Th.,in,Winter,"0,1",Serie A,2010,2010/2011
+Cesena,Davide Santon,20.0,Right-Back,Inter,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Cesena,Aldo Simoncini,24.0,Goalkeeper,Bellaria IM,?,in,Winter,0.01,Serie A,2010,2010/2011
+Cesena,Felipe,26.0,Centre-Back,Fiorentina,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Cagliari Calcio,Pablo Ceppelini,19.0,Attacking Midfield,South America,2.35m,in,Winter,"2,35",Serie A,2010,2010/2011
+Cagliari Calcio,Simone Missiroli,24.0,Central Midfield,Italy,Loan fee:600Th.,in,Winter,"0,6",Serie A,2010,2010/2011
+Sampdoria,Jonathan Biabiany,22.0,Right Winger,Inter,7.00m,in,Winter,7,Serie A,2010,2010/2011
+Sampdoria,Massimo Maccarone,31.0,Centre-Forward,US Palermo,2.70m,in,Winter,"2,7",Serie A,2010,2010/2011
+Sampdoria,Zsolt Laczkó,24.0,Left-Back,Central_EU,830Th.,in,Winter,"0,83",Serie A,2010,2010/2011
+Sampdoria,Gilberto Martínez,31.0,Centre-Back,Brescia,Loan fee:650Th.,in,Winter,"0,65",Serie A,2010,2010/2011
+Sampdoria,Vedran Celjak,19.0,Right-Back,Est_EU,500Th.,in,Winter,"0,5",Serie A,2010,2010/2011
+Sampdoria,Federico Macheda,19.0,Centre-Forward,Man Utd,Loan fee:465Th.,in,Winter,"0,465",Serie A,2010,2010/2011
+Sampdoria,Romano Perticone,24.0,Centre-Back,Italy,Loan fee:400Th.,in,Winter,"0,4",Serie A,2010,2010/2011
+Bologna,Bruno Montelongo,23.0,Right Midfield,AC Milan,Loan fee:200Th.,in,Winter,"0,2",Serie A,2010,2010/2011
+Lecce,Nenad Tomovic,23.0,Centre-Back,Genoa,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Chievo Verona,Fernando Uribe,23.0,Centre-Forward,South America,750Th.,in,Winter,"0,75",Serie A,2010,2010/2011
+Chievo Verona,Amadou Samb,22.0,Centre-Forward,Italy,100Th.,in,Winter,"0,1",Serie A,2010,2010/2011
+Chievo Verona,Nico Pulzetti,26.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Chievo Verona,Milos Dimitrijevic,26.0,Central Midfield,Central_EU,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Juventus,Alessandro Matri,26.0,Centre-Forward,Cagliari Calcio,Loan fee:2.50m,in,Winter,"2,5",Serie A,2010,2010/2011
+Juventus,Andrea Barzagli,29.0,Centre-Back,VfL Wolfsburg,300Th.,in,Winter,"0,3",Serie A,2010,2010/2011
+Juventus,Luca Toni,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2010,2010/2011
+AC Milan,Dídac Vilà,21.0,Left-Back,Espanyol,4.00m,in,Winter,4,Serie A,2010,2010/2011
+AC Milan,Antonio Cassano,28.0,Second Striker,Sampdoria,3.30m,in,Winter,"3,3",Serie A,2010,2010/2011
+AC Milan,Urby Emanuelson,24.0,Central Midfield,Ajax,2.50m,in,Winter,"2,5",Serie A,2010,2010/2011
+AC Milan,Mark van Bommel,33.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Serie A,2010,2010/2011
+AC Milan,Nicola Legrottaglie,34.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2010,2010/2011
+Fiorentina,Neto,21.0,Goalkeeper,South America,3.50m,in,Winter,"3,5",Serie A,2010,2010/2011
+Fiorentina,Valon Behrami,25.0,Defensive Midfield,West Ham,2.00m,in,Winter,2,Serie A,2010,2010/2011
+Udinese Calcio,Joel Ekstrand,21.0,Centre-Back,Helsingborg,1.80m,in,Winter,"1,8",Serie A,2010,2010/2011
+Lazio,Giuseppe Sculli,29.0,Left Winger,Genoa,3.00m,in,Winter,3,Serie A,2010,2010/2011
+Bari,Erik Huseklepp,26.0,Left Winger,North_EU,1.70m,in,Winter,"1,7",Serie A,2010,2010/2011
+Bari,Kamil Glik,22.0,Centre-Back,US Palermo,Loan fee:250Th.,in,Winter,"0,25",Serie A,2010,2010/2011
+Bari,Kamil Kopunek,26.0,Defensive Midfield,Central_EU,?,in,Winter,0.01,Serie A,2010,2010/2011
+Bari,Stefano Okaka,21.0,Centre-Forward,AS Roma,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Bari,Gergely Rudolf,25.0,Centre-Forward,Genoa,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Bari,Simone Bentivoglio,25.0,Central Midfield,Chievo Verona,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Bari,Paul Codrea,29.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Genoa,Luca Antonelli,23.0,Left-Back,Parma,7.00m,in,Winter,7,Serie A,2010,2010/2011
+Genoa,Mattia Destro,19.0,Centre-Forward,Inter,6.50m,in,Winter,"6,5",Serie A,2010,2010/2011
+Genoa,Abdoulay Konko,26.0,Right-Back,Sevilla FC,6.00m,in,Winter,6,Serie A,2010,2010/2011
+Genoa,Alberto Paloschi,20.0,Centre-Forward,Parma,4.35m,in,Winter,"4,35",Serie A,2010,2010/2011
+Genoa,Federico Rodríguez,19.0,Centre-Forward,South America,4.20m,in,Winter,"4,2",Serie A,2010,2010/2011
+Genoa,Juraj Kucka,23.0,Central Midfield,Central_EU,4.00m,in,Winter,4,Serie A,2010,2010/2011
+Genoa,Linus Hallenius,21.0,Centre-Forward,North_EU,1.80m,in,Winter,"1,8",Serie A,2010,2010/2011
+Genoa,Antonio Floro Flores,27.0,Centre-Forward,Udinese Calcio,Loan fee:1.50m,in,Winter,"1,5",Serie A,2010,2010/2011
+Genoa,Mauro Boselli,25.0,Centre-Forward,Wigan,Loan fee:1.00m,in,Winter,1,Serie A,2010,2010/2011
+Genoa,Enej Jelenic,18.0,Left Winger,Central_EU,650Th.,in,Winter,"0,65",Serie A,2010,2010/2011
+Genoa,Emmanuel Ledesma,22.0,Right Winger,Italy,?,in,Winter,0.01,Serie A,2010,2010/2011
+Parma,Raffaele Palladino,26.0,Left Winger,Genoa,6.00m,in,Winter,6,Serie A,2010,2010/2011
+Parma,Francesco Modesto,28.0,Left-Back,Genoa,2.50m,in,Winter,"2,5",Serie A,2010,2010/2011
+Parma,Amauri,30.0,Centre-Forward,Juventus,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Parma,Gianluca Lapadula,20.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,2010,2010/2011
+Parma,Valerio Mastrelli,22.0,attack,Campobasso,?,in,Winter,0.01,Serie A,2010,2010/2011
+Parma,Nwankwo Obiora,19.0,Defensive Midfield,Inter,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Parma,Toni Calvo,23.0,Right Winger,Central_EU,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Inter,Giampaolo Pazzini,26.0,Centre-Forward,Sampdoria,18.00m,in,Winter,18,Serie A,2010,2010/2011
+Inter,Andrea Ranocchia,22.0,Centre-Back,Genoa,13.00m,in,Winter,13,Serie A,2010,2010/2011
+Inter,Yuto Nagatomo,24.0,Left-Back,Cesena,Loan fee:2.00m,in,Winter,2,Serie A,2010,2010/2011
+Inter,Houssine Kharja,28.0,Central Midfield,Genoa,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Brescia,Jonathas,21.0,Centre-Forward,AZ Alkmaar,300Th.,in,Winter,"0,3",Serie A,2010,2010/2011
+Brescia,Pietro Accardi,28.0,Left-Back,Sampdoria,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Brescia,Cristiano Zanetti,33.0,Defensive Midfield,Fiorentina,?,in,Winter,0.01,Serie A,2010,2010/2011
+Brescia,Davide Lanzafame,23.0,Centre-Forward,Juventus,loan transfer,in,Winter,0.01,Serie A,2010,2010/2011
+Lens,Grégory Sertic,21.0,Defensive Midfield,G. Bordeaux,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Francisco Pavón,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Álvaro Mejía,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Fabien Laurenti,27.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Franck Dja Djédjé,24.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Elamine Erbate,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Jamel Aït Ben Idir,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Angelos Charisteas,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Chafik Najih,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Camel Meriem,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Hameur Bouazza,25.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Angelos Basinas,34.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AC Arles,Vincent Planté,29.0,Goalkeeper,Saint-Étienne,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Loïc Abenzoar,21.0,Right-Back,France,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Kamel Ghilas,26.0,Second Striker,Uk,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Yann Kermorgant,28.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Rémy Cabella,20.0,Attacking Midfield,Montpellier,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Jean-Alain Fanchone,21.0,Left-Back,France,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Johnathan,20.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Stade Brestois,Paul Baysse,22.0,Centre-Back,France,1.00m,in,Summer,1,Ligue 1,2010,2010/2011
+Stade Brestois,Tomas Micola,21.0,Attacking Midfield,Central_EU,750Th.,in,Summer,"0,75",Ligue 1,2010,2010/2011
+Stade Brestois,Richard Soumah,23.0,Left-Back,France,500Th.,in,Summer,"0,5",Ligue 1,2010,2010/2011
+Stade Brestois,Mario Licka,28.0,Attacking Midfield,Central_EU,250Th.,in,Summer,"0,25",Ligue 1,2010,2010/2011
+Stade Brestois,Larsen Touré,26.0,Right Winger,LOSC Lille,200Th.,in,Summer,"0,2",Ligue 1,2010,2010/2011
+Stade Brestois,Filippos Darlas,26.0,Left-Back,Central_EU,100Th.,in,Summer,"0,1",Ligue 1,2010,2010/2011
+Stade Brestois,Fodie Traoré,25.0,midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Stade Brestois,Gaëtan Deneuve,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Stade Brestois,Granddi N'Goyi,22.0,Defensive Midfield,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Stade Brestois,Johan Martial,19.0,Centre-Back,France,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Valenciennes FC,Mathieu Dossevi,22.0,Right Winger,France,1.00m,in,Summer,1,Ligue 1,2010,2010/2011
+Valenciennes FC,Mamadou Samassa,24.0,Centre-Forward,Marseille,800Th.,in,Summer,"0,8",Ligue 1,2010,2010/2011
+Valenciennes FC,Guillaume Loriot,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Valenciennes FC,Nicolas Pallois,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Valenciennes FC,Vincent Aboubakar,18.0,Centre-Forward,Cotonsport,?,in,Summer,0.01,Ligue 1,2010,2010/2011
+Valenciennes FC,Christopher Mfuyi,21.0,Centre-Back,Uk,?,in,Summer,0.01,Ligue 1,2010,2010/2011
+SM Caen,Damien Marcq,21.0,Defensive Midfield,France,3.00m,in,Summer,3,Ligue 1,2010,2010/2011
+SM Caen,Romain Hamouma,23.0,Centre-Forward,France,1.20m,in,Summer,"1,2",Ligue 1,2010,2010/2011
+SM Caen,Branko Lazarevic,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+SM Caen,Yohan Mollo,20.0,Right Winger,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+SM Caen,Kandia Traoré,29.0,Centre-Forward,FC Sochaux,?,in,Summer,0.01,Ligue 1,2010,2010/2011
+AS Nancy,Marama Vahirua,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+AS Nancy,Alexandre Cuvillier,24.0,Left Midfield,France,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+FC Lorient,Bruno Ecuele Manga,21.0,Centre-Back,France,2.50m,in,Summer,"2,5",Ligue 1,2010,2010/2011
+FC Lorient,Lynel Kitambala,21.0,Centre-Forward,AJ Auxerre,1.50m,in,Summer,"1,5",Ligue 1,2010,2010/2011
+FC Lorient,Lamine Koné,21.0,Centre-Back,France,1.00m,in,Summer,1,Ligue 1,2010,2010/2011
+FC Lorient,Alaixys Romao,26.0,Defensive Midfield,France,1.00m,in,Summer,1,Ligue 1,2010,2010/2011
+FC Lorient,Mathias Autret,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+FC Lorient,Remi Mulumba,17.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+FC Lorient,Francis Coquelin,19.0,Defensive Midfield,Arsenal,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+FC Lorient,Pierre Ducasse,23.0,Defensive Midfield,G. Bordeaux,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+FC Lorient,Kévin Monnet-Paquet,22.0,Left Winger,Lens,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+LOSC Lille,Moussa Sow,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+LOSC Lille,David Rozehnal,30.0,Centre-Back,Hamburger SV,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Olympique Lyon,Yoann Gourcuff,24.0,Attacking Midfield,G. Bordeaux,22.00m,in,Summer,22,Ligue 1,2010,2010/2011
+Olympique Lyon,Jimmy Briand,24.0,Centre-Forward,Stade Rennais,6.00m,in,Summer,6,Ligue 1,2010,2010/2011
+Olympique Lyon,Pape Diakhaté,26.0,Centre-Back,Est_EU,Loan fee:440Th.,in,Summer,"0,44",Ligue 1,2010,2010/2011
+Montpellier,Olivier Giroud,23.0,Centre-Forward,France,2.00m,in,Summer,2,Ligue 1,2010,2010/2011
+Montpellier,Marco Estrada,27.0,Defensive Midfield,South America,1.00m,in,Summer,1,Ligue 1,2010,2010/2011
+Montpellier,Garry Bocaly,22.0,Right-Back,Marseille,800Th.,in,Summer,"0,8",Ligue 1,2010,2010/2011
+Montpellier,Hasan Kabze,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+G. Bordeaux,Fahid Ben Khalfallah,27.0,Right Winger,Valenciennes FC,4.50m,in,Summer,"4,5",Ligue 1,2010,2010/2011
+G. Bordeaux,Anthony Modeste,22.0,Centre-Forward,OGC Nice,3.50m,in,Summer,"3,5",Ligue 1,2010,2010/2011
+G. Bordeaux,Vujadin Savic,20.0,Centre-Back,Central_EU,1.50m,in,Summer,"1,5",Ligue 1,2010,2010/2011
+G. Bordeaux,Moussa Maazou,22.0,Centre-Forward,Russia,Loan fee:500Th.,in,Summer,"0,5",Ligue 1,2010,2010/2011
+FC Sochaux,Modibo Maïga,22.0,Centre-Forward,France,3.00m,in,Summer,3,Ligue 1,2010,2010/2011
+FC Sochaux,David Sauget,30.0,Left-Back,France,300Th.,in,Summer,"0,3",Ligue 1,2010,2010/2011
+FC Sochaux,Kévin Anin,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Saint-Étienne,Guirane N'Daw,26.0,Defensive Midfield,France,3.00m,in,Summer,3,Ligue 1,2010,2010/2011
+Saint-Étienne,Carlos Bocanegra,31.0,Centre-Back,Stade Rennais,125Th.,in,Summer,"0,125",Ligue 1,2010,2010/2011
+Saint-Étienne,Sylvain Marchal,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Saint-Étienne,Albin Ebondo,26.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Saint-Étienne,Laurent Batlles,34.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Paris SG,Nenê,28.0,Attacking Midfield,Monaco,5.00m,in,Summer,5,Ligue 1,2010,2010/2011
+Paris SG,Mathieu Bodmer,27.0,Defensive Midfield,Olympique Lyon,2.50m,in,Summer,"2,5",Ligue 1,2010,2010/2011
+Paris SG,Siaka Tiéné,28.0,Left-Back,Valenciennes FC,1.50m,in,Summer,"1,5",Ligue 1,2010,2010/2011
+OGC Nice,Nemanja Pejcinovic,22.0,Centre-Back,Central_EU,Loan fee:400Th.,in,Summer,"0,4",Ligue 1,2010,2010/2011
+OGC Nice,Danijel Ljuboja,31.0,Centre-Forward,France,300Th.,in,Summer,"0,3",Ligue 1,2010,2010/2011
+OGC Nice,Abdou Traoré,22.0,Central Midfield,G. Bordeaux,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Toulouse,Adrián Gunino,21.0,Right-Back,South America,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Toulouse,Federico Santander,19.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+Toulouse,Yannis Tafer,19.0,Right Midfield,Olympique Lyon,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AJ Auxerre,Anthony Le Tallec,25.0,Centre-Forward,France,3.00m,in,Summer,3,Ligue 1,2010,2010/2011
+AJ Auxerre,Frédéric Sammaritano,24.0,Attacking Midfield,France,500Th.,in,Summer,"0,5",Ligue 1,2010,2010/2011
+AJ Auxerre,Johnson Soumahoro,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Rennes,Víctor Montaño,26.0,Centre-Forward,Montpellier,6.50m,in,Summer,"6,5",Ligue 1,2010,2010/2011
+Rennes,Onyekachi Apam,23.0,Centre-Back,OGC Nice,4.00m,in,Summer,4,Ligue 1,2010,2010/2011
+Rennes,Jean-Armel Kana-Biyik,20.0,Centre-Back,France,2.50m,in,Summer,"2,5",Ligue 1,2010,2010/2011
+Rennes,Stéphane Dalmat,31.0,Central Midfield,FC Sochaux,1.50m,in,Summer,"1,5",Ligue 1,2010,2010/2011
+Rennes,Georges Mandjeck,21.0,Defensive Midfield,VfB Stuttgart,1.20m,in,Summer,"1,2",Ligue 1,2010,2010/2011
+Rennes,Johann Carrasso,22.0,Goalkeeper,Montpellier,1.00m,in,Summer,1,Ligue 1,2010,2010/2011
+Rennes,Kamal Issah,18.0,Defensive Midfield,Africa Sports,?,in,Summer,0.01,Ligue 1,2010,2010/2011
+Marseille,André-Pierre Gignac,24.0,Centre-Forward,Toulouse,16.00m,in,Summer,16,Ligue 1,2010,2010/2011
+Marseille,Loïc Rémy,23.0,Centre-Forward,OGC Nice,15.50m,in,Summer,"15,5",Ligue 1,2010,2010/2011
+Marseille,César Azpilicueta,20.0,Right-Back,CA Osasuna,6.00m,in,Summer,6,Ligue 1,2010,2010/2011
+Monaco,Dieumerci Mbokani,24.0,Centre-Forward,Belgium,7.00m,in,Summer,7,Ligue 1,2010,2010/2011
+Monaco,Chris Malonga,23.0,Left Winger,AS Nancy,1.30m,in,Summer,"1,3",Ligue 1,2010,2010/2011
+Monaco,Sébastien Puygrenier,28.0,Centre-Back,Russia,Loan fee:700Th.,in,Summer,"0,7",Ligue 1,2010,2010/2011
+Monaco,Daniel Niculae,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Monaco,Sébastien Chabbert,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Monaco,Petter Hansson,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2010,2010/2011
+Monaco,Pierre-Emerick Aubameyang,21.0,Centre-Forward,AC Milan,loan transfer,in,Summer,0.01,Ligue 1,2010,2010/2011
+AC Arles,Bobo Balde,35.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+AC Arles,Romain Rocchi,29.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+AC Arles,Arnaud Torregrossa,21.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+AC Arles,Grégory Lorenzi,27.0,Centre-Back,Stade Brestois,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+Stade Brestois,Jonathan Ayité,25.0,Centre-Forward,France,1.00m,in,Winter,1,Ligue 1,2010,2010/2011
+Valenciennes FC,Steeven Langil,22.0,Left Winger,AJ Auxerre,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+SM Caen,Grégory Proment,32.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+FC Lorient,Gilles Sunu,19.0,Attacking Midfield,Arsenal,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+Montpellier,John Utaka,29.0,Left Winger,Uk,500Th.,in,Winter,"0,5",Ligue 1,2010,2010/2011
+G. Bordeaux,André,20.0,Centre-Forward,Est_EU,Loan fee:500Th.,in,Winter,"0,5",Ligue 1,2010,2010/2011
+G. Bordeaux,Azbe Jug,18.0,Goalkeeper,Central_EU,?,in,Winter,0.01,Ligue 1,2010,2010/2011
+Saint-Étienne,Yoric Ravet,21.0,Right Winger,France,600Th.,in,Winter,"0,6",Ligue 1,2010,2010/2011
+Saint-Étienne,Alejandro Alonso,28.0,Right Midfield,Monaco,200Th.,in,Winter,"0,2",Ligue 1,2010,2010/2011
+Saint-Étienne,Pierre-Emerick Aubameyang,21.0,Centre-Forward,AC Milan,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+OGC Nice,Nemanja Pejcinovic,23.0,Centre-Back,Central_EU,1.00m,in,Winter,1,Ligue 1,2010,2010/2011
+OGC Nice,Raúl Fernández,25.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+OGC Nice,David Bellion,28.0,Centre-Forward,G. Bordeaux,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+Toulouse,Luis Mejía,19.0,Goalkeeper,South America,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+AJ Auxerre,Jo-gook Jeong,26.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+AJ Auxerre,Simon Pontdemé,22.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+Rennes,Razak Boukari,23.0,Right Winger,Lens,5.00m,in,Winter,5,Ligue 1,2010,2010/2011
+Rennes,John Verhoek,21.0,Centre-Forward,Netherlands,500Th.,in,Winter,"0,5",Ligue 1,2010,2010/2011
+Marseille,Rod Fanni,29.0,Right-Back,Stade Rennais,4.00m,in,Winter,4,Ligue 1,2010,2010/2011
+Monaco,Benjamin Moukandjo,22.0,Centre-Forward,France,500Th.,in,Winter,"0,5",Ligue 1,2010,2010/2011
+Monaco,Moussa Maazou,22.0,Centre-Forward,Russia,Loan fee:250Th.,in,Winter,"0,25",Ligue 1,2010,2010/2011
+Monaco,Mahamadou Diarra,29.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2010,2010/2011
+Monaco,Grégory Lacombe,29.0,Right Winger,Montpellier,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+Monaco,Georgie Welcome,25.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Ligue 1,2010,2010/2011
+Bor. Dortmund,Robert Lewandowski,21.0,Centre-Forward,Central_EU,4.75m,in,Summer,"4,75",1 Bundesliga,2010,2010/2011
+Bor. Dortmund,Mitchell Langerak,21.0,Goalkeeper,Asia,500Th.,in,Summer,"0,5",1 Bundesliga,2010,2010/2011
+Bor. Dortmund,Antônio da Silva,32.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Bor. Dortmund,Lukasz Piszczek,25.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Bor. Dortmund,Shinji Kagawa,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Klaas-Jan Huntelaar,27.0,Centre-Forward,AC Milan,14.00m,in,Summer,14,1 Bundesliga,2010,2010/2011
+FC Schalke 04,José Manuel Jurado,24.0,Attacking Midfield,Atlético Madrid,11.00m,in,Summer,11,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Ciprian Deac,24.0,Right Winger,Est_EU,3.00m,in,Summer,3,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Sergio Escudero,20.0,Left-Back,Spain,2.30m,in,Summer,"2,3",1 Bundesliga,2010,2010/2011
+FC Schalke 04,Kyriakos Papadopoulos,18.0,Centre-Back,Central_EU,2.00m,in,Summer,2,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Atsuto Uchida,22.0,Right-Back,Asia,1.30m,in,Summer,"1,3",1 Bundesliga,2010,2010/2011
+FC Schalke 04,Hans Sarpei,34.0,Left-Back,Bay. Leverkusen,400Th.,in,Summer,"0,4",1 Bundesliga,2010,2010/2011
+FC Schalke 04,Raúl,33.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Nicolas Plestan,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Erik Jendrisek,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Christoph Metzelder,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Tim Hoogland,25.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Igor de Camargo,27.0,Centre-Forward,Belgium,4.00m,in,Summer,4,1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Bamba Anderson,22.0,Centre-Back,South America,1.50m,in,Summer,"1,5",1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Jens Wissing,22.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Mohamadou Idrissou,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Domagoj Vida,21.0,Centre-Back,Est_EU,2.40m,in,Summer,"2,4",1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Sidney Sam,22.0,Right Winger,Hamburger SV,2.00m,in,Summer,2,1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Nicolai Jörgensen,19.0,Centre-Forward,North_EU,800Th.,in,Summer,"0,8",1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Zvonko Pamic,19.0,Central Midfield,Est_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Michael Ballack,33.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Hanno Balitsch,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Cristian Molinaro,26.0,Left-Back,Juventus,3.90m,in,Summer,"3,9",1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Georg Niedermeier,24.0,Centre-Back,Germany,3.50m,in,Summer,"3,5",1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Johan Audel,26.0,Left Winger,Valenciennes FC,2.50m,in,Summer,"2,5",1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Mauro Camoranesi,33.0,Right Midfield,Juventus,2.00m,in,Summer,2,1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Mamadou Bah,22.0,Defensive Midfield,France,600Th.,in,Summer,"0,6",1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Martin Harnik,23.0,Right Winger,Werder Bremen,300Th.,in,Summer,"0,3",1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Marc Ziegler,34.0,Goalkeeper,Bor. Dortmund,300Th.,in,Summer,"0,3",1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Christian Gentner,24.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Philipp Degen,27.0,Right-Back,Uk,loan transfer,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+Hannover 96,Mohammed Abdellaoue,24.0,Centre-Forward,North_EU,1.00m,in,Summer,1,1 Bundesliga,2010,2010/2011
+Hannover 96,DaMarcus Beasley,28.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hannover 96,Emanuel Pogatetz,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hannover 96,Moritz Stoppelkamp,23.0,Left Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hannover 96,Markus Miller,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hannover 96,Ron-Robert Zieler,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hannover 96,Carlitos,27.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hannover 96,Lars Stindl,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Diego,25.0,Central Midfield,Juventus,15.50m,in,Summer,"15,5",1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Simon Kjaer,21.0,Centre-Back,US Palermo,12.50m,in,Summer,"12,5",1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Mario Mandzukic,24.0,Centre-Forward,Est_EU,7.00m,in,Summer,7,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Arne Friedrich,31.0,Centre-Back,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Nassim Ben Khalifa,18.0,Second Striker,Uk,1.60m,in,Summer,"1,6",1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Cícero,25.0,Central Midfield,South America,Loan fee:800Th.,in,Summer,"0,8",1 Bundesliga,2010,2010/2011
+Werder Bremen,Wesley,23.0,Central Midfield,South America,7.50m,in,Summer,"7,5",1 Bundesliga,2010,2010/2011
+Werder Bremen,Marko Arnautovic,21.0,Centre-Forward,Twente FC,6.20m,in,Summer,"6,2",1 Bundesliga,2010,2010/2011
+Werder Bremen,Felix Kroos,19.0,Central Midfield,Germany,240Th.,in,Summer,"0,24",1 Bundesliga,2010,2010/2011
+Werder Bremen,Mikaël Silvestre,33.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Julian Schieber,21.0,Centre-Forward,VfB Stuttgart,Loan fee:500Th.,in,Summer,"0,5",1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Per Nilsson,27.0,Centre-Back,TSG Hoffenheim,400Th.,in,Summer,"0,4",1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Robert Mak,19.0,Left Winger,Man City,250Th.,in,Summer,"0,25",1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Timmy Simons,33.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Rubin Okotie,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Christoph Sauter,18.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Almog Cohen,21.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Mehmet Ekici,20.0,Attacking Midfield,Bayern Munich,loan transfer,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Felicio Brown Forbes,18.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Jens Hegeler,22.0,Central Midfield,Bay. Leverkusen,loan transfer,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+E. Frankfurt,Georgios Tzavellas,22.0,Centre-Back,Central_EU,1.20m,in,Summer,"1,2",1 Bundesliga,2010,2010/2011
+E. Frankfurt,Theofanis Gekas,30.0,Centre-Forward,Bay. Leverkusen,1.00m,in,Summer,1,1 Bundesliga,2010,2010/2011
+E. Frankfurt,Sebastian Rode,19.0,Central Midfield,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Gylfi Sigurdsson,20.0,Attacking Midfield,Uk,5.20m,in,Summer,"5,2",1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Sebastian Rudy,20.0,Defensive Midfield,VfB Stuttgart,4.00m,in,Summer,4,1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Peniel Mlapa,19.0,Centre-Forward,Germany,1.30m,in,Summer,"1,3",1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Jukka Raitala,21.0,Left-Back,North_EU,250Th.,in,Summer,"0,25",1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Tom Starke,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+SC Freiburg,Jan Rosenthal,24.0,Second Striker,Hannover 96,550Th.,in,Summer,"0,55",1 Bundesliga,2010,2010/2011
+SC Freiburg,Anton Putilo,23.0,Attacking Midfield,Est_EU,200Th.,in,Summer,"0,2",1 Bundesliga,2010,2010/2011
+SC Freiburg,Kisho Yano,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+SC Freiburg,Maximilian Nicu,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+SC Freiburg,Zvonko Pamic,19.0,Central Midfield,Bay. Leverkusen,loan transfer,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Sami Allagui,24.0,Centre-Forward,Germany,1.00m,in,Summer,1,1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Ádám Szalai,22.0,Centre-Forward,Spain,600Th.,in,Summer,"0,6",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Christian Fuchs,24.0,Left-Back,Germany,Loan fee:400Th.,in,Summer,"0,4",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Dragan Gjorgiev,19.0,Left Winger,Est_EU,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Lewis Holtby,19.0,Central Midfield,FC Schalke 04,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Marcel Risse,20.0,Right Midfield,Bay. Leverkusen,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Morten Duncan Rasmussen,25.0,Centre-Forward,Uk,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Marco Caligiuri,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Martin Pieckenhagen,38.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Tufan Tosunoglu,21.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hamburger SV,Heiko Westermann,26.0,Centre-Back,FC Schalke 04,7.50m,in,Summer,"7,5",1 Bundesliga,2010,2010/2011
+Hamburger SV,Gojko Kacar,23.0,Defensive Midfield,Germany,5.50m,in,Summer,"5,5",1 Bundesliga,2010,2010/2011
+Hamburger SV,Dennis Diekmeier,20.0,Right-Back,1.FC Nuremberg,2.20m,in,Summer,"2,2",1 Bundesliga,2010,2010/2011
+Hamburger SV,Jaroslav Drobny,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+Hamburger SV,Lennard Sowah,17.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1. FC Köln,Alexandru Ionita I,20.0,Centre-Forward,Est_EU,2.50m,in,Summer,"2,5",1 Bundesliga,2010,2010/2011
+1. FC Köln,Martin Lanig,25.0,Defensive Midfield,VfB Stuttgart,700Th.,in,Summer,"0,7",1 Bundesliga,2010,2010/2011
+1. FC Köln,Konstantinos Giannoulis,22.0,Centre-Back,Central_EU,300Th.,in,Summer,"0,3",1 Bundesliga,2010,2010/2011
+1. FC Köln,Mato Jajalo,22.0,Defensive Midfield,Italy,Loan fee:250Th.,in,Summer,"0,25",1 Bundesliga,2010,2010/2011
+1. FC Köln,Christopher Buchtmann,18.0,Central Midfield,Fulham,150Th.,in,Summer,"0,15",1 Bundesliga,2010,2010/2011
+1. FC Köln,Miro Varvodic,21.0,Goalkeeper,Est_EU,100Th.,in,Summer,"0,1",1 Bundesliga,2010,2010/2011
+1. FC Köln,Andrézinho,28.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC St. Pauli,Carlos Zambrano,21.0,Centre-Back,FC Schalke 04,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,2010,2010/2011
+FC St. Pauli,Thomas Kessler,24.0,Goalkeeper,1. FC Köln,Loan fee:50Th.,in,Summer,"0,05",1 Bundesliga,2010,2010/2011
+FC St. Pauli,Fin Bartels,23.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+FC St. Pauli,Gerald Asamoah,31.0,Centre-Forward,FC Schalke 04,loan transfer,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Jan Simunek,23.0,Centre-Back,VfL Wolfsburg,850Th.,in,Summer,"0,85",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Leon Jessen,24.0,Left-Back,North_EU,800Th.,in,Summer,"0,8",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Stiven Rivic,24.0,Attacking Midfield,Germany,800Th.,in,Summer,"0,8",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Iliyan Mitsanski,24.0,Centre-Forward,Central_EU,600Th.,in,Summer,"0,6",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Ivo Ilicevic,23.0,Left Winger,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Rodnei,24.0,Centre-Back,Germany,450Th.,in,Summer,"0,45",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Erwin Hoffer,23.0,Centre-Forward,SSC Napoli,Loan fee:350Th.,in,Summer,"0,35",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Jan Moravek,20.0,Central Midfield,FC Schalke 04,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Clemens Walch,23.0,Right Midfield,VfB Stuttgart,100Th.,in,Summer,"0,1",1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Oliver Kirch,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Christian Tiffert,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Chadli Amri,25.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Thanos Petsos,19.0,Defensive Midfield,Bay. Leverkusen,loan transfer,in,Summer,0.01,1 Bundesliga,2010,2010/2011
+Bor. Dortmund,Moritz Leitner,18.0,Central Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+Bayern Munich,Luiz Gustavo,23.0,Defensive Midfield,TSG Hoffenheim,17.00m,in,Winter,17,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Anthony Annan,24.0,Defensive Midfield,North_EU,2.00m,in,Winter,2,1 Bundesliga,2010,2010/2011
+FC Schalke 04,Danilo Avelar,21.0,Left-Back,Est_EU,Loan fee:100Th.,in,Winter,"0,1",1 Bundesliga,2010,2010/2011
+FC Schalke 04,Ali Karimi,32.0,Attacking Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Martin Stranzl,30.0,Centre-Back,Russia,800Th.,in,Winter,"0,8",1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Michael Fink,28.0,Centre-Back,Turkey,Loan fee:700Th.,in,Winter,"0,7",1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Mike Hanke,27.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+Bor. M'gladbach,Havard Nordtveit,20.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Hajime Hosogai,24.0,Defensive Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+Bay. Leverkusen,Kevin Kampl,20.0,Central Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Shinji Okazaki,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+VfB Stuttgart,Tamás Hajnal,29.0,Attacking Midfield,Bor. Dortmund,loan transfer,in,Winter,0.01,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Patrick Helmes,26.0,Centre-Forward,Bay. Leverkusen,5.00m,in,Winter,5,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Tuncay Sanli,29.0,Left Winger,Stoke City,4.50m,in,Winter,"4,5",1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Jan Polak,29.0,Defensive Midfield,Belgium,3.00m,in,Winter,3,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Ja-cheol Koo,21.0,Central Midfield,Asia,2.00m,in,Winter,2,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Dieumerci Mbokani,25.0,Centre-Forward,Monaco,Loan fee:1.00m,in,Winter,1,1 Bundesliga,2010,2010/2011
+VfL Wolfsburg,Yohandry Orozco,19.0,Attacking Midfield,South America,750Th.,in,Winter,"0,75",1 Bundesliga,2010,2010/2011
+Werder Bremen,Denni Avdic,22.0,Centre-Forward,North_EU,2.20m,in,Winter,"2,2",1 Bundesliga,2010,2010/2011
+Werder Bremen,Predrag Stevanovic,19.0,Attacking Midfield,Germany,100Th.,in,Winter,"0,1",1 Bundesliga,2010,2010/2011
+Werder Bremen,Samuel Jesus,24.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+1.FC Nuremberg,Nassim Ben Khalifa,19.0,Second Striker,VfL Wolfsburg,loan transfer,in,Winter,0.01,1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Ryan Babel,24.0,Left Winger,Uk,7.00m,in,Winter,7,1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Roberto Firmino,19.0,Centre-Forward,South America,4.00m,in,Winter,4,1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Kevin Volland,18.0,Second Striker,Germany,700Th.,in,Winter,"0,7",1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,Edson Braafheid,27.0,Left-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+TSG Hoffenheim,David Alaba,18.0,Centre-Back,Bayern Munich,loan transfer,in,Winter,0.01,1 Bundesliga,2010,2010/2011
+SC Freiburg,Erik Jendrisek,24.0,Centre-Forward,FC Schalke 04,700Th.,in,Winter,"0,7",1 Bundesliga,2010,2010/2011
+1.FSV Mainz 05,Eugen Polanski,24.0,Defensive Midfield,Getafe,1.10m,in,Winter,"1,1",1 Bundesliga,2010,2010/2011
+1. FC Köln,Slawomir Peszko,25.0,Left Winger,Central_EU,500Th.,in,Winter,"0,5",1 Bundesliga,2010,2010/2011
+1. FC Köln,Christian Eichner,28.0,Left-Back,TSG Hoffenheim,100Th.,in,Winter,"0,1",1 Bundesliga,2010,2010/2011
+1. FC Köln,Tomoaki Makino,23.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Lucas Rocha,19.0,Centre-Back,Bay. Leverkusen,loan transfer,in,Winter,0.01,1 Bundesliga,2010,2010/2011
+1.FC K'lautern,Adam Hlousek,22.0,Left-Back,Central_EU,loan transfer,in,Winter,0.01,1 Bundesliga,2010,2010/2011
+Aston Villa,Stephen Ireland,23.0,Attacking Midfield,Man City,9.70m,in,Summer,"9,7",Premier League,2010,2010/2011
+Blackpool,DJ Campbell,28.0,Centre-Forward,Uk,1.50m,in,Summer,"1,5",Premier League,2010,2010/2011
+Blackpool,Elliot Grandin,22.0,Attacking Midfield,Central_EU,1.50m,in,Summer,"1,5",Premier League,2010,2010/2011
+Blackpool,Chris Basham,21.0,Centre-Back,Bolton,1.40m,in,Summer,"1,4",Premier League,2010,2010/2011
+Blackpool,Craig Cathcart,21.0,Centre-Back,Man Utd,625Th.,in,Summer,"0,625",Premier League,2010,2010/2011
+Blackpool,Matt Phillips,19.0,Right Winger,Uk,400Th.,in,Summer,"0,4",Premier League,2010,2010/2011
+Blackpool,Marlon Harewood,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Blackpool,David Carney,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Blackpool,Dekel Keinan,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Blackpool,Malaury Martin,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Blackpool,Luke Varney,27.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Blackpool,Ludovic Sylvestre,26.0,Central Midfield,Central_EU,?,in,Summer,0.01,Premier League,2010,2010/2011
+Blackpool,Richard Kingson,32.0,Goalkeeper,Wigan,?,in,Summer,0.01,Premier League,2010,2010/2011
+Wigan,Ronnie Stam,26.0,Right-Back,Twente FC,4.00m,in,Summer,4,Premier League,2010,2010/2011
+Wigan,Mauro Boselli,25.0,Centre-Forward,South America,3.70m,in,Summer,"3,7",Premier League,2010,2010/2011
+Wigan,Franco Di Santo,21.0,Centre-Forward,Chelsea,2.40m,in,Summer,"2,4",Premier League,2010,2010/2011
+Wigan,James McArthur,22.0,Central Midfield,Uk,600Th.,in,Summer,"0,6",Premier League,2010,2010/2011
+Wigan,Steven Caldwell,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Wigan,Antolín Alcaraz,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Wigan,Tom Cleverley,21.0,Central Midfield,Man Utd,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Wigan,Ali Al-Habsi,28.0,Goalkeeper,Bolton,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Man Utd,Bebé,20.0,Left Winger,Vit. Guimarães,8.80m,in,Summer,"8,8",Premier League,2010,2010/2011
+Man Utd,Chris Smalling,20.0,Centre-Back,Fulham,8.00m,in,Summer,8,Premier League,2010,2010/2011
+Man Utd,Chicharito,22.0,Centre-Forward,North America,7.50m,in,Summer,"7,5",Premier League,2010,2010/2011
+West Brom,Marc-Antoine Fortuné,29.0,Centre-Forward,Uk,3.00m,in,Summer,3,Premier League,2010,2010/2011
+West Brom,Somen Tchoyi,27.0,Attacking Midfield,Central_EU,3.00m,in,Summer,3,Premier League,2010,2010/2011
+West Brom,Peter Odemwingie,29.0,Right Winger,Russia,3.00m,in,Summer,3,Premier League,2010,2010/2011
+West Brom,Nicky Shorey,29.0,Left-Back,Aston Villa,1.80m,in,Summer,"1,8",Premier League,2010,2010/2011
+West Brom,Boaz Myhill,27.0,Goalkeeper,Uk,1.80m,in,Summer,"1,8",Premier League,2010,2010/2011
+West Brom,Gabriel Tamas,26.0,Centre-Back,AJ Auxerre,930Th.,in,Summer,"0,93",Premier League,2010,2010/2011
+West Brom,Craig Dawson,20.0,Centre-Back,Uk,300Th.,in,Summer,"0,3",Premier League,2010,2010/2011
+West Brom,Paul Scharner,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+West Brom,Pablo Ibáñez,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+West Brom,Steven Reid,29.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Fulham,Mousa Dembélé,23.0,Central Midfield,AZ Alkmaar,6.00m,in,Summer,6,Premier League,2010,2010/2011
+Fulham,Rafik Halliche,23.0,Centre-Back,Benfica,2.50m,in,Summer,"2,5",Premier League,2010,2010/2011
+Fulham,Carlos Salcido,30.0,Centre-Back,PSV Eindhoven,1.95m,in,Summer,"1,95",Premier League,2010,2010/2011
+Fulham,Jonathan Greening,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Fulham,Philippe Senderos,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Newcastle,Cheik Tioté,24.0,Defensive Midfield,Twente FC,4.28m,in,Summer,"4,28",Premier League,2010,2010/2011
+Newcastle,Hatem Ben Arfa,23.0,Attacking Midfield,Marseille,Loan fee:2.50m,in,Summer,"2,5",Premier League,2010,2010/2011
+Newcastle,James Perch,24.0,Defensive Midfield,Uk,1.20m,in,Summer,"1,2",Premier League,2010,2010/2011
+Newcastle,Sol Campbell,35.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Newcastle,Dan Gosling,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Chelsea,Ramires,23.0,Central Midfield,Benfica,22.00m,in,Summer,22,Premier League,2010,2010/2011
+Chelsea,Yossi Benayoun,30.0,Right Winger,Uk,7.00m,in,Summer,7,Premier League,2010,2010/2011
+Chelsea,Tomas Kalas,17.0,Centre-Back,Central_EU,6.00m,in,Summer,6,Premier League,2010,2010/2011
+Chelsea,Matej Delac,17.0,Goalkeeper,Est_EU,3.00m,in,Summer,3,Premier League,2010,2010/2011
+Wolves,Steven Fletcher,23.0,Centre-Forward,Uk,7.20m,in,Summer,"7,2",Premier League,2010,2010/2011
+Wolves,Stephen Hunt,28.0,Left Midfield,Uk,3.60m,in,Summer,"3,6",Premier League,2010,2010/2011
+Wolves,Jelle Van Damme,26.0,Centre-Back,Belgium,3.25m,in,Summer,"3,25",Premier League,2010,2010/2011
+Wolves,Steven Mouyokolo,23.0,Centre-Back,Uk,3.00m,in,Summer,3,Premier League,2010,2010/2011
+Wolves,Adlène Guédioura,24.0,Central Midfield,Belgium,2.30m,in,Summer,"2,3",Premier League,2010,2010/2011
+Wolves,Matt Doherty,18.0,Right-Back,Uk,90Th.,in,Summer,"0,09",Premier League,2010,2010/2011
+Wolves,Michael Mancienne,22.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Wolves,Marcus Bent,32.0,Centre-Forward,Birmingham,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Wolves,Jake Cassidy,17.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,2010,2010/2011
+Stoke City,Kenwyne Jones,25.0,Centre-Forward,Sunderland,9.70m,in,Summer,"9,7",Premier League,2010,2010/2011
+Stoke City,Marc Wilson,23.0,Centre-Back,Uk,3.60m,in,Summer,"3,6",Premier League,2010,2010/2011
+Stoke City,Jonathan Walters,26.0,Right Winger,Uk,3.30m,in,Summer,"3,3",Premier League,2010,2010/2011
+Stoke City,Eidur Gudjohnsen,31.0,Centre-Forward,Monaco,2.50m,in,Summer,"2,5",Premier League,2010,2010/2011
+Stoke City,Carlo Nash,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Stoke City,Jermaine Pennant,27.0,Right Winger,Real Zaragoza,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Arsenal,Laurent Koscielny,24.0,Centre-Back,FC Lorient,12.50m,in,Summer,"12,5",Premier League,2010,2010/2011
+Arsenal,Sébastien Squillaci,30.0,Centre-Back,Sevilla FC,6.50m,in,Summer,"6,5",Premier League,2010,2010/2011
+Arsenal,Marouane Chamakh,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+West Ham,Pablo Barrera,23.0,Right Winger,North America,4.80m,in,Summer,"4,8",Premier League,2010,2010/2011
+West Ham,Winston Reid,22.0,Centre-Back,North_EU,4.20m,in,Summer,"4,2",Premier League,2010,2010/2011
+West Ham,Frédéric Piquionne,31.0,Centre-Forward,Olympique Lyon,1.20m,in,Summer,"1,2",Premier League,2010,2010/2011
+West Ham,Ruud Boffin,22.0,Goalkeeper,Netherlands,300Th.,in,Summer,"0,3",Premier League,2010,2010/2011
+West Ham,Lars Jacobsen,30.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+West Ham,Thomas Hitzlsperger,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+West Ham,Tal Ben Haim,28.0,Centre-Back,Uk,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+West Ham,Victor Obinna,23.0,Second Striker,Inter,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Bolton,Marcos Alonso,19.0,Left-Back,Spain,2.40m,in,Summer,"2,4",Premier League,2010,2010/2011
+Bolton,Tom Eaves,18.0,Centre-Forward,Uk,245Th.,in,Summer,"0,245",Premier League,2010,2010/2011
+Bolton,Martin Petrov,31.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Bolton,Robbie Blake,34.0,Second Striker,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Bolton,Ivan Klasnic,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Bolton,Rodrigo,19.0,Second Striker,Benfica,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Birmingham,Ben Foster,27.0,Goalkeeper,Man Utd,7.00m,in,Summer,7,Premier League,2010,2010/2011
+Birmingham,Nikola Zigic,29.0,Centre-Forward,Valencia,7.00m,in,Summer,7,Premier League,2010,2010/2011
+Birmingham,Jean Beausejour,26.0,Left-Back,North America,4.80m,in,Summer,"4,8",Premier League,2010,2010/2011
+Birmingham,Aleksandr Hleb,29.0,Attacking Midfield,Barcelona,Loan fee:1.20m,in,Summer,"1,2",Premier League,2010,2010/2011
+Birmingham,Martin Jiranek,31.0,Centre-Back,Russia,600Th.,in,Summer,"0,6",Premier League,2010,2010/2011
+Birmingham,Matt Derbyshire,24.0,Centre-Forward,Central_EU,Loan fee:600Th.,in,Summer,"0,6",Premier League,2010,2010/2011
+Birmingham,Enric Vallès,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Sunderland,Asamoah Gyan,24.0,Centre-Forward,Stade Rennais,16.00m,in,Summer,16,Premier League,2010,2010/2011
+Sunderland,Simon Mignolet,22.0,Goalkeeper,Belgium,2.50m,in,Summer,"2,5",Premier League,2010,2010/2011
+Sunderland,Marcos Angeleri,27.0,Centre-Back,South America,1.80m,in,Summer,"1,8",Premier League,2010,2010/2011
+Sunderland,Titus Bramble,28.0,Centre-Back,Wigan,1.20m,in,Summer,"1,2",Premier League,2010,2010/2011
+Sunderland,Ahmed Elmohamady,22.0,Right-Back,Africa Sports,Loan fee:600Th.,in,Summer,"0,6",Premier League,2010,2010/2011
+Sunderland,Cristian Riveros,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Sunderland,Billy Knott,17.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Sunderland,Danny Welbeck,19.0,Centre-Forward,Man Utd,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Sunderland,Nedum Onuoha,23.0,Centre-Back,Man City,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Man City,Yaya Touré,27.0,Central Midfield,Barcelona,30.00m,in,Summer,30,Premier League,2010,2010/2011
+Man City,Mario Balotelli,20.0,Centre-Forward,Inter,29.50m,in,Summer,"29,5",Premier League,2010,2010/2011
+Man City,David Silva,24.0,Attacking Midfield,Valencia,28.75m,in,Summer,"28,75",Premier League,2010,2010/2011
+Man City,Aleksandar Kolarov,24.0,Left-Back,Lazio,23.86m,in,Summer,"23,86",Premier League,2010,2010/2011
+Man City,James Milner,24.0,Central Midfield,Aston Villa,22.00m,in,Summer,22,Premier League,2010,2010/2011
+Man City,Jérôme Boateng,21.0,Centre-Back,Hamburger SV,12.50m,in,Summer,"12,5",Premier League,2010,2010/2011
+Man City,Mohammed Abu,18.0,Defensive Midfield,SC Accra,?,in,Summer,0.01,Premier League,2010,2010/2011
+Blackburn,Benjani,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Blackburn,Mame Diouf,22.0,Centre-Forward,Man Utd,loan transfer,in,Summer,0.01,Premier League,2010,2010/2011
+Spurs,Rafael van der Vaart,27.0,Attacking Midfield,Real Madrid,10.50m,in,Summer,"10,5",Premier League,2010,2010/2011
+Spurs,Sandro,21.0,Defensive Midfield,South America,10.00m,in,Summer,10,Premier League,2010,2010/2011
+Spurs,Stipe Pletikosa,31.0,Goalkeeper,Russia,Loan fee:700Th.,in,Summer,"0,7",Premier League,2010,2010/2011
+Spurs,William Gallas,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Liverpool FC,Raúl Meireles,27.0,Central Midfield,FC Porto,13.00m,in,Summer,13,Premier League,2010,2010/2011
+Liverpool FC,Christian Poulsen,30.0,Defensive Midfield,Juventus,5.48m,in,Summer,"5,48",Premier League,2010,2010/2011
+Liverpool FC,Paul Konchesky,29.0,Left-Back,Fulham,4.20m,in,Summer,"4,2",Premier League,2010,2010/2011
+Liverpool FC,Brad Jones,28.0,Goalkeeper,Uk,2.80m,in,Summer,"2,8",Premier League,2010,2010/2011
+Liverpool FC,Danny Wilson,18.0,Centre-Back,Uk,2.75m,in,Summer,"2,75",Premier League,2010,2010/2011
+Liverpool FC,Jonjo Shelvey,18.0,Central Midfield,Uk,2.00m,in,Summer,2,Premier League,2010,2010/2011
+Liverpool FC,Joe Cole,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Liverpool FC,Milan Jovanovic,29.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Everton,Magaye Gueye,19.0,Centre-Forward,France,1.40m,in,Summer,"1,4",Premier League,2010,2010/2011
+Everton,Jermaine Beckford,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Everton,Jan Mucha,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2010,2010/2011
+Aston Villa,Darren Bent,26.0,Centre-Forward,Sunderland,21.50m,in,Winter,"21,5",Premier League,2010,2010/2011
+Aston Villa,Jean II Makoun,27.0,Defensive Midfield,Olympique Lyon,6.20m,in,Winter,"6,2",Premier League,2010,2010/2011
+Aston Villa,Kyle Walker,20.0,Right-Back,Spurs,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Aston Villa,Michael Bradley,23.0,Central Midfield,Bor. M'gladbach,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Blackpool,Sergey Kornilenko,27.0,Centre-Forward,Russia,Loan fee:300Th.,in,Winter,"0,3",Premier League,2010,2010/2011
+Blackpool,Andy Reid,28.0,Left Midfield,free agents,free transfer,in,Winter,0,Premier League,2010,2010/2011
+Blackpool,Salaheddine Sbaï,25.0,Left-Back,free agents,free transfer,in,Winter,0,Premier League,2010,2010/2011
+Blackpool,Jason Puncheon,24.0,Central Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Blackpool,James Beattie,32.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Wigan,Conor Sammon,24.0,Centre-Forward,Uk,700Th.,in,Winter,"0,7",Premier League,2010,2010/2011
+Wigan,Adrián López,23.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2010,2010/2011
+Man Utd,Anders Lindegaard,26.0,Goalkeeper,North_EU,5.00m,in,Winter,5,Premier League,2010,2010/2011
+West Brom,Carlos Vela,21.0,Right Winger,Arsenal,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Fulham,Steve Sidwell,28.0,Central Midfield,Aston Villa,600Th.,in,Winter,"0,6",Premier League,2010,2010/2011
+Fulham,Gaël Kakuta,19.0,Attacking Midfield,Chelsea,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Fulham,Eidur Gudjohnsen,32.0,Centre-Forward,Stoke City,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Newcastle,Hatem Ben Arfa,23.0,Attacking Midfield,Marseille,6.00m,in,Winter,6,Premier League,2010,2010/2011
+Newcastle,Shefki Kuqi,34.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2010,2010/2011
+Newcastle,Stephen Ireland,24.0,Attacking Midfield,Aston Villa,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Chelsea,Fernando Torres,26.0,Centre-Forward,Uk,58.50m,in,Winter,"58,5",Premier League,2010,2010/2011
+Chelsea,David Luiz,23.0,Centre-Back,Benfica,25.00m,in,Winter,25,Premier League,2010,2010/2011
+Wolves,Adam Hammill,22.0,Right Winger,Uk,600Th.,in,Winter,"0,6",Premier League,2010,2010/2011
+Wolves,Leigh Griffiths,20.0,Centre-Forward,Uk,175Th.,in,Winter,"0,175",Premier League,2010,2010/2011
+Wolves,Jamie O'Hara,24.0,Central Midfield,Spurs,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Stoke City,Jermaine Pennant,27.0,Right Winger,Real Zaragoza,2.00m,in,Winter,2,Premier League,2010,2010/2011
+Stoke City,John Carew,31.0,Centre-Forward,Aston Villa,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Arsenal,Wellington Silva,18.0,Right Winger,South America,4.00m,in,Winter,4,Premier League,2010,2010/2011
+Arsenal,Ryo Miyaichi,18.0,Right Winger,Chukyo HS,?,in,Winter,0.01,Premier League,2010,2010/2011
+West Ham,Demba Ba,25.0,Centre-Forward,TSG Hoffenheim,3.00m,in,Winter,3,Premier League,2010,2010/2011
+West Ham,Gary O'Neil,27.0,Central Midfield,Uk,2.90m,in,Winter,"2,9",Premier League,2010,2010/2011
+West Ham,Robbie Keane,30.0,Centre-Forward,Spurs,Loan fee:1.20m,in,Winter,"1,2",Premier League,2010,2010/2011
+West Ham,Wayne Bridge,30.0,Left-Back,Man City,Loan fee:350Th.,in,Winter,"0,35",Premier League,2010,2010/2011
+West Ham,Paul McCallum,17.0,Centre-Forward,Uk,75Th.,in,Winter,"0,075",Premier League,2010,2010/2011
+Bolton,David Wheater,23.0,Centre-Back,Uk,2.75m,in,Winter,"2,75",Premier League,2010,2010/2011
+Bolton,Daniel Sturridge,21.0,Centre-Forward,Chelsea,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Birmingham,Curtis Davies,25.0,Centre-Back,Aston Villa,4.00m,in,Winter,4,Premier League,2010,2010/2011
+Birmingham,Obafemi Martins,26.0,Centre-Forward,Russia,Loan fee:400Th.,in,Winter,"0,4",Premier League,2010,2010/2011
+Birmingham,David Bentley,26.0,Right Midfield,Spurs,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Sunderland,Stéphane Sessègnon,26.0,Attacking Midfield,Paris SG,7.00m,in,Winter,7,Premier League,2010,2010/2011
+Sunderland,Sulley Muntari,26.0,Central Midfield,Inter,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Man City,Edin Dzeko,24.0,Centre-Forward,VfL Wolfsburg,37.00m,in,Winter,37,Premier League,2010,2010/2011
+Blackburn,Mauro Formica,22.0,Attacking Midfield,South America,4.00m,in,Winter,4,Premier League,2010,2010/2011
+Blackburn,Jermaine Jones,29.0,Defensive Midfield,FC Schalke 04,Loan fee:600Th.,in,Winter,"0,6",Premier League,2010,2010/2011
+Blackburn,Rubén Rochina,19.0,Right Winger,Spain,450Th.,in,Winter,"0,45",Premier League,2010,2010/2011
+Blackburn,Roque Santa Cruz,29.0,Centre-Forward,Man City,loan transfer,in,Winter,0.01,Premier League,2010,2010/2011
+Spurs,Steven Pienaar,28.0,Left Winger,Everton,3.60m,in,Winter,"3,6",Premier League,2010,2010/2011
+Spurs,Bongani Khumalo,23.0,Centre-Back,Africa Sports,1.80m,in,Winter,"1,8",Premier League,2010,2010/2011
+Liverpool FC,Andy Carroll,22.0,Centre-Forward,Newcastle,41.00m,in,Winter,41,Premier League,2010,2010/2011
+Liverpool FC,Luis Suárez,24.0,Centre-Forward,Ajax,26.50m,in,Winter,"26,5",Premier League,2010,2010/2011
+Everton,Apostolos Vellios,19.0,Centre-Forward,Central_EU,300Th.,in,Winter,"0,3",Premier League,2010,2010/2011
+Espanyol,Daniel Osvaldo,24.0,Centre-Forward,Bologna,4.60m,in,Summer,"4,6",Primera Division,2010,2010/2011
+Espanyol,Felipe Mattioni,21.0,Right-Back,Maga,2.00m,in,Summer,2,Primera Division,2010,2010/2011
+Espanyol,Sergio García,27.0,Centre-Forward,Spain,1.80m,in,Summer,"1,8",Primera Division,2010,2010/2011
+Espanyol,Jesús Dátolo,26.0,Attacking Midfield,SSC Napoli,Loan fee:350Th.,in,Summer,"0,35",Primera Division,2010,2010/2011
+Espanyol,Aldo Duscher,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Nelson Valdez,26.0,Centre-Forward,Bor. Dortmund,3.50m,in,Summer,"3,5",Primera Division,2010,2010/2011
+Hércules CF,Abel Aguilar,25.0,Defensive Midfield,Udinese Calcio,1.50m,in,Summer,"1,5",Primera Division,2010,2010/2011
+Hércules CF,Piet Velthuizen,23.0,Goalkeeper,Vitesse,800Th.,in,Summer,"0,8",Primera Division,2010,2010/2011
+Hércules CF,Cristian Pulhac,25.0,Left-Back,Est_EU,Loan fee:250Th.,in,Summer,"0,25",Primera Division,2010,2010/2011
+Hércules CF,Matías Fritzler,23.0,Defensive Midfield,South America,Loan fee:160Th.,in,Summer,"0,16",Primera Division,2010,2010/2011
+Hércules CF,David Trézéguet,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Mohamed Sarr,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Olivier Thomert,30.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,David Cortés,30.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Royston Drenthe,23.0,Left Winger,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Getafe,Adrián Colunga,25.0,Centre-Forward,Spain,2.50m,in,Summer,"2,5",Primera Division,2010,2010/2011
+Getafe,Pablo Pintos,23.0,Right-Back,South America,1.40m,in,Summer,"1,4",Primera Division,2010,2010/2011
+Getafe,Borja Fernández,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Getafe,Javier Arizmendi,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Getafe,Pedro Mosquera,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Getafe,Víctor Sánchez,22.0,Central Midfield,Barcelona,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Getafe,Iván Marcano,23.0,Centre-Back,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Levante,Juanfran,33.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante,Javi Venta,34.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante,Gustavo Munúa,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante,Sergio,33.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante,Nano,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante,Valdo,29.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante,Felipe Caicedo,21.0,Centre-Forward,Man City,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Levante,Ignacio González,28.0,Attacking Midfield,Valencia,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Levante,Asier del Horno,29.0,Left-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Levante,Cristhian Stuani,23.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Levante,Xavi Torres,23.0,Defensive Midfield,Málaga CF,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+UD Almería,Marcelo Silva,21.0,Centre-Back,South America,1.30m,in,Summer,"1,3",Primera Division,2010,2010/2011
+UD Almería,Michael Jakobsen,24.0,Centre-Back,North_EU,1.00m,in,Summer,1,Primera Division,2010,2010/2011
+UD Almería,Leonardo Ulloa,23.0,Centre-Forward,CD Castellón,900Th.,in,Summer,"0,9",Primera Division,2010,2010/2011
+UD Almería,Diego Váleri,24.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+UD Almería,Miguel Ángel Luque,19.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,2010,2010/2011
+Sporting Gijón,Gastón Sangoy,25.0,Right Winger,Est_EU,800Th.,in,Summer,"0,8",Primera Division,2010,2010/2011
+Sporting Gijón,Ayoze,24.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Nacho Novo,31.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Alberto Botía,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Sebastián Eguren,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Sebastián Fernández,25.0,Second Striker,South America,3.60m,in,Summer,"3,6",Primera Division,2010,2010/2011
+Málaga CF,Salomón Rondón,20.0,Centre-Forward,Spain,3.50m,in,Summer,"3,5",Primera Division,2010,2010/2011
+Málaga CF,Sandro Silva,26.0,Defensive Midfield,Desp. Brasil,2.20m,in,Summer,"2,2",Primera Division,2010,2010/2011
+Málaga CF,Kris Stadsgaard,25.0,Centre-Back,North_EU,2.00m,in,Summer,2,Primera Division,2010,2010/2011
+Málaga CF,Eliseu,26.0,Left-Back,Lazio,2.00m,in,Summer,2,Primera Division,2010,2010/2011
+Málaga CF,Galatto,27.0,Goalkeeper,South America,1.60m,in,Summer,"1,6",Primera Division,2010,2010/2011
+Málaga CF,Rubén Martínez,26.0,Goalkeeper,Spain,1.30m,in,Summer,"1,3",Primera Division,2010,2010/2011
+Málaga CF,Javier Malagueño,27.0,Centre-Back,North America,945Th.,in,Summer,"0,945",Primera Division,2010,2010/2011
+Málaga CF,Quincy Owusu-Abeyie,24.0,Left Winger,Asia,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Villarreal,Carlos Marchena,31.0,Centre-Back,Valencia,2.50m,in,Summer,"2,5",Primera Division,2010,2010/2011
+Villarreal,Nicki Bille Nielsen,22.0,Centre-Forward,North_EU,1.75m,in,Summer,"1,75",Primera Division,2010,2010/2011
+Villarreal,Borja Valero,25.0,Central Midfield,West Brom,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Valencia,Roberto Soldado,25.0,Centre-Forward,Getafe,10.00m,in,Summer,10,Primera Division,2010,2010/2011
+Valencia,Tino Costa,25.0,Central Midfield,Montpellier,6.50m,in,Summer,"6,5",Primera Division,2010,2010/2011
+Valencia,Mehmet Topal,24.0,Defensive Midfield,Turkey,5.50m,in,Summer,"5,5",Primera Division,2010,2010/2011
+Valencia,Aritz Aduriz,29.0,Centre-Forward,RCD Mallorca,4.30m,in,Summer,"4,3",Primera Division,2010,2010/2011
+Valencia,Marius Stankevicius,29.0,Centre-Back,Sampdoria,Loan fee:300Th.,in,Summer,"0,3",Primera Division,2010,2010/2011
+Valencia,Sofiane Feghouli,20.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Valencia,Ricardo Costa,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Dep. La Coruña,Claudio Morel,32.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Dep. La Coruña,Felipe Ramos,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Dep. La Coruña,Saúl,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Dep. La Coruña,Yves Desmarets,30.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Dep. La Coruña,Jonathan Urretaviscaya,20.0,Right Winger,Benfica,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Dep. La Coruña,Knut Olav Rindaröy,25.0,Left-Back,North_EU,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Dep. La Coruña,Míchel Herrero,21.0,Central Midfield,Valencia,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Dep. La Coruña,Rubén Pérez,21.0,Defensive Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Atlético Madrid,Filipe Luís,24.0,Left-Back,Dep. La Coruña,12.00m,in,Summer,12,Primera Division,2010,2010/2011
+Atlético Madrid,Diego Godín,24.0,Centre-Back,Villarreal,8.00m,in,Summer,8,Primera Division,2010,2010/2011
+Atlético Madrid,Mario Suárez,23.0,Centre-Back,RCD Mallorca,1.80m,in,Summer,"1,8",Primera Division,2010,2010/2011
+Atlético Madrid,Diego Costa,21.0,Centre-Forward,Spain,1.00m,in,Summer,1,Primera Division,2010,2010/2011
+Atlético Madrid,Fran Mérida,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Joseba Llorente,30.0,Centre-Forward,Villarreal,2.50m,in,Summer,"2,5",Primera Division,2010,2010/2011
+Real Sociedad,Diego Ifrán,23.0,Centre-Forward,South America,1.50m,in,Summer,"1,5",Primera Division,2010,2010/2011
+Real Sociedad,Jeffrey Sarpong,21.0,Right Midfield,Ajax,200Th.,in,Summer,"0,2",Primera Division,2010,2010/2011
+Real Sociedad,Paco Sutil,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Raúl Tamudo,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing,Markus Rosenberg,27.0,Centre-Forward,Werder Bremen,Loan fee:750Th.,in,Summer,"0,75",Primera Division,2010,2010/2011
+Racing,Waldo Ponce,27.0,Centre-Back,South America,Loan fee:315Th.,in,Summer,"0,315",Primera Division,2010,2010/2011
+Racing,Alexandros Tziolis,25.0,Defensive Midfield,Italy,Loan fee:100Th.,in,Summer,"0,1",Primera Division,2010,2010/2011
+Racing,Adrián González,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing,Ariel Nahuelpán,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing,Kennedy,29.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing,Francis Pérez,28.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing,Domingo Cisma,28.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Madrid,Ángel Di María,22.0,Right Winger,Benfica,33.00m,in,Summer,33,Primera Division,2010,2010/2011
+Real Madrid,Mesut Özil,21.0,Attacking Midfield,Werder Bremen,18.00m,in,Summer,18,Primera Division,2010,2010/2011
+Real Madrid,Sami Khedira,23.0,Central Midfield,VfB Stuttgart,14.00m,in,Summer,14,Primera Division,2010,2010/2011
+Real Madrid,Pedro León,23.0,Right Winger,Getafe,10.00m,in,Summer,10,Primera Division,2010,2010/2011
+Real Madrid,Ricardo Carvalho,32.0,Centre-Back,Chelsea,8.00m,in,Summer,8,Primera Division,2010,2010/2011
+Real Madrid,Sergio Canales,19.0,Attacking Midfield,Racing,6.00m,in,Summer,6,Primera Division,2010,2010/2011
+Sevilla FC,Tiberio Guarente,24.0,Central Midfield,Italy,5.50m,in,Summer,"5,5",Primera Division,2010,2010/2011
+Sevilla FC,Alexis Ruano,25.0,Centre-Back,Valencia,5.00m,in,Summer,5,Primera Division,2010,2010/2011
+Sevilla FC,Martín Cáceres,23.0,Centre-Back,Barcelona,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2010,2010/2011
+Sevilla FC,Luca Cigarini,24.0,Defensive Midfield,SSC Napoli,Loan fee:300Th.,in,Summer,"0,3",Primera Division,2010,2010/2011
+Sevilla FC,Mouhamadou Dabo,23.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Dejan Lekic,25.0,Centre-Forward,Central_EU,2.47m,in,Summer,"2,47",Primera Division,2010,2010/2011
+CA Osasuna,Fernando Soriano,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Asier Riesgo,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Damià,28.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Lolo,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Nélson,27.0,Right-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+RCD Mallorca,Edson Ratinho,24.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,João Victor,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Jonathan de Guzmán,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Fernando Cavenaghi,26.0,Centre-Forward,G. Bordeaux,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Real Zaragoza,Matteo Contini,30.0,Centre-Back,SSC Napoli,2.30m,in,Summer,"2,3",Primera Division,2010,2010/2011
+Real Zaragoza,Ádám Pintér,22.0,Centre-Back,Central_EU,1.20m,in,Summer,"1,2",Primera Division,2010,2010/2011
+Real Zaragoza,Florent Sinama-Pongolle,25.0,Second Striker,Sporting CP,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2010,2010/2011
+Real Zaragoza,Leo Franco,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Maurizio Lanzaro,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Toni Doblas,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Nicolás Bertolo,24.0,Left Winger,US Palermo,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Real Zaragoza,Marco Pérez,19.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Primera Division,2010,2010/2011
+Barcelona,David Villa,28.0,Centre-Forward,Valencia,40.00m,in,Summer,40,Primera Division,2010,2010/2011
+Barcelona,Javier Mascherano,26.0,Defensive Midfield,Uk,20.00m,in,Summer,20,Primera Division,2010,2010/2011
+Barcelona,Adriano,25.0,Left-Back,Sevilla FC,9.50m,in,Summer,"9,5",Primera Division,2010,2010/2011
+Athletic,Mikel San José,21.0,Defensive Midfield,Uk,2.70m,in,Summer,"2,7",Primera Division,2010,2010/2011
+Espanyol,Jesús Dátolo,26.0,Attacking Midfield,SSC Napoli,2.50m,in,Winter,"2,5",Primera Division,2010,2010/2011
+Levante,Wellington Silva,18.0,Right Winger,Arsenal,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Levante,Jefferson Montero,21.0,Left Winger,Villarreal,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+UD Almería,Juanito,30.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Antonio Luna,19.0,Left-Back,Sevilla FC,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+UD Almería,Sofiane Feghouli,21.0,Right Winger,Valencia,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Sporting Gijón,André Castro,22.0,Central Midfield,FC Porto,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Málaga CF,Martín Demichelis,30.0,Centre-Back,Bayern Munich,3.00m,in,Winter,3,Primera Division,2010,2010/2011
+Málaga CF,Júlio Baptista,29.0,Attacking Midfield,AS Roma,2.50m,in,Winter,"2,5",Primera Division,2010,2010/2011
+Málaga CF,Ignacio Camacho,20.0,Defensive Midfield,Atlético Madrid,1.50m,in,Winter,"1,5",Primera Division,2010,2010/2011
+Málaga CF,Willy Caballero,29.0,Goalkeeper,Spain,900Th.,in,Winter,"0,9",Primera Division,2010,2010/2011
+Málaga CF,Sergio Asenjo,21.0,Goalkeeper,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Villarreal,Mubarak Wakaso,20.0,Central Midfield,free agents,free transfer,in,Winter,0,Primera Division,2010,2010/2011
+Villarreal,Cicinho,30.0,Right-Back,AS Roma,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Valencia,Jonas,26.0,Second Striker,South America,1.25m,in,Winter,"1,25",Primera Division,2010,2010/2011
+Dep. La Coruña,José Sand,30.0,Centre-Forward,Asia,Loan fee:500Th.,in,Winter,"0,5",Primera Division,2010,2010/2011
+Dep. La Coruña,Javito,27.0,Right Winger,Central_EU,Loan fee:150Th.,in,Winter,"0,15",Primera Division,2010,2010/2011
+Dep. La Coruña,Xisco,24.0,Centre-Forward,Newcastle,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Atlético Madrid,Elias,25.0,Central Midfield,South America,7.00m,in,Winter,7,Primera Division,2010,2010/2011
+Atlético Madrid,Juanfran Torres,25.0,Right-Back,CA Osasuna,4.25m,in,Winter,"4,25",Primera Division,2010,2010/2011
+Real Sociedad,Vadim Demidov,24.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2010,2010/2011
+Racing,Giovani dos Santos,21.0,Second Striker,Spurs,Loan fee:300Th.,in,Winter,"0,3",Primera Division,2010,2010/2011
+Real Madrid,Emmanuel Adebayor,26.0,Centre-Forward,Man City,Loan fee:4.00m,in,Winter,4,Primera Division,2010,2010/2011
+Sevilla FC,Gary Medel,23.0,Centre-Back,South America,3.30m,in,Winter,"3,3",Primera Division,2010,2010/2011
+Sevilla FC,Ivan Rakitic,22.0,Central Midfield,FC Schalke 04,2.50m,in,Winter,"2,5",Primera Division,2010,2010/2011
+CA Osasuna,Álvaro Cejudo,26.0,Second Striker,Spain,320Th.,in,Winter,"0,32",Primera Division,2010,2010/2011
+CA Osasuna,Ferrán Corominas,27.0,Centre-Forward,Espanyol,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+RCD Mallorca,Akihiro Ienaga,24.0,Right Winger,free agents,free transfer,in,Winter,0,Primera Division,2010,2010/2011
+Real Zaragoza,Paulo da Silva,30.0,Centre-Back,Sunderland,350Th.,in,Winter,"0,35",Primera Division,2010,2010/2011
+Real Zaragoza,Guirane N'Daw,26.0,Defensive Midfield,Saint-Étienne,loan transfer,in,Winter,0.01,Primera Division,2010,2010/2011
+Barcelona,Ibrahim Afellay,24.0,Attacking Midfield,PSV Eindhoven,3.00m,in,Winter,3,Primera Division,2010,2010/2011
+Athletic,Urko Vera,23.0,Centre-Forward,Lemona,20Th.,in,Winter,"0,02",Primera Division,2010,2010/2011
+Benfica,Roberto,24.0,Goalkeeper,Atlético Madrid,8.50m,in,Summer,"8,5",Liga Nos,2010,2010/2011
+Benfica,Nicolás Gaitán,22.0,Attacking Midfield,South America,8.40m,in,Summer,"8,4",Liga Nos,2010,2010/2011
+Benfica,Rodrigo,19.0,Second Striker,Spain,6.00m,in,Summer,6,Liga Nos,2010,2010/2011
+Benfica,Franco Jara,21.0,Centre-Forward,South America,5.50m,in,Summer,"5,5",Liga Nos,2010,2010/2011
+Benfica,Fábio Faria,21.0,Centre-Back,Rio Ave FC,2.00m,in,Summer,2,Liga Nos,2010,2010/2011
+Benfica,Eduardo Salvio,20.0,Right Winger,Atlético Madrid,Loan fee:2.00m,in,Summer,2,Liga Nos,2010,2010/2011
+Benfica,Da Silva,23.0,Central Midfield,Cruzeiro-RS,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Sporting CP,Marco Torsiglieri,22.0,Centre-Back,South America,3.40m,in,Summer,"3,4",Liga Nos,2010,2010/2011
+Sporting CP,Jaime Valdés,29.0,midfield,Italy,3.30m,in,Summer,"3,3",Liga Nos,2010,2010/2011
+Sporting CP,Evaldo,28.0,Left-Back,SC Braga,3.00m,in,Summer,3,Liga Nos,2010,2010/2011
+Sporting CP,Alberto Zapater,25.0,Defensive Midfield,Genoa,2.00m,in,Summer,2,Liga Nos,2010,2010/2011
+Sporting CP,Nuno André Coelho,24.0,Centre-Back,FC Porto,1.00m,in,Summer,1,Liga Nos,2010,2010/2011
+Sporting CP,Diogo Salomão,21.0,Right Winger,Portugal,100Th.,in,Summer,"0,1",Liga Nos,2010,2010/2011
+Sporting CP,Maniche,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Tales,20.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+FC Porto,João Moutinho,23.0,Central Midfield,Sporting CP,11.00m,in,Summer,11,Liga Nos,2010,2010/2011
+FC Porto,James Rodríguez,18.0,Attacking Midfield,South America,7.35m,in,Summer,"7,35",Liga Nos,2010,2010/2011
+FC Porto,Walter,20.0,Centre-Forward,South America,6.00m,in,Summer,6,Liga Nos,2010,2010/2011
+FC Porto,Nicolás Otamendi,22.0,Centre-Back,South America,4.00m,in,Summer,4,Liga Nos,2010,2010/2011
+FC Porto,Souza,21.0,Defensive Midfield,Portugal,3.00m,in,Summer,3,Liga Nos,2010,2010/2011
+FC Porto,Emídio Rafael,24.0,Left-Back,Coimbra,400Th.,in,Summer,"0,4",Liga Nos,2010,2010/2011
+FC Porto,Pawel Kieszek,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Henrique Sereno,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,William Soares,21.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Nacional,Rene Mihelic,21.0,Attacking Midfield,Central_EU,900Th.,in,Summer,"0,9",Liga Nos,2010,2010/2011
+Nacional,Dejan Skolnik,21.0,Left Midfield,Central_EU,500Th.,in,Summer,"0,5",Liga Nos,2010,2010/2011
+Nacional,Rômullo,18.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Nacional,Danijel Stojanovic,25.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Nacional,Danielson,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Nacional,Claudemir,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Nacional,Orlando Sá,22.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Nacional,Daniel Candeias,22.0,Right Winger,FC Porto,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Nacional,Márcio Madeira,24.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Nacional,Douglas Pará,20.0,attack,Angra-RJ,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Nacional,Vladan Giljen,20.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Sílvio,22.0,Right-Back,Rio Ave FC,300Th.,in,Summer,"0,3",Liga Nos,2010,2010/2011
+SC Braga,Lima,27.0,Centre-Forward,Portugal,200Th.,in,Summer,"0,2",Liga Nos,2010,2010/2011
+SC Braga,Custódio,27.0,Defensive Midfield,Vit. Guimarães,100Th.,in,Summer,"0,1",Liga Nos,2010,2010/2011
+SC Braga,Marcos,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,George Lucas,26.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Hugo Viana,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Quim,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,José Collado,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Elderson,22.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Leandro Salino,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Artur Moraes,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Hélder Barbosa,23.0,Left Winger,FC Porto,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Ladji Keita,27.0,Centre-Forward,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Luis Aguiar,24.0,Central Midfield,Russia,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Élton,25.0,Centre-Forward,Olé Brasil,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Felipe,26.0,Goalkeeper,Olé Brasil,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Léo Fortunato,27.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+SC Braga,Eduardo Neto,21.0,Defensive Midfield,Villa Rio,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Hugo Leal,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Cláudio Pitbull,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Zeca,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Miguelito,29.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,José Pedro,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Jaílson,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Valdomiro,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Getúlio Vargas,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Silva,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Michel,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,Diego,31.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Sassá,22.0,Left Winger,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Ney Santos,29.0,Defensive Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Brasão,28.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Anderson do Ó,29.0,Centre-Back,AE Pafos,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Bruno Gallo,22.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,André Vilas Boas,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Marítimo,Marco Aurélio,23.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Marítimo,Christos Melissis,27.0,Centre-Back,Central_EU,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Vangelis Mantzios,27.0,Centre-Forward,Central_EU,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Ricardo Esteves,30.0,Right-Back,Asia,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Héldon,21.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Marafona,23.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Danilo Dias,24.0,Left Winger,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Adilson,28.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Marítimo,Luciano Amaral,27.0,Left-Back,Villa Rio,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Rúben Lima,20.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Beira-Mar,Leandro Tatu,28.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Beira-Mar,Sérgio Oliveira,18.0,Central Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Wilson Eduardo,19.0,Left Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Ronny,27.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Paes,27.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Rui Rêgo,29.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Danilo,30.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Luis Tinoco,23.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,André Marques,22.0,Left-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Renan Meduna,21.0,midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Alex Maranhão,25.0,Attacking Midfield,Juazeiro-CE,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Renan,24.0,Defensive Midfield,Vit. Guimarães,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,João Luiz,25.0,Defensive Midfield,Marítimo,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Marcelo Toscano,25.0,Centre-Forward,South America,500Th.,in,Summer,"0,5",Liga Nos,2010,2010/2011
+Vit. Guimarães,Mahamadou N'Diaye,20.0,Centre-Back,Africa Sports,500Th.,in,Summer,"0,5",Liga Nos,2010,2010/2011
+Vit. Guimarães,Bebé,19.0,Left Winger,CF Estrela,50Th.,in,Summer,"0,05",Liga Nos,2010,2010/2011
+Vit. Guimarães,Faouzi Abdelghani,25.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,Cléber,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,João Paulo,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,João Ribeiro,22.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,Edson Sitta,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,Jorge Ribeiro,28.0,Left-Back,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,William,27.0,Centre-Forward,Russia,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Ricardo Silva,29.0,Centre-Back,Paços Ferreira,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Marcelo Resende,23.0,Attacking Midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Marco Matias,21.0,Right Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Edgar Silva,23.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Siaka Bamba,21.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Anderson Mineiro,24.0,Left-Back,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Freire,20.0,Centre-Back,União São João,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Santiago Ostolaza,22.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Maranhão,25.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Bruno Pereirinha,22.0,Right Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,André Geraldes,19.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Bruno China,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Milhazes,29.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Renato Santos,18.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Paulo Santos,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Saulo,28.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Mário Felgueiras,23.0,Goalkeeper,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Yazalde,21.0,Centre-Forward,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Cícero,24.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Braga,27.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,João Mendes,22.0,Right Winger,SC Braga,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Tiago Pinto,22.0,Left-Back,SC Braga,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Fábio Felicio,28.0,Central Midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,João Tomás,35.0,Centre-Forward,Asia,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Leiria,Arthuro,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Milos Obradovic,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Serge N'Gal,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Marcos Paulo,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Leandro Lima,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Diogo Amado,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Paulo Sérgio,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Leiria,Gottardi,24.0,Goalkeeper,Toledo EC,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Leiria,Rodrigo Silva,27.0,Centre-Forward,Nacional,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Leiria,Renato Saldanha,26.0,Centre-Back,Toledo EC,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Leiria,Chengdong Zhang,21.0,Right Winger,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Coimbra,Diogo Melo,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Coimbra,Hugo Morais,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Coimbra,Romuald Peiser,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Coimbra,Miguel Fidalgo,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Coimbra,David Addy,20.0,Left-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Coimbra,Diogo Valente,25.0,Left Winger,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Coimbra,Enrique Carreño,23.0,Centre-Forward,Spain,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Coimbra,Júnior Paraíba,22.0,Central Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Coimbra,Laionel,24.0,Right Winger,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,Padraig Amond,22.0,Centre-Forward,Uk,65Th.,in,Summer,"0,065",Liga Nos,2010,2010/2011
+Paços Ferreira,Rui Caetano,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Paços Ferreira,Lucas Silva,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Paços Ferreira,Nélson Oliveira,19.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,Bura,21.0,Centre-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,Javier Cohene,23.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,Alvarinho,19.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,Nuno Santos,30.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,Samuel,22.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Paços Ferreira,David Simão,20.0,Central Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Maurício,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Moretto,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Delson,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Paulo Renato,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Jean-Paul Yontcha,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Jorge Gonçalves,26.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Nuno Piloto,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Cadu,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Olhanense,Lulinha,20.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Fernando Alexandre,24.0,Defensive Midfield,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Clécio,22.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Apollon Lemondzhava,19.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Ismaily,20.0,Left-Back,Desp. Brasil,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Kelvin Maynard,23.0,Centre-Back,Netherlands,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Vinicius,24.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Jardel,24.0,Centre-Back,Desp. Brasil,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Mexer,21.0,Centre-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Ricardo Batista,23.0,Goalkeeper,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Olhanense,Adilson,28.0,Centre-Forward,Marítimo,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Naval,Manuel Curto,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval,Robin Previtali,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval,Romain Salin,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval,João Pedro,24.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval,Orestes,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval,Suruca,25.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Naval,Rogério,25.0,Centre-Back,North America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Naval,Lucas Klysman,20.0,Centre-Forward,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Naval,Manuel Godinho,24.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Lito,35.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense,Fangzhuo Dong,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense,Elias,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense,Nuno Santos,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense,Di Fábio,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense,Pedro Silva,29.0,Right-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Calvin Kadi,22.0,Centre-Forward,Africa Sports,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Hugo Ventura,22.0,Goalkeeper,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Daniel Candeias,22.0,Right Winger,Nacional,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,André Pinto,20.0,Centre-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Vanderlei Lopes Gomes,26.0,Left-Back,Lagoa,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Hélder Pelembe,22.0,Centre-Forward,Maxaquene,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Jumisse,26.0,Defensive Midfield,Muçulmana,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Ivo Gonçalves,26.0,Goalkeeper,Lagoa,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Carlos Valencia,21.0,Right-Back,South America,?,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Renatinho,23.0,attack,South America,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Pedro Moreira,21.0,Central Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,Ángelo Peña,20.0,Attacking Midfield,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Portimonense,William Soares,21.0,Defensive Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2010,2010/2011
+Benfica,Jardel,24.0,Centre-Back,Desp. Brasil,4.48m,in,Winter,"4,48",Liga Nos,2010,2010/2011
+Benfica,José Luis Fernández,23.0,Central Midfield,South America,1.50m,in,Winter,"1,5",Liga Nos,2010,2010/2011
+Benfica,Lionel Carole,19.0,Left-Back,France,750Th.,in,Winter,"0,75",Liga Nos,2010,2010/2011
+Benfica,Élvis,20.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Cristiano,27.0,Left Winger,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Nacional,Darko Bodul,22.0,Second Striker,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Nacional,Arthur Henrique,24.0,Left-Back,Unknown,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+SC Braga,Vinicius,24.0,Central Midfield,Olhanense,200Th.,in,Winter,"0,2",Liga Nos,2010,2010/2011
+SC Braga,Marco Ramos,27.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Kaká,29.0,Centre-Back,Germany,Loan fee:25Th.,in,Winter,"0,025",Liga Nos,2010,2010/2011
+SC Braga,Ukra,22.0,Right Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Tengarrinha,21.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal,William,28.0,Centre-Forward,Vit. Guimarães,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Vitória Setúbal,Peter Suswam,19.0,Right-Back,Africa Sports,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Marítimo,Igor Pita,21.0,Left-Back,Est_EU,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Marítimo,Edinho,28.0,Centre-Forward,Málaga CF,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Élio Martins,25.0,Centre-Forward,Est_EU,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Ricardo Rocha,28.0,Centre-Back,Portugal,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Beira-Mar,Ishmael Yartey,21.0,Left Winger,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Tony,30.0,Right-Back,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,Renan Teixeira,25.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,Douglas Jesus,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vit. Guimarães,João Pedro,18.0,Second Striker,US Palermo,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Vit. Guimarães,Rafael Crivellaro,21.0,Attacking Midfield,South America,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Ricardo Fernandes,32.0,Centre-Back,Est_EU,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Éder Monteiro,27.0,Centre-Back,South America,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Rio Ave FC,Lionn,21.0,Right-Back,Vit. Guimarães,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Leiria,Cacá,28.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Leiria,Fabrício Simões,26.0,Centre-Forward,Operário Lagoa,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Leiria,Manuel Iturra,26.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Leiria,Luiz Carlos,22.0,Goalkeeper,South America,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Leiria,João Silva,20.0,Centre-Forward,Everton,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Coimbra,Adrien Silva,21.0,Central Midfield,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Olhanense,André Micael,21.0,Centre-Back,Moreirense,200Th.,in,Winter,"0,2",Liga Nos,2010,2010/2011
+Olhanense,William Kwabena Tiero,30.0,Attacking Midfield,Central_EU,50Th.,in,Winter,"0,05",Liga Nos,2010,2010/2011
+Olhanense,Dady,29.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Olhanense,Cristian Suárez,23.0,Centre-Back,South America,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Olhanense,Esteban Carvajal,22.0,Defensive Midfield,South America,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Olhanense,Jan Oblak,17.0,Goalkeeper,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Naval,Bruno Moraes,26.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Naval,Diego Silva,21.0,Goalkeeper,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Naval,Vítor Maranhão,33.0,Goalkeeper,Alcobaça,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Naval,Tiago Rosa,24.0,Right-Back,Portugal,?,in,Winter,0.01,Liga Nos,2010,2010/2011
+Portimonense,George Mourad,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense,André Vilas Boas,27.0,Centre-Back,Marítimo,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Portimonense,Hélder Castro,24.0,Central Midfield,Est_EU,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Portimonense,Ricardo Nascimento,23.0,Centre-Back,Olé Brasil,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+Portimonense,Patrick Leonardo,20.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2010,2010/2011
+NEC Nijmegen,Marco van Duin,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NEC Nijmegen,Leroy George,23.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NEC Nijmegen,Pavel Cmovs,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NEC Nijmegen,Nathaniel Will,21.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NEC Nijmegen,Rémy Amieux,23.0,Left-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+NEC Nijmegen,Niki Zimling,25.0,Defensive Midfield,Udinese Calcio,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+NEC Nijmegen,Thomas Chatelle,29.0,Right Winger,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+NEC Nijmegen,Adnan Secerovic,18.0,midfield,Roda JC,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Josué,19.0,Attacking Midfield,FC Porto,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Ahmed Musa,17.0,Right Winger,Africa Sports,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Bryan Linssen,19.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Jorge Chula,20.0,Right Winger,FC Porto,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Balázs Tóth,28.0,Defensive Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Heracles Almelo,Anmar Almubaraki,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Heracles Almelo,Glynor Plet,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Heracles Almelo,Xander Houtkoop,21.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Heracles Almelo,Andrej Rendla,19.0,Right Winger,Twente FC,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Heracles Almelo,Alexander Bannink,20.0,Attacking Midfield,Twente FC,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Heracles Almelo,Ben Rienstra,20.0,Central Midfield,AZ Alkmaar,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Heracles Almelo,Mike te Wierik,18.0,Centre-Back,FC Twente U19,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+ADO Den Haag,Christian Supusepa,21.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+ADO Den Haag,Aleksandar Radosavljevic,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+ADO Den Haag,Ramon Leeuwin,22.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+ADO Den Haag,Dmitri Bulykin,30.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+ADO Den Haag,Frantisek Kubik,21.0,Left Winger,Central_EU,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+AZ Alkmaar,Nick Viergever,20.0,Centre-Back,Netherlands,1.25m,in,Summer,"1,25",Eredivisie,2010,2010/2011
+AZ Alkmaar,Charlison Benschop,20.0,Centre-Forward,Netherlands,1.00m,in,Summer,1,Eredivisie,2010,2010/2011
+AZ Alkmaar,Erik Falkenburg,22.0,Attacking Midfield,Netherlands,750Th.,in,Summer,"0,75",Eredivisie,2010,2010/2011
+AZ Alkmaar,Esteban Alvarado,21.0,Goalkeeper,South America,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+AZ Alkmaar,Dirk Marcellis,22.0,Centre-Back,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Benjamin Baltes,26.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Kevin Wattamaleo,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Cees Paauwe,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Wouter Gudde,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Tim Vincken,23.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Norichio Nieveld,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Miquel Nelom,19.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Excelsior,Tobias Waisapy,22.0,Left-Back,Feyenoord,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Jerson Ribeiro,22.0,Attacking Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Andrea Fileccia,18.0,Centre-Forward,Feyenoord,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Kaj Ramsteijn,20.0,Centre-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Tim Eekman,18.0,Right-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Shabir Isoufi,18.0,Attacking Midfield,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Nayib Lagouireh,19.0,Right Winger,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Konstantinos Lamprou,18.0,Goalkeeper,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Excelsior,Jordy Clasie,19.0,Defensive Midfield,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+De Graafschap,Youssouf Hersi,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+De Graafschap,Jan-Paul Saeijs,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+De Graafschap,Vito Wormgoor,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+De Graafschap,Yuri Rose,31.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+De Graafschap,Rydell Poepon,22.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+De Graafschap,Boy Waterman,26.0,Goalkeeper,AZ Alkmaar,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Ajax,Mounir El Hamdaoui,25.0,Centre-Forward,AZ Alkmaar,5.00m,in,Summer,5,Eredivisie,2010,2010/2011
+Ajax,Teemu Tainio,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Ajax,André Ooijer,36.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Ajax,Mido,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Vitesse,Marcus Pedersen,20.0,Centre-Forward,North_EU,1.50m,in,Summer,"1,5",Eredivisie,2010,2010/2011
+Vitesse,Guram Kashia,23.0,Centre-Back,Est_EU,300Th.,in,Summer,"0,3",Eredivisie,2010,2010/2011
+Vitesse,Laryea Kingston,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Vitesse,Nacer Barazite,20.0,Attacking Midfield,Arsenal,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Vitesse,Slobodan Rajkovic,21.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Vitesse,Nemanja Matic,22.0,Defensive Midfield,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Vitesse,Matej Delac,17.0,Goalkeeper,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Vitesse,Luca Caldirola,19.0,Centre-Back,Inter,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Vitesse,Ismail Aissati,22.0,Attacking Midfield,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+NAC Breda,Kees Luijckx,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NAC Breda,Ali Boussaboun,31.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NAC Breda,Nasser El Khayati,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NAC Breda,Gino Mommers,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NAC Breda,Jens Janse,24.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+NAC Breda,Claudio Sabato,25.0,Left Midfield,Aurore Bienne,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+NAC Breda,Gábor Horváth,25.0,Centre-Back,Central_EU,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+NAC Breda,Milano Koenders,24.0,Centre-Back,AZ Alkmaar,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Willem II,Lars Hutten,20.0,attack,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Giovanni Gravenbeek,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Rowin van Zaanen,25.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Yevgen Levchenko,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Niek Vossebelt,18.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Andreas Lasnik,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Pawel Wojciechowski,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Veli Lampi,25.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Juha Hakola,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Willem II,Maceo Rigters,26.0,Centre-Forward,Blackburn,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Willem II,Davino Verhulst,22.0,Goalkeeper,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Willem II,Andreas Landgren,21.0,Right-Back,Italy,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Willem II,Denis Halilovic,24.0,Centre-Back,Russia,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+PSV Eindhoven,Marcelo,23.0,Centre-Back,Central_EU,3.80m,in,Summer,"3,8",Eredivisie,2010,2010/2011
+PSV Eindhoven,Jeremain Lens,22.0,Right Winger,AZ Alkmaar,3.50m,in,Summer,"3,5",Eredivisie,2010,2010/2011
+PSV Eindhoven,Jagos Vukovic,22.0,Centre-Back,Central_EU,1.20m,in,Summer,"1,2",Eredivisie,2010,2010/2011
+PSV Eindhoven,Marcus Berg,23.0,Centre-Forward,Hamburger SV,Loan fee:1.00m,in,Summer,1,Eredivisie,2010,2010/2011
+PSV Eindhoven,Atiba Hutchinson,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+PSV Eindhoven,Wilfred Bouma,32.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Twente FC,Marc Janko,27.0,Centre-Forward,Central_EU,7.00m,in,Summer,7,Eredivisie,2010,2010/2011
+Twente FC,Emir Bajrami,22.0,Right Winger,North_EU,3.50m,in,Summer,"3,5",Eredivisie,2010,2010/2011
+Twente FC,Roberto Rosales,21.0,Right-Back,Belgium,2.00m,in,Summer,2,Eredivisie,2010,2010/2011
+Twente FC,Bart Buysse,23.0,Left-Back,Belgium,500Th.,in,Summer,"0,5",Eredivisie,2010,2010/2011
+Twente FC,Nacer Chadli,20.0,Left Winger,Netherlands,400Th.,in,Summer,"0,4",Eredivisie,2010,2010/2011
+Twente FC,Rasmus Bengtsson,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Twente FC,Denny Landzaat,34.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Twente FC,Wilko de Vogt,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Twente FC,Nikolay Mihaylov,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Twente FC,Anouar Diba,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Twente FC,Romano Denneboom,29.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Heerenveen,Bas Dost,21.0,Centre-Forward,Heracles Almelo,2.75m,in,Summer,"2,75",Eredivisie,2010,2010/2011
+Heerenveen,René Oosterhof,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Heerenveen,Arnold Kruiswijk,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Heerenveen,Kevin Stuhr-Ellegaard,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Heerenveen,Youssef El Akchaoui,29.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Feyenoord,Michael Lumb,22.0,Left-Back,Russia,Loan fee:200Th.,in,Summer,"0,2",Eredivisie,2010,2010/2011
+Feyenoord,Ruben Schaken,28.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Feyenoord,Adil Auassar,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Feyenoord,Fedor Smolov,20.0,Centre-Forward,Russia,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+FC Groningen,Dusan Tadic,21.0,Left Winger,Central_EU,1.10m,in,Summer,"1,1",Eredivisie,2010,2010/2011
+FC Groningen,Jonas Ivens,25.0,Centre-Back,Belgium,500Th.,in,Summer,"0,5",Eredivisie,2010,2010/2011
+FC Groningen,Maikel Kieftenbeld,20.0,Defensive Midfield,Netherlands,300Th.,in,Summer,"0,3",Eredivisie,2010,2010/2011
+FC Utrecht,Frank Demouge,28.0,Centre-Forward,Willem II,550Th.,in,Summer,"0,55",Eredivisie,2010,2010/2011
+FC Utrecht,Tommy Oar,18.0,Left Winger,Asia,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+FC Utrecht,Michael Zullo,21.0,Left-Back,Asia,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+FC Utrecht,Adam Sarota,21.0,Right Midfield,Asia,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+FC Utrecht,Édouard Duplan,27.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,2010,2010/2011
+Roda JC,Mateusz Prus,20.0,Goalkeeper,Central_EU,100Th.,in,Summer,"0,1",Eredivisie,2010,2010/2011
+Roda JC,Eelco Horsten,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Roda JC,Jimmy Hempte,28.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Roda JC,Mads Junker,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2010,2010/2011
+Roda JC,Stein Huysegems,28.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+Roda JC,Rob Wielaert,31.0,Centre-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Robin Udegbe,19.0,Goalkeeper,free agents,free transfer,in,Winter,0,Eredivisie,2010,2010/2011
+VVV-Venlo,Robert Cullen,25.0,Centre-Forward,Asia,?,in,Winter,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Dario Vujicevic,20.0,Defensive Midfield,Twente FC,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Funso Ojo,19.0,Central Midfield,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+VVV-Venlo,Youssef El Akchaoui,29.0,Left-Back,Heerenveen,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Heracles Almelo,Thomas Bruns,18.0,Central Midfield,FC Twente U19,?,in,Winter,0.01,Eredivisie,2010,2010/2011
+ADO Den Haag,Jordy Brouwer,22.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2010,2010/2011
+AZ Alkmaar,Etiënne Reijnen,23.0,Centre-Back,Netherlands,100Th.,in,Winter,"0,1",Eredivisie,2010,2010/2011
+Excelsior,András Simon,20.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2010,2010/2011
+Excelsior,Marvin Zeegelaar,20.0,Left-Back,Ajax,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Excelsior,Edwin de Graaf,30.0,Central Midfield,Uk,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Excelsior,Geert Arend Roorda,22.0,Attacking Midfield,Heerenveen,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Excelsior,Nico Pellatz,24.0,Goalkeeper,ADO Den Haag,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+De Graafschap,Tyrone Loran,29.0,Right-Back,NAC Breda,?,in,Winter,0.01,Eredivisie,2010,2010/2011
+Vitesse,Wilfried Bony,22.0,Centre-Forward,Central_EU,4.00m,in,Winter,4,Eredivisie,2010,2010/2011
+Vitesse,Haruna Babangida,28.0,Right Winger,free agents,free transfer,in,Winter,0,Eredivisie,2010,2010/2011
+Vitesse,Jordi López,29.0,Central Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2010,2010/2011
+Vitesse,Michihiro Yasuda,23.0,Left-Back,Asia,?,in,Winter,0.01,Eredivisie,2010,2010/2011
+Vitesse,Martí Riverola,19.0,Central Midfield,Spain,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+NAC Breda,Julian Jenner,26.0,Right Winger,Vitesse,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Willem II,Vladan Kujovic,32.0,Goalkeeper,Belgium,?,in,Winter,0.01,Eredivisie,2010,2010/2011
+Willem II,Gerrit Pressel,20.0,Attacking Midfield,Germany,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Willem II,David Strihavka,27.0,Centre-Forward,Central_EU,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Willem II,Dragan Jelic,24.0,Centre-Forward,Central_EU,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Twente FC,Oguchi Onyewu,28.0,Centre-Back,AC Milan,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Feyenoord,Gill Swerts,28.0,Right-Back,AZ Alkmaar,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Feyenoord,Ryo Miyaichi,18.0,Right Winger,Arsenal,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Feyenoord,Marcel Meeuwis,30.0,Defensive Midfield,Bor. M'gladbach,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Feyenoord,Sören Larsen,29.0,Centre-Forward,Toulouse,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+Feyenoord,Krisztián Simon,19.0,Right Winger,Central_EU,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011
+FC Groningen,Matías Jones,19.0,Attacking Midfield,South America,750Th.,in,Winter,"0,75",Eredivisie,2010,2010/2011
+FC Utrecht,Kevin Strootman,20.0,Central Midfield,Netherlands,700Th.,in,Winter,"0,7",Eredivisie,2010,2010/2011
+Roda JC,Wiljan Pluim,21.0,Attacking Midfield,Vitesse,loan transfer,in,Winter,0.01,Eredivisie,2010,2010/2011

@@ -1,0 +1,1060 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Juventus,Vladimir Jugovic,25.0,Left Midfield,Sampdoria,6.00m,in,Summer,6,Serie A,1995,1995/1996
+Juventus,Gianluca Pessotto,24.0,Left-Back,Torino,3.60m,in,Summer,"3,6",Serie A,1995,1995/1996
+Juventus,Pietro Vierchowod,36.0,Centre-Back,Sampdoria,250Th.,in,Summer,"0,25",Serie A,1995,1995/1996
+Juventus,Juan Pablo Sorín,19.0,Left-Back,South America,?,in,Summer,0.01,Serie A,1995,1995/1996
+Juventus,Attilio Lombardo,29.0,Right Winger,Sampdoria,?,in,Summer,0.01,Serie A,1995,1995/1996
+Juventus,Michele Padovano,28.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+SSC Napoli,Roberto Ayala,22.0,Centre-Back,South America,3.20m,in,Summer,"3,2",Serie A,1995,1995/1996
+SSC Napoli,Francesco Baldini,21.0,Centre-Back,Italy,250Th.,in,Summer,"0,25",Serie A,1995,1995/1996
+SSC Napoli,Fausto Pizzi,27.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+SSC Napoli,Mirko Taccola,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+SSC Napoli,Arturo Di Napoli,21.0,Centre-Forward,Gualdo,?,in,Summer,0.01,Serie A,1995,1995/1996
+SSC Napoli,Francesco Colonnese,23.0,Centre-Back,AS Roma,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Stefano Fiore,20.0,Attacking Midfield,AC Parma,1.50m,in,Summer,"1,5",Serie A,1995,1995/1996
+Padova,Massimo Ciocci,27.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Silvio Vittorio Giampietro,28.0,Sweeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Antonio Sconziano,23.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Leonard van Utrecht,26.0,Right Winger,Netherlands,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Stefano Pioli,29.0,Centre-Back,Fiorentina,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Stefano Nava,26.0,Centre-Back,Milan,?,in,Summer,0.01,Serie A,1995,1995/1996
+Padova,Nicola Amoruso,20.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Giampiero Maini,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+Vicenza,Luca Mondini,25.0,Goalkeeper,Inter,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Gabriele Grossi,23.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Marcelo Otero,24.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Willi Pittana,23.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Joachim Björklund,24.0,Centre-Back,North_EU,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Gustavo Méndez,24.0,Right-Back,Portugal,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Daniele Amerini,20.0,Central Midfield,Fiorentina,?,in,Summer,0.01,Serie A,1995,1995/1996
+Vicenza,Davide Belotti,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Enrico Fantini,19.0,Centre-Forward,Juventus,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Marco Steffani,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Fabio Di Sauro,19.0,Left-Back,Gualdo,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Angelo Orlando,29.0,defence,Inter,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Giovanni Parmesani,18.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Gianluca Petrachi,26.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,Marko Perovic,23.0,Attacking Midfield,Central_EU,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Nicola Caccia,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+Piacenza,Luigi Simoni,30.0,Goalkeeper,Torino,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Massimiliano Cappellini,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Roberto Lorenzini,28.0,Left-Back,Torino,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Angelo Carbone,27.0,Right Midfield,Milan,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Mirko Conte,20.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Eusebio Di Francesco,25.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Piacenza,Eugenio Corini,24.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Beniamino Abate,33.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Marco De Laurentis,19.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Mauro Bressan,24.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Mauro Bonomi,22.0,Centre-Back,Lazio,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Massimo Perra,19.0,Right Midfield,Selargius,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Darío Silva,22.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Giorgio Venturin,26.0,Central Midfield,Lazio,loan transfer,in,Summer,0.01,Serie A,1995,1995/1996
+Sampdoria,Clarence Seedorf,19.0,Central Midfield,Ajax,3.62m,in,Summer,"3,62",Serie A,1995,1995/1996
+Sampdoria,Enrico Chiesa,24.0,Centre-Forward,Cremonese,200Th.,in,Summer,"0,2",Serie A,1995,1995/1996
+Sampdoria,Christian Karembeu,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+Sampdoria,David Balleri,26.0,Right-Back,Padova,?,in,Summer,0.01,Serie A,1995,1995/1996
+Sampdoria,Emanuele Pesaresi,18.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Sampdoria,Filippo Maniero,22.0,Centre-Forward,Padova,?,in,Summer,0.01,Serie A,1995,1995/1996
+Sampdoria,Angelo Pagotto,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Sampdoria,Marco Franceschetti,28.0,midfield,Padova,?,in,Summer,0.01,Serie A,1995,1995/1996
+Sampdoria,Alessandro Lamonica,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Sandro Tovalieri,30.0,Centre-Forward,Bari,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Filippo Zani,20.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,José Herrera,30.0,Right-Back,Cagliari Calcio,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Antonio Paganin,29.0,Right-Back,Inter,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Gianluca Luppi,28.0,Centre-Back,Fiorentina,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Fabio Gallo,24.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Marco Ambrosio,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Atalanta BC,Christian Vieri,21.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Milan,Roberto Baggio,28.0,Second Striker,Juventus,9.30m,in,Summer,"9,3",Serie A,1995,1995/1996
+Milan,George Weah,28.0,Centre-Forward,Paris SG,6.90m,in,Summer,"6,9",Serie A,1995,1995/1996
+Milan,Massimo Ambrosini,18.0,Central Midfield,Italy,1.91m,in,Summer,"1,91",Serie A,1995,1995/1996
+Milan,Paulo Futre,29.0,Left Winger,Italy,750Th.,in,Summer,"0,75",Serie A,1995,1995/1996
+Milan,Tomas Locatelli,19.0,Attacking Midfield,Atalanta BC,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Stefan Schwarz,26.0,Central Midfield,Arsenal,2.20m,in,Summer,"2,2",Serie A,1995,1995/1996
+Fiorentina,Michele Serena,25.0,Left-Back,Sampdoria,2.00m,in,Summer,2,Serie A,1995,1995/1996
+Fiorentina,Lorenzo Amoruso,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+Fiorentina,Giovanni Piacentini,27.0,Defensive Midfield,AS Roma,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Federico Bettoni,23.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Mirko Benin,17.0,Attacking Midfield,Varese U19,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Emiliano Bigica,21.0,Defensive Midfield,Bari,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Alessandro Orlando,25.0,Left-Back,Juventus,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Massimo Orlando,24.0,attack,Milan,?,in,Summer,0.01,Serie A,1995,1995/1996
+Fiorentina,Pasquale Padalino,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Domenico Doardo,20.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Giuseppe Minaudo,28.0,midfield,Atalanta BC,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Massimiliano Caniato,27.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Enzo Biato,31.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Roberto Bacci,28.0,Centre-Back,Lazio,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Valeriano Fiorin,28.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Fabio Moro,19.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Davide Dionigi,21.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Augustine Simo,16.0,Attacking Midfield,AR Menoua,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Mauro Milanese,23.0,Left-Back,Cremonese,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Alessandro Dal Canto,20.0,Left-Back,Vicenza,?,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Hakan Sükür,23.0,Centre-Forward,Turkey,loan transfer,in,Summer,0.01,Serie A,1995,1995/1996
+Torino,Roberto Cravero,31.0,Sweeper,Lazio,nan,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Oliver Bierhoff,27.0,Centre-Forward,Italy,1.15m,in,Summer,"1,15",Serie A,1995,1995/1996
+Udinese Calcio,Giuliano Giannichedda,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+Udinese Calcio,Vincenzo Montalbano,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Raffaele Sergio,28.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,David Stefani,20.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Attilio Gregori,29.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Alessandro Testaferrata,21.0,Goalkeeper,Battipagliese,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Giovanni Stroppa,27.0,Attacking Midfield,Milan,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Giovanni Bia,26.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Mohammed Gargo,20.0,Centre-Back,Uk,?,in,Summer,0.01,Serie A,1995,1995/1996
+Lazio,Alessandro Romano,25.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Lazio,Marco Piovanelli,21.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Lazio,Massimiliano Esposito,23.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Lazio,Dario Marcolin,23.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Lazio,Guerino Gottardi,24.0,Defensive Midfield,Uk,?,in,Summer,0.01,Serie A,1995,1995/1996
+Lazio,Alessandro Grandoni,17.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Bari,Kennet Andersson,27.0,Centre-Forward,France,?,in,Summer,0.01,Serie A,1995,1995/1996
+Bari,Abel Xavier,22.0,Right-Back,Benfica,?,in,Summer,0.01,Serie A,1995,1995/1996
+Bari,Luigi Sala,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Bari,Carlo Tafuni,18.0,defence,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Bari,Fabrizio Ficini,21.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Paul Ince,27.0,Defensive Midfield,Man Utd,10.50m,in,Summer,"10,5",Serie A,1995,1995/1996
+Inter,Caio,19.0,Centre-Forward,South America,7.50m,in,Summer,"7,5",Serie A,1995,1995/1996
+Inter,Javier Zanetti,21.0,Right-Back,South America,6.50m,in,Summer,"6,5",Serie A,1995,1995/1996
+Inter,Roberto Carlos,22.0,Left-Back,South America,3.50m,in,Summer,"3,5",Serie A,1995,1995/1996
+Inter,Maurizio Ganz,26.0,Centre-Forward,Atalanta BC,1.20m,in,Summer,"1,2",Serie A,1995,1995/1996
+Inter,Sebastián Rambert,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+Inter,Marco Branca,30.0,Centre-Forward,AS Roma,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Alessandro Pedroni,24.0,Left-Back,Cremonese,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Fabio Cinetti,21.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Felice Centofanti,26.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Salvatore Fresi,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Marco Landucci,31.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Alessandro Pistone,19.0,Left-Back,Vicenza,?,in,Summer,0.01,Serie A,1995,1995/1996
+Inter,Benny Carbone,23.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AS Roma,Luigi Di Biagio,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1995,1995/1996
+AS Roma,Giorgio Sterchele,25.0,Goalkeeper,Vicenza,?,in,Summer,0.01,Serie A,1995,1995/1996
+AS Roma,Enrico Annoni,28.0,Right-Back,Torino,?,in,Summer,0.01,Serie A,1995,1995/1996
+AS Roma,Alessio Scarchilli,22.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AS Roma,Gianluca Cherubini,21.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AS Roma,Franco Florio,19.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Hristo Stoichkov,29.0,Left Winger,Barcelona,11.00m,in,Summer,11,Serie A,1995,1995/1996
+AC Parma,Fabio Cannavaro,21.0,Centre-Back,Italy,6.70m,in,Summer,"6,7",Serie A,1995,1995/1996
+AC Parma,Filippo Inzaghi,21.0,Centre-Forward,Piacenza,3.05m,in,Summer,"3,05",Serie A,1995,1995/1996
+AC Parma,Alessandro Nista,29.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Monye Precious Onyabor,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Ferdinando Piro,18.0,attack,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Alberto Mantelli,23.0,defence,AC Crevalcore,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Tarcisio Catanese,27.0,midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Alessandro Melli,25.0,Centre-Forward,Milan,?,in,Summer,0.01,Serie A,1995,1995/1996
+AC Parma,Massimo Brambilla,22.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1995,1995/1996
+Cremonese,John Aloisi,19.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,1995,1995/1996
+Piacenza,Cristian Trapella,23.0,Left-Back,Italy,?,in,Winter,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Fabián O'Neill,22.0,Attacking Midfield,Portugal,?,in,Winter,0.01,Serie A,1995,1995/1996
+Cagliari Calcio,Simone Veronese,21.0,Right-Back,Italy,?,in,Winter,0.01,Serie A,1995,1995/1996
+Atalanta BC,Kewullay Conteh,18.0,Centre-Back,Cafe Opera,?,in,Winter,0.01,Serie A,1995,1995/1996
+Milan,Patrick Vieira,19.0,Defensive Midfield,Cannes,?,in,Winter,0.01,Serie A,1995,1995/1996
+Torino,Veldin Karic,22.0,Centre-Forward,Central_EU,?,in,Winter,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Igor Shalimov,26.0,Attacking Midfield,Uk,?,in,Winter,0.01,Serie A,1995,1995/1996
+Udinese Calcio,Salvatore Matrecano,25.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1995,1995/1996
+Lazio,Francesco Mancini,27.0,Goalkeeper,Italy,?,in,Winter,0.01,Serie A,1995,1995/1996
+Bari,Roberto Ripa,28.0,Centre-Back,Italy,375Th.,in,Winter,"0,375",Serie A,1995,1995/1996
+Bari,Klas Ingesson,27.0,Defensive Midfield,Sheff Wed,?,in,Winter,0.01,Serie A,1995,1995/1996
+AS Roma,Marco Delvecchio,22.0,Centre-Forward,Inter,5.00m,in,Winter,5,Serie A,1995,1995/1996
+AS Roma,Gabriele Grossi,23.0,Left-Back,Vicenza,?,in,Winter,0.01,Serie A,1995,1995/1996
+AC Parma,Vasile Miriuta,27.0,Attacking Midfield,ETO FC Gyor,130Th.,in,Winter,"0,13",Serie A,1995,1995/1996
+AC Le Havre,Ludovic Pollet,25.0,Centre-Back,Cannes,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AC Le Havre,Ardian Kozniku,27.0,Centre-Forward,Cannes,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AC Le Havre,Vanja Grubac,24.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AC Le Havre,Nicolas Huysman,27.0,Left Midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AC Le Havre,Lyambo Etshélé,26.0,Defensive Midfield,LOSC Lille,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Philippe Brunel,22.0,Left Midfield,Lens,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Christophe Ajas,23.0,Right Winger,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Patrice Eyraud,27.0,Defensive Midfield,FC Metz,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Mohammed Lashaf,27.0,Right Midfield,Belgium,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Francisc Dican,27.0,midfield,Est_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Stéphane Pounewatchy,27.0,Centre-Back,FC Martigues,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Clément Garcia,27.0,attack,LOSC Lille,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Maxence Flachez,22.0,Centre-Back,Olympique Lyon,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Samir Zamfir,27.0,Attacking Midfield,Extensiv Craiova,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Bruno Génésio,28.0,midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Franck Raviot,21.0,Goalkeeper,Lens,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Franck Soler,24.0,attack,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Olivier Ichoua,24.0,midfield,FC Metz,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Abdoul Salam Sow,24.0,Right Winger,Turkey,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Mohamed Lamine Sylla,24.0,Centre-Forward,Willem II,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Olivier Vandevoorde,25.0,attack,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Patrick Collot,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+LOSC Lille,Pascal Cygan,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+LOSC Lille,Philippe Périlleux,31.0,midfield,Montpellier,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Joël Germain,30.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Frank Pingel,31.0,Centre-Forward,Turkey,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Thierry Rabat,33.0,Centre-Back,FC Martigues,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Amara Simba,33.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Miladin Becanovic,22.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Géza Mészöly,28.0,Centre-Back,AC Le Havre,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Jean-Marie Aubry,26.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Olympique Lyon,Jacek Bak,22.0,Centre-Back,Central_EU,700Th.,in,Summer,"0,7",Ligue 1,1995,1995/1996
+Olympique Lyon,Christophe Deguerville,25.0,Left-Back,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Olympique Lyon,Éric Assadourian,28.0,Right Winger,LOSC Lille,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Olympique Lyon,Frédéric Patouillard,21.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Olympique Lyon,Laurent Casanova,23.0,Defensive Midfield,SC Bastia,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Nantes,Bruno Carotti,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+FC Nantes,Jocelyn Gourvennec,23.0,Attacking Midfield,Stade Rennais,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Nantes,Roman Kosecki,29.0,Centre-Forward,Atlético Madrid,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Nantes,Jean-Marc Chanelet,26.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Nantes,Jean-Christophe Bouteiller,22.0,midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Nantes,Laurent Peyrelade,25.0,Centre-Forward,ESA Brive,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Montpellier,Ibrahima Bakayoko,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Montpellier,Bruno Martini,33.0,Goalkeeper,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Montpellier,Pascal Baills,30.0,Right-Back,R. Strasbourg,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Montpellier,José Luis Villarreal,29.0,Defensive Midfield,South America,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Montpellier,Jean-Manuel Thétis,23.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Cannes,Fabrice Rodriguez,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Cannes,Sasa Person,30.0,Centre-Back,Est_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Cannes,Jean-Jacques Etamé,28.0,midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Cannes,Emmanuel Hutteau,26.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Cannes,Adel Boutobba,17.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Yannick Baret,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Guingamp,Vincent Candela,21.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Guingamp,Jérôme Foulon,24.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Guingamp,Philippe Chrismousse,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Guingamp,Sébastien Dallet,21.0,Right Winger,Lens,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Gheorghe Mihali,29.0,Centre-Back,Est_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Djordje Tomic,22.0,Central Midfield,Central_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Stéphane Trévisan,21.0,Goalkeeper,Toulouse Font.,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Réginald Ray,26.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Jérôme Molinier,21.0,Centre-Forward,Thouars Foot 79,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Guingamp,Fabrice Divert,28.0,Centre-Forward,Montpellier,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+Lens,Tony Vairelles,22.0,Centre-Forward,France,1.50m,in,Summer,"1,5",Ligue 1,1995,1995/1996
+Lens,Philippe Chrismousse,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+G. Bordeaux,Kaba Diawara,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+G. Bordeaux,Didier Tholot,31.0,Centre-Forward,FC Martigues,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+G. Bordeaux,Laurent Croci,30.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+G. Bordeaux,Mirza Varesanovic,23.0,Sweeper,Central_EU,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+R. Strasbourg,Philippe Raschke,27.0,Right-Back,Cannes,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+R. Strasbourg,David Zitelli,26.0,Centre-Forward,FC Metz,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+R. Strasbourg,Gérald Baticle,25.0,Centre-Forward,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Jean-François Soucasse,22.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,David Costé,19.0,Centre-Forward,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Gilbert Ceccarelli,32.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Jean-Luc Vasseur,26.0,Right-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Patrice Ferri,31.0,Centre-Back,North America,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Liazid Sandjak,28.0,Second Striker,OGC Nice,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Didier Thimothée,25.0,Centre-Forward,AS Red Star 93,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Romarin Billong,25.0,Left-Back,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Christophe Ohrel,27.0,Right Midfield,Stade Rennais,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Flavio Cuca,24.0,Centre-Forward,Mulhouse S-A,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+SC Bastia,Piotr Swierczewski,23.0,Defensive Midfield,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+SC Bastia,William,27.0,Centre-Back,Benfica,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+SC Bastia,Jean-Jacques Eydelie,29.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+SC Bastia,Rémy Loret,22.0,midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+SC Bastia,Bruno Alicarte,23.0,Right-Back,Montpellier,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Paris SG,Youri Djorkaeff,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Paris SG,Julio Dely Valdés,28.0,Centre-Forward,Cagliari Calcio,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Paris SG,Stéphane Mahé,26.0,Left-Back,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Paris SG,Laurent Fournier,30.0,Defensive Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Paris SG,Bruno N'Gotty,24.0,Centre-Back,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Paris SG,Patrice Loko,25.0,Centre-Forward,FC Nantes,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+OGC Nice,James Debbah,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+OGC Nice,Jean-Francois Daniel,31.0,Central Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+OGC Nice,David Nègre,21.0,attack,AFC Aurillac,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+OGC Nice,Jérôme Gnako,27.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Metz,Stéphane Adam,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+FC Metz,Patrick M'Boma,24.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Metz,Stéphane D'Angelo,34.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Metz,Isaias,21.0,Attacking Midfield,Belgium,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Metz,Frédéric Arpinon,26.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Metz,Jocelyn Blanchard,23.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Metz,Olivier Tingry,23.0,Goalkeeper,France,loan transfer,in,Summer,0.01,Ligue 1,1995,1995/1996
+AJ Auxerre,Laurent Blanc,29.0,Centre-Back,Saint-Étienne,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AJ Auxerre,Awudu Issaka,16.0,Attacking Midfield,Anderlecht,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AJ Auxerre,Stéphane Guivarc'h,24.0,Centre-Forward,Guingamp,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+AJ Auxerre,Abdelhafid Tasfaout,26.0,Attacking Midfield,Africa Sports,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Rennes,Goran Pandurovic,31.0,Goalkeeper,Central_EU,50Th.,in,Summer,"0,05",Ligue 1,1995,1995/1996
+Rennes,Jean-Claude Darcheville,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Rennes,Stéphane Le Garrec,26.0,Goalkeeper,US Valenciennes,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Rennes,Stéphane Ziani,23.0,Attacking Midfield,SC Bastia,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Monaco,Basile Boli,28.0,Centre-Back,Uk,2.60m,in,Summer,"2,6",Ligue 1,1995,1995/1996
+Monaco,Ali Benarbia,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1995,1995/1996
+Monaco,Fabien Barthez,24.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+Monaco,David Trézéguet,17.0,Centre-Forward,South America,?,in,Summer,0.01,Ligue 1,1995,1995/1996
+FC Gueugnon,Laurent Ciechelski,24.0,Right-Back,AJ Auxerre,loan transfer,in,Winter,0.01,Ligue 1,1995,1995/1996
+FC Martigues,Joël Tiéhi,31.0,Centre-Forward,Lens,?,in,Winter,0.01,Ligue 1,1995,1995/1996
+LOSC Lille,Denis Abed,26.0,Attacking Midfield,US Valenciennes,?,in,Winter,0.01,Ligue 1,1995,1995/1996
+FC Nantes,Christophe Le Roux,26.0,Right Midfield,free agents,free transfer,in,Winter,0,Ligue 1,1995,1995/1996
+Guingamp,Xavier Gravelaine,27.0,Centre-Forward,Paris SG,?,in,Winter,0.01,Ligue 1,1995,1995/1996
+G. Bordeaux,Jakob Friis-Hansen,28.0,Centre-Back,LOSC Lille,?,in,Winter,0.01,Ligue 1,1995,1995/1996
+Saint-Étienne,Jean-Philippe Séchet,30.0,Central Midfield,Paris SG,?,in,Winter,0.01,Ligue 1,1995,1995/1996
+FC St. Pauli,Thomas Sobotzik,20.0,Attacking Midfield,E. Frankfurt,150Th.,in,Summer,"0,15",1 Bundesliga,1995,1995/1996
+FC St. Pauli,Ralf Becker,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+FC St. Pauli,Michél Dinzey,22.0,Left Midfield,VfB Stuttgart,25Th.,in,Summer,"0,025",1 Bundesliga,1995,1995/1996
+FC St. Pauli,Tore Pedersen,25.0,Centre-Back,North_EU,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+FC St. Pauli,Hysen Zmijani,32.0,Right-Back,Asia,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+FC St. Pauli,Paul Caligiuri,31.0,Defensive Midfield,Hansa Rostock,loan transfer,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+KFC Uerdingen,Zlatko Yankov,29.0,Defensive Midfield,Central_EU,400Th.,in,Summer,"0,4",1 Bundesliga,1995,1995/1996
+KFC Uerdingen,Michael Lusch,31.0,Right Midfield,1.FC K'lautern,295Th.,in,Summer,"0,295",1 Bundesliga,1995,1995/1996
+KFC Uerdingen,John van Buskirk,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+KFC Uerdingen,Erik Meijer,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+KFC Uerdingen,Jos Luhukay,32.0,Central Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+KFC Uerdingen,Jörg Oberländer,30.0,midfield,Unknown,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+1860 Munich,Horst Heldt,25.0,Attacking Midfield,1. FC Köln,1.00m,in,Summer,1,1 Bundesliga,1995,1995/1996
+1860 Munich,Daniel Borimirov,25.0,Central Midfield,Central_EU,800Th.,in,Summer,"0,8",1 Bundesliga,1995,1995/1996
+1860 Munich,Holger Greilich,23.0,Centre-Back,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,1995,1995/1996
+1860 Munich,Marek Lesniak,31.0,Centre-Forward,Wattenscheid 09,100Th.,in,Summer,"0,1",1 Bundesliga,1995,1995/1996
+1860 Munich,Gerhard Schmidt,22.0,midfield,FC Starnberg,40Th.,in,Summer,"0,04",1 Bundesliga,1995,1995/1996
+1860 Munich,Jens Jeremies,21.0,Defensive Midfield,Germany,40Th.,in,Summer,"0,04",1 Bundesliga,1995,1995/1996
+1860 Munich,Ivica Grlic,19.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+SC Freiburg,Alain Sutter,27.0,Left Midfield,Bayern Munich,1.25m,in,Summer,"1,25",1 Bundesliga,1995,1995/1996
+SC Freiburg,Thomas Rath,24.0,Attacking Midfield,Germany,550Th.,in,Summer,"0,55",1 Bundesliga,1995,1995/1996
+SC Freiburg,Nikola Jurcevic,29.0,Right Winger,Central_EU,400Th.,in,Summer,"0,4",1 Bundesliga,1995,1995/1996
+SC Freiburg,Harry Decheiver,25.0,Centre-Forward,Go Ahead Eagles,360Th.,in,Summer,"0,36",1 Bundesliga,1995,1995/1996
+SC Freiburg,Steffen Korell,23.0,Sweeper,Germany,350Th.,in,Summer,"0,35",1 Bundesliga,1995,1995/1996
+Hamburger SV,Stéphane Henchoz,20.0,Centre-Back,Uk,750Th.,in,Summer,"0,75",1 Bundesliga,1995,1995/1996
+Hamburger SV,Sven Kmetsch,24.0,Defensive Midfield,Germany,700Th.,in,Summer,"0,7",1 Bundesliga,1995,1995/1996
+Hamburger SV,Uwe Jähnig,25.0,Centre-Forward,Germany,350Th.,in,Summer,"0,35",1 Bundesliga,1995,1995/1996
+Hamburger SV,André Breitenreiter,21.0,Second Striker,Germany,225Th.,in,Summer,"0,225",1 Bundesliga,1995,1995/1996
+Hamburger SV,Christian Claaßen,26.0,attack,Germany,175Th.,in,Summer,"0,175",1 Bundesliga,1995,1995/1996
+Hamburger SV,Matthias Rose,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Hamburger SV,Tobias Homp,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Hamburger SV,Elard Ostermann,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Hamburger SV,Holger Hiemann,27.0,Goalkeeper,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+FC Schalke 04,Uwe Weidemann,32.0,Attacking Midfield,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,1995,1995/1996
+FC Schalke 04,Martin Max,26.0,Centre-Forward,Bor. M'gladbach,600Th.,in,Summer,"0,6",1 Bundesliga,1995,1995/1996
+FC Schalke 04,Radoslav Latal,25.0,Right Midfield,Central_EU,225Th.,in,Summer,"0,225",1 Bundesliga,1995,1995/1996
+FC Schalke 04,Thomas Dooley,34.0,Centre-Back,Bay. Leverkusen,200Th.,in,Summer,"0,2",1 Bundesliga,1995,1995/1996
+FC Schalke 04,Frank Schön,24.0,Centre-Back,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,1995,1995/1996
+FC Schalke 04,Oliver Held,22.0,Right Midfield,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,1995,1995/1996
+FC Schalke 04,David Wagner,23.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+FC Schalke 04,Marco Kurz,26.0,Centre-Back,Bor. Dortmund,loan transfer,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+Hansa Rostock,Martin Groth,25.0,Right Midfield,Germany,200Th.,in,Summer,"0,2",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Stefan Studer,31.0,Left Midfield,Germany,200Th.,in,Summer,"0,2",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Goran Markov,25.0,Centre-Forward,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Christian Beeck,23.0,Centre-Back,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Perry Bräutigam,32.0,Goalkeeper,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Dirk Rehbein,27.0,Attacking Midfield,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Carsten Klee,24.0,Centre-Forward,Germany,60Th.,in,Summer,"0,06",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Marco Hinz,21.0,Sweeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Hansa Rostock,Steffen Benthin,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Hansa Rostock,Paul Caligiuri,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Hansa Rostock,Marko Tredup,21.0,Right-Back,Germany,13Th.,in,Summer,"0,013",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Markus Schupp,29.0,Attacking Midfield,Bayern Munich,1.00m,in,Summer,1,1 Bundesliga,1995,1995/1996
+E. Frankfurt,Johnny Ekström,30.0,Centre-Forward,Germany,700Th.,in,Summer,"0,7",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Markos Rainer Rauffmann,28.0,Centre-Forward,Germany,475Th.,in,Summer,"0,475",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Ivica Mornar,21.0,Centre-Forward,Est_EU,250Th.,in,Summer,"0,25",1 Bundesliga,1995,1995/1996
+E. Frankfurt,René Beuchel,21.0,Defensive Midfield,Germany,200Th.,in,Summer,"0,2",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Domenico Sbordone,25.0,Centre-Back,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Alexander Schur,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+E. Frankfurt,Jörg Böhme,21.0,Left Midfield,Germany,25Th.,in,Summer,"0,025",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Michael König,21.0,Central Midfield,Germany,20Th.,in,Summer,"0,02",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Stefan Effenberg,26.0,Central Midfield,Fiorentina,3.80m,in,Summer,"3,8",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Michael Sternkopf,25.0,Right Midfield,Bayern Munich,800Th.,in,Summer,"0,8",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Max Huiberts,24.0,Left Winger,Roda JC,650Th.,in,Summer,"0,65",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Dirk Wolf,22.0,Left Midfield,E. Frankfurt,350Th.,in,Summer,"0,35",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Macchambes Younga-Mouhani,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Davor Krznaric,19.0,Attacking Midfield,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Michael Frontzeck,31.0,Left-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+Bor. Dortmund,Heiko Herrlich,23.0,Centre-Forward,Bor. M'gladbach,5.50m,in,Summer,"5,5",1 Bundesliga,1995,1995/1996
+Bor. Dortmund,Jürgen Kohler,29.0,Centre-Back,Juventus,2.60m,in,Summer,"2,6",1 Bundesliga,1995,1995/1996
+Bor. Dortmund,Rubén Sosa,29.0,Centre-Forward,Inter,1.40m,in,Summer,"1,4",1 Bundesliga,1995,1995/1996
+Bor. Dortmund,Patrik Berger,21.0,Attacking Midfield,Central_EU,900Th.,in,Summer,"0,9",1 Bundesliga,1995,1995/1996
+Bor. Dortmund,Carsten Wolters,25.0,Right-Back,Wattenscheid 09,600Th.,in,Summer,"0,6",1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Markus Feldhoff,20.0,Centre-Forward,KFC Uerdingen,2.00m,in,Summer,2,1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Ramon Menezes,23.0,Attacking Midfield,South America,875Th.,in,Summer,"0,875",1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Rodrigo Chagas,22.0,Right-Back,South America,875Th.,in,Summer,"0,875",1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Holger Fach,32.0,Sweeper,Bor. M'gladbach,250Th.,in,Summer,"0,25",1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Sebastian Helbig,18.0,Centre-Forward,RW Erfurt,100Th.,in,Summer,"0,1",1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Sebastian Barnes,18.0,attack,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+Bayern Munich,Ciriaco Sforza,25.0,Central Midfield,1.FC K'lautern,3.30m,in,Summer,"3,3",1 Bundesliga,1995,1995/1996
+Bayern Munich,Andreas Herzog,26.0,Attacking Midfield,Werder Bremen,2.54m,in,Summer,"2,54",1 Bundesliga,1995,1995/1996
+Bayern Munich,Thomas Strunz,27.0,Defensive Midfield,VfB Stuttgart,2.50m,in,Summer,"2,5",1 Bundesliga,1995,1995/1996
+Bayern Munich,Jürgen Klinsmann,30.0,Centre-Forward,Spurs,1.40m,in,Summer,"1,4",1 Bundesliga,1995,1995/1996
+Bayern Munich,Emil Kostadinov,27.0,Centre-Forward,Dep. La Coruña,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Jörg Bach,29.0,Centre-Back,Hamburger SV,500Th.,in,Summer,"0,5",1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Darko Pancev,29.0,Centre-Forward,Inter,500Th.,in,Summer,"0,5",1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Kujtim Shala,30.0,Attacking Midfield,Germany,350Th.,in,Summer,"0,35",1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Ulf Mehlhorn,27.0,Left Midfield,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Jörn Schwinkendorf,24.0,Centre-Back,Germany,150Th.,in,Summer,"0,15",1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Thomas Seeliger,28.0,Defensive Midfield,Germany,150Th.,in,Summer,"0,15",1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Christian Radlmaier,28.0,attack,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Rudi Istenic,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Markus Anfang,21.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Christian Rothkopf,23.0,Goalkeeper,Unknown,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Dennis Onyewenjo,20.0,Left-Back,Unknown,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+F. Düsseldorf,Roberto Marquez,17.0,Attacking Midfield,Vikt. Köln U19,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+Karlsruher SC,Sean Dundee,22.0,Centre-Forward,Germany,125Th.,in,Summer,"0,125",1 Bundesliga,1995,1995/1996
+Karlsruher SC,Simon Jentzsch,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Krasimir Balakov,29.0,Attacking Midfield,Sporting CP,2.10m,in,Summer,"2,1",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Frank Verlaat,27.0,Centre-Back,AJ Auxerre,2.00m,in,Summer,2,1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Hendrik Herzog,26.0,Centre-Back,FC Schalke 04,850Th.,in,Summer,"0,85",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Marco Haber,23.0,Defensive Midfield,1.FC K'lautern,850Th.,in,Summer,"0,85",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Thorsten Legat,26.0,Left Midfield,E. Frankfurt,Loan fee:250Th.,in,Summer,"0,25",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Radoslaw Gilewicz,24.0,Centre-Forward,Uk,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Marco Grimm,23.0,Centre-Back,Bayern Munich,75Th.,in,Summer,"0,075",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Danny Schwarz,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Michael Oelkuch,22.0,Attacking Midfield,Germany,25Th.,in,Summer,"0,025",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Armin Fischer,34.0,Goalkeeper,Unknown,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+1. FC Köln,Sunday Oliseh,20.0,Defensive Midfield,Italy,1.50m,in,Summer,"1,5",1 Bundesliga,1995,1995/1996
+1. FC Köln,Dorinel Munteanu,27.0,Central Midfield,Belgium,1.10m,in,Summer,"1,1",1 Bundesliga,1995,1995/1996
+1. FC Köln,Christian Dollberg,23.0,Centre-Back,South America,500Th.,in,Summer,"0,5",1 Bundesliga,1995,1995/1996
+1. FC Köln,Martin Braun,26.0,Right Midfield,SC Freiburg,400Th.,in,Summer,"0,4",1 Bundesliga,1995,1995/1996
+1. FC Köln,Holger Gaißmayer,24.0,Centre-Forward,Germany,150Th.,in,Summer,"0,15",1 Bundesliga,1995,1995/1996
+1. FC Köln,Thomas Cichon,18.0,Centre-Back,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,1995,1995/1996
+1. FC Köln,Reinhold Breu,24.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+1. FC Köln,Marcell Fensch,19.0,defence,FC Berlin,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+Werder Bremen,Rodolfo Cardoso,26.0,Attacking Midfield,SC Freiburg,3.25m,in,Summer,"3,25",1 Bundesliga,1995,1995/1996
+Werder Bremen,Júnior Baiano,25.0,Centre-Back,South America,1.75m,in,Summer,"1,75",1 Bundesliga,1995,1995/1996
+Werder Bremen,Heiko Scholz,29.0,Right Midfield,Bay. Leverkusen,1.25m,in,Summer,"1,25",1 Bundesliga,1995,1995/1996
+Werder Bremen,Angelo Vier,23.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+Werder Bremen,Ersan Dogu,23.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Bernd Hollerbach,25.0,Left-Back,FC St. Pauli,900Th.,in,Summer,"0,9",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Uwe Wegmann,31.0,Centre-Forward,Germany,850Th.,in,Summer,"0,85",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Claus-Dieter Wollitz,29.0,Attacking Midfield,Germany,700Th.,in,Summer,"0,7",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Frank Greiner,28.0,Right Midfield,1. FC Köln,650Th.,in,Summer,"0,65",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Mario Kern,25.0,Centre-Back,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Mark Schwarzer,22.0,Goalkeeper,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Harry Koch,25.0,Centre-Back,Vestenbergsgr.,125Th.,in,Summer,"0,125",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Pascal Ojigwe,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Horst Siegl,26.0,Centre-Forward,Central_EU,?,in,Summer,0.01,1 Bundesliga,1995,1995/1996
+FC St. Pauli,Carsten Wehlmann,23.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,1995,1995/1996
+KFC Uerdingen,Marek Lesniak,31.0,Centre-Forward,1860 Munich,40Th.,in,Winter,"0,04",1 Bundesliga,1995,1995/1996
+1860 Munich,Harald Cerny,22.0,Right Midfield,Central_EU,300Th.,in,Winter,"0,3",1 Bundesliga,1995,1995/1996
+1860 Munich,Matthias Hamann,27.0,Defensive Midfield,1.FC K'lautern,200Th.,in,Winter,"0,2",1 Bundesliga,1995,1995/1996
+Hamburger SV,Bernd Hollerbach,26.0,Left-Back,1.FC K'lautern,750Th.,in,Winter,"0,75",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Toni Micevski,25.0,Attacking Midfield,Est_EU,250Th.,in,Winter,"0,25",1 Bundesliga,1995,1995/1996
+Hansa Rostock,Jonathan Akpoborie,27.0,Centre-Forward,Germany,175Th.,in,Winter,"0,175",1 Bundesliga,1995,1995/1996
+E. Frankfurt,Ned Zelic,24.0,Defensive Midfield,QPR,110Th.,in,Winter,"0,11",1 Bundesliga,1995,1995/1996
+Bor. M'gladbach,Jörgen Pettersson,20.0,Left Winger,North_EU,1.75m,in,Winter,"1,75",1 Bundesliga,1995,1995/1996
+Bor. Dortmund,Jörg Heinrich,26.0,Left-Back,SC Freiburg,1.20m,in,Winter,"1,2",1 Bundesliga,1995,1995/1996
+Bay. Leverkusen,Carsten Ramelow,21.0,Defensive Midfield,Germany,750Th.,in,Winter,"0,75",1 Bundesliga,1995,1995/1996
+Karlsruher SC,Thomas Ritter,28.0,Centre-Back,1.FC K'lautern,575Th.,in,Winter,"0,575",1 Bundesliga,1995,1995/1996
+VfB Stuttgart,Thorsten Walther,23.0,Goalkeeper,Germany,?,in,Winter,0.01,1 Bundesliga,1995,1995/1996
+1. FC Köln,Dietmar Beiersdorfer,32.0,Centre-Back,Werder Bremen,170Th.,in,Winter,"0,17",1 Bundesliga,1995,1995/1996
+Werder Bremen,Bruno Labbadia,29.0,Centre-Forward,1. FC Köln,1.40m,in,Winter,"1,4",1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Arílson,22.0,Attacking Midfield,South America,3.00m,in,Winter,3,1 Bundesliga,1995,1995/1996
+1.FC K'lautern,Jürgen Rische,25.0,Centre-Forward,VfB Leipzig,1.10m,in,Winter,"1,1",1 Bundesliga,1995,1995/1996
+Arsenal,Dennis Bergkamp,26.0,Second Striker,Inter,11.25m,in,Summer,"11,25",Premier League,1995,1995/1996
+Arsenal,David Platt,29.0,Attacking Midfield,Sampdoria,7.10m,in,Summer,"7,1",Premier League,1995,1995/1996
+Arsenal,Roy O'Brien,20.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Chelsea,Mark Hughes,31.0,Centre-Forward,Man Utd,1.90m,in,Summer,"1,9",Premier League,1995,1995/1996
+Chelsea,Ruud Gullit,32.0,Second Striker,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Middlesbrough,Nick Barmby,21.0,Left Midfield,Spurs,7.50m,in,Summer,"7,5",Premier League,1995,1995/1996
+Middlesbrough,Juninho Paulista,22.0,Attacking Midfield,South America,5.50m,in,Summer,"5,5",Premier League,1995,1995/1996
+Middlesbrough,Mark Summerbell,18.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Middlesbrough,Phil Whelan,22.0,defence,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+Nottm Forest,Chris Bart-Williams,21.0,Attacking Midfield,Sheff Wed,3.75m,in,Summer,"3,75",Premier League,1995,1995/1996
+Nottm Forest,Richard Irving,19.0,attack,Man Utd,93Th.,in,Summer,"0,093",Premier League,1995,1995/1996
+Nottm Forest,Simon Tracey,27.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1995,1995/1996
+Nottm Forest,Lutz Pfannenstiel,22.0,Goalkeeper,Wimbledon FC,?,in,Summer,0.01,Premier League,1995,1995/1996
+Nottm Forest,Andrea Silenzi,29.0,Centre-Forward,Torino,?,in,Summer,0.01,Premier League,1995,1995/1996
+Newcastle,Les Ferdinand,28.0,Centre-Forward,QPR,9.50m,in,Summer,"9,5",Premier League,1995,1995/1996
+Newcastle,Warren Barton,26.0,Right-Back,Wimbledon FC,4.50m,in,Summer,"4,5",Premier League,1995,1995/1996
+Newcastle,David Ginola,28.0,Left Winger,Paris SG,2.85m,in,Summer,"2,85",Premier League,1995,1995/1996
+Newcastle,Shaka Hislop,26.0,Goalkeeper,Uk,2.20m,in,Summer,"2,2",Premier League,1995,1995/1996
+Newcastle,Darren Huckerby,19.0,Right Winger,Uk,400Th.,in,Summer,"0,4",Premier League,1995,1995/1996
+Coventry,Paul Telfer,23.0,Right-Back,Uk,1.65m,in,Summer,"1,65",Premier League,1995,1995/1996
+Coventry,Paul Williams,24.0,Centre-Back,Uk,1.14m,in,Summer,"1,14",Premier League,1995,1995/1996
+Coventry,Sam Shilton,17.0,Left-Back,Uk,160Th.,in,Summer,"0,16",Premier League,1995,1995/1996
+Coventry,John Salako,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Coventry,Peter Shilton,45.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Coventry,Nii Lamptey,20.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Coventry,Neil Cutler,19.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1995,1995/1996
+Coventry,Isaias,31.0,Second Striker,Benfica,?,in,Summer,0.01,Premier League,1995,1995/1996
+Coventry,Gordon Strachan,38.0,Central Midfield,Leeds,?,in,Summer,0.01,Premier League,1995,1995/1996
+Coventry,Lorcan Costello,18.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Wimbledon FC,Paul Heald,26.0,Goalkeeper,Uk,125Th.,in,Summer,"0,125",Premier League,1995,1995/1996
+Wimbledon FC,Danny Hodges,18.0,defence,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Wimbledon FC,Mark Thomas,20.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Wimbledon FC,John Cheesewright,22.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1995,1995/1996
+Sheff Wed,Dejan Stefanovic,20.0,Centre-Back,Central_EU,3.00m,in,Summer,3,Premier League,1995,1995/1996
+Sheff Wed,Mark Pembridge,24.0,Left Midfield,Uk,1.25m,in,Summer,"1,25",Premier League,1995,1995/1996
+Sheff Wed,Marc Degryse,29.0,Centre-Forward,Belgium,1.25m,in,Summer,"1,25",Premier League,1995,1995/1996
+Aston Villa,Mark Draper,24.0,Central Midfield,Uk,4.88m,in,Summer,"4,88",Premier League,1995,1995/1996
+Aston Villa,Gareth Southgate,24.0,Centre-Back,Uk,3.75m,in,Summer,"3,75",Premier League,1995,1995/1996
+Aston Villa,Savo Milosevic,21.0,Centre-Forward,Central_EU,1.50m,in,Summer,"1,5",Premier League,1995,1995/1996
+Aston Villa,Carl Tiler,25.0,Centre-Back,Nottm Forest,937Th.,in,Summer,"0,937",Premier League,1995,1995/1996
+Leeds,Anthony Yeboah,29.0,Centre-Forward,E. Frankfurt,3.25m,in,Summer,"3,25",Premier League,1995,1995/1996
+Leeds,Richard Jobson,32.0,Centre-Back,Uk,1.15m,in,Summer,"1,15",Premier League,1995,1995/1996
+Leeds,Paul Beesley,30.0,Centre-Back,Uk,300Th.,in,Summer,"0,3",Premier League,1995,1995/1996
+Leeds,Harry Kewell,16.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Leeds,Paul Evans,21.0,Goalkeeper,Africa Sports,?,in,Summer,0.01,Premier League,1995,1995/1996
+Everton,Andrey Kanchelskis,26.0,Right Midfield,Man Utd,7.50m,in,Summer,"7,5",Premier League,1995,1995/1996
+Everton,Gary Speed,25.0,Left Midfield,Leeds,4.87m,in,Summer,"4,87",Premier League,1995,1995/1996
+Everton,Craig Short,27.0,Centre-Back,Uk,3.60m,in,Summer,"3,6",Premier League,1995,1995/1996
+Everton,Marc Hottiger,27.0,Right-Back,Newcastle,1.01m,in,Summer,"1,01",Premier League,1995,1995/1996
+Everton,John Hills,17.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Liverpool FC,Stan Collymore,24.0,Centre-Forward,Nottm Forest,13.00m,in,Summer,13,Premier League,1995,1995/1996
+Liverpool FC,Jason McAteer,24.0,Right Midfield,Bolton,6.25m,in,Summer,"6,25",Premier League,1995,1995/1996
+Liverpool FC,Stephen Pears,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Spurs,Chris Armstrong,24.0,Centre-Forward,Uk,6.80m,in,Summer,"6,8",Premier League,1995,1995/1996
+Spurs,Ruel Fox,27.0,Right Winger,Newcastle,4.75m,in,Summer,"4,75",Premier League,1995,1995/1996
+Spurs,Clive Wilson,33.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Spurs,Rory Allen,17.0,attack,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Spurs,Owen Coll,20.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+Spurs,Ian Sampson,26.0,Centre-Back,Uk,loan transfer,in,Summer,0.01,Premier League,1995,1995/1996
+Spurs,Mark Newson,34.0,Right-Back,Uk,loan transfer,in,Summer,0.01,Premier League,1995,1995/1996
+Blackburn,Matty Holmes,26.0,Left Midfield,West Ham,1.50m,in,Summer,"1,5",Premier League,1995,1995/1996
+Blackburn,Lars Bohinen,26.0,Central Midfield,Nottm Forest,770Th.,in,Summer,"0,77",Premier League,1995,1995/1996
+Blackburn,Graham Coughlan,20.0,Centre-Back,Uk,150Th.,in,Summer,"0,15",Premier League,1995,1995/1996
+Blackburn,Steve Hitchen,18.0,defence,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+Southampton,Alan Neilson,22.0,Centre-Back,Newcastle,1.20m,in,Summer,"1,2",Premier League,1995,1995/1996
+Southampton,Barry Venison,31.0,Right-Back,Turkey,1.00m,in,Summer,1,Premier League,1995,1995/1996
+Man City,Giorgi Kinkladze,21.0,Attacking Midfield,Est_EU,4.00m,in,Summer,4,Premier League,1995,1995/1996
+Man City,Kit Symons,24.0,Centre-Back,Uk,1.50m,in,Summer,"1,5",Premier League,1995,1995/1996
+Man City,Gerry Creaney,25.0,Centre-Forward,Uk,1.00m,in,Summer,1,Premier League,1995,1995/1996
+Man City,Eike Immel,34.0,Goalkeeper,VfB Stuttgart,500Th.,in,Summer,"0,5",Premier League,1995,1995/1996
+Man City,Eduard Abazaj,31.0,Left-Back,Boavista,?,in,Summer,0.01,Premier League,1995,1995/1996
+Bolton,Gerry Taggart,24.0,Centre-Back,Uk,2.25m,in,Summer,"2,25",Premier League,1995,1995/1996
+Bolton,Sasa Curcic,23.0,Defensive Midfield,Central_EU,2.25m,in,Summer,"2,25",Premier League,1995,1995/1996
+Bolton,Steve McAnespie,23.0,Right-Back,Uk,1.35m,in,Summer,"1,35",Premier League,1995,1995/1996
+Bolton,Scott Sellars,29.0,Left Midfield,Newcastle,850Th.,in,Summer,"0,85",Premier League,1995,1995/1996
+Bolton,Andy Todd,20.0,Centre-Back,Middlesbrough,375Th.,in,Summer,"0,375",Premier League,1995,1995/1996
+Bolton,Greg Strong,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1995,1995/1996
+Bolton,Chris Fairclough,31.0,Centre-Back,Leeds,?,in,Summer,0.01,Premier League,1995,1995/1996
+West Ham,Marco Boogers,28.0,Centre-Forward,Sparta R.,725Th.,in,Summer,"0,725",Premier League,1995,1995/1996
+West Ham,Iain Dowie,30.0,Centre-Forward,Uk,600Th.,in,Summer,"0,6",Premier League,1995,1995/1996
+West Ham,Steve Jones,26.0,Centre-Forward,Uk,249Th.,in,Summer,"0,249",Premier League,1995,1995/1996
+West Ham,Dale Gordon,28.0,Right Midfield,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+West Ham,Robbie Slater,30.0,Central Midfield,Blackburn,?,in,Summer,0.01,Premier League,1995,1995/1996
+West Ham,John Harkes,28.0,Right Midfield,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+QPR,Simon Osborn,23.0,Central Midfield,Uk,1.65m,in,Summer,"1,65",Premier League,1995,1995/1996
+QPR,Ned Zelic,23.0,Defensive Midfield,Bor. Dortmund,1.40m,in,Summer,"1,4",Premier League,1995,1995/1996
+QPR,Lee Charles,23.0,attack,Chertsey,85Th.,in,Summer,"0,085",Premier League,1995,1995/1996
+QPR,Matt Lockwood,18.0,Left-Back,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+QPR,Juergen Sommer,26.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+QPR,Greg Goodridge,23.0,attack,Uk,?,in,Summer,0.01,Premier League,1995,1995/1996
+QPR,Mark Perry,16.0,defence,Unknown,?,in,Summer,0.01,Premier League,1995,1995/1996
+QPR,Mark Hateley,33.0,Centre-Forward,Uk,1.75m,in,Winter,"1,75",Premier League,1995,1995/1996
+QPR,Paul Murray,19.0,Central Midfield,Uk,450Th.,in,Winter,"0,45",Premier League,1995,1995/1996
+Sheff Wed,Darko Kovacevic,22.0,Centre-Forward,Central_EU,5.00m,in,Winter,5,Premier League,1995,1995/1996
+Sheff Wed,Jon Newsome,25.0,Right-Back,Uk,2.25m,in,Winter,"2,25",Premier League,1995,1995/1996
+Sheff Wed,Steve Nicol,33.0,Right-Back,free agents,free transfer,in,Winter,0,Premier League,1995,1995/1996
+Sheff Wed,Regi Blinker,26.0,Left Midfield,Feyenoord,?,in,Winter,0.01,Premier League,1995,1995/1996
+Wimbledon FC,Andy Pearce,29.0,Centre-Back,Sheff Wed,730Th.,in,Winter,"0,73",Premier League,1995,1995/1996
+Wimbledon FC,Simon Tracey,27.0,Goalkeeper,Uk,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Coventry,Liam Daish,27.0,Centre-Back,Uk,1.80m,in,Winter,"1,8",Premier League,1995,1995/1996
+Coventry,Richard Shaw,27.0,Centre-Back,Uk,1.50m,in,Winter,"1,5",Premier League,1995,1995/1996
+Coventry,Noel Whelan,20.0,Centre-Forward,Leeds,?,in,Winter,0.01,Premier League,1995,1995/1996
+Coventry,Ronnie Ekelund,23.0,Left Midfield,Spain,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Man Utd,Tony Coton,34.0,Goalkeeper,Man City,575Th.,in,Winter,"0,575",Premier League,1995,1995/1996
+Man Utd,William Prunier,28.0,Centre-Back,G. Bordeaux,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Newcastle,Faustino Asprilla,26.0,Centre-Forward,AC Parma,7.60m,in,Winter,"7,6",Premier League,1995,1995/1996
+Newcastle,David Batty,27.0,Defensive Midfield,Blackburn,5.15m,in,Winter,"5,15",Premier League,1995,1995/1996
+Nottm Forest,Alan Fettis,24.0,Goalkeeper,Uk,?,in,Winter,0.01,Premier League,1995,1995/1996
+Nottm Forest,Chris Allen,23.0,Left Winger,Uk,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Middlesbrough,Branco,31.0,Left-Back,South America,?,in,Winter,0.01,Premier League,1995,1995/1996
+Chelsea,Dan Petrescu,28.0,Right-Back,Sheff Wed,?,in,Winter,0.01,Premier League,1995,1995/1996
+Chelsea,Terry Phelan,28.0,Left-Back,Man City,?,in,Winter,0.01,Premier League,1995,1995/1996
+Leeds,Lee Chapman,36.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Leeds,Tomas Brolin,25.0,Centre-Forward,AC Parma,?,in,Winter,0.01,Premier League,1995,1995/1996
+West Ham,Slaven Bilic,27.0,Centre-Back,Karlsruher SC,1.65m,in,Winter,"1,65",Premier League,1995,1995/1996
+West Ham,Ilie Dumitrescu,26.0,Left Winger,Spurs,1.50m,in,Winter,"1,5",Premier League,1995,1995/1996
+West Ham,Peter Shilton,46.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,1995,1995/1996
+West Ham,Dani,19.0,Attacking Midfield,Sporting CP,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Bolton,Nathan Blake,23.0,Centre-Forward,Uk,1.68m,in,Winter,"1,68",Premier League,1995,1995/1996
+Bolton,Gavin Ward,25.0,Goalkeeper,Uk,450Th.,in,Winter,"0,45",Premier League,1995,1995/1996
+Bolton,Scott Taylor,19.0,Centre-Forward,Uk,170Th.,in,Winter,"0,17",Premier League,1995,1995/1996
+Bolton,Wayne Burnett,24.0,midfield,Uk,121Th.,in,Winter,"0,121",Premier League,1995,1995/1996
+Bolton,Enzo Gambaro,29.0,Left-Back,free agents,free transfer,in,Winter,0,Premier League,1995,1995/1996
+Bolton,Bryan Small,24.0,defence,free agents,free transfer,in,Winter,0,Premier League,1995,1995/1996
+Man City,Mikheil Kavelashvili,24.0,Centre-Forward,Est_EU,2.00m,in,Winter,2,Premier League,1995,1995/1996
+Man City,Nigel Clough,29.0,Attacking Midfield,Uk,1.70m,in,Winter,"1,7",Premier League,1995,1995/1996
+Man City,Martin Phillips,19.0,Central Midfield,Uk,750Th.,in,Winter,"0,75",Premier League,1995,1995/1996
+Man City,Scott Hiley,27.0,Right-Back,Uk,313Th.,in,Winter,"0,313",Premier League,1995,1995/1996
+Man City,Michael Frontzeck,31.0,Left-Back,Bor. M'gladbach,?,in,Winter,0.01,Premier League,1995,1995/1996
+Man City,Ronnie Ekelund,23.0,Left Midfield,Spain,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Man City,Scott Hiley,27.0,Right-Back,Uk,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Man City,Giuseppe Mazzarelli,23.0,Right-Back,Uk,loan transfer,in,Winter,0.01,Premier League,1995,1995/1996
+Southampton,Mark Walters,31.0,Left Midfield,free agents,free transfer,in,Winter,0,Premier League,1995,1995/1996
+Southampton,Neil Moss,20.0,Goalkeeper,Uk,40Th.,in,Winter,"0,04",Premier League,1995,1995/1996
+Blackburn,Garry Flitcroft,23.0,Central Midfield,Man City,5.25m,in,Winter,"5,25",Premier League,1995,1995/1996
+Blackburn,Chris Coleman,25.0,Centre-Back,Uk,4.90m,in,Winter,"4,9",Premier League,1995,1995/1996
+Blackburn,Gary Croft,22.0,Left-Back,Uk,1.50m,in,Winter,"1,5",Premier League,1995,1995/1996
+Blackburn,Graham Fenton,21.0,Second Striker,Aston Villa,1.50m,in,Winter,"1,5",Premier League,1995,1995/1996
+Blackburn,Niklas Gudmundsson,23.0,Left Winger,North_EU,930Th.,in,Winter,"0,93",Premier League,1995,1995/1996
+Blackburn,Billy McKinlay,26.0,Right Midfield,free agents,free transfer,in,Winter,0,Premier League,1995,1995/1996
+Spurs,Andy Sinton,29.0,Left Midfield,Sheff Wed,1.82m,in,Winter,"1,82",Premier League,1995,1995/1996
+Real Sociedad,Javi Gracia,25.0,Defensive Midfield,Real Valladolid,480Th.,in,Summer,"0,48",Primera Division,1995,1995/1996
+Real Sociedad,Óscar de Paula,20.0,Centre-Forward,Badajoz,300Th.,in,Summer,"0,3",Primera Division,1995,1995/1996
+Real Sociedad,Marcus Pürk,20.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Sociedad,Miguel Ramírez,25.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Sociedad,Joachim Yaw,21.0,midfield,North_EU,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Sociedad,Roberto Olabe,27.0,Goalkeeper,UD Salamanca,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Manolo,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+CP Mérida,Manuel Canabal,20.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Miguel Ángel Meneses,19.0,attack,Unknown,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,César Mendiondo,29.0,Right-Back,Espanyol,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Alfonso Dulanto,25.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,David Pirri,21.0,Left Midfield,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,José Sinval,28.0,attack,Uk,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Lluís González,26.0,Centre-Forward,Espanyol,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Ángel Luis,25.0,Right Midfield,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Sergiy Pogodin,27.0,Attacking Midfield,Russia,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Nikolay Pisarev,26.0,Centre-Forward,Russia,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Quique Martín,22.0,Left Winger,Spain,loan transfer,in,Summer,0.01,Primera Division,1995,1995/1996
+CP Mérida,Goran Vucevic,24.0,Central Midfield,Barcelona,loan transfer,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,Bent Christensen,28.0,Centre-Forward,FC Schalke 04,250Th.,in,Summer,"0,25",Primera Division,1995,1995/1996
+SD Compostela,Festus Agu,20.0,Centre-Forward,South America,?,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,José Antonio Vilaseca Triviño,23.0,attack,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,Virgilio Hernández,26.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,Fernando Peralta,33.0,Goalkeeper,CD Castellón,?,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,José Ramón,27.0,Central Midfield,Dep. La Coruña,?,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,Mauro García,24.0,Right-Back,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+SD Compostela,Jesús Dulce,24.0,Right-Back,CD Logroñés,loan transfer,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Oviedo,Peter Dubovsky,23.0,Second Striker,Real Madrid,900Th.,in,Summer,"0,9",Primera Division,1995,1995/1996
+Real Oviedo,Nebojsa Scepanovic,27.0,midfield,Central_EU,210Th.,in,Summer,"0,21",Primera Division,1995,1995/1996
+Real Oviedo,Carlos Cano,25.0,Goalkeeper,Celta de Vigo,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Oviedo,Paco Sanz,22.0,Right Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Sporting Gijón,Iván Iglesias,23.0,Central Midfield,Barcelona,500Th.,in,Summer,"0,5",Primera Division,1995,1995/1996
+Sporting Gijón,Julio Salinas,33.0,Centre-Forward,Dep. La Coruña,450Th.,in,Summer,"0,45",Primera Division,1995,1995/1996
+Sporting Gijón,Rasheed Yekini,31.0,Centre-Forward,Central_EU,150Th.,in,Summer,"0,15",Primera Division,1995,1995/1996
+Sporting Gijón,Rafa Navarro,23.0,midfield,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Sporting Gijón,Eloy Olaya,30.0,Centre-Forward,Valencia,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Sporting Gijón,Ricardo Bango,26.0,midfield,Sevilla FC,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Albacete,Xavier Escaich,26.0,Centre-Forward,Barcelona,700Th.,in,Summer,"0,7",Primera Division,1995,1995/1996
+Albacete,Paco Luna,23.0,attack,Almería CF,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Albacete,Miguel Ángel Brau,20.0,midfield,Hellín,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Albacete,Emilio Gutiérrez,24.0,midfield,Sporting Gijón,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Albacete,Juanjo Maqueda,26.0,midfield,Valencia,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Albacete,Velli Kasumov,26.0,Centre-Forward,Real Betis,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Albacete,Pedro Riesco,25.0,attack,Dep. La Coruña,loan transfer,in,Summer,0.01,Primera Division,1995,1995/1996
+UD Salamanca,Chemo del Solar,27.0,Central Midfield,CD Tenerife,720Th.,in,Summer,"0,72",Primera Division,1995,1995/1996
+UD Salamanca,Catanha,23.0,Centre-Forward,Belenenses,480Th.,in,Summer,"0,48",Primera Division,1995,1995/1996
+UD Salamanca,Ovidiu Stinga,22.0,Right Midfield,Est_EU,?,in,Summer,0.01,Primera Division,1995,1995/1996
+UD Salamanca,Claudio Barragán,31.0,attack,Dep. La Coruña,?,in,Summer,0.01,Primera Division,1995,1995/1996
+UD Salamanca,Yosu,31.0,Goalkeeper,Atl. Marbella,?,in,Summer,0.01,Primera Division,1995,1995/1996
+UD Salamanca,Lutxo Iturrino,31.0,midfield,Real Sociedad,?,in,Summer,0.01,Primera Division,1995,1995/1996
+UD Salamanca,Enrique Ayucar,29.0,midfield,Espanyol,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Valencia,Viola,26.0,Centre-Forward,South America,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Valencia,Xabier Eskurza,25.0,Central Midfield,Barcelona,2.00m,in,Summer,2,Primera Division,1995,1995/1996
+Valencia,José Ignacio,21.0,Defensive Midfield,CD Logroñés,720Th.,in,Summer,"0,72",Primera Division,1995,1995/1996
+Valencia,Sietes,21.0,Left-Back,Real Oviedo,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Valencia,Iñaki Hurtado,23.0,midfield,Real Valladolid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Valencia,Patxi Ferreira,28.0,Centre-Back,Atlético Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Celta de Vigo,Toni Prats,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Celta de Vigo,Eusebio,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Celta de Vigo,Goran Milojevic,30.0,midfield,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Dep. La Coruña,Txiki Begiristain,30.0,Left Winger,Barcelona,2.50m,in,Summer,"2,5",Primera Division,1995,1995/1996
+Dep. La Coruña,Dmitri Radchenko,24.0,Centre-Forward,Racing,2.28m,in,Summer,"2,28",Primera Division,1995,1995/1996
+Dep. La Coruña,Branko Milovanovic,22.0,midfield,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Dep. La Coruña,Rafael Martín Vázquez,29.0,Attacking Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Espanyol,Miguel Ángel Benítez,25.0,Centre-Forward,Atlético Madrid,1.05m,in,Summer,"1,05",Primera Division,1995,1995/1996
+Espanyol,Alberto Toril,21.0,midfield,Real Madrid,300Th.,in,Summer,"0,3",Primera Division,1995,1995/1996
+Espanyol,Ismael Urzaiz,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Espanyol,Cristóbal Parralo,27.0,Right-Back,Real Oviedo,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Espanyol,Goran Bogdanovic,28.0,Right Midfield,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Espanyol,Javi García,25.0,attack,Palamós CF,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Espanyol,Álex Fernández,21.0,Defensive Midfield,Palamós CF,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Atlético Madrid,Roberto Fresnedoso,22.0,Central Midfield,Espanyol,1.80m,in,Summer,"1,8",Primera Division,1995,1995/1996
+Atlético Madrid,Leo Biagini,18.0,Centre-Forward,South America,1.20m,in,Summer,"1,2",Primera Division,1995,1995/1996
+Atlético Madrid,Milinko Pantic,28.0,Attacking Midfield,Central_EU,500Th.,in,Summer,"0,5",Primera Division,1995,1995/1996
+Atlético Madrid,Fernando Correa,21.0,Centre-Forward,South America,120Th.,in,Summer,"0,12",Primera Division,1995,1995/1996
+Atlético Madrid,Lyuboslav Penev,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Atlético Madrid,José Francisco Molina,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+CD Tenerife,Slavisa Jokanovic,26.0,Defensive Midfield,Real Oviedo,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+CD Tenerife,Pavel Hapal,25.0,Attacking Midfield,Bay. Leverkusen,1.80m,in,Summer,"1,8",Primera Division,1995,1995/1996
+CD Tenerife,Alexis,21.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CD Tenerife,Francisco Rojas,20.0,Left-Back,South America,?,in,Summer,0.01,Primera Division,1995,1995/1996
+CD Tenerife,Toni Robaina,20.0,Left Winger,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Racing,Ilshat Faizulin,22.0,Centre-Forward,Russia,840Th.,in,Summer,"0,84",Primera Division,1995,1995/1996
+Racing,Pablo Sierra,16.0,attack,Cult. Guarnizo,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Racing,Gontzal Suances,22.0,attack,Athletic,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Racing,Alberto,28.0,Centre-Forward,Real Valladolid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Racing,Txema,24.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Racing,José Manuel Ochotorena,34.0,Goalkeeper,CD Logroñés,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Racing,Álvaro Cervera,29.0,attack,Valencia,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Athletic,Joseba Etxeberria,17.0,Right Winger,Real Sociedad,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Real Madrid,Dejan Petkovic,22.0,Attacking Midfield,Central_EU,6.50m,in,Summer,"6,5",Primera Division,1995,1995/1996
+Real Madrid,Juan Esnáider,22.0,Centre-Forward,Real Zaragoza,3.60m,in,Summer,"3,6",Primera Division,1995,1995/1996
+Real Madrid,Freddy Rincón,28.0,Central Midfield,Italy,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Real Madrid,Miquel Soler,30.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Sevilla FC,Emilio Peixe,22.0,Defensive Midfield,Sporting CP,1.20m,in,Summer,"1,2",Primera Division,1995,1995/1996
+Sevilla FC,Tarik Oulida,21.0,Left Midfield,Ajax,1.08m,in,Summer,"1,08",Primera Division,1995,1995/1996
+Sevilla FC,Víctor Javier Ferreras,22.0,Right-Back,Real Valladolid,75Th.,in,Summer,"0,075",Primera Division,1995,1995/1996
+Rayo Vallecano,Guilherme Alves,21.0,Centre-Forward,South America,1.20m,in,Summer,"1,2",Primera Division,1995,1995/1996
+Rayo Vallecano,Abel Resino,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Rayo Vallecano,Ángel Martín,31.0,Defensive Midfield,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Rayo Vallecano,Stjepan Andrijasevic,28.0,Right Midfield,Est_EU,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Rayo Vallecano,Manuel Ruano,20.0,Right Midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Rayo Vallecano,Toro Aquino,30.0,Centre-Forward,Real Betis,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Rayo Vallecano,Alfonso Cortijo,28.0,defence,Sevilla FC,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Rayo Vallecano,Ezequiel Castillo,28.0,Central Midfield,CD Tenerife,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Rayo Vallecano,Edu,21.0,attack,Unknown,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Juan Manuel Peña,22.0,Centre-Back,South America,900Th.,in,Summer,"0,9",Primera Division,1995,1995/1996
+Real Valladolid,Alen Peternac,23.0,Centre-Forward,Croatia Zagreb,240Th.,in,Summer,"0,24",Primera Division,1995,1995/1996
+Real Valladolid,Goyo Fonseca,29.0,attack,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Real Valladolid,Juan Carlos,30.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Real Valladolid,José Mosquera,28.0,midfield,CP Mérida,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Álvaro Gutiérrez,26.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,José Luis Soto,22.0,attack,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Marco Sandy,23.0,Centre-Back,South America,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Diego,26.0,Goalkeeper,Atlético Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Sejad Halilovic,26.0,Central Midfield,Croatia Zagreb,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Alberto Marcos,21.0,Left-Back,Real Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Fernando,23.0,Left Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Mikel Antía,22.0,Centre-Back,Celta de Vigo,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,José Luis Santamaría,22.0,Centre-Back,Real Madrid,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Raúl Ibáñez,22.0,Right Winger,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Betis,Alfonso,22.0,Centre-Forward,Real Madrid,3.60m,in,Summer,"3,6",Primera Division,1995,1995/1996
+Real Betis,Pier,23.0,Centre-Forward,Sporting Gijón,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Real Betis,Robert Jarni,26.0,Left-Back,Juventus,1.44m,in,Summer,"1,44",Primera Division,1995,1995/1996
+Real Betis,José Mari,24.0,Attacking Midfield,Barcelona,1.00m,in,Summer,1,Primera Division,1995,1995/1996
+Real Betis,Óscar Arpón,20.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Betis,Javi Sánchez Jara,25.0,Right-Back,Barcelona,?,in,Summer,0.01,Primera Division,1995,1995/1996
+Real Zaragoza,Gustavo López,22.0,Left Winger,South America,2.52m,in,Summer,"2,52",Primera Division,1995,1995/1996
+Real Zaragoza,Dani García,20.0,Centre-Forward,Real Madrid,1.50m,in,Summer,"1,5",Primera Division,1995,1995/1996
+Real Zaragoza,Paqui,24.0,Left-Back,CD Tenerife,300Th.,in,Summer,"0,3",Primera Division,1995,1995/1996
+Real Zaragoza,Fernando Morientes,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1995,1995/1996
+Barcelona,Meho Kodro,28.0,Centre-Forward,Real Sociedad,5.50m,in,Summer,"5,5",Primera Division,1995,1995/1996
+Barcelona,Robert Prosinecki,26.0,Central Midfield,Real Oviedo,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Barcelona,Ángel Cuéllar,22.0,Left Winger,Real Betis,3.00m,in,Summer,3,Primera Division,1995,1995/1996
+Barcelona,Gheorghe Popescu,27.0,Centre-Back,Spurs,2.80m,in,Summer,"2,8",Primera Division,1995,1995/1996
+Barcelona,Luís Figo,22.0,Right Winger,Sporting CP,2.50m,in,Summer,"2,5",Primera Division,1995,1995/1996
+Atlético Madrid,Quinton Fortune,18.0,Central Midfield,free agents,free transfer,in,Winter,0,Primera Division,1995,1995/1996
+Atlético Madrid,Dani,23.0,Right-Back,Spain,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Espanyol,Nando,28.0,Centre-Back,Real Madrid,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Valencia,Iván Campo,21.0,Defensive Midfield,Spain,?,in,Winter,0.01,Primera Division,1995,1995/1996
+UD Salamanca,Diego Latorre,26.0,Second Striker,CD Tenerife,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Albacete,José Ortega,23.0,defence,Níjar,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Albacete,Javi Luke,27.0,midfield,Almería CF,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Real Oviedo,Thomas Christiansen,22.0,Centre-Forward,Spain,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Real Oviedo,Viktor Onopko,26.0,Centre-Back,Russia,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Real Zaragoza,Sergio Berti,26.0,Left Midfield,South America,1.20m,in,Winter,"1,2",Primera Division,1995,1995/1996
+Real Zaragoza,Sebastián Rambert,21.0,Centre-Forward,Inter,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Carlos Pavón,22.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,1995,1995/1996
+Real Valladolid,Manuel Ruano,21.0,Right Midfield,Rayo Vallecano,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Iván Rocha,26.0,Left-Back,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+Real Valladolid,Iván Campo,21.0,Defensive Midfield,Valencia,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+Sevilla FC,Dejan Petkovic,23.0,Attacking Midfield,Real Madrid,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+Sevilla FC,Josko Jelicic,24.0,midfield,Croatia Zagreb,?,in,Winter,0.01,Primera Division,1995,1995/1996
+Sevilla FC,Agostinho,20.0,Left Winger,Real Madrid,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+CP Mérida,Miguel Ángel Guerrero,28.0,Second Striker,Bari,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+CP Mérida,Sergio Korino,21.0,Centre-Back,Spain,loan transfer,in,Winter,0.01,Primera Division,1995,1995/1996
+FC Porto,Bino,22.0,Defensive Midfield,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,Quinzinho,21.0,Centre-Forward,AS Aviação,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,Edmílson,23.0,Second Striker,Salgueiros,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,Grzegorz Mielcarski,24.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,Silvino Louro,36.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,João Manuel Pinto,22.0,Centre-Back,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,Péter Lipcsei,23.0,Central Midfield,Central_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Ilian Iliev,26.0,Attacking Midfield,Central_EU,500Th.,in,Summer,"0,5",Liga Nos,1995,1995/1996
+Benfica,King,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Benfica,Paulão,25.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Mario Marinho,24.0,Right-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Fernando Brassard,23.0,Goalkeeper,Gil Vicente,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Émerson Thome,23.0,Centre-Back,Tirsense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Ricardo Gomes,30.0,Centre-Back,Paris SG,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Aílton,26.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Luiz Gustavo,23.0,attack,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Valdo,31.0,Attacking Midfield,Paris SG,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Basarab Panduru,24.0,Attacking Midfield,Est_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Hassan Nader,29.0,Centre-Forward,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,José António Calado,21.0,Central Midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Benfica,Marcelo,25.0,Centre-Forward,Tirsense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Pedro Barbosa,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Mário Jorge,25.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Ahmed Ouattara,25.0,Centre-Forward,Uk,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Afonso Martins,22.0,Left Midfield,France,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Assis,24.0,Attacking Midfield,Uk,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Pedro Martins,24.0,Defensive Midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Luís Miguel,23.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Tiago Ferreira,20.0,Goalkeeper,Lourinhanense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,José Luís Vidigal,22.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Paulo Alves,25.0,Centre-Forward,Marítimo,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Sporting CP,José Dominguez,21.0,Left Winger,Uk,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Ricardo,19.0,Goalkeeper,Montijo,1.00m,in,Summer,1,Liga Nos,1995,1995/1996
+Boavista,Tavares,29.0,Defensive Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Raul Barbosa,23.0,Right-Back,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Sérgio Duarte,30.0,midfield,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Nélson Bertolazzi,29.0,attack,Leiria,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Miguel Serodio,26.0,defence,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Zoran Ban,22.0,Centre-Forward,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Nelo,27.0,Central Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Hélder Baptista,23.0,Defensive Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Rui Borges,21.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Boavista,Litos,21.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Ricardo Ramires,19.0,Right Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Vit. Guimarães,Arley,23.0,defence,South America,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Ricardo Lopes,26.0,Right Winger,CF Estrela,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Marco Freitas,22.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Edinho,27.0,attack,Chaves,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Soeiro,29.0,Centre-Back,Marítimo,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Patrick Asselman,26.0,attack,Belgium,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Neno,33.0,Goalkeeper,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Vítor Paneira,29.0,Right Midfield,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Edinho,28.0,Centre-Forward,Chaves,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Nuno Claro,18.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Nuno Capucho,23.0,Right Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Miguel Mota,19.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Belenenses,Quim Ferraz,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Belenenses,Raul Oliveira,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Belenenses,Paulo Gomes,25.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Belenenses,Pacheco,28.0,Left Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Rui Esteves,28.0,midfield,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Calila,23.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Paulo Madeira,24.0,Centre-Back,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Luís Ferreira,22.0,Goalkeeper,O Elvas,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Chipenda,26.0,Central Midfield,AC Malveira,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Everton Giovanella,24.0,Central Midfield,Tirsense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Youssef Fertout,24.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Fernando Mendes,28.0,Left-Back,Boavista,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Pedro Barny,28.0,Centre-Back,Boavista,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Rogério,19.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Neves,24.0,Right-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Lito Vidigal,25.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,César Brito,30.0,Centre-Forward,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,José Taira,26.0,Defensive Midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Lula,29.0,Centre-Back,Leiria,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Belenenses,Valente,30.0,Goalkeeper,Boavista,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,João Armando,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Leiria,Maurício Cabedelo,23.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Hugo,22.0,Right Midfield,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Sérgio,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Miroslav Zitnjak,27.0,Goalkeeper,Est_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Manuel Cabral,,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Paulo Duarte,26.0,Centre-Back,Marítimo,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Álvaro Gregório,22.0,Left-Back,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Kwame Ayew,21.0,Centre-Forward,Italy,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,João Manuel,27.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leiria,Porfírio,21.0,Centre-Forward,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Bo Andersson,27.0,attack,North_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Floris Schaap,30.0,Centre-Back,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Vado,26.0,Central Midfield,Marítimo,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Eduardo Oliveira,19.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Jonny Rödlund,23.0,Central Midfield,North_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Lino,23.0,Left-Back,Chaves,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Braga,Srdjan Obradovic,25.0,Centre-Back,Central_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Predrag Jokanovic,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Vítor Vieira,22.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Zoran Lemajic,34.0,Goalkeeper,Sporting CP,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Fernando Pires,26.0,Attacking Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Cabral,26.0,Left-Back,Tirsense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Tiago,19.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Filgueira,28.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Marítimo,Mário Jorge,25.0,Central Midfield,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Paiva,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Farense,Idalécio,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Farense,Carlos Costa,28.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Monteiro,27.0,Left Winger,União Lamas,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Camilo,25.0,Centre-Back,União Coimbra,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Marco Nuno,20.0,Right Midfield,Lusitano VRSA,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Romicha,20.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Eugénio,28.0,Right-Back,SC Braga,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Uche Okafor,27.0,Centre-Back,Ironi Ashdod,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Dragan Punisic,29.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Pedro Miguel,27.0,defence,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Farense,Mauro,21.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Salgueiros,Mariano,19.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Salgueiros,Toni,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Salgueiros,Basílio Almeida,23.0,Second Striker,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Salgueiros,Miguel Teixeira,21.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Salgueiros,Abilio,28.0,Attacking Midfield,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Salgueiros,Miguel Bruno,23.0,Centre-Forward,Gil Vicente,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Salgueiros,Nilton,19.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Salgueiros,Jorge Silva,23.0,Goalkeeper,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+Gil Vicente,Mandla Zwane,22.0,attack,FC Porto,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Gil Vicente,Luciano,26.0,Centre-Forward,Boavista,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Gil Vicente,Vatroslav Mihacic,27.0,Goalkeeper,Est_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Gil Vicente,Jaime Cerqueira,27.0,Central Midfield,Chaves,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Gil Vicente,Madureira,19.0,Central Midfield,Leça,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Gil Vicente,Pedrosa,23.0,Central Midfield,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Renato Anjos,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+CF Estrela ,José Carlos,27.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+CF Estrela ,Paulo Santos,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+CF Estrela ,Poejo,21.0,Defensive Midfield,Leiria,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Hugo Costa,21.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Eliseu,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Iliya Voynov,31.0,Left Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Bambo,20.0,Centre-Forward,Leiria,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Jordão,23.0,Defensive Midfield,Leça,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CF Estrela ,Andrade,21.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Blago Aleksandrov,29.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Chaves,Dacroce,27.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Chaves,Jorge Vinagre,20.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Riva,24.0,Left Winger,América-RJ,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Dani Díaz,21.0,midfield,Sporting Gijón,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Riva,24.0,Left Winger,América FC-SP,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Dino,34.0,attack,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Iván Miner,24.0,midfield,Sporting Gijón,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Chaves,Quim Machado,28.0,midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leça,Rui Óscar,19.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Leça,Milan Djurdjevic,27.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Leça,Paulo Fonseca,22.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leça,Luciano,28.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leça,Jaime Magalhães,32.0,Right Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leça,Best,26.0,Goalkeeper,Salgueiros,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Leça,Matias,31.0,Centre-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Rui Gregório,26.0,Centre-Back,Tirsense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Earl Jean,23.0,Centre-Forward,Leça,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Leal,30.0,Centre-Back,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Amaral,25.0,Right Winger,Benfica,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Vlado Bozinoski,31.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Álvaro Teixeira,31.0,Right-Back,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Zé Carlos,33.0,Goalkeeper,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Rosario,30.0,attack,Boavista,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Sérgio Conceição,20.0,Right Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Paulo Sérgio,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Vítor Manuel,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Nuno Afonso,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Portela,30.0,Right-Back,Farense,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Álvaro,34.0,Goalkeeper,Leiria,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Jimmy Floyd Hasselbaink,23.0,Centre-Forward,Neerlandia/SLTO,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Paulo Torres,23.0,Left-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Stanimir Stoilov,28.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Michael Brundin,29.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Beto,19.0,Centre-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Samuel,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Tirsense,Marco Ferreira,17.0,Right Winger,Vimioso,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Dragutin Ristic,30.0,attack,Uk,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Toninho Cruz,26.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Basaúla Lemba,30.0,Attacking Midfield,Belenenses,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Samson Siasia,27.0,attack,FC Nantes,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Pedro Valido,25.0,Centre-Back,Marítimo,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Rachid Daoudi,29.0,Central Midfield,Africa Sports,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+Tirsense,Gaspar,20.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1995,1995/1996
+FC Porto,Lars Eriksson,30.0,Goalkeeper,Belgium,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+FC Porto,Matias,31.0,Centre-Back,Leça,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Benfica,Mauro Airez,27.0,Centre-Forward,Belenenses,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Emilio Peixe,22.0,Defensive Midfield,Sevilla FC,1.50m,in,Winter,"1,5",Liga Nos,1995,1995/1996
+Sporting CP,César Ramírez,18.0,Centre-Forward,Cerro Corá,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Mauro Soares,27.0,Defensive Midfield,Belenenses,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Sporting CP,Tomas Skuhravy,30.0,Centre-Forward,Italy,loan transfer,in,Winter,0.01,Liga Nos,1995,1995/1996
+Vit. Guimarães,Armando,20.0,Centre-Forward,Portugal,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Belenenses,Chiquinho Conde,30.0,Centre-Forward,Sporting CP,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Leiria,Tilico,30.0,attack,North America,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Marítimo,Ferenc Hámori,23.0,Centre-Forward,ETO FC Gyor,loan transfer,in,Winter,0.01,Liga Nos,1995,1995/1996
+CA Felgueiras,Philippe Azevedo,20.0,Centre-Forward,France,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Goran Stevanovic,29.0,midfield,free agents,free transfer,in,Winter,0,Liga Nos,1995,1995/1996
+SC Campomaiorense (- 2001),Jovo Bosancic,25.0,Attacking Midfield,Portugal,?,in,Winter,0.01,Liga Nos,1995,1995/1996
+Ajax,Richard Witschge,25.0,Central Midfield,G. Bordeaux,1.20m,in,Summer,"1,2",Eredivisie,1995,1995/1996
+Ajax,Hayden Foxe,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Ajax,Arnold Scholten,32.0,Defensive Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Ajax,Márcio Santos,25.0,Centre-Back,Fiorentina,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Roda JC,Dave Zafarin,17.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Roda JC,André Ooijer,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Roda JC,Edwin Vurens,27.0,Centre-Forward,Twente FC,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Roda JC,Rastislav Mores,19.0,midfield,Germany,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+PSV Eindhoven,Wim Jonk,28.0,Defensive Midfield,Inter,2.27m,in,Summer,"2,27",Eredivisie,1995,1995/1996
+PSV Eindhoven,Phillip Cocu,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+PSV Eindhoven,Chris van der Weerden,22.0,Right-Back,Vitesse,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+PSV Eindhoven,René Eijkelkamp,31.0,Centre-Forward,Belgium,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Feyenoord,Tomasz Iwan,24.0,Right Midfield,Roda JC,3.70m,in,Summer,"3,7",Eredivisie,1995,1995/1996
+Feyenoord,Ronald Koeman,32.0,Sweeper,Barcelona,2.00m,in,Summer,2,Eredivisie,1995,1995/1996
+Feyenoord,Aurelio Vidmar,28.0,Centre-Forward,Belgium,1.80m,in,Summer,"1,8",Eredivisie,1995,1995/1996
+Feyenoord,Jean-Paul van Gastel,23.0,Centre-Back,Willem II,908Th.,in,Summer,"0,908",Eredivisie,1995,1995/1996
+Feyenoord,Bobby Petta,20.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Feyenoord,George Boateng,19.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Feyenoord,Henk Vos,27.0,Centre-Forward,France,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Feyenoord,Clemens Zwijnenberg,25.0,Right-Back,Twente FC,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Twente FC,Andreas Augustsson,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Twente FC,Ansar Ayupov,23.0,Central Midfield,Russia,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Twente FC,Yuri Petrov,20.0,Centre-Forward,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Twente FC,Theo ten Caat,30.0,Attacking Midfield,Vitesse,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Twente FC,Haci Sen,19.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Carlos van Wanrooij,28.0,Left Midfield,NEC Nijmegen,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Rob Alflen,27.0,Defensive Midfield,Ajax,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Louis Laros,22.0,Left Midfield,Willem II,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Leo Koswal,19.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Edwin Gorter,31.0,Attacking Midfield,FC Utrecht,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Raymond Atteveld,28.0,Centre-Back,Roda JC,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Vitesse,Saïd Larossi,22.0,defence,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Willem II,Jaap Stam,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Willem II,Jatto Ceesay,20.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Willem II,Henry van der Vegt,23.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Willem II,Jack de Gier,26.0,Centre-Forward,Go Ahead Eagles,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Willem II,John Lammers,31.0,Centre-Forward,NAC Breda,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Willem II,Robin Wijngaarde,25.0,Centre-Back,Belgium,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Willem II,Mark Santegoets,21.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+RKC Waalwijk,Darije Kalezic,25.0,Centre-Back,Netherlands,125Th.,in,Summer,"0,125",Eredivisie,1995,1995/1996
+RKC Waalwijk,Clyde Wijnhard,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+RKC Waalwijk,Dick Schreuder,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+RKC Waalwijk,Danny Muller,25.0,Attacking Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+RKC Waalwijk,Johan Garrelfs,29.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+RKC Waalwijk,Gregory Playfair,21.0,midfield,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+RKC Waalwijk,Dennis van der Pennen,19.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Heerenveen,Roberto Straal,28.0,Centre-Back,Netherlands,227Th.,in,Summer,"0,227",Eredivisie,1995,1995/1996
+Heerenveen,Igor Korneev,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Heerenveen,Marc Nygaard,18.0,Centre-Forward,North_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Heerenveen,Jeffrey Talan,23.0,Right Winger,FC Den Haag,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Heerenveen,Romeo Wouden,24.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Maarten Atmodikoro,24.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Graham Arnold,31.0,Centre-Forward,Belgium,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Sander Oostrom,27.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Patrick Leytens,25.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Tony Vidmar,24.0,Left-Back,Adelaide City,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Twan Scheepers,23.0,Centre-Forward,Netherlands,nan,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Radoslav Samardzic,25.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Luc Nijholt,33.0,Centre-Back,Uk,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Björn Lindenbergh,19.0,Right-Back,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Akinori Nishizawa,19.0,Centre-Forward,Asia,loan transfer,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Dries Boussatta,22.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Hans Visser,28.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Erik ten Hag,25.0,Centre-Back,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Errol Refos,25.0,Centre-Back,Feyenoord,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Vincent Polfliet,19.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Marcus Philips,21.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,Jörg Smeets,24.0,Right Winger,FC Volendam,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Kurt Elshot,17.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+FC Groningen,Edwin Prins,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+FC Groningen,Arnold Bos,25.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Edwin de Kruyff,25.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Roël Liefden,28.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Jacob Gregersen,22.0,Centre-Back,North_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Warry van Wattum,26.0,midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Mattias Rosén,22.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Sparta R.,Frank van der Geest,22.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Sparta R.,Ali Elkhattabi,18.0,Centre-Forward,SVV,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Sparta R.,Jerry Smith,22.0,defence,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Sparta R.,Roel Buikema,19.0,Left Midfield,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Sparta R.,Chris van den Dungen,35.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Sparta R.,John den Dunnen,22.0,Left Winger,Drechtstreek,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NEC Nijmegen,Luuk Maes,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+NEC Nijmegen,Marcel Koning,20.0,Central Midfield,FC Den Haag,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NEC Nijmegen,Antti Sumiala,21.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NEC Nijmegen,Michel Langerak,26.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NEC Nijmegen,Oleg Putilo,21.0,Second Striker,Est_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NEC Nijmegen,Gert-Jan Wels,16.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+NEC Nijmegen,Richards Nass,21.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Oscar Moens,22.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,René Grotenhuis,27.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Kingsley Obiekwu,20.0,Centre-Back,Udoji United,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Mark Verkuyl,31.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Arno Hofstede,29.0,defence,Willem II,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Serghei Clescenco,23.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Sergiu Nani,24.0,defence,Central_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Fortuna Sittard,Ronald Hamming,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Fortuna Sittard,Hamza Samari,12.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+Fortuna Sittard,Robert Roest,25.0,Centre-Back,Belgium,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Fortuna Sittard,Regillio Simons,22.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Fortuna Sittard,Ruud Kool,28.0,midfield,Twente FC,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Fortuna Sittard,Jürgen Dirkx,19.0,Centre-Back,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Patrick Paauwe,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1995,1995/1996
+De Graafschap,Maarten Kerkhof,20.0,defence,Vitesse,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Robert Fuchs,20.0,Central Midfield,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Christol van Campenhout,30.0,Goalkeeper,RBC,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Marchanno Schultz,22.0,midfield,Central_EU,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Bennie Dekker,28.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1995,1995/1996
+Ajax,Peter Hoekstra,22.0,Left Winger,PSV Eindhoven,2.25m,in,Winter,"2,25",Eredivisie,1995,1995/1996
+Ajax,Chris Kanu,16.0,Right-Back,free agents,free transfer,in,Winter,0,Eredivisie,1995,1995/1996
+PSV Eindhoven,Jaap Stam,23.0,Centre-Back,Willem II,1.50m,in,Winter,"1,5",Eredivisie,1995,1995/1996
+Feyenoord,Fernando Picún,23.0,Centre-Back,South America,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Twente FC,Keith Gumbs,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,1995,1995/1996
+Vitesse,Dmitri Shukov,20.0,Left Midfield,Russia,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Willem II,Sami Hyypiä,22.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,1995,1995/1996
+Willem II,Joonas Kolkka,21.0,Right Winger,free agents,free transfer,in,Winter,0,Eredivisie,1995,1995/1996
+Willem II,Bert Konterman,24.0,Centre-Back,Netherlands,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Willem II,Geoffrey Prommayon,24.0,Right-Back,PSV Eindhoven,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Willem II,Fernando Derveld,19.0,Left-Back,Netherlands,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Heerenveen,Ole Tobiasen,20.0,Centre-Back,North_EU,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+NAC Breda,Edward Linskens,27.0,Defensive Midfield,PSV Eindhoven,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Dejan Govedarica,26.0,Central Midfield,Central_EU,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Marcel Valk,28.0,Right Midfield,Go Ahead Eagles,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Krzystof Bociek,21.0,Centre-Forward,Central_EU,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+FC Volendam,Jerry Simons,26.0,Attacking Midfield,Vitesse,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+FC Utrecht,John van Loen,30.0,Centre-Forward,Feyenoord,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+FC Groningen,Marco Boogers,29.0,Centre-Forward,West Ham,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Pieter Bijl,31.0,Central Midfield,Heerenveen,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Go Ahead Eagles,Erik Tammer,26.0,Centre-Forward,Heerenveen,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Fortuna Sittard,Roberto Lanckohr,26.0,Attacking Midfield,Netherlands,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+Fortuna Sittard,Michael Jeffrey,24.0,Centre-Forward,Uk,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Eric Viscaal,27.0,Centre-Forward,Uk,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Hennie Meijer,33.0,Centre-Forward,Heerenveen,?,in,Winter,0.01,Eredivisie,1995,1995/1996
+De Graafschap,Benny Gall,24.0,Goalkeeper,Netherlands,?,in,Winter,0.01,Eredivisie,1995,1995/1996

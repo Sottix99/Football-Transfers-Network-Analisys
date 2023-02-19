@@ -1,0 +1,1257 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Juventus,Filippo Inzaghi,23.0,Centre-Forward,Atalanta BC,10.30m,in,Summer,"10,3",Serie A,1997,1997/1998
+Juventus,Fabio Pecchia,23.0,Right Midfield,Italy,5.16m,in,Summer,"5,16",Serie A,1997,1997/1998
+Juventus,Daniel Fonseca,27.0,Centre-Forward,AS Roma,4.70m,in,Summer,"4,7",Serie A,1997,1997/1998
+Juventus,Alessandro Birindelli,22.0,Right-Back,Empoli,2.80m,in,Summer,"2,8",Serie A,1997,1997/1998
+Juventus,Marcelo Zalayeta,18.0,Centre-Forward,South America,2.58m,in,Summer,"2,58",Serie A,1997,1997/1998
+Juventus,Morgan De Sanctis,20.0,Goalkeeper,Italy,750Th.,in,Summer,"0,75",Serie A,1997,1997/1998
+Juventus,Marco Zamboni,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Juventus,Edoardo Braiati,17.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Juventus,Stefano Sorrentino,18.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,José Luis Calderón,26.0,Centre-Forward,South America,3.87m,in,Summer,"3,87",Serie A,1997,1997/1998
+SSC Napoli,William Prunier,29.0,Centre-Back,Montpellier,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Claudio Bellucci,22.0,Centre-Forward,Sampdoria,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Raffaele Sergio,30.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Mauro Facci,25.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Igor Protti,29.0,Centre-Forward,Lazio,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Massimiliano Allegri,29.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Marco Zamboni,19.0,Centre-Back,Juventus,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Giuseppe Giannini,32.0,Attacking Midfield,Central_EU,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Aljosa Asanovic,31.0,Central Midfield,Derby,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Roberto Goretti,21.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Fabio Rossitto,25.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+SSC Napoli,Reynald Pedros,25.0,Left Midfield,AC Parma,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Francesco Coco,20.0,Left-Back,Milan,Loan fee:750Th.,in,Summer,"0,75",Serie A,1997,1997/1998
+Vicenza,Marco Schenardi,29.0,Right Midfield,Bologna,?,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Pasquale Luiso,27.0,Centre-Forward,Piacenza,?,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Lamberto Zauli,25.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Arturo Di Napoli,23.0,Centre-Forward,Inter,?,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Giacomo Dicara,27.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Lorenzo Stovini,20.0,Centre-Back,AS Roma,?,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Roberto Baronio,19.0,Defensive Midfield,Lazio,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Massimo Ambrosini,20.0,Central Midfield,Milan,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Vicenza,Riccardo Maspero,26.0,Attacking Midfield,Lecce,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Renato Buso,27.0,Right Midfield,Lazio,775Th.,in,Summer,"0,775",Serie A,1997,1997/1998
+Piacenza,Marco Piovanelli,23.0,midfield,Lazio,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Roberto Murgita,28.0,Centre-Forward,Vicenza,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Roberto Bordin,32.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Massimo Rastelli,28.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Giovanni Stroppa,29.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Pietro Vierchowod,38.0,Centre-Back,Milan,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Marco Rossi,32.0,Sweeper,Germany,?,in,Summer,0.01,Serie A,1997,1997/1998
+Piacenza,Matteo Sereni,22.0,Goalkeeper,Sampdoria,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Ángel Morales,22.0,Attacking Midfield,South America,4.00m,in,Summer,4,Serie A,1997,1997/1998
+Sampdoria,Jürgen Klinsmann,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+Sampdoria,Andrea Pierotti,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Giovanni Sannino,20.0,Goalkeeper,Solbiatese Arno Calcio,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Ángel Morales,23.0,Attacking Midfield,CP Mérida,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Paco Soares,17.0,attack,South America,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Alain Boghossian,26.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Stefano Nava,28.0,Centre-Back,Uk,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Marcello Castellini,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Hugo,20.0,Centre-Back,SC Braga,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Alessio Scarchilli,24.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Sampdoria,Marco Ambrosio,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Roberto Baggio,30.0,Second Striker,Milan,1.80m,in,Summer,"1,8",Serie A,1997,1997/1998
+Bologna,Massimo Paganin,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+Bologna,Massimo Tarantino,26.0,Left-Back,Inter,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Antonio Foschini,19.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Daniele Carnasciali,30.0,Right-Back,Fiorentina,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Giovanni Dall'Igna,24.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Mauro Bonomi,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Paolo Cristallini,25.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Mohamed Kallon,17.0,Centre-Forward,Uk,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bologna,Giorgio Sterchele,27.0,Goalkeeper,AS Roma,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Danny Dichio,22.0,Centre-Forward,Sampdoria,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Giuseppe Anastasi,23.0,defence,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Paolo Annoni,27.0,Left-Back,Bari,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Giovanni Pittalis,26.0,midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Francesco De Francesco,19.0,Second Striker,Milan,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Andrés Martínez,24.0,Central Midfield,South America,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Giuseppe Baronchelli,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Raffaele Costantino,21.0,attack,Stabia,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Riccardo Maspero,26.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Maurizio Rossi,27.0,midfield,Vicenza,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Dejan Govedarica,27.0,Central Midfield,FC Volendam,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,William Viali,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Luigi Piangerelli,23.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Orazio Russo,23.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Michael Hatz,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Alessandro Conticchio,23.0,Central Midfield,Gualdo,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Sergiy Atelkin,25.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Francesco Cozza,23.0,Attacking Midfield,Milan,?,in,Summer,0.01,Serie A,1997,1997/1998
+Lecce,Jean-Pierre Cyprien,28.0,Centre-Back,Uk,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Gianluca Gibellini,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Liam Ardigò,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Massimo Orlando,26.0,attack,Fiorentina,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Robert Englaro,27.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Ljubisa Dundjerski,25.0,Central Midfield,Central_EU,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Alberto Fontana,30.0,Goalkeeper,Bari,?,in,Summer,0.01,Serie A,1997,1997/1998
+Atalanta BC,Cristiano Lucarelli,21.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Vincenzo Langone,18.0,midfield,Rondinella,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Vittorio Pusceddu,33.0,Left-Back,Fiorentina,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Antonio Arcadio,24.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Luca Bonfanti,20.0,midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Fabio Eduardo Cribari,22.0,Right-Back,South America,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Pietro Fusco,25.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Emanuele Masini,23.0,defence,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Andrea Mussi,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Marco Roccati,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Giacomo Mazzi,18.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Fabio Artico,23.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Pierpaolo Bisoli,30.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Max Tonetto,22.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Marco Pecorari,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Francesco D'Aniello,17.0,Central Midfield,Albanova,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Matjaz Florjancic,29.0,midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Angelo Pagotto,23.0,Goalkeeper,Milan,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Miodrag Vukotic,23.0,Centre-Back,Milan,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Empoli,Raffaele Ametrano,24.0,Right-Back,Juventus,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Ibrahim Bá,23.0,Right Midfield,G. Bordeaux,12.00m,in,Summer,12,Serie A,1997,1997/1998
+Milan,Leonardo,27.0,Attacking Midfield,Paris SG,8.50m,in,Summer,"8,5",Serie A,1997,1997/1998
+Milan,Christian Ziege,25.0,Left Midfield,Bayern Munich,5.13m,in,Summer,"5,13",Serie A,1997,1997/1998
+Milan,Andreas Andersson,23.0,Centre-Forward,North_EU,3.50m,in,Summer,"3,5",Serie A,1997,1997/1998
+Milan,André Cruz,28.0,Centre-Back,Italy,3.00m,in,Summer,3,Serie A,1997,1997/1998
+Milan,Patrick Kluivert,21.0,Centre-Forward,Ajax,2.00m,in,Summer,2,Serie A,1997,1997/1998
+Milan,Steinar Nilsen,25.0,Centre-Back,North_EU,1.00m,in,Summer,1,Serie A,1997,1997/1998
+Milan,Dario Smoje,18.0,Centre-Back,Est_EU,800Th.,in,Summer,"0,8",Serie A,1997,1997/1998
+Milan,Massimo Taibi,27.0,Goalkeeper,Piacenza,650Th.,in,Summer,"0,65",Serie A,1997,1997/1998
+Milan,Roberto Donadoni,33.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+Milan,Marco Bonura,17.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Marcello Campolonghi,22.0,Second Striker,Brescia,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Francesco Moriero,28.0,Right Winger,AS Roma,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Winston Bogarde,26.0,Centre-Back,Ajax,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Simone Braglia,34.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Samir Beloufa,17.0,Centre-Back,Cannes,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Giuseppe Cardone,23.0,Right-Back,Bologna,?,in,Summer,0.01,Serie A,1997,1997/1998
+Milan,Giampiero Maini,25.0,Defensive Midfield,Vicenza,?,in,Summer,0.01,Serie A,1997,1997/1998
+Fiorentina,Domenico Morfeo,21.0,Attacking Midfield,Atalanta BC,7.70m,in,Summer,"7,7",Serie A,1997,1997/1998
+Fiorentina,Stefano Bettarini,25.0,Left-Back,Italy,1.50m,in,Summer,"1,5",Serie A,1997,1997/1998
+Fiorentina,Andrea Tarozzi,23.0,Right-Back,Bologna,?,in,Summer,0.01,Serie A,1997,1997/1998
+Fiorentina,Edmundo,26.0,Second Striker,Portugal,?,in,Summer,0.01,Serie A,1997,1997/1998
+Fiorentina,Davide Dionigi,23.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Fiorentina,Valerio Fiori,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Johan Walem,25.0,Left Midfield,Belgium,4.50m,in,Summer,"4,5",Serie A,1997,1997/1998
+Udinese Calcio,Stephen Appiah,16.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+Udinese Calcio,Martin Jörgensen,21.0,Central Midfield,North_EU,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Vito Lasalandra,22.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Ousmane Sanda Sanda,15.0,midfield,Cotonsport,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Joachim Fernandez,24.0,Defensive Midfield,France,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Francesco Statuto,26.0,Central Midfield,AS Roma,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Elijah Louhenapessy,20.0,Defensive Midfield,Ajax,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Maurizio Bedin,18.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Jonathan Bachini,22.0,Left Midfield,Lecce,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Marco Zanchi,20.0,Centre-Back,Atalanta BC,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Adil Ramzi,19.0,Left Midfield,Africa Sports,?,in,Summer,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Gilberto D'Ignazio Pulpito,28.0,defence,Vicenza,nan,in,Summer,0.01,Serie A,1997,1997/1998
+Lazio,Matías Almeyda,23.0,Defensive Midfield,Spain,6.50m,in,Summer,"6,5",Serie A,1997,1997/1998
+Lazio,Vladimir Jugovic,27.0,Left Midfield,Juventus,4.00m,in,Summer,4,Serie A,1997,1997/1998
+Lazio,Roberto Mancini,32.0,Second Striker,Sampdoria,4.00m,in,Summer,4,Serie A,1997,1997/1998
+Lazio,Giuseppe Pancaro,25.0,Right-Back,Italy,1.20m,in,Summer,"1,2",Serie A,1997,1997/1998
+Lazio,Alen Boksic,27.0,Centre-Forward,Juventus,1.10m,in,Summer,"1,1",Serie A,1997,1997/1998
+Lazio,Marco Ballotta,33.0,Goalkeeper,Italy,1.00m,in,Summer,1,Serie A,1997,1997/1998
+Lazio,Giovanni Lopez,30.0,Centre-Back,Vicenza,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Gianluca Zambrotta,20.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+Bari,Gaetano De Rosa,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Carlo Sassarini,25.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Paolo Giometti,19.0,attack,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Mauro Bressan,26.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Michele Marcolini,21.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Philemon Masinga,28.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Gianluca Sordo,27.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Bari,Francesco Mancini,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AC Parma,Jesper Blomqvist,23.0,Left Midfield,Milan,5.00m,in,Summer,5,Serie A,1997,1997/1998
+AC Parma,Adaílton,20.0,Second Striker,South America,1.50m,in,Summer,"1,5",Serie A,1997,1997/1998
+AC Parma,Matteo Guardalben,23.0,Goalkeeper,Italy,1.00m,in,Summer,1,Serie A,1997,1997/1998
+AC Parma,Stefano Fiore,22.0,Attacking Midfield,Italy,1.00m,in,Summer,1,Serie A,1997,1997/1998
+AC Parma,Mauro Milanese,25.0,Left-Back,Italy,600Th.,in,Summer,"0,6",Serie A,1997,1997/1998
+AC Parma,Federico Giunti,25.0,Defensive Midfield,Italy,400Th.,in,Summer,"0,4",Serie A,1997,1997/1998
+AC Parma,Armando Tuani,19.0,Goalkeeper,Saronno,?,in,Summer,0.01,Serie A,1997,1997/1998
+AC Parma,Pierluigi Orlandini,24.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AC Parma,Filippo Maniero,24.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AC Parma,Genny Del Prete,17.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,1997,1997/1998
+Inter,Ronaldo,20.0,Centre-Forward,Barcelona,26.50m,in,Summer,"26,5",Serie A,1997,1997/1998
+Inter,Zé Elias,20.0,Central Midfield,Bay. Leverkusen,5.60m,in,Summer,"5,6",Serie A,1997,1997/1998
+Inter,Benoît Cauet,28.0,Central Midfield,Paris SG,4.00m,in,Summer,4,Serie A,1997,1997/1998
+Inter,Álvaro Recoba,21.0,Second Striker,Portugal,3.60m,in,Summer,"3,6",Serie A,1997,1997/1998
+Inter,Taribo West,23.0,Left-Back,AJ Auxerre,3.00m,in,Summer,3,Serie A,1997,1997/1998
+Inter,Luigi Sartor,22.0,Right-Back,Vicenza,2.00m,in,Summer,2,Serie A,1997,1997/1998
+Inter,Francesco Moriero,28.0,Right Winger,Milan,500,in,Summer,0.01,Serie A,1997,1997/1998
+Inter,Luca Mezzano,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Cafú,27.0,Right-Back,South America,7.60m,in,Summer,"7,6",Serie A,1997,1997/1998
+AS Roma,Vágner,24.0,Defensive Midfield,South America,5.00m,in,Summer,5,Serie A,1997,1997/1998
+AS Roma,Paulo Sérgio,28.0,Left Winger,Bay. Leverkusen,3.50m,in,Summer,"3,5",Serie A,1997,1997/1998
+AS Roma,César Gómez,29.0,Centre-Back,CD Tenerife,3.50m,in,Summer,"3,5",Serie A,1997,1997/1998
+AS Roma,Antonio Chimenti,27.0,Goalkeeper,Italy,1.55m,in,Summer,"1,55",Serie A,1997,1997/1998
+AS Roma,Giorgio Lucenti,21.0,Right-Back,Italy,1.00m,in,Summer,1,Serie A,1997,1997/1998
+AS Roma,Iván Helguera,22.0,Centre-Back,Spain,200Th.,in,Summer,"0,2",Serie A,1997,1997/1998
+AS Roma,Michael Konsel,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+AS Roma,Giorgio Sterchele,27.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Cristiano Scapolo,26.0,Attacking Midfield,Bologna,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Filippo Dal Moro,26.0,Left-Back,Empoli,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Cristian Servidei,24.0,Centre-Back,Lecce,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Eusebio Di Francesco,27.0,Central Midfield,Piacenza,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Andrea Campagnolo,19.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Francesco Colonnese,25.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+AS Roma,Carmine Gautieri,26.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Brescia,Tal Banin,26.0,Defensive Midfield,Est_EU,590Th.,in,Summer,"0,59",Serie A,1997,1997/1998
+Brescia,Dario Hübner,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,1997,1997/1998
+Brescia,Marek Kozminski,26.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Brescia,Antonio Criniti,26.0,attack,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Brescia,Salvatore Bacci,32.0,midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Brescia,Ovidiu Sabau,29.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,1997,1997/1998
+Brescia,Giovanni Cervone,34.0,Goalkeeper,AS Roma,?,in,Summer,0.01,Serie A,1997,1997/1998
+Juventus,Edgar Davids,24.0,Central Midfield,Milan,8.00m,in,Winter,8,Serie A,1997,1997/1998
+SSC Napoli,Mirko Conte,23.0,Centre-Back,Piacenza,?,in,Winter,0.01,Serie A,1997,1997/1998
+SSC Napoli,Damir Stojak,22.0,Centre-Forward,Central_EU,?,in,Winter,0.01,Serie A,1997,1997/1998
+Vicenza,Mirko Conte,23.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Vicenza,Davide Falcioni,22.0,Goalkeeper,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Piacenza,Davide Dionigi,23.0,Centre-Forward,Fiorentina,?,in,Winter,0.01,Serie A,1997,1997/1998
+Sampdoria,Giuseppe Signori,29.0,Centre-Forward,Lazio,400Th.,in,Winter,"0,4",Serie A,1997,1997/1998
+Sampdoria,François Omam-Biyik,31.0,Centre-Forward,Unknown,?,in,Winter,0.01,Serie A,1997,1997/1998
+Bologna,Giuliano Gentilini,27.0,Central Midfield,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Bologna,Andrés Martínez,25.0,Central Midfield,Lecce,?,in,Winter,0.01,Serie A,1997,1997/1998
+Lecce,Alessandro Iannuzzi,22.0,Centre-Forward,Vicenza,?,in,Winter,0.01,Serie A,1997,1997/1998
+Lecce,Giuseppe Giannini,33.0,Attacking Midfield,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Lecce,Stefano Rossini,26.0,Left-Back,Atalanta BC,?,in,Winter,0.01,Serie A,1997,1997/1998
+Atalanta BC,Giovanni Piacentini,29.0,Defensive Midfield,Fiorentina,?,in,Winter,0.01,Serie A,1997,1997/1998
+Atalanta BC,Nicola Zanini,23.0,Attacking Midfield,Sampdoria,loan transfer,in,Winter,0.01,Serie A,1997,1997/1998
+Atalanta BC,Massimiliano Cappioli,29.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,1997,1997/1998
+Empoli,Giorgio Lucenti,22.0,Right-Back,AS Roma,800Th.,in,Winter,"0,8",Serie A,1997,1997/1998
+Empoli,Aleksandar Kocic,28.0,Goalkeeper,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Empoli,Claudio Bonomi,25.0,Left Midfield,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Empoli,Luca Bonfanti,21.0,midfield,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Empoli,Tonino Martino,28.0,attack,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Milan,Maurizio Ganz,29.0,Centre-Forward,Inter,500Th.,in,Winter,"0,5",Serie A,1997,1997/1998
+Milan,Filippo Maniero,25.0,Centre-Forward,AC Parma,?,in,Winter,0.01,Serie A,1997,1997/1998
+Milan,Gianluca Zanetti,20.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Mauro Navas,23.0,Right Midfield,South America,?,in,Winter,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Mauricio Pineda,22.0,Left-Back,South America,?,in,Winter,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Giorgio Frezzolini,21.0,Goalkeeper,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Udinese Calcio,Daniele Chiarini,18.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Bari,Grégory Campi,21.0,Left Midfield,OG Rouen,?,in,Winter,0.01,Serie A,1997,1997/1998
+Bari,Marcus Allbäck,24.0,Centre-Forward,North_EU,loan transfer,in,Winter,0.01,Serie A,1997,1997/1998
+AC Parma,Nicola Antonio Calabro,21.0,defence,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Inter,Paulo Sousa,27.0,Central Midfield,Bor. Dortmund,7.60m,in,Winter,"7,6",Serie A,1997,1997/1998
+Inter,Mauro Milanese,26.0,Left-Back,AC Parma,4.00m,in,Winter,4,Serie A,1997,1997/1998
+Inter,Francesco Colonnese,26.0,Centre-Back,AS Roma,1.50m,in,Winter,"1,5",Serie A,1997,1997/1998
+Inter,Martín Rivas,20.0,Centre-Back,South America,?,in,Winter,0.01,Serie A,1997,1997/1998
+Brescia,Massimiliano Corrado,26.0,Right-Back,Italy,?,in,Winter,0.01,Serie A,1997,1997/1998
+Brescia,Giovanni Bia,29.0,Centre-Back,Italy,loan transfer,in,Winter,0.01,Serie A,1997,1997/1998
+R. Strasbourg,Denni Conteh,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+R. Strasbourg,Christophe Kinet,22.0,Left Midfield,Germinal Ekeren,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Luciano Zavagno,19.0,Left-Back,South America,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Frédéric Arpinon,28.0,Attacking Midfield,FC Metz,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Raphaël Miceli,21.0,Left Midfield,Belgium,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Christophe Avril,28.0,midfield,O Charleville,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Kim Ekroos,16.0,Goalkeeper,North_EU,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Ludovic Roy,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+LB Châteauroux,Philippe Avenet,30.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Mathieu Verschuère,25.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Damir Cakar,24.0,Attacking Midfield,Central_EU,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Didier Martel,25.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Nenad Bjekovic,23.0,Centre-Forward,FC Nantes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Antoine Préget,24.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Stéphane Dedebant,26.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Eric Loussouarn,22.0,Goalkeeper,FC Nantes,loan transfer,in,Summer,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Philippe Violeau,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Olympique Lyon,Sébastien Socié,20.0,Goalkeeper,Unknown,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Jean-Claude Nadon,32.0,Goalkeeper,Lens,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Stéphane Roche,26.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Daniel Bravo,34.0,Central Midfield,AC Parma,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Patrice Carteron,26.0,Centre-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Christophe Delmotte,28.0,Left-Back,Lens,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Nantes,Yao Aziawonou,17.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+FC Nantes,Stéphane Lièvre,24.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+FC Nantes,Samba N'Diaye,24.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Nantes,Fabrice Grange,25.0,Goalkeeper,O Charleville,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Montpellier,Nenad Dzodic,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Montpellier,Manuel dos Santos,23.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Montpellier,Cédric Barbosa,21.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Montpellier,Marcel Mahouvé,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Montpellier,Uche Agbo,22.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Montpellier,Gérald Martin,22.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Montpellier,Frédéric Garny,22.0,Right Winger,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Montpellier,Sylvain Deplace,25.0,Defensive Midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Grégory Wimbée,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Cannes,Lee-Roy Echteld,29.0,Attacking Midfield,Heerenveen,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Gilles Hampartzoumian,28.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,José Bray,32.0,midfield,Asia,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Brian Jensen,29.0,Left-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Stéphane Floiras,16.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Marco Grassi,29.0,Centre-Forward,Uk,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Walter Kogler,29.0,Centre-Back,Central_EU,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Brahim Hemdani,19.0,Defensive Midfield,RC Paris,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Cannes,Gerald Vanenburg,33.0,Right Winger,FC Utrecht,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Guingamp,Gérard Gnanhouan,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Guingamp,Fabrice Fiorèse,21.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Guingamp,Moussa Dabo,15.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Guingamp,Lilian Nalis,25.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Guingamp,Anthony Bancarel,26.0,Centre-Forward,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Guingamp,Rudy Perron,19.0,defence,AS Angoulême 92,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Guingamp,David Garcion,23.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Guingamp,Guillaume Bouisset,24.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Guingamp,Abdelhafid Tasfaout,28.0,Attacking Midfield,AJ Auxerre,loan transfer,in,Summer,0.01,Ligue 1,1997,1997/1998
+Lens,José-Karl Pierre-Fanfan,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Lens,Anto Drobnjak,28.0,Centre-Forward,SC Bastia,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Lens,Stéphane Ziani,25.0,Attacking Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AC Le Havre,Mohammed Camara,22.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+AC Le Havre,Stéphane Cassard,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+AC Le Havre,Marinos Ouzounidis,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+AC Le Havre,Cyrille Pouget,24.0,Centre-Forward,Paris SG,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AC Le Havre,Thierry De Neef,30.0,Central Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AC Le Havre,Lionel Prat,26.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AC Le Havre,Yann Soloy,27.0,Right Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AC Le Havre,Christophe Horlaville,28.0,Centre-Forward,Guingamp,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Sylvain Wiltord,23.0,Second Striker,Dep. La Coruña,5.40m,in,Summer,"5,4",Ligue 1,1997,1997/1998
+G. Bordeaux,Ricardinho,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+G. Bordeaux,Nia Saveljic,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+G. Bordeaux,Romain Ferrier,21.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+G. Bordeaux,David Jemmali,22.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+G. Bordeaux,Louis Gomis,25.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Steeve Epesse-Titi,17.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Lassina Diabaté,22.0,Defensive Midfield,Sp. Perpignan R,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Kiki Musampa,19.0,Left Winger,Ajax,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Ulrich Ramé,24.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Lilian Laslandes,25.0,Centre-Forward,AJ Auxerre,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Stanley Menzo,33.0,Goalkeeper,Belgium,loan transfer,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Franck Jurietti,22.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+SC Bastia,Eric Durand,31.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Jean-Jacques Etamé,30.0,midfield,Cannes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Pascual Garrido,22.0,defence,South America,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Christophe Deguerville,27.0,Left-Back,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Pierre-Yves André,23.0,Centre-Forward,Stade Rennais,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Laurent Casanova,25.0,Defensive Midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Nenad Jestrovic,21.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Ali Boumnijel,31.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Frédéric Mendy,23.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Paris SG,Florian Maurice,23.0,Centre-Forward,Olympique Lyon,7.00m,in,Summer,7,Ligue 1,1997,1997/1998
+Paris SG,Christophe Revault,25.0,Goalkeeper,AC Le Havre,2.00m,in,Summer,2,Ligue 1,1997,1997/1998
+Paris SG,Marco Simone,28.0,Second Striker,Milan,1.00m,in,Summer,1,Ligue 1,1997,1997/1998
+Paris SG,Marko Pantelic,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Paris SG,Edmílson,25.0,Second Striker,FC Porto,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Paris SG,Franck Gava,27.0,Left Midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Paris SG,Édouard Cissé,19.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Paris SG,Éric Rabésandratana,24.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Toulouse,Jean-Pierre La Placa,24.0,attack,Uk,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Toulouse,Ernest Mtawali,28.0,Defensive Midfield,South America,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Toulouse,José Manuel Galdames,26.0,Centre-Back,SD Compostela,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Toulouse,Joël Tiéhi,33.0,Centre-Forward,St-Denis St-Leu,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Toulouse,Frédéric Patouillard,23.0,midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Toulouse,Didier Santini,28.0,Left-Back,SC Bastia,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Metz,Geoffray Toyes,24.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+FC Metz,Vladan Lukic,27.0,Centre-Forward,Uk,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Metz,Franck Histilloles,24.0,Attacking Midfield,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Metz,Frédéric Meyrieu,29.0,Attacking Midfield,Uk,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Metz,Mihály Tóth,22.0,Centre-Forward,Central_EU,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Metz,Stéphane Rondelaere,26.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+FC Metz,Danny Boffin,31.0,Left Midfield,Belgium,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AJ Auxerre,Teemu Tainio,17.0,Defensive Midfield,North_EU,760Th.,in,Summer,"0,76",Ligue 1,1997,1997/1998
+AJ Auxerre,Cyril Jeunechamp,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+AJ Auxerre,Lilian Compan,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+AJ Auxerre,Tarik Sektioui,20.0,Right Winger,Africa Sports,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AJ Auxerre,Kwami Hodouto,22.0,Right-Back,Cannes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+AJ Auxerre,Stéphane Guivarc'h,26.0,Centre-Forward,Stade Rennais,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Abdelkrim Jinani,23.0,attack,Africa Sports,1.20m,in,Summer,"1,2",Ligue 1,1997,1997/1998
+Rennes,Patrick Weiser,25.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Rennes,Bernd Hobsch,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Rennes,Shay Holtsman,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Rennes,Stéphane Grégoire,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Rennes,Philippe Brinquin,26.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Marco Di Costanzo,23.0,attack,Italy,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Philippe Lévenard,32.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Eddy Capron,26.0,Centre-Back,FC Nantes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Pierre Maroselli,30.0,defence,SC Bastia,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Laurent Viaud,27.0,Defensive Midfield,Monaco,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Youssef Rossi,24.0,Centre-Back,Africa Sports,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Rennes,Pascal Bédrossian,22.0,Left Midfield,Cannes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Marseille,Fabrizio Ravanelli,28.0,Centre-Forward,Uk,7.40m,in,Summer,"7,4",Ligue 1,1997,1997/1998
+Marseille,Laurent Blanc,31.0,Centre-Back,Barcelona,2.50m,in,Summer,"2,5",Ligue 1,1997,1997/1998
+Marseille,Cyril Domoraud,25.0,Centre-Back,G. Bordeaux,2.50m,in,Summer,"2,5",Ligue 1,1997,1997/1998
+Marseille,Serge Blanc,24.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Marseille,Frédéric Brando,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Marseille,Claude Makélélé,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Marseille,William Gallas,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Marseille,Teddy Bertin,27.0,Centre-Back,AC Le Havre,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Marseille,Arthur Moses,24.0,Centre-Forward,SC Toulon 83,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Marseille,François Lemasson,33.0,Goalkeeper,Cannes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Marseille,Miladin Becanovic,24.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Marseille,Patrick Colleter,31.0,Left-Back,G. Bordeaux,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Robert Spehar,27.0,Centre-Forward,Belgium,4.96m,in,Summer,"4,96",Ligue 1,1997,1997/1998
+Monaco,Fabien Lefèvre,25.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Monaco,Julien Rodriguez,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,1997,1997/1998
+Monaco,Ali Lukunku,21.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Japhet N'Doram,31.0,Centre-Forward,FC Nantes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Djibril Diawara,22.0,Centre-Back,AC Le Havre,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Christophe Pignol,27.0,Left-Back,FC Nantes,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Muhamed Konjic,27.0,Centre-Back,Uk,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Willy Sagnol,20.0,Right-Back,France,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+Monaco,Stéphane Carnot,24.0,Attacking Midfield,Guingamp,?,in,Summer,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Jung-won Seo,28.0,Right Winger,Asia,950Th.,in,Winter,"0,95",Ligue 1,1997,1997/1998
+R. Strasbourg,Morten Nielsen,26.0,Right-Back,North_EU,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+R. Strasbourg,Corentin Martins,28.0,Attacking Midfield,Dep. La Coruña,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Olivier Tébily,22.0,Centre-Back,France,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+LB Châteauroux,Amara Traoré,32.0,Centre-Forward,FC Metz,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Olympique Lyon,Reynald Pedros,26.0,Left Midfield,AC Parma,loan transfer,in,Winter,0.01,Ligue 1,1997,1997/1998
+FC Nantes,Gaetano Giallanza,23.0,Centre-Forward,Uk,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Cannes,Didier Frenay,31.0,Central Midfield,Belgium,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Cannes,David Mazzoncini,26.0,Defensive Midfield,AC Le Havre,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Cannes,Kamel Kaci-Saïd,30.0,Centre-Forward,Africa Sports,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Guingamp,Jean-Christophe Marquet,23.0,Left-Back,Marseille,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Guingamp,Marc Libbra,25.0,Centre-Forward,Marseille,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+AC Le Havre,Miladin Becanovic,24.0,Centre-Forward,Marseille,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+G. Bordeaux,Patrick Blondeau,29.0,Right-Back,Sheff Wed,1.80m,in,Winter,"1,8",Ligue 1,1997,1997/1998
+G. Bordeaux,Marc Delaroche,26.0,Goalkeeper,France,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+SC Bastia,Pierre Laurent,27.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,1997,1997/1998
+Paris SG,Didier Martel,26.0,Centre-Forward,LB Châteauroux,1.58m,in,Winter,"1,58",Ligue 1,1997,1997/1998
+Paris SG,James Debbah,27.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,1997,1997/1998
+Toulouse,David Klein,24.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,1997,1997/1998
+Rennes,Kaba Diawara,22.0,Centre-Forward,G. Bordeaux,loan transfer,in,Winter,0.01,Ligue 1,1997,1997/1998
+Marseille,Christophe Dugarry,25.0,Centre-Forward,Barcelona,5.50m,in,Winter,"5,5",Ligue 1,1997,1997/1998
+Marseille,Yannick Fischer,23.0,Centre-Back,Cannes,?,in,Winter,0.01,Ligue 1,1997,1997/1998
+Monaco,Ludovic Giuly,21.0,Right Winger,Olympique Lyon,7.50m,in,Winter,"7,5",Ligue 1,1997,1997/1998
+Hamburger SV,Anthony Yeboah,31.0,Centre-Forward,Leeds,2.15m,in,Summer,"2,15",1 Bundesliga,1997,1997/1998
+Hamburger SV,Rodolfo Cardoso,28.0,Attacking Midfield,Werder Bremen,1.50m,in,Summer,"1,5",1 Bundesliga,1997,1997/1998
+Hamburger SV,Jacek Dembinski,27.0,Right Winger,Central_EU,1.00m,in,Summer,1,1 Bundesliga,1997,1997/1998
+Hamburger SV,Martin Zafirov,23.0,Right-Back,Central_EU,600Th.,in,Summer,"0,6",1 Bundesliga,1997,1997/1998
+Hamburger SV,Soner Uysal,19.0,Centre-Forward,Germany,550Th.,in,Summer,"0,55",1 Bundesliga,1997,1997/1998
+Hamburger SV,Michael Molata,24.0,Centre-Back,Arm. Bielefeld,400Th.,in,Summer,"0,4",1 Bundesliga,1997,1997/1998
+Hamburger SV,Stefan Böger,31.0,Right-Back,Germany,325Th.,in,Summer,"0,325",1 Bundesliga,1997,1997/1998
+Hamburger SV,Andrej Panadic,28.0,Centre-Back,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,1997,1997/1998
+Hamburger SV,Sasa Ilic,26.0,Goalkeeper,Pusan Daewoo,200Th.,in,Summer,"0,2",1 Bundesliga,1997,1997/1998
+Hamburger SV,Matthias Reincke,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Thomas Vogel,30.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Thomas Gravesen,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Hans Jörg Butt,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Allan Jepsen,19.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Ingo Hertzsch,19.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Andreas Zeyer,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hamburger SV,Christof Babatz,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Werder Bremen,Raphael Wicky,20.0,Defensive Midfield,Uk,1.50m,in,Summer,"1,5",1 Bundesliga,1997,1997/1998
+Werder Bremen,Bernhard Trares,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Werder Bremen,Sven Benken,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Werder Bremen,Dieter Frey,24.0,Right-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Werder Bremen,Sören Seidel,24.0,Central Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Claudio Reyna,23.0,Central Midfield,Bay. Leverkusen,750Th.,in,Summer,"0,75",1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Holger Hiemann,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Marijan Kovacevic,23.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Frank Greiner,31.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Andreas Winkler,27.0,midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Dragan Stevanovic,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Waldemar Kryger,28.0,Centre-Back,Central_EU,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Maximilian Heidenreich,30.0,Sweeper,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,Pavel Novotny,23.0,Left-Back,Central_EU,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfL Bochum,Yildiray Bastürk,18.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Bochum,Mirko Dickhaut,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Bochum,Norbert Hofmann,25.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfL Bochum,Axel Sundermann,29.0,Centre-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfL Bochum,Mirko Reichel,26.0,Defensive Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfL Bochum,Sergey Yuran,28.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Jonathan Akpoborie,28.0,Centre-Forward,Hansa Rostock,3.50m,in,Summer,"3,5",1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Murat Yakin,22.0,Centre-Back,Uk,3.25m,in,Summer,"3,25",1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Florin Raducioiu,27.0,Centre-Forward,Espanyol,Loan fee:600Th.,in,Summer,"0,6",1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Timo Rost,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Nico Frommer,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Martin Spanring,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+VfB Stuttgart,Matthias Becker,23.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+1860 Munich,Besnik Hasi,25.0,Defensive Midfield,Belgium,400Th.,in,Summer,"0,4",1 Bundesliga,1997,1997/1998
+1860 Munich,Holger Fach,34.0,Sweeper,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1997,1997/1998
+1860 Munich,Guido Gorges,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1860 Munich,Paul Agostino,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1860 Munich,André Hofschneider,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1860 Munich,Daniel Hoffmann,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1860 Munich,Jochen Kientz,24.0,Centre-Back,CD Logroñés,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+1860 Munich,Stefan Malz,25.0,Left-Back,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Tomasz Hajto,24.0,Centre-Back,Central_EU,375Th.,in,Summer,"0,375",1 Bundesliga,1997,1997/1998
+MSV Duisburg,Slobodan Komljenovic,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Gintaras Stauce,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Thorsten Schramm,18.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Adem Kapic,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Jörg Neun,31.0,Left-Back,Bor. M'gladbach,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Uwe Spies,29.0,Centre-Forward,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Roberto Marquez,19.0,Attacking Midfield,Baesweiler 09,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Karlsruher SC,Alex Nyarko,23.0,Central Midfield,Uk,2.50m,in,Summer,"2,5",1 Bundesliga,1997,1997/1998
+Karlsruher SC,Gunther Schepens,24.0,Attacking Midfield,Belgium,1.50m,in,Summer,"1,5",1 Bundesliga,1997,1997/1998
+Karlsruher SC,Radoslaw Gilewicz,26.0,Centre-Forward,VfB Stuttgart,900Th.,in,Summer,"0,9",1 Bundesliga,1997,1997/1998
+Karlsruher SC,Mark Römer,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Karlsruher SC,Martin Fischer,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Karlsruher SC,Rolf-Christel Guié-Mien,19.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Karlsruher SC,Rainer Scharinger,30.0,midfield,1.FC Pforzheim,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Karlsruher SC,David Régis,28.0,Centre-Back,Lens,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Hertha BSC,Bryan Roy,27.0,Left Winger,Uk,1.60m,in,Summer,"1,6",1 Bundesliga,1997,1997/1998
+Hertha BSC,Alphonse Tchami,25.0,Centre-Forward,South America,1.10m,in,Summer,"1,1",1 Bundesliga,1997,1997/1998
+Hertha BSC,Kjetil Rekdal,28.0,Defensive Midfield,Stade Rennais,900Th.,in,Summer,"0,9",1 Bundesliga,1997,1997/1998
+Hertha BSC,Dick Van Burik,23.0,Centre-Back,FC Utrecht,600Th.,in,Summer,"0,6",1 Bundesliga,1997,1997/1998
+Hertha BSC,Hendrik Herzog,28.0,Centre-Back,VfB Stuttgart,250Th.,in,Summer,"0,25",1 Bundesliga,1997,1997/1998
+Hertha BSC,Carsten Lakies,26.0,Centre-Forward,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,1997,1997/1998
+Hertha BSC,Gábor Király,21.0,Goalkeeper,Central_EU,100Th.,in,Summer,"0,1",1 Bundesliga,1997,1997/1998
+Hertha BSC,Sergey Mandreko,25.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Ciriaco Sforza,27.0,Central Midfield,Inter,3.30m,in,Summer,"3,3",1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Andreas Buck,29.0,Right Midfield,VfB Stuttgart,450Th.,in,Summer,"0,45",1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Marian Hristov,23.0,Defensive Midfield,Central_EU,400Th.,in,Summer,"0,4",1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Michael Ballack,20.0,Central Midfield,Germany,75Th.,in,Summer,"0,075",1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Stefan Ertl,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Petr Kouba,28.0,Goalkeeper,Dep. La Coruña,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+FC Schalke 04,Michaël Goossens,23.0,Centre-Forward,Italy,1.75m,in,Summer,"1,75",1 Bundesliga,1997,1997/1998
+FC Schalke 04,Denis Klyuev,23.0,Central Midfield,Feyenoord,600Th.,in,Summer,"0,6",1 Bundesliga,1997,1997/1998
+FC Schalke 04,Filip Tapalovic,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+FC Schalke 04,Markus Anfang,23.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+FC Schalke 04,René Eijkelkamp,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hansa Rostock,Oliver Neuville,24.0,Centre-Forward,CD Tenerife,1.80m,in,Summer,"1,8",1 Bundesliga,1997,1997/1998
+Hansa Rostock,Ralf Ewen,25.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Hansa Rostock,Slawomir Majak,28.0,Left Winger,Central_EU,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Hansa Rostock,Jens Dowe,29.0,Left Midfield,Central_EU,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Hansa Rostock,Borislav Tomoski,24.0,Attacking Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Hansa Rostock,Igor Pamic,27.0,Centre-Forward,France,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Bayern Munich,Giovane Elber,24.0,Centre-Forward,VfB Stuttgart,6.50m,in,Summer,"6,5",1 Bundesliga,1997,1997/1998
+Bayern Munich,Bixente Lizarazu,27.0,Left-Back,Athletic,4.50m,in,Summer,"4,5",1 Bundesliga,1997,1997/1998
+Bayern Munich,Thorsten Fink,29.0,Defensive Midfield,Karlsruher SC,2.50m,in,Summer,"2,5",1 Bundesliga,1997,1997/1998
+Bayern Munich,Michael Tarnat,27.0,Left-Back,Karlsruher SC,2.40m,in,Summer,"2,4",1 Bundesliga,1997,1997/1998
+Bayern Munich,Dennis Grassow,25.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Bor. M'gladbach,Marcel Witeczek,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Bor. M'gladbach,Chiquinho,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Bor. M'gladbach,Thorsten Albustin,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Bor. M'gladbach,Morten Pedersen,25.0,Left-Back,North_EU,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Bor. M'gladbach,Per Pedersen,28.0,Centre-Forward,Blackburn,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Bor. Dortmund,Scott Booth,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Paulo Rink,24.0,Centre-Forward,South America,4.00m,in,Summer,4,1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Émerson,21.0,Defensive Midfield,South America,3.50m,in,Summer,"3,5",1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Stefan Beinlich,25.0,Attacking Midfield,Hansa Rostock,1.25m,in,Summer,"1,25",1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Martin Frydek,28.0,Central Midfield,Central_EU,800Th.,in,Summer,"0,8",1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Boris Zivkovic,21.0,Right-Back,Est_EU,615Th.,in,Summer,"0,615",1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Dirk Lottner,25.0,Attacking Midfield,SC Fortuna Köln,400Th.,in,Summer,"0,4",1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Thomas Reichenberger,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Jörg Schmadtke,33.0,Goalkeeper,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Adalbert Zafirov,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Karsten Bremke,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Bernd Eigner,25.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Ali Daei,28.0,Centre-Forward,Asia,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Michael Sternkopf,27.0,Right Midfield,Germany,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Karim Bagheri,23.0,Defensive Midfield,Asia,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Dejan Milosevic,19.0,Goalkeeper,Cosmos Canberra,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+1. FC Köln,Dirk Schuster,29.0,Centre-Back,Karlsruher SC,750Th.,in,Summer,"0,75",1 Bundesliga,1997,1997/1998
+1. FC Köln,Aleksandr Rychkov,22.0,Attacking Midfield,Russia,600Th.,in,Summer,"0,6",1 Bundesliga,1997,1997/1998
+1. FC Köln,Andreas Menger,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1. FC Köln,Goran Vucevic,26.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1. FC Köln,Sebastian Selke,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1. FC Köln,Dennis Vogt,19.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1. FC Köln,Khodadad Azizi,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1. FC Köln,René Tretschok,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,1997,1997/1998
+1. FC Köln,Luciano Emílio,18.0,Centre-Forward,Rio Branco-SP,?,in,Summer,0.01,1 Bundesliga,1997,1997/1998
+1.FC K'lautern,Lajos Szucs,24.0,Goalkeeper,Central_EU,300Th.,in,Winter,"0,3",1 Bundesliga,1997,1997/1998
+1.FC K'lautern,János Hrutka,23.0,Centre-Back,Central_EU,300Th.,in,Winter,"0,3",1 Bundesliga,1997,1997/1998
+VfL Wolfsburg,André Breitenreiter,24.0,Second Striker,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+1860 Munich,Abderrahim Ouakili,27.0,Attacking Midfield,Germany,600Th.,in,Winter,"0,6",1 Bundesliga,1997,1997/1998
+1860 Munich,Ned Zelic,26.0,Defensive Midfield,AJ Auxerre,400Th.,in,Winter,"0,4",1 Bundesliga,1997,1997/1998
+1860 Munich,Bernd Hobsch,29.0,Centre-Forward,Stade Rennais,100Th.,in,Winter,"0,1",1 Bundesliga,1997,1997/1998
+1860 Munich,Hristo Yovov,20.0,Attacking Midfield,Central_EU,?,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Stig Töfting,28.0,Defensive Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+MSV Duisburg,Alexandru Popovici,20.0,Centre-Forward,Tiligul,loan transfer,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+Karlsruher SC,Guido Buchwald,36.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+Karlsruher SC,David Zitelli,29.0,Centre-Forward,R. Strasbourg,?,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+Hertha BSC,Andreas Neuendorf,22.0,Central Midfield,Bay. Leverkusen,1.10m,in,Winter,"1,1",1 Bundesliga,1997,1997/1998
+Hertha BSC,Andreas Thom,32.0,Centre-Forward,Uk,450Th.,in,Winter,"0,45",1 Bundesliga,1997,1997/1998
+Hansa Rostock,Peter Bosz,34.0,Defensive Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+Bor. Dortmund,Harry Decheiver,27.0,Centre-Forward,FC Utrecht,2.80m,in,Winter,"2,8",1 Bundesliga,1997,1997/1998
+Bor. Dortmund,Manfred Binz,32.0,Sweeper,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Adam Ledwon,23.0,Defensive Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+Bay. Leverkusen,Bent Skammelsrud,31.0,Defensive Midfield,North_EU,?,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,Georg Koch,25.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,1997,1997/1998
+Arm. Bielefeld,René Rydlewicz,24.0,Right Midfield,Bay. Leverkusen,?,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+1. FC Köln,Markus Münch,25.0,Left-Back,Bayern Munich,Loan fee:500Th.,in,Winter,"0,5",1 Bundesliga,1997,1997/1998
+1. FC Köln,Dennis Grassow,26.0,Centre-Back,Bayern Munich,?,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+Werder Bremen,Yuriy Maksymov,28.0,Central Midfield,Est_EU,750Th.,in,Winter,"0,75",1 Bundesliga,1997,1997/1998
+Werder Bremen,Adrian Kunz,30.0,Centre-Forward,Uk,?,in,Winter,0.01,1 Bundesliga,1997,1997/1998
+Leeds,David Hopkin,26.0,Right Midfield,Crystal Palace,4.90m,in,Summer,"4,9",Premier League,1997,1997/1998
+Leeds,Jimmy Floyd Hasselbaink,25.0,Centre-Forward,Boavista,2.78m,in,Summer,"2,78",Premier League,1997,1997/1998
+Leeds,Alf-Inge Haaland,24.0,Defensive Midfield,Uk,2.40m,in,Summer,"2,4",Premier League,1997,1997/1998
+Leeds,Danny Granville,22.0,Left-Back,Chelsea,2.20m,in,Summer,"2,2",Premier League,1997,1997/1998
+Leeds,David Robertson,28.0,Left-Back,Uk,750Th.,in,Summer,"0,75",Premier League,1997,1997/1998
+Leeds,Bruno Ribeiro,21.0,Left Midfield,Vitória Setúbal,700Th.,in,Summer,"0,7",Premier League,1997,1997/1998
+Sheff Wed,Jim Magilton,28.0,Right Midfield,Southampton,1.90m,in,Summer,"1,9",Premier League,1997,1997/1998
+Sheff Wed,Petter Rudi,24.0,Central Midfield,North_EU,1.20m,in,Summer,"1,2",Premier League,1997,1997/1998
+Sheff Wed,Paolo Di Canio,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Sheff Wed,Nigel Clough,31.0,Attacking Midfield,Uk,loan transfer,in,Summer,0.01,Premier League,1997,1997/1998
+Sheff Wed,Bruce Grobbelaar,39.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1997,1997/1998
+Leicester,Theodoros Zagorakis,25.0,Central Midfield,Central_EU,1.20m,in,Summer,"1,2",Premier League,1997,1997/1998
+Leicester,Graham Fenton,23.0,Second Striker,Blackburn,1.10m,in,Summer,"1,1",Premier League,1997,1997/1998
+Leicester,Tony Cottee,32.0,Centre-Forward,Asia,750Th.,in,Summer,"0,75",Premier League,1997,1997/1998
+Leicester,Robbie Savage,22.0,Central Midfield,Uk,600Th.,in,Summer,"0,6",Premier League,1997,1997/1998
+Leicester,Ian Andrews,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Leicester,Pegguy Arphexad,24.0,Goalkeeper,France,?,in,Summer,0.01,Premier League,1997,1997/1998
+Wimbledon FC,Ceri Hughes,26.0,Central Midfield,Uk,450Th.,in,Summer,"0,45",Premier League,1997,1997/1998
+Coventry,Trond Soltvedt,30.0,Attacking Midfield,North_EU,750Th.,in,Summer,"0,75",Premier League,1997,1997/1998
+Coventry,Roland Nilsson,33.0,Right-Back,Helsingborg,250Th.,in,Summer,"0,25",Premier League,1997,1997/1998
+Coventry,Magnus Hedman,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Coventry,Martin Johansen,24.0,Centre-Forward,North_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Coventry,Kyle Lightbourne,28.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,1997,1997/1998
+Man Utd,Henning Berg,27.0,Right-Back,Blackburn,7.50m,in,Summer,"7,5",Premier League,1997,1997/1998
+Man Utd,Teddy Sheringham,31.0,Centre-Forward,Spurs,5.30m,in,Summer,"5,3",Premier League,1997,1997/1998
+Man Utd,Erik Nevland,19.0,Centre-Forward,North_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Crystal Palace,Neil Emblen,26.0,Defensive Midfield,Uk,2.50m,in,Summer,"2,5",Premier League,1997,1997/1998
+Crystal Palace,Kevin Miller,28.0,Goalkeeper,Uk,2.00m,in,Summer,2,Premier League,1997,1997/1998
+Crystal Palace,Jamie Smith,23.0,Right-Back,Uk,1.50m,in,Summer,"1,5",Premier League,1997,1997/1998
+Crystal Palace,Hermann Hreidarsson,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Crystal Palace,Paul Warhurst,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Crystal Palace,Eric Young,37.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,1997,1997/1998
+Crystal Palace,Jamie Fullarton,22.0,midfield,SC Bastia,?,in,Summer,0.01,Premier League,1997,1997/1998
+Crystal Palace,Attilio Lombardo,31.0,Right Winger,Juventus,?,in,Summer,0.01,Premier League,1997,1997/1998
+Crystal Palace,Itzik Zohar,26.0,Attacking Midfield,Est_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Newcastle,Alessandro Pistone,21.0,Left-Back,Inter,6.50m,in,Summer,"6,5",Premier League,1997,1997/1998
+Newcastle,Jon Dahl Tomasson,20.0,Centre-Forward,Heerenveen,3.90m,in,Summer,"3,9",Premier League,1997,1997/1998
+Newcastle,Des Hamilton,20.0,Right Midfield,Uk,3.00m,in,Summer,3,Premier League,1997,1997/1998
+Newcastle,Shay Given,21.0,Goalkeeper,Blackburn,2.25m,in,Summer,"2,25",Premier League,1997,1997/1998
+Newcastle,Brian Pinas,18.0,Left Winger,Feyenoord,400Th.,in,Summer,"0,4",Premier League,1997,1997/1998
+Newcastle,Bjarni Gudjónsson,18.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Newcastle,Ian Rush,35.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Newcastle,Temur Ketsbaia,29.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Newcastle,Stuart Pearce,35.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Newcastle,John Barnes,33.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Newcastle,Paul Barrett,19.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1997,1997/1998
+Newcastle,Ralf Keidel,20.0,Right-Back,Germany,?,in,Summer,0.01,Premier League,1997,1997/1998
+Chelsea,Graeme Le Saux,28.0,Left-Back,Blackburn,10.50m,in,Summer,"10,5",Premier League,1997,1997/1998
+Chelsea,Celestine Babayaro,18.0,Left-Back,Belgium,3.50m,in,Summer,"3,5",Premier League,1997,1997/1998
+Chelsea,Ed de Goey,30.0,Goalkeeper,Feyenoord,3.35m,in,Summer,"3,35",Premier League,1997,1997/1998
+Chelsea,Gustavo Poyet,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Chelsea,Bernard Lambourde,26.0,Centre-Back,G. Bordeaux,?,in,Summer,0.01,Premier League,1997,1997/1998
+Aston Villa,Stan Collymore,26.0,Centre-Forward,Uk,10.50m,in,Summer,"10,5",Premier League,1997,1997/1998
+Aston Villa,Simon Grayson,27.0,Right-Back,Leicester,?,in,Summer,0.01,Premier League,1997,1997/1998
+Arsenal,Marc Overmars,24.0,Left Winger,Ajax,7.50m,in,Summer,"7,5",Premier League,1997,1997/1998
+Arsenal,Gilles Grimandi,26.0,Defensive Midfield,Monaco,3.75m,in,Summer,"3,75",Premier League,1997,1997/1998
+Arsenal,Emmanuel Petit,26.0,Defensive Midfield,Monaco,3.75m,in,Summer,"3,75",Premier League,1997,1997/1998
+Arsenal,Matthew Upson,18.0,Centre-Back,Uk,2.80m,in,Summer,"2,8",Premier League,1997,1997/1998
+Arsenal,Luís Boa Morte,19.0,Left Midfield,Sporting CP,2.40m,in,Summer,"2,4",Premier League,1997,1997/1998
+Arsenal,Alexander Manninger,20.0,Goalkeeper,Central_EU,1.45m,in,Summer,"1,45",Premier League,1997,1997/1998
+Arsenal,Alberto Méndez,22.0,Attacking Midfield,Germany,375Th.,in,Summer,"0,375",Premier League,1997,1997/1998
+Arsenal,Jehad Muntasser,18.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Arsenal,Christopher Wreh,22.0,Centre-Forward,Guingamp,?,in,Summer,0.01,Premier League,1997,1997/1998
+Arsenal,Brian McGovern,17.0,defence,Cherry Orchard FC,?,in,Summer,0.01,Premier League,1997,1997/1998
+West Ham,Ian Pearce,23.0,Centre-Back,Blackburn,3.60m,in,Summer,"3,6",Premier League,1997,1997/1998
+West Ham,Eyal Berkovic,25.0,Attacking Midfield,Est_EU,2.70m,in,Summer,"2,7",Premier League,1997,1997/1998
+West Ham,Andy Impey,25.0,Defensive Midfield,Uk,1.68m,in,Summer,"1,68",Premier League,1997,1997/1998
+West Ham,Craig Forrest,29.0,Goalkeeper,Uk,750Th.,in,Summer,"0,75",Premier League,1997,1997/1998
+West Ham,Samassi Abou,24.0,Centre-Forward,Cannes,375Th.,in,Summer,"0,375",Premier League,1997,1997/1998
+West Ham,Ian Thomas-Moore,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+West Ham,David Unsworth,23.0,Left-Back,Everton,?,in,Summer,0.01,Premier League,1997,1997/1998
+West Ham,David Terrier,23.0,Centre-Back,FC Metz,?,in,Summer,0.01,Premier League,1997,1997/1998
+Bolton,Dean Holdsworth,28.0,Centre-Forward,Wimbledon FC,4.87m,in,Summer,"4,87",Premier League,1997,1997/1998
+Bolton,Robbie Elliott,23.0,Left-Back,Newcastle,3.48m,in,Summer,"3,48",Premier League,1997,1997/1998
+Bolton,Mark Fish,23.0,Centre-Back,Lazio,2.32m,in,Summer,"2,32",Premier League,1997,1997/1998
+Bolton,Neil Cox,25.0,Centre-Back,Uk,2.00m,in,Summer,2,Premier League,1997,1997/1998
+Bolton,Peter Beardsley,36.0,Second Striker,Newcastle,500Th.,in,Summer,"0,5",Premier League,1997,1997/1998
+Bolton,Arnar Gunnlaugsson,24.0,Right Winger,North_EU,140Th.,in,Summer,"0,14",Premier League,1997,1997/1998
+Bolton,Franz Carr,31.0,Right Winger,Italy,loan transfer,in,Summer,0.01,Premier League,1997,1997/1998
+Barnsley FC,Gjorgji Hristov,21.0,Centre-Forward,Central_EU,2.25m,in,Summer,"2,25",Premier League,1997,1997/1998
+Barnsley FC,Ashley Ward,26.0,Centre-Forward,Derby,1.82m,in,Summer,"1,82",Premier League,1997,1997/1998
+Barnsley FC,Darren Barnard,25.0,Left-Back,Uk,900Th.,in,Summer,"0,9",Premier League,1997,1997/1998
+Barnsley FC,Lars Leese,27.0,Goalkeeper,Bay. Leverkusen,375Th.,in,Summer,"0,375",Premier League,1997,1997/1998
+Barnsley FC,Eric Tinkler,26.0,Defensive Midfield,Italy,?,in,Summer,0.01,Premier League,1997,1997/1998
+Barnsley FC,Ales Krizan,25.0,Left-Back,Central_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Barnsley FC,Sven Peter Markstedt,25.0,Centre-Back,North_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Southampton,David Hirst,29.0,Centre-Forward,Sheff Wed,2.50m,in,Summer,"2,5",Premier League,1997,1997/1998
+Southampton,Paul Jones,30.0,Goalkeeper,Uk,1.35m,in,Summer,"1,35",Premier League,1997,1997/1998
+Southampton,Carlton Palmer,31.0,Defensive Midfield,Leeds,1.20m,in,Summer,"1,2",Premier League,1997,1997/1998
+Southampton,Kevin Davies,20.0,Centre-Forward,Uk,1.13m,in,Summer,"1,13",Premier League,1997,1997/1998
+Southampton,Lee Todd,25.0,Left-Back,Uk,1.10m,in,Summer,"1,1",Premier League,1997,1997/1998
+Southampton,Jason Bowen,25.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,1997,1997/1998
+Southampton,Stig Johansen,25.0,Centre-Forward,North_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Southampton,Kevin Richardson,34.0,Central Midfield,Coventry,?,in,Summer,0.01,Premier League,1997,1997/1998
+Southampton,Kevin Gibbens,17.0,midfield,Unknown,?,in,Summer,0.01,Premier League,1997,1997/1998
+Blackburn,Martin Dahlin,29.0,Centre-Forward,AS Roma,3.00m,in,Summer,3,Premier League,1997,1997/1998
+Blackburn,Stéphane Henchoz,22.0,Centre-Back,Hamburger SV,3.00m,in,Summer,3,Premier League,1997,1997/1998
+Blackburn,Callum Davidson,21.0,Left-Back,Uk,2.50m,in,Summer,"2,5",Premier League,1997,1997/1998
+Blackburn,John Filan,27.0,Goalkeeper,Coventry,1.00m,in,Summer,1,Premier League,1997,1997/1998
+Blackburn,Jim Corbett,17.0,Right Winger,Uk,625Th.,in,Summer,"0,625",Premier League,1997,1997/1998
+Blackburn,Patrick Valéry,27.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Blackburn,Anders Andersson,23.0,Defensive Midfield,North_EU,?,in,Summer,0.01,Premier League,1997,1997/1998
+Blackburn,Alan Fettis,26.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1997,1997/1998
+Blackburn,Tore Pedersen,27.0,Centre-Back,Germany,?,in,Summer,0.01,Premier League,1997,1997/1998
+Blackburn,Michael Watt,26.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,1997,1997/1998
+Spurs,Les Ferdinand,30.0,Centre-Forward,Newcastle,9.50m,in,Summer,"9,5",Premier League,1997,1997/1998
+Spurs,David Ginola,30.0,Left Winger,Newcastle,2.85m,in,Summer,"2,85",Premier League,1997,1997/1998
+Spurs,José Dominguez,23.0,Left Winger,Sporting CP,2.40m,in,Summer,"2,4",Premier League,1997,1997/1998
+Liverpool FC,Paul Ince,29.0,Defensive Midfield,Inter,6.30m,in,Summer,"6,3",Premier League,1997,1997/1998
+Liverpool FC,Öyvind Leonhardsen,26.0,Attacking Midfield,Wimbledon FC,5.25m,in,Summer,"5,25",Premier League,1997,1997/1998
+Liverpool FC,Danny Murphy,20.0,Central Midfield,Uk,3.00m,in,Summer,3,Premier League,1997,1997/1998
+Liverpool FC,Karl-Heinz Riedle,31.0,Centre-Forward,Bor. Dortmund,2.50m,in,Summer,"2,5",Premier League,1997,1997/1998
+Liverpool FC,Jörgen Nielsen,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Everton,John Oster,18.0,Central Midfield,Uk,1.50m,in,Summer,"1,5",Premier League,1997,1997/1998
+Everton,Gareth Farrelly,21.0,Left Midfield,Aston Villa,1.05m,in,Summer,"1,05",Premier League,1997,1997/1998
+Everton,Tony Thomas,26.0,Right-Back,Uk,650Th.,in,Summer,"0,65",Premier League,1997,1997/1998
+Everton,Slaven Bilic,28.0,Centre-Back,West Ham,?,in,Summer,0.01,Premier League,1997,1997/1998
+Everton,Daniel Williamson,23.0,Attacking Midfield,West Ham,?,in,Summer,0.01,Premier League,1997,1997/1998
+Derby,Deon Burton,20.0,Centre-Forward,Uk,1.25m,in,Summer,"1,25",Premier League,1997,1997/1998
+Derby,Jonathan Hunt,25.0,attack,Uk,750Th.,in,Summer,"0,75",Premier League,1997,1997/1998
+Derby,Rory Delap,21.0,Central Midfield,Uk,300Th.,in,Summer,"0,3",Premier League,1997,1997/1998
+Derby,Jacob Laursen,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,1997,1997/1998
+Derby,Francesco Baiano,29.0,Right Winger,Fiorentina,?,in,Summer,0.01,Premier League,1997,1997/1998
+Derby,Richard Knight,17.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,1997,1997/1998
+Derby,Stefano Eranio,30.0,Right Midfield,Milan,?,in,Summer,0.01,Premier League,1997,1997/1998
+Leeds,Martin Hiden,24.0,Centre-Back,Central_EU,2.18m,in,Winter,"2,18",Premier League,1997,1997/1998
+Sheff Wed,Andy Hinchcliffe,28.0,Left-Back,Everton,4.50m,in,Winter,"4,5",Premier League,1997,1997/1998
+Sheff Wed,Goce Sedloski,23.0,Centre-Back,Est_EU,1.50m,in,Winter,"1,5",Premier League,1997,1997/1998
+Sheff Wed,Niclas Alexandersson,26.0,Right Midfield,North_EU,1.10m,in,Winter,"1,1",Premier League,1997,1997/1998
+Sheff Wed,Mark McKeever,18.0,midfield,Uk,750Th.,in,Winter,"0,75",Premier League,1997,1997/1998
+Sheff Wed,Francesco Sanetti,19.0,Second Striker,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Sheff Wed,Earl Barrett,30.0,Right-Back,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Sheff Wed,Émerson Thome,25.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Sheff Wed,Christian Mayrleb,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Sheff Wed,Alan Quinn,18.0,Central Midfield,Cherry Orchard FC,35Th.,in,Winter,"0,035",Premier League,1997,1997/1998
+Wimbledon FC,Mark Kennedy,21.0,Left-Back,Uk,2.40m,in,Winter,"2,4",Premier League,1997,1997/1998
+Wimbledon FC,Michael Hughes,26.0,Attacking Midfield,West Ham,2.00m,in,Winter,2,Premier League,1997,1997/1998
+Wimbledon FC,Carl Leaburn,28.0,Centre-Forward,Uk,359Th.,in,Winter,"0,359",Premier League,1997,1997/1998
+Wimbledon FC,Stale Solbakken,29.0,Central Midfield,North_EU,?,in,Winter,0.01,Premier League,1997,1997/1998
+Coventry,Viorel Moldovan,25.0,Centre-Forward,Uk,3.30m,in,Winter,"3,3",Premier League,1997,1997/1998
+Coventry,George Boateng,22.0,Defensive Midfield,Feyenoord,350Th.,in,Winter,"0,35",Premier League,1997,1997/1998
+Coventry,Scott Howie,26.0,Goalkeeper,Uk,?,in,Winter,0.01,Premier League,1997,1997/1998
+Man Utd,Jonathan Greening,19.0,Central Midfield,Uk,750Th.,in,Winter,"0,75",Premier League,1997,1997/1998
+Crystal Palace,Valérien Ismaël,22.0,Centre-Back,R. Strasbourg,3.80m,in,Winter,"3,8",Premier League,1997,1997/1998
+Crystal Palace,Michele Padovano,31.0,Centre-Forward,Juventus,1.95m,in,Winter,"1,95",Premier League,1997,1997/1998
+Crystal Palace,Sasa Curcic,26.0,Defensive Midfield,Aston Villa,1.50m,in,Winter,"1,5",Premier League,1997,1997/1998
+Crystal Palace,Marcus Bent,19.0,Centre-Forward,Uk,450Th.,in,Winter,"0,45",Premier League,1997,1997/1998
+Crystal Palace,Tomas Brolin,27.0,Centre-Forward,Leeds,?,in,Winter,0.01,Premier League,1997,1997/1998
+Crystal Palace,Patrizio Billio,23.0,Attacking Midfield,Italy,?,in,Winter,0.01,Premier League,1997,1997/1998
+Newcastle,Gary Speed,28.0,Left Midfield,Everton,8.25m,in,Winter,"8,25",Premier League,1997,1997/1998
+Newcastle,Andreas Andersson,23.0,Centre-Forward,Milan,4.13m,in,Winter,"4,13",Premier League,1997,1997/1998
+Newcastle,Andy Griffin,18.0,Right-Back,Uk,2.50m,in,Winter,"2,5",Premier League,1997,1997/1998
+Newcastle,Nikolaos Dabizas,24.0,Centre-Back,Central_EU,2.00m,in,Winter,2,Premier League,1997,1997/1998
+Newcastle,Paul Robinson,19.0,Centre-Forward,Uk,350Th.,in,Winter,"0,35",Premier League,1997,1997/1998
+Newcastle,James Coppinger,17.0,Right Midfield,Uk,315Th.,in,Winter,"0,315",Premier League,1997,1997/1998
+Newcastle,Paul Dalglish,20.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Newcastle,Robin Hulbert,18.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,1997,1997/1998
+Newcastle,David Terrier,24.0,Centre-Back,West Ham,?,in,Winter,0.01,Premier League,1997,1997/1998
+Chelsea,Tore André Flo,24.0,Centre-Forward,North_EU,450Th.,in,Winter,"0,45",Premier League,1997,1997/1998
+West Ham,Trevor Sinclair,24.0,Left Winger,Uk,3.05m,in,Winter,"3,05",Premier League,1997,1997/1998
+West Ham,Stephen Bywater,16.0,Goalkeeper,Uk,450Th.,in,Winter,"0,45",Premier League,1997,1997/1998
+West Ham,Bernard Lama,34.0,Goalkeeper,Paris SG,?,in,Winter,0.01,Premier League,1997,1997/1998
+West Ham,Mohammed Berthé,25.0,Centre-Forward,France,?,in,Winter,0.01,Premier League,1997,1997/1998
+West Ham,Paulo Alves,27.0,Centre-Forward,Sporting CP,loan transfer,in,Winter,0.01,Premier League,1997,1997/1998
+Bolton,Mike Whitlow,29.0,Centre-Back,Leicester,750Th.,in,Winter,"0,75",Premier League,1997,1997/1998
+Bolton,Jussi Jääskeläinen,22.0,Goalkeeper,North_EU,150Th.,in,Winter,"0,15",Premier League,1997,1997/1998
+Bolton,John Salako,28.0,Left Midfield,Coventry,loan transfer,in,Winter,0.01,Premier League,1997,1997/1998
+Bolton,Gaetano Giallanza,23.0,Centre-Forward,FC Nantes,?,in,Winter,0.01,Premier League,1997,1997/1998
+Bolton,Bob Taylor,30.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Premier League,1997,1997/1998
+Barnsley FC,Jan Aage Fjörtoft,30.0,Centre-Forward,Uk,1.15m,in,Winter,"1,15",Premier League,1997,1997/1998
+Southampton,John Beresford,31.0,Left-Back,Newcastle,1.60m,in,Winter,"1,6",Premier League,1997,1997/1998
+Spurs,Moussa Saïb,28.0,Left Midfield,Valencia,2.60m,in,Winter,"2,6",Premier League,1997,1997/1998
+Spurs,Frode Grodas,33.0,Goalkeeper,Chelsea,350Th.,in,Winter,"0,35",Premier League,1997,1997/1998
+Spurs,Jürgen Klinsmann,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Spurs,Nicola Berti,30.0,Central Midfield,Inter,?,in,Winter,0.01,Premier League,1997,1997/1998
+Liverpool FC,Brad Friedel,26.0,Goalkeeper,North America,1.50m,in,Winter,"1,5",Premier League,1997,1997/1998
+Everton,Don Hutchison,26.0,Attacking Midfield,Uk,1.50m,in,Winter,"1,5",Premier League,1997,1997/1998
+Everton,Thomas Myhre,24.0,Goalkeeper,North_EU,1.35m,in,Winter,"1,35",Premier League,1997,1997/1998
+Everton,Mitch Ward,26.0,Central Midfield,Uk,938Th.,in,Winter,"0,938",Premier League,1997,1997/1998
+Everton,Carl Tiler,27.0,Centre-Back,Uk,937Th.,in,Winter,"0,937",Premier League,1997,1997/1998
+Everton,John O'Kane,23.0,Right-Back,Man Utd,400Th.,in,Winter,"0,4",Premier League,1997,1997/1998
+Everton,John Spencer,27.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,1997,1997/1998
+Everton,Mitch Ward,26.0,Central Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,1997,1997/1998
+Everton,Mickaël Madar,29.0,Centre-Forward,Dep. La Coruña,?,in,Winter,0.01,Premier League,1997,1997/1998
+Everton,Peter Beagrie,32.0,Left Winger,Uk,?,in,Winter,0.01,Premier League,1997,1997/1998
+Derby,Lars Bohinen,28.0,Central Midfield,Blackburn,1.50m,in,Winter,"1,5",Premier League,1997,1997/1998
+Real Sociedad,Ricardo Sá Pinto,24.0,Second Striker,Sporting CP,3.60m,in,Summer,"3,6",Primera Division,1997,1997/1998
+Real Sociedad,Dietmar Kühbauer,26.0,Central Midfield,Central_EU,600Th.,in,Summer,"0,6",Primera Division,1997,1997/1998
+Real Sociedad,Mikel Antía,24.0,Centre-Back,Real Valladolid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Sociedad,Iker Sarriegi,23.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Iván Gabrich,24.0,Centre-Forward,Ajax,3.01m,in,Summer,"3,01",Primera Division,1997,1997/1998
+CP Mérida,Gonzalo de los Santos,20.0,Defensive Midfield,South America,1.32m,in,Summer,"1,32",Primera Division,1997,1997/1998
+CP Mérida,Marcos Martín,28.0,Defensive Midfield,Spain,960Th.,in,Summer,"0,96",Primera Division,1997,1997/1998
+CP Mérida,Juan Sabas,30.0,Centre-Forward,Real Betis,751Th.,in,Summer,"0,751",Primera Division,1997,1997/1998
+CP Mérida,Leo Biagini,20.0,Centre-Forward,Atlético Madrid,Loan fee:210Th.,in,Summer,"0,21",Primera Division,1997,1997/1998
+CP Mérida,José Cortés,27.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+CP Mérida,Leo Franco,20.0,Goalkeeper,South America,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Dmitri Radchenko,26.0,Centre-Forward,Dep. La Coruña,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Carlos Navarro Montoya,31.0,Goalkeeper,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Jaime Molina,28.0,Centre-Back,Espanyol,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,David Ávila,19.0,attack,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Ramón de Quintana,25.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Pirri Mori,26.0,Attacking Midfield,SD Compostela,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CP Mérida,Manuel Ruano,22.0,Right Midfield,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+SD Compostela,René Ponk,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+SD Compostela,Romano Sion,26.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Primera Division,1997,1997/1998
+SD Compostela,Borja Agirretxu,28.0,Left-Back,Celta de Vigo,?,in,Summer,0.01,Primera Division,1997,1997/1998
+SD Compostela,Xose Carlos,26.0,Goalkeeper,Arosa SC,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Oviedo,Julio Dely Valdés,30.0,Centre-Forward,Paris SG,2.10m,in,Summer,"2,1",Primera Division,1997,1997/1998
+Real Oviedo,Xabier Eskurza,27.0,Central Midfield,Valencia,1.50m,in,Summer,"1,5",Primera Division,1997,1997/1998
+Real Oviedo,José María Buljubasich,26.0,Goalkeeper,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Oviedo,Roberto Pompei,27.0,Left Midfield,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Oviedo,Dani Pendín,22.0,Defensive Midfield,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Oviedo,Joyce Moreno,22.0,Centre-Back,Real Madrid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Oviedo,Juan González,25.0,Centre-Forward,Portugal,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Cezary Kucharski,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Sporting Gijón,Mingo,20.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Fredi,23.0,Left Midfield,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Vladimir Popovic,21.0,attack,Central_EU,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Antonio Poyatos,31.0,midfield,Valencia,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Dragoje Lekovic,29.0,Goalkeeper,Uk,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Aleksey Kosolapov,26.0,Central Midfield,Russia,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Walter Silvani,26.0,Centre-Forward,CF Extremadura,1.80m,in,Summer,"1,8",Primera Division,1997,1997/1998
+UD Salamanca,Bogdan Stelea,29.0,Goalkeeper,Est_EU,900Th.,in,Summer,"0,9",Primera Division,1997,1997/1998
+UD Salamanca,Dubravko Pavlicic,29.0,Centre-Back,Spain,90Th.,in,Summer,"0,09",Primera Division,1997,1997/1998
+UD Salamanca,Ronen Harazi,27.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Gustavo Lombardi,21.0,Right-Back,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Marco Lanna,28.0,Centre-Back,AS Roma,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Tulipa,24.0,Attacking Midfield,Boavista,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Rogério,21.0,Defensive Midfield,Belenenses,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Axel Smeets,22.0,Right-Back,Belgium,?,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Sergio Korino,22.0,Centre-Back,Athletic,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+UD Salamanca,Edu Alonso,23.0,Right-Back,Athletic,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+Valencia,Marcelinho Carioca,26.0,Attacking Midfield,South America,5.20m,in,Summer,"5,2",Primera Division,1997,1997/1998
+Valencia,Moussa Saïb,28.0,Left Midfield,AJ Auxerre,4.30m,in,Summer,"4,3",Primera Division,1997,1997/1998
+Valencia,Amedeo Carboni,32.0,Left-Back,AS Roma,4.00m,in,Summer,4,Primera Division,1997,1997/1998
+Valencia,Chemo del Solar,29.0,Central Midfield,Celta de Vigo,2.70m,in,Summer,"2,7",Primera Division,1997,1997/1998
+Valencia,Juanfran,20.0,Left-Back,Spain,1.20m,in,Summer,"1,2",Primera Division,1997,1997/1998
+Valencia,Jocelyn Angloma,31.0,Right-Back,Inter,1.20m,in,Summer,"1,2",Primera Division,1997,1997/1998
+Valencia,Gustavo Campagnuolo,24.0,Goalkeeper,South America,600Th.,in,Summer,"0,6",Primera Division,1997,1997/1998
+Valencia,Gerard López,18.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Valencia,Miroslav Djukic,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Valencia,Nicolás Olivera,19.0,Second Striker,South America,4Th.,in,Summer,"0,004",Primera Division,1997,1997/1998
+Valencia,Guillermo Morigi,23.0,Left Midfield,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Valencia,Luis Milla,31.0,Central Midfield,Real Madrid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Celta de Vigo,Valeriy Karpin,28.0,Right Midfield,Valencia,4.20m,in,Summer,"4,2",Primera Division,1997,1997/1998
+Celta de Vigo,Jorge Cadete,28.0,Centre-Forward,Uk,4.00m,in,Summer,4,Primera Division,1997,1997/1998
+Celta de Vigo,Bruno Caires,21.0,Defensive Midfield,Benfica,2.31m,in,Summer,"2,31",Primera Division,1997,1997/1998
+Celta de Vigo,Dan Eggen,27.0,Centre-Back,North_EU,800Th.,in,Summer,"0,8",Primera Division,1997,1997/1998
+Celta de Vigo,Oskar Vales,22.0,Right-Back,Athletic,600Th.,in,Summer,"0,6",Primera Division,1997,1997/1998
+Celta de Vigo,Ito,22.0,Central Midfield,CF Extremadura,300Th.,in,Summer,"0,3",Primera Division,1997,1997/1998
+Celta de Vigo,Goran Djorovic,25.0,Centre-Back,Central_EU,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Dep. La Coruña,Djalminha,26.0,Attacking Midfield,South America,9.00m,in,Summer,9,Primera Division,1997,1997/1998
+Dep. La Coruña,Luizão,21.0,Centre-Forward,South America,6.50m,in,Summer,"6,5",Primera Division,1997,1997/1998
+Dep. La Coruña,Mustapha Hadji,25.0,Attacking Midfield,Sporting CP,4.80m,in,Summer,"4,8",Primera Division,1997,1997/1998
+Dep. La Coruña,Lionel Scaloni,19.0,Right-Back,South America,2.60m,in,Summer,"2,6",Primera Division,1997,1997/1998
+Dep. La Coruña,Luis Miguel Ramis,26.0,Centre-Back,Spain,1.95m,in,Summer,"1,95",Primera Division,1997,1997/1998
+Dep. La Coruña,Salaheddine Bassir,24.0,Centre-Forward,Asia,1.80m,in,Summer,"1,8",Primera Division,1997,1997/1998
+Dep. La Coruña,Peter Rufai,33.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Dep. La Coruña,Sena,19.0,Right-Back,Portugal,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Espanyol,Quique Martín,24.0,Left Winger,Spain,700Th.,in,Summer,"0,7",Primera Division,1997,1997/1998
+Espanyol,Goran Milosevic,24.0,Centre-Back,Central_EU,450Th.,in,Summer,"0,45",Primera Division,1997,1997/1998
+Espanyol,Constantin Galca,25.0,Defensive Midfield,RCD Mallorca,100Th.,in,Summer,"0,1",Primera Division,1997,1997/1998
+Espanyol,Juan Esnáider,24.0,Centre-Forward,Atlético Madrid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Atlético Madrid,Christian Vieri,23.0,Centre-Forward,Juventus,17.56m,in,Summer,"17,56",Primera Division,1997,1997/1998
+Atlético Madrid,Rade Bogdanovic,27.0,Centre-Forward,JEF Utd Ichihara,17.40m,in,Summer,"17,4",Primera Division,1997,1997/1998
+Atlético Madrid,Juninho Paulista,24.0,Attacking Midfield,Uk,13.80m,in,Summer,"13,8",Primera Division,1997,1997/1998
+Atlético Madrid,Jordi Lardín,24.0,Left Winger,Espanyol,9.02m,in,Summer,"9,02",Primera Division,1997,1997/1998
+Atlético Madrid,Andrei Frascarelli,24.0,Centre-Back,South America,3.00m,in,Summer,3,Primera Division,1997,1997/1998
+Atlético Madrid,José Mari,18.0,Centre-Forward,Sevilla,900Th.,in,Summer,"0,9",Primera Division,1997,1997/1998
+Atlético Madrid,Paulo Futre,31.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Atlético Madrid,Ramón González,22.0,Centre-Back,Real Valladolid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CD Tenerife,Domingos Paciência,28.0,Centre-Forward,FC Porto,7.50m,in,Summer,"7,5",Primera Division,1997,1997/1998
+CD Tenerife,Roy Makaay,22.0,Centre-Forward,Vitesse,6.00m,in,Summer,6,Primera Division,1997,1997/1998
+CD Tenerife,Ferdi Vierklau,24.0,Right-Back,Vitesse,6.00m,in,Summer,6,Primera Division,1997,1997/1998
+CD Tenerife,Samuel Slovak,21.0,Attacking Midfield,Central_EU,500Th.,in,Summer,"0,5",Primera Division,1997,1997/1998
+CD Tenerife,André Luiz,22.0,Attacking Midfield,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+CD Tenerife,Juan Carlos Unzué,30.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Racing,Washington Tais,24.0,Right-Back,South America,1.08m,in,Summer,"1,08",Primera Division,1997,1997/1998
+Racing,Nelson Abeijón,23.0,Defensive Midfield,Portugal,720Th.,in,Summer,"0,72",Primera Division,1997,1997/1998
+Racing,Sietes,23.0,Left-Back,Valencia,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Racing,Porfírio,23.0,Centre-Forward,Sporting CP,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Racing,Txefe Guerrero,21.0,Defensive Midfield,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Racing,Nando Có,23.0,attack,Vitória Setúbal,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Racing,Nacho Conte,28.0,midfield,CD Tenerife,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Athletic,Roberto Ríos,25.0,Centre-Back,Real Betis,12.00m,in,Summer,12,Primera Division,1997,1997/1998
+Athletic,Javi González,23.0,Right Midfield,Celta de Vigo,900Th.,in,Summer,"0,9",Primera Division,1997,1997/1998
+Athletic,Mikel Lasa,25.0,Left-Back,Real Madrid,900Th.,in,Summer,"0,9",Primera Division,1997,1997/1998
+Athletic,Txomin Nagore,22.0,Central Midfield,Spain,450Th.,in,Summer,"0,45",Primera Division,1997,1997/1998
+Athletic,Mari Lacruz,19.0,Right-Back,Spain,450Th.,in,Summer,"0,45",Primera Division,1997,1997/1998
+Athletic,Mario Bermejo,18.0,Second Striker,Racing,240Th.,in,Summer,"0,24",Primera Division,1997,1997/1998
+Athletic,Rafael Alkorta,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Athletic,Patxi Ferreira,30.0,Centre-Back,Valencia,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Athletic,Jorge Pérez,21.0,Central Midfield,Aurrera,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Athletic,Mikel,22.0,Centre-Forward,Barakaldo CF,nan,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Madrid,Christian Karembeu,26.0,Defensive Midfield,Sampdoria,12.50m,in,Summer,"12,5",Primera Division,1997,1997/1998
+Real Madrid,Aitor Karanka,23.0,Centre-Back,Athletic,6.01m,in,Summer,"6,01",Primera Division,1997,1997/1998
+Real Madrid,Manuel Canabal,22.0,Centre-Forward,CP Mérida,4.81m,in,Summer,"4,81",Primera Division,1997,1997/1998
+Real Madrid,Sávio,23.0,Left Winger,South America,3.00m,in,Summer,3,Primera Division,1997,1997/1998
+Real Madrid,Fernando Morientes,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Real Valladolid,Gabriel Heinze,19.0,Centre-Back,South America,2.00m,in,Summer,2,Primera Division,1997,1997/1998
+Real Valladolid,García Calvo,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Real Valladolid,Chema,21.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Real Valladolid,Eusebio,33.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+Real Valladolid,Jesús Lanza,18.0,Central Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Valladolid,Diego Klimowicz,22.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Valladolid,Pepe Belman,26.0,Goalkeeper,Real Zaragoza,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Valladolid,Juan Carlos,24.0,attack,Atlético Madrid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Valladolid,Pablo García,20.0,Defensive Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Palhinha,29.0,Attacking Midfield,South America,6.00m,in,Summer,6,Primera Division,1997,1997/1998
+RCD Mallorca,Juan Carlos Valerón,22.0,Attacking Midfield,Spain,2.40m,in,Summer,"2,4",Primera Division,1997,1997/1998
+RCD Mallorca,Enrique Romero,26.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,1997,1997/1998
+RCD Mallorca,Paco Sanz,24.0,Right Midfield,Racing,?,in,Summer,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Óscar Mena,26.0,Right Midfield,South America,?,in,Summer,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Vicente Engonga,31.0,Central Midfield,Valencia,?,in,Summer,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Gabi Moya,31.0,midfield,Valencia,?,in,Summer,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Gaby Amato,26.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Iván Campo,23.0,Defensive Midfield,Valencia,loan transfer,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Betis,Oli,25.0,Centre-Forward,Real Oviedo,6.60m,in,Summer,"6,6",Primera Division,1997,1997/1998
+Real Betis,Fernando,25.0,Left Midfield,Real Valladolid,4.50m,in,Summer,"4,5",Primera Division,1997,1997/1998
+Real Betis,Roberto Solozábal,27.0,Centre-Back,Atlético Madrid,2.40m,in,Summer,"2,4",Primera Division,1997,1997/1998
+Real Betis,Ángel Cuéllar,24.0,Left Winger,Barcelona,1.80m,in,Summer,"1,8",Primera Division,1997,1997/1998
+Real Betis,Jorge Otero,28.0,Right-Back,Valencia,1.20m,in,Summer,"1,2",Primera Division,1997,1997/1998
+Real Betis,Joaquín Valerio,24.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Betis,Iván Pérez,21.0,Centre-Forward,Real Madrid,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Zaragoza,Roberto Acuña,25.0,Central Midfield,South America,4.80m,in,Summer,"4,8",Primera Division,1997,1997/1998
+Real Zaragoza,Yordi,22.0,Centre-Forward,Atlético Madrid,3.60m,in,Summer,"3,6",Primera Division,1997,1997/1998
+Real Zaragoza,Marcos Vales,22.0,Right Midfield,Sporting Gijón,1.20m,in,Summer,"1,2",Primera Division,1997,1997/1998
+Real Zaragoza,José Ignacio,23.0,Defensive Midfield,Valencia,900Th.,in,Summer,"0,9",Primera Division,1997,1997/1998
+Real Zaragoza,Gary Sundgren,29.0,Centre-Back,North_EU,420Th.,in,Summer,"0,42",Primera Division,1997,1997/1998
+Real Zaragoza,Luis Helguera,21.0,Defensive Midfield,Manchego CF,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Zaragoza,Nordin Wooter,19.0,Right Winger,Ajax,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Zaragoza,Pier,25.0,Centre-Forward,Real Betis,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Real Zaragoza,Jesús Seba,23.0,Second Striker,Uk,?,in,Summer,0.01,Primera Division,1997,1997/1998
+Barcelona,Sonny Anderson,26.0,Centre-Forward,Monaco,26.25m,in,Summer,"26,25",Primera Division,1997,1997/1998
+Barcelona,Rivaldo,25.0,Attacking Midfield,Dep. La Coruña,23.50m,in,Summer,"23,5",Primera Division,1997,1997/1998
+Barcelona,Michael Reiziger,24.0,Right-Back,Milan,8.00m,in,Summer,8,Primera Division,1997,1997/1998
+Barcelona,Christophe Dugarry,25.0,Centre-Forward,Milan,4.00m,in,Summer,4,Primera Division,1997,1997/1998
+Barcelona,Ruud Hesp,31.0,Goalkeeper,Roda JC,1.10m,in,Summer,"1,1",Primera Division,1997,1997/1998
+Barcelona,Dragan Ciric,22.0,Attacking Midfield,Central_EU,900Th.,in,Summer,"0,9",Primera Division,1997,1997/1998
+Atlético Madrid,Avi Nimni,25.0,Attacking Midfield,Est_EU,3.50m,in,Winter,"3,5",Primera Division,1997,1997/1998
+Espanyol,Iván Helguera,22.0,Centre-Back,AS Roma,4.50m,in,Winter,"4,5",Primera Division,1997,1997/1998
+Espanyol,Roberto Fresnedoso,24.0,Central Midfield,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+Dep. La Coruña,Sebastián Abreu,21.0,Centre-Forward,South America,10.50m,in,Winter,"10,5",Primera Division,1997,1997/1998
+Dep. La Coruña,Sergio Martínez,28.0,Centre-Forward,South America,3.00m,in,Winter,3,Primera Division,1997,1997/1998
+Valencia,Adrian Ilie,23.0,Centre-Forward,Turkey,3.75m,in,Winter,"3,75",Primera Division,1997,1997/1998
+UD Salamanca,Gabriel Popescu,24.0,Attacking Midfield,Est_EU,1.20m,in,Winter,"1,2",Primera Division,1997,1997/1998
+UD Salamanca,Nemanja Miljanovic,26.0,midfield,Spain,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+Sporting Gijón,Roberto Trotta,28.0,Centre-Back,South America,2.00m,in,Winter,2,Primera Division,1997,1997/1998
+Sporting Gijón,Rodrigão,25.0,Defensive Midfield,SC Braga,?,in,Winter,0.01,Primera Division,1997,1997/1998
+SD Compostela,Oskar Tabuenka,26.0,Centre-Back,Athletic,?,in,Winter,0.01,Primera Division,1997,1997/1998
+SD Compostela,Jean-François Hernandez,28.0,Centre-Back,France,?,in,Winter,0.01,Primera Division,1997,1997/1998
+CD Tenerife,Álvaro Benito,21.0,Left Midfield,Real Madrid,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+Barcelona,Winston Bogarde,27.0,Centre-Back,Milan,3.70m,in,Winter,"3,7",Primera Division,1997,1997/1998
+Real Zaragoza,Paulo Jamelli,23.0,Second Striker,Asia,7.21m,in,Winter,"7,21",Primera Division,1997,1997/1998
+RCD Mallorca,Carlos Roa,28.0,Goalkeeper,South America,?,in,Winter,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Michael Obiku,29.0,Centre-Forward,Asia,?,in,Winter,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Santiago Ezquerro,21.0,Centre-Forward,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+RCD Mallorca,Iván Rocha,28.0,Left-Back,Spain,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+Real Valladolid,Manuel Canabal,23.0,Centre-Forward,Real Madrid,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+Real Madrid,Rodrigo Fabri,21.0,Attacking Midfield,South America,900Th.,in,Winter,"0,9",Primera Division,1997,1997/1998
+CP Mérida,Ángel Morales,22.0,Attacking Midfield,Sampdoria,loan transfer,in,Winter,0.01,Primera Division,1997,1997/1998
+FC Porto,Doriva,25.0,Right Midfield,South America,700Th.,in,Summer,"0,7",Liga Nos,1997,1997/1998
+FC Porto,Kenedy,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+FC Porto,Nuno Capucho,25.0,Right Winger,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Emilio Peixe,24.0,Defensive Midfield,Sporting CP,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Youssef Chippo,24.0,Central Midfield,Asia,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Pedro Taborda,19.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Neves,26.0,Right-Back,Marítimo,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Gaspar,22.0,Centre-Back,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Rui Correia,29.0,Goalkeeper,SC Braga,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Pedro Henriques,22.0,Left-Back,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Costinha,23.0,Goalkeeper,Sporting CP,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Deco,19.0,Attacking Midfield,South America,4.00m,in,Summer,4,Liga Nos,1997,1997/1998
+Benfica,Amaral,24.0,Defensive Midfield,AC Parma,3.50m,in,Summer,"3,5",Liga Nos,1997,1997/1998
+Benfica,Sergey Ovchinnikov,26.0,Goalkeeper,Russia,1.20m,in,Summer,"1,2",Liga Nos,1997,1997/1998
+Benfica,Paulo Madeira,26.0,Centre-Back,Belenenses,200Th.,in,Summer,"0,2",Liga Nos,1997,1997/1998
+Benfica,Scott Minto,25.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Benfica,Sergiy Kandaurov,24.0,Central Midfield,Est_EU,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Paulo Nunes,25.0,Second Striker,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Duda,23.0,Right Winger,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Leonidas,22.0,Attacking Midfield,<U+0422><U+043E><U+0440><U+043F><U+0435><U+0434><U+043E>-<U+041B><U+0443><U+0436><U+043D><U+0438><U+043A><U+0438>,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Nuno Gomes,20.0,Centre-Forward,Boavista,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Carlos Gamarra,26.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Gaston Taument,26.0,Right Winger,Feyenoord,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Luís Carlos,24.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Alejandro Cichero,20.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Erwin Sánchez,27.0,Attacking Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Benfica,Jordão,25.0,Defensive Midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vit. Guimarães,Fangueiro,20.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Vit. Guimarães,Edmilson,29.0,attack,Marítimo,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vit. Guimarães,Filipe Ramos,27.0,Central Midfield,Marítimo,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vit. Guimarães,Auri,23.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vit. Guimarães,Pedro Espinha,31.0,Goalkeeper,Salgueiros,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vit. Guimarães,Tito,25.0,Left-Back,Chaves,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vit. Guimarães,Paiva,24.0,Defensive Midfield,Farense,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Leandro Machado,21.0,Centre-Forward,Valencia,1.00m,in,Summer,1,Liga Nos,1997,1997/1998
+Sporting CP,Juan Viveros,16.0,Left Winger,South America,223Th.,in,Summer,"0,223",Liga Nos,1997,1997/1998
+Sporting CP,Vinícius,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Sporting CP,Quim Berto,25.0,Right-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Marco Almeida,20.0,Centre-Back,Lourinhanense,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Carlos Miguel,25.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Didier Lang,26.0,Defensive Midfield,FC Metz,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Nené,22.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Nélson,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Marítimo,Avelino De Vasconcelos,26.0,defence,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Marítimo,Albertino,25.0,Right-Back,Coimbra,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Maurício Cabedelo,25.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Pedro Paulo,23.0,Central Midfield,União Lamas,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Paulo Fonseca,24.0,Centre-Back,Belenenses,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Ico,24.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Rui Óscar,21.0,Right-Back,FC Porto,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Ricardo Silva,21.0,Centre-Back,CA Felgueiras,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Marítimo,Romeu,22.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Lamine Conteh,21.0,Attacking Midfield,Germany,51Th.,in,Summer,"0,051",Liga Nos,1997,1997/1998
+Boavista,Luis Carlos,28.0,midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Romeo Wouden,26.0,Left Winger,Heerenveen,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Pepe de la Sagra,21.0,Attacking Midfield,Spain,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Luís Manuel,26.0,Defensive Midfield,Salgueiros,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Kwame Ayew,23.0,Centre-Forward,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,William Quevedo,26.0,Left-Back,Moreirense,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Cândido Rego,26.0,Goalkeeper,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Delfim,20.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Boavista,Rui Miguel,22.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+CF Estrela ,Raul Oliveira,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+CF Estrela ,Lázaro Oliveira,29.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+CF Estrela ,Tomislav Ivkovic,36.0,Goalkeeper,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+CF Estrela ,Mauro Airez,28.0,Centre-Forward,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Silvino Louro,38.0,Goalkeeper,FC Porto,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Artur Jorge Vicente,24.0,attack,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Paulinho,31.0,Centre-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Popó,18.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Cao,28.0,Defensive Midfield,Leça,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Zé Luís Araque,22.0,Central Midfield,Unknown,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Rio Ave FC,Niquinha,25.0,Central Midfield,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Rio Ave FC,Nelo,29.0,Central Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Rio Ave FC,Tó Luis,29.0,Goalkeeper,Boavista,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Rio Ave FC,Quinzinho,23.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Paulo Morais,22.0,Goalkeeper,Beja,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Srdjan Bajcetic,25.0,midfield,Celta de Vigo,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Lino,25.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Andrzej Wozniak,31.0,Goalkeeper,FC Porto,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Formoso,23.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Dmitri Prokopenko,25.0,Centre-Forward,Russia,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Braga,Carlitos,20.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Demétrios,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Emilio Viqueira,22.0,Central Midfield,Deportivo,loan transfer,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),István Vincze,30.0,Left Winger,Germinal Ekeren,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Laelson,21.0,Right Winger,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Madureira,32.0,Goalkeeper,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Renê Rivas,28.0,Centre-Back,Rochester Rhinos,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Welington,22.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Crespo,27.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Isaias,33.0,Second Striker,Coventry,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Mario Marinho,26.0,Right-Back,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Basílio Marques,31.0,Left-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Branquinho,20.0,Left-Back,O Elvas,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Leça,Ricardo Carvalho,19.0,Centre-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,1997,1997/1998
+Leça,Carlos,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Toñito,20.0,Right Midfield,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Vitória Setúbal,Filipe Cândido,17.0,Right Winger,Real Madrid,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Amaral,27.0,Right Winger,Belenenses,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Nuno Afonso,22.0,Centre-Back,UD Salamanca,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Vlada Stosic,32.0,midfield,North America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Velli Kasumov,28.0,Centre-Forward,Spain,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Aurtis Whitley,20.0,Defensive Midfield,Uk,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Farense,Hassan Nader,31.0,Centre-Forward,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Farense,Mauro Soares,28.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Farense,Paulo Serrão,21.0,defence,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Coimbra,Nélson Veríssimo,20.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Coimbra,Akwá,20.0,Centre-Forward,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Coimbra,Paulão,27.0,Right Winger,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Coimbra,Tó Sá,28.0,Right-Back,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Coimbra,Carlos Miguel,26.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Coimbra,Aurélio Soares,23.0,Centre-Back,1º de Agosto,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Chaves,Paulo Jorge da Silva,22.0,attack,Petro Luanda,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Chaves,Leonson Lewis,30.0,attack,Boavista,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Chaves,Vítor Vieira,24.0,Right Winger,Marítimo,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Chaves,Tonino,25.0,midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Varzim,Mariano,21.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Varzim,Ricardo Nascimento,23.0,Attacking Midfield,Boavista,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Varzim,Fernando Brassard,25.0,Goalkeeper,Benfica,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Varzim,Quim Machado,30.0,midfield,Chaves,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Varzim,Luizão,26.0,Centre-Back,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Belenenses,João Paulo Brito,23.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Belenenses,Diyan Petkov,29.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Belenenses,Marco Botelho,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Belenenses,Joseph Addo,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,1997,1997/1998
+Belenenses,Gerson,22.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Belenenses,Abdoul Salam Sow,26.0,Right Winger,Asia,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Belenenses,Quim Ferraz,23.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Belenenses,Jojó,26.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Belenenses,Gocha Kokoshvili,28.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+Belenenses,Nené,20.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,1997,1997/1998
+FC Porto,Secretário,27.0,Right-Back,Real Madrid,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Benfica,Karel Poborsky,25.0,Right Midfield,Man Utd,2.80m,in,Winter,"2,8",Liga Nos,1997,1997/1998
+Benfica,Brian Deane,29.0,Centre-Forward,Uk,1.40m,in,Winter,"1,4",Liga Nos,1997,1997/1998
+Benfica,Bruno Basto,19.0,Left-Back,Portugal,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Bruno Marioni,22.0,Left Winger,South America,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Edmílson,26.0,Second Striker,Paris SG,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Leão,26.0,Defensive Midfield,Salgueiros,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Sporting CP,Renato,25.0,Centre-Back,Salgueiros,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Boavista,William,29.0,Goalkeeper,South America,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Marco Caneira,18.0,Centre-Back,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Torrão,20.0,Defensive Midfield,Lourinhanense,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Tulipa,25.0,Attacking Midfield,UD Salamanca,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Marcos Severo,32.0,attack,Varzim,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Schuster,19.0,Attacking Midfield,Vila Real,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,João Pedro,23.0,Centre-Forward,GD Ribeirão,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Salgueiros,Luís Carlos,25.0,Attacking Midfield,Benfica,loan transfer,in,Winter,0.01,Liga Nos,1997,1997/1998
+SC Braga,Jordão,26.0,Defensive Midfield,Benfica,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Telmo,22.0,Left-Back,South America,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Nélson Costa,19.0,Centre-Back,Uk,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+SC Campomaiorense (- 2001),Nuno Campos,22.0,Right-Back,Portugal,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Leça,Nuno Rocha,20.0,Central Midfield,Portugal,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Pedro Henriques,23.0,Left-Back,FC Porto,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Ricardo Silva,20.0,Right Winger,Portugal,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Chiquinho Conde,32.0,Centre-Forward,Tampa Bay,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Vitória Setúbal,Jae-kwon Jung,27.0,Left Winger,Pusan Daewoo,loan transfer,in,Winter,0.01,Liga Nos,1997,1997/1998
+Coimbra,Igor Akmadzic,24.0,attack,H. Beit Shean,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Coimbra,Miguel Bruno,26.0,Centre-Forward,Portugal,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Chaves,Auri,24.0,Centre-Back,Vit. Guimarães,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Varzim,Lamine Conteh,21.0,Attacking Midfield,Boavista,?,in,Winter,0.01,Liga Nos,1997,1997/1998
+Belenenses,Perdigão,20.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Liga Nos,1997,1997/1998
+NAC Breda,Archil Arveladze,24.0,Centre-Forward,Turkey,500Th.,in,Summer,"0,5",Eredivisie,1997,1997/1998
+NAC Breda,Kevin Van Dessel,18.0,Left Midfield,Germinal Ekeren,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Alfred Schreuder,24.0,Defensive Midfield,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Nebojsa Gudelj,28.0,Left-Back,CD Toledo,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Ante Milicic,23.0,Centre-Forward,Sydney United,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Glenn Helder,28.0,Left Winger,Arsenal,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Bart De Roover,29.0,Centre-Back,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,John Feskens,31.0,midfield,Willem II,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Erwin van de Looi,25.0,Centre-Back,Vitesse,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+De Graafschap,Tomasz Rzasa,24.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+De Graafschap,Dave de Jong,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+De Graafschap,Ville Väisänen,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+De Graafschap,Dennis Gerritsen,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+De Graafschap,Daniel Voigt,19.0,Centre-Back,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+Ajax,Michael Laudrup,33.0,Attacking Midfield,Asia,7.50m,in,Summer,"7,5",Eredivisie,1997,1997/1998
+Ajax,Froylán Ledezma,19.0,Centre-Forward,South America,4.50m,in,Summer,"4,5",Eredivisie,1997,1997/1998
+Ajax,Sunday Oliseh,22.0,Defensive Midfield,1. FC Köln,2.30m,in,Summer,"2,3",Eredivisie,1997,1997/1998
+Ajax,Gerald Sibon,23.0,Centre-Forward,Roda JC,2.25m,in,Summer,"2,25",Eredivisie,1997,1997/1998
+Ajax,Shota Arveladze,24.0,Centre-Forward,Turkey,1.60m,in,Summer,"1,6",Eredivisie,1997,1997/1998
+Ajax,Ole Tobiasen,21.0,Centre-Back,Heerenveen,1.30m,in,Summer,"1,3",Eredivisie,1997,1997/1998
+Ajax,Andrzej Rudy,31.0,midfield,Belgium,1.13m,in,Summer,"1,13",Eredivisie,1997,1997/1998
+Ajax,Dean Gorré,26.0,Right Winger,FC Groningen,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Ajax,Tom Sier,27.0,Left-Back,Heerenveen,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Ajax,Richard Knopper,19.0,Attacking Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Marian Zeman,22.0,Centre-Back,Turkey,1.60m,in,Summer,"1,6",Eredivisie,1997,1997/1998
+Vitesse,Mamadou Zongo,16.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Vitesse,Orlando Trustfull,26.0,Defensive Midfield,Sheff Wed,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Leo Koswal,21.0,Right Winger,MVV Maastricht,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,John Veldman,29.0,Centre-Back,Ajax,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Jeremy Overbeek Bloem,16.0,midfield,Graafschap Yth.,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Marco De Marchi,30.0,Centre-Back,Bologna,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Marko Perovic,25.0,Attacking Midfield,Italy,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Menno Willems,20.0,Left-Back,Ajax,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Marc van Hintum,30.0,Left-Back,Willem II,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Michel Kreek,26.0,Left-Back,Italy,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Martijn Reuser,22.0,Attacking Midfield,Ajax,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+Vitesse,Carlos Fortes,23.0,Left Winger,Sparta R.,nan,in,Summer,0.01,Eredivisie,1997,1997/1998
+Sparta R.,Roland Jansen,29.0,Goalkeeper,Willem II,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Sparta R.,Johan van der Werff,22.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Sparta R.,Nico Jalink,33.0,Right Midfield,NAC Breda,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Sparta R.,Gert Aandewiel,27.0,Defensive Midfield,FC Volendam,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Sparta R.,Jimmy Simons,27.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NEC Nijmegen,Danny Hesp,27.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NEC Nijmegen,Dzevdet Sainoski,24.0,Defensive Midfield,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NEC Nijmegen,Marchanno Schultz,24.0,midfield,De Graafschap,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+NEC Nijmegen,Krzystof Bociek,23.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Willem II,Clyde Wijnhard,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Willem II,Marino Promes,20.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Willem II,Arno Arts,28.0,Central Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Willem II,Jukka Koskinen,24.0,Left-Back,North_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Willem II,István Szekér,26.0,Centre-Back,Central_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Willem II,Cemal Yilmaz,28.0,Central Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Fortuna Sittard,Edwin Hermans,23.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Fortuna Sittard,François Gesthuizen,24.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Fortuna Sittard,Dorel Zegrean,27.0,Left-Back,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Fortuna Sittard,Alin Banceu,23.0,attack,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Fortuna Sittard,Cosmin Maris,22.0,Central Midfield,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Kenneth Pérez,22.0,Centre-Forward,North_EU,500Th.,in,Summer,"0,5",Eredivisie,1997,1997/1998
+MVV Maastricht,Wasio Taiwo,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+MVV Maastricht,Jack Vaessen,20.0,Defensive Midfield,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Hans Spillmann,28.0,Goalkeeper,Roda JC,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Wim Dusseldorp,36.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Arjan Vermeulen,28.0,Left-Back,France,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Jerry de Jong,31.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Marc Nygaard,20.0,Centre-Forward,Heerenveen,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Joost Volmer,23.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Davy Heymans,18.0,midfield,KRC Genk U19,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Mark Luijpers,26.0,Left-Back,Roda JC,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Jeroen Heubach,22.0,Left-Back,Twente FC,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+PSV Eindhoven,Tomasz Iwan,26.0,Right Midfield,Feyenoord,2.40m,in,Summer,"2,4",Eredivisie,1997,1997/1998
+PSV Eindhoven,Peter Möller,25.0,Centre-Forward,North_EU,1.50m,in,Summer,"1,5",Eredivisie,1997,1997/1998
+PSV Eindhoven,Georg Koch,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+PSV Eindhoven,Arnold Bruggink,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+PSV Eindhoven,Igor Demo,21.0,Central Midfield,Central_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Twente FC,Dennis Hulshoff,27.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Twente FC,Andrey Kurdyumov,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Twente FC,Rico Steinmann,29.0,Right Midfield,1. FC Köln,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Twente FC,Martijn Abbenhuës,23.0,attack,SC Enschede,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Twente FC,Achmed Kandhai,19.0,attack,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Ruud van Nistelrooy,21.0,Centre-Forward,Netherlands,1.58m,in,Summer,"1,58",Eredivisie,1997,1997/1998
+Heerenveen,Arkadiusz Radomski,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Heerenveen,Raphael Bove,20.0,midfield,Sydney Olympic,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Thomas Holm,16.0,Central Midfield,Vålerenga U19,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Florin Constantinovici,29.0,Centre-Back,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Dumitru Mitrita,26.0,Left-Back,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Meindert Postma,19.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Ardon de Waard,20.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Emmanuel Ebiede,21.0,midfield,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,David Damman,20.0,defence,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Ties Heldens,18.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Radu Gusatu,27.0,Attacking Midfield,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Khalid Sinouh,22.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Radoslav Samardzic,27.0,Centre-Forward,FC Volendam,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Ivan Tsvetkov,17.0,Centre-Forward,Pirin,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Augustus Dumbar,18.0,attack,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+RKC Waalwijk,Martijn Kuiper,18.0,Centre-Back,Vitesse,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Carlos van Wanrooij,30.0,Left Midfield,Vitesse,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Miodrag Bozovic,29.0,defence,Est_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Charles Chiemezie,17.0,attack,Anderlecht Yth.,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Dennis Rommedahl,18.0,Right Winger,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Anders Nielsen,24.0,Centre-Forward,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,1997,1997/1998
+Feyenoord,Bert Konterman,26.0,Centre-Back,Willem II,2.70m,in,Summer,"2,7",Eredivisie,1997,1997/1998
+Feyenoord,Giorgi Demetradze,20.0,Centre-Forward,Est_EU,1.00m,in,Summer,1,Eredivisie,1997,1997/1998
+Feyenoord,Paul Bosvelt,27.0,Defensive Midfield,Twente FC,500Th.,in,Summer,"0,5",Eredivisie,1997,1997/1998
+Feyenoord,Igor Korneev,29.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Feyenoord,David Connolly,20.0,attack,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Feyenoord,Bonaventure Kalou,19.0,Right Winger,ASEC Mimosas,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Feyenoord,Zsolt Petry,30.0,Goalkeeper,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Feyenoord,Ulrich van Gobbel,26.0,Right-Back,Southampton,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Groningen,Joost Broerse,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Groningen,Leonardo,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Groningen,Hugo,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Groningen,Mariano Bombarda,24.0,Centre-Forward,FC Metz,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Groningen,Marcel Peeper,31.0,Left Midfield,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Groningen,Toine Rorije,23.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Emmanuel Nwakire,18.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Utrecht,Dennis van der Ree,18.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Utrecht,Dionysius Sebwe,28.0,defence,Orlando Sundogs,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Dennis van der Steen,21.0,Right Midfield,Brederodes,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Stefan Haaksman,23.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Harry Decheiver,27.0,Centre-Forward,Germany,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Pascal Bosschaart,17.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Tom Van Mol,24.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Harald Wapenaar,27.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Mitchell van der Gaag,25.0,Centre-Back,Uk,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Bob Peeters,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+Roda JC,Mariusz Kukielka,20.0,Centre-Back,Central_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Igor Tomasic,20.0,Centre-Back,Croatia Zagreb,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Joos Valgaeren,21.0,Centre-Back,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Jörg Kässmann,28.0,Goalkeeper,Bor. M'gladbach,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Gábor Torma,20.0,Centre-Forward,Belgium,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Stephan 't Hart,26.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Nikola Damjanac,25.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Rastislav Mores,21.0,midfield,NEC Nijmegen,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+Roda JC,Nenad Miskovic,21.0,Left Midfield,Central_EU,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Silvan Inia,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Volendam,Dennis Schulp,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,1997,1997/1998
+FC Volendam,Ashwin de Bruijn,25.0,attack,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Ibrahim Babangida,20.0,midfield,Unknown,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Marco Boogers,30.0,Centre-Forward,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Rob Hilbers,26.0,Goalkeeper,FC Groningen,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Arnold Nijkamp,24.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Marco Gentile,29.0,Centre-Back,Uk,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Vincent Gouttebarge,21.0,defence,AJ Auxerre,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+FC Volendam,Yuri Rose,18.0,Attacking Midfield,Ajax,?,in,Summer,0.01,Eredivisie,1997,1997/1998
+MVV Maastricht,Emerson,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,1997,1997/1998
+FC Volendam,Milan Berck Beelenkamp,20.0,Right-Back,free agents,free transfer,in,Winter,0,Eredivisie,1997,1997/1998
+NEC Nijmegen,Ayhan Tumani,26.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,1997,1997/1998
+NEC Nijmegen,Bart Latuheru,32.0,Right Winger,Netherlands,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+NEC Nijmegen,Yassine Abdellaoui,22.0,Left Midfield,Spain,nan,in,Winter,0.01,Eredivisie,1997,1997/1998
+Willem II,Adil Ramzi,20.0,Left Midfield,Italy,loan transfer,in,Winter,0.01,Eredivisie,1997,1997/1998
+Willem II,Marcel Valk,30.0,Right Midfield,FC Volendam,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Jeong-yun No,26.0,Second Striker,Asia,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+NAC Breda,Rade Bogdanovic,27.0,Centre-Forward,Atlético Madrid,loan transfer,in,Winter,0.01,Eredivisie,1997,1997/1998
+PSV Eindhoven,André Ooijer,23.0,Centre-Back,Roda JC,450Th.,in,Winter,"0,45",Eredivisie,1997,1997/1998
+PSV Eindhoven,Dmitri Khokhlov,22.0,Central Midfield,<U+0422><U+043E><U+0440><U+043F><U+0435><U+0434><U+043E>-<U+041B><U+0443><U+0436><U+043D><U+0438><U+043A><U+0438>,300Th.,in,Winter,"0,3",Eredivisie,1997,1997/1998
+PSV Eindhoven,Andrius Skerla,20.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,1997,1997/1998
+Twente FC,Antti Sumiala,23.0,Centre-Forward,NEC Nijmegen,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+Twente FC,Chris De Witte,19.0,Centre-Forward,Belgium,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+Heerenveen,Brian Tevreden,28.0,Right-Back,Netherlands,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Maarten Schops,21.0,Defensive Midfield,Roda JC,loan transfer,in,Winter,0.01,Eredivisie,1997,1997/1998
+RKC Waalwijk,Yuri Petrov,23.0,Centre-Forward,Twente FC,loan transfer,in,Winter,0.01,Eredivisie,1997,1997/1998
+Feyenoord,Julio Cruz,23.0,Centre-Forward,South America,5.40m,in,Winter,"5,4",Eredivisie,1997,1997/1998
+Feyenoord,Edwin Zoetebier,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Eredivisie,1997,1997/1998
+FC Groningen,Mario Rodríguez,21.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,1997,1997/1998
+FC Utrecht,John de Jong,20.0,Attacking Midfield,Netherlands,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+FC Utrecht,Scott Booth,26.0,Centre-Forward,Bor. Dortmund,loan transfer,in,Winter,0.01,Eredivisie,1997,1997/1998
+Roda JC,Edwin Grünholz,28.0,attack,Netherlands,?,in,Winter,0.01,Eredivisie,1997,1997/1998
+Roda JC,Bernard Samuel Tchoutang,21.0,Left Winger,Belgium,?,in,Winter,0.01,Eredivisie,1997,1997/1998

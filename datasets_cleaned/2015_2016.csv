@@ -1,0 +1,1616 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Juventus,Paulo Dybala,21.0,Second Striker,US Palermo,41.00m,in,Summer,41,Serie A,2015,2015/2016
+Juventus,Miralem Pjanic,26.0,Central Midfield,AS Roma,32.00m,in,Summer,32,Serie A,2015,2015/2016
+Juventus,Alex Sandro,24.0,Left-Back,FC Porto,28.00m,in,Summer,28,Serie A,2015,2015/2016
+Juventus,Mario Mandzukic,29.0,Centre-Forward,Atlético Madrid,19.00m,in,Summer,19,Serie A,2015,2015/2016
+Juventus,Simone Zaza,24.0,Centre-Forward,Sassuolo,18.00m,in,Summer,18,Serie A,2015,2015/2016
+Juventus,Roberto Pereyra,24.0,Attacking Midfield,Udinese Calcio,15.00m,in,Summer,15,Serie A,2015,2015/2016
+Juventus,Hernanes,30.0,Attacking Midfield,Inter,13.00m,in,Summer,13,Serie A,2015,2015/2016
+Juventus,Alberto Brignoli,23.0,Goalkeeper,Italy,2.35m,in,Summer,"2,35",Serie A,2015,2015/2016
+Juventus,Eric Lanini,21.0,Centre-Forward,US Palermo,2.00m,in,Summer,2,Serie A,2015,2015/2016
+Juventus,Juan Cuadrado,27.0,Right-Back,Chelsea,Loan fee:1.80m,in,Summer,"1,8",Serie A,2015,2015/2016
+Juventus,Andrés Tello,18.0,Central Midfield,South America,1.60m,in,Summer,"1,6",Serie A,2015,2015/2016
+Juventus,Mame Thiam,22.0,Left Winger,Italy,1.40m,in,Summer,"1,4",Serie A,2015,2015/2016
+Juventus,Joyce Anacoura,20.0,Goalkeeper,Italy,750Th.,in,Summer,"0,75",Serie A,2015,2015/2016
+Juventus,Mario Lemina,21.0,Defensive Midfield,Marseille,Loan fee:500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Juventus,Gregorio Luperini,21.0,Central Midfield,Italy,99Th.,in,Summer,"0,099",Serie A,2015,2015/2016
+Juventus,Alberto Cerri,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Juventus,Neto,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Juventus,Sami Khedira,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Juventus,Stefano Beltrame,22.0,Attacking Midfield,Sampdoria,?,in,Summer,0.01,Serie A,2015,2015/2016
+AS Roma,Andrea Bertolacci,24.0,Central Midfield,Genoa,8.50m,in,Summer,"8,5",Serie A,2015,2015/2016
+AS Roma,Leandro Paredes,21.0,Defensive Midfield,South America,6.00m,in,Summer,6,Serie A,2015,2015/2016
+AS Roma,Mohamed Salah,23.0,Right Winger,Chelsea,Loan fee:5.00m,in,Summer,5,Serie A,2015,2015/2016
+AS Roma,Víctor Ibarbo,25.0,Second Striker,Italy,Loan fee:5.00m,in,Summer,5,Serie A,2015,2015/2016
+AS Roma,Ezequiel Ponce,18.0,Centre-Forward,South America,4.20m,in,Summer,"4,2",Serie A,2015,2015/2016
+AS Roma,Nemanja Radonjic,19.0,Left Winger,Italy,4.00m,in,Summer,4,Serie A,2015,2015/2016
+AS Roma,Edin Dzeko,29.0,Centre-Forward,Man City,Loan fee:4.00m,in,Summer,4,Serie A,2015,2015/2016
+AS Roma,Antonio Rüdiger,22.0,Centre-Back,VfB Stuttgart,Loan fee:4.00m,in,Summer,4,Serie A,2015,2015/2016
+AS Roma,Lucas Digne,22.0,Left-Back,Paris SG,Loan fee:2.50m,in,Summer,"2,5",Serie A,2015,2015/2016
+AS Roma,Iago Falque,25.0,Right Winger,Genoa,Loan fee:1.00m,in,Summer,1,Serie A,2015,2015/2016
+AS Roma,Matteo Politano,21.0,Right Winger,Italy,600Th.,in,Summer,"0,6",Serie A,2015,2015/2016
+AS Roma,William Vainqueur,26.0,Defensive Midfield,Russia,579Th.,in,Summer,"0,579",Serie A,2015,2015/2016
+AS Roma,Norbert Gyomber,23.0,Centre-Back,Italy,Loan fee:500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+AS Roma,Umar Sadiq,18.0,Centre-Forward,Italy,Loan fee:250Th.,in,Summer,"0,25",Serie A,2015,2015/2016
+AS Roma,Tiago Casasola,20.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+AS Roma,Tomas Vestenicky,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+AS Roma,Emerson,21.0,Left-Back,South America,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+AS Roma,Wojciech Szczesny,25.0,Goalkeeper,Arsenal,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Lazio,Sergej Milinkovic-Savic,20.0,Central Midfield,Belgium,12.00m,in,Summer,12,Serie A,2015,2015/2016
+Lazio,Dusan Basta,30.0,Right-Back,Udinese Calcio,10.50m,in,Summer,"10,5",Serie A,2015,2015/2016
+Lazio,Ricardo Kishna,20.0,Left Winger,Ajax,3.00m,in,Summer,3,Serie A,2015,2015/2016
+Lazio,Maurício,26.0,Centre-Back,Sporting CP,2.65m,in,Summer,"2,65",Serie A,2015,2015/2016
+Lazio,Patric,22.0,Centre-Back,Spain,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Lazio,Wesley Hoedt,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Lazio,Alessandro Matri,31.0,Centre-Forward,AC Milan,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Fiorentina,Nikola Kalinic,27.0,Centre-Forward,Est_EU,5.50m,in,Summer,"5,5",Serie A,2015,2015/2016
+Fiorentina,Mario Suárez,28.0,Centre-Back,Atlético Madrid,5.00m,in,Summer,5,Serie A,2015,2015/2016
+Fiorentina,Jaime Báez,20.0,Left Winger,South America,2.30m,in,Summer,"2,3",Serie A,2015,2015/2016
+Fiorentina,Gilberto,22.0,Right-Back,South America,2.00m,in,Summer,2,Serie A,2015,2015/2016
+Fiorentina,Davide Astori,28.0,Centre-Back,Italy,Loan fee:1.50m,in,Summer,"1,5",Serie A,2015,2015/2016
+Fiorentina,Jakub Blaszczykowski,29.0,Right Winger,Bor. Dortmund,Loan fee:1.00m,in,Summer,1,Serie A,2015,2015/2016
+Fiorentina,Luigi Sepe,24.0,Goalkeeper,SSC Napoli,Loan fee:750Th.,in,Summer,"0,75",Serie A,2015,2015/2016
+Fiorentina,Luca Bittante,21.0,Right-Back,Italy,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Fiorentina,Joan Verdú,32.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+SSC Napoli,Allan,24.0,Defensive Midfield,Udinese Calcio,11.50m,in,Summer,"11,5",Serie A,2015,2015/2016
+SSC Napoli,Vlad Chiriches,25.0,Centre-Back,Spurs,7.00m,in,Summer,7,Serie A,2015,2015/2016
+SSC Napoli,Mirko Valdifiori,29.0,Defensive Midfield,Empoli,5.50m,in,Summer,"5,5",Serie A,2015,2015/2016
+SSC Napoli,Elseid Hysaj,21.0,Right-Back,Empoli,5.00m,in,Summer,5,Serie A,2015,2015/2016
+SSC Napoli,Pepe Reina,32.0,Goalkeeper,Bayern Munich,2.00m,in,Summer,2,Serie A,2015,2015/2016
+SSC Napoli,Raffaele Maiello,24.0,Defensive Midfield,Italy,1.50m,in,Summer,"1,5",Serie A,2015,2015/2016
+SSC Napoli,Jacopo Dezi,23.0,Central Midfield,Italy,300Th.,in,Summer,"0,3",Serie A,2015,2015/2016
+SSC Napoli,Nathaniel Chalobah,20.0,Defensive Midfield,Chelsea,Loan fee:250Th.,in,Summer,"0,25",Serie A,2015,2015/2016
+SSC Napoli,Gabriel,22.0,Goalkeeper,AC Milan,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Genoa,Luka Krajnc,20.0,Centre-Back,Italy,5.00m,in,Summer,5,Serie A,2015,2015/2016
+Genoa,Michael Ventre,19.0,Second Striker,Inter,3.50m,in,Summer,"3,5",Serie A,2015,2015/2016
+Genoa,Leonardo Pavoletti,26.0,Centre-Forward,Sassuolo,3.00m,in,Summer,3,Serie A,2015,2015/2016
+Genoa,Diego Capel,27.0,Left Winger,Sporting CP,1.30m,in,Summer,"1,3",Serie A,2015,2015/2016
+Genoa,Cristian Ansaldi,28.0,Left-Back,Russia,Loan fee:650Th.,in,Summer,"0,65",Serie A,2015,2015/2016
+Genoa,Issa Cissokho,30.0,Right-Back,FC Nantes,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Genoa,Ezequiel Muñoz,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Genoa,Samir Ujkani,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Genoa,Darko Lazovic,24.0,Left Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Genoa,Goran Pandev,31.0,Second Striker,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Genoa,Serge Gakpé,28.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Genoa,Blerim Dzemaili,29.0,Central Midfield,Turkey,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Genoa,Olivier Ntcham,19.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Genoa,Diogo Figueiras,24.0,Right-Back,Sevilla FC,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Sampdoria,Luis Muriel,24.0,Centre-Forward,Udinese Calcio,12.00m,in,Summer,12,Serie A,2015,2015/2016
+Sampdoria,Fernando,23.0,Defensive Midfield,Est_EU,8.00m,in,Summer,8,Serie A,2015,2015/2016
+Sampdoria,Ervin Zukanovic,28.0,Centre-Back,Chievo Verona,3.28m,in,Summer,"3,28",Serie A,2015,2015/2016
+Sampdoria,Lucas Torreira,19.0,Defensive Midfield,Italy,3.00m,in,Summer,3,Serie A,2015,2015/2016
+Sampdoria,Alfred Duncan,22.0,Central Midfield,Inter,2.60m,in,Summer,"2,6",Serie A,2015,2015/2016
+Sampdoria,Michele Rocca,19.0,Central Midfield,Italy,400Th.,in,Summer,"0,4",Serie A,2015,2015/2016
+Sampdoria,Pedro Pereira,17.0,Right Midfield,Benfica,190Th.,in,Summer,"0,19",Serie A,2015,2015/2016
+Sampdoria,Jefferson Oliveira,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Christian Puggioni,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Mattia Cassani,31.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Édgar Barreto,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Niklas Moisander,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Andrea Coda,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Matías Silvestre,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sampdoria,Lazaros Christodoulopoulos,28.0,Attacking Midfield,Hellas Verona,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Sampdoria,Alejandro Rodríguez,24.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Sampdoria,Carlos Carbonero,25.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Sampdoria,Alberto Brignoli,23.0,Goalkeeper,Juventus,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Inter,Geoffrey Kondogbia,22.0,Defensive Midfield,Monaco,36.00m,in,Summer,36,Serie A,2015,2015/2016
+Inter,Ivan Perisic,26.0,Left Midfield,VfL Wolfsburg,19.00m,in,Summer,19,Serie A,2015,2015/2016
+Inter,Xherdan Shaqiri,23.0,Right Winger,Bayern Munich,15.00m,in,Summer,15,Serie A,2015,2015/2016
+Inter,Jeison Murillo,23.0,Centre-Back,Granada CF,8.00m,in,Summer,8,Serie A,2015,2015/2016
+Inter,Felipe Melo,32.0,Defensive Midfield,Turkey,4.20m,in,Summer,"4,2",Serie A,2015,2015/2016
+Inter,Miranda,30.0,Centre-Back,Atlético Madrid,Loan fee:4.00m,in,Summer,4,Serie A,2015,2015/2016
+Inter,Davide Santon,24.0,Right-Back,Newcastle,3.70m,in,Summer,"3,7",Serie A,2015,2015/2016
+Inter,Vincenzo Tommasone,20.0,Second Striker,Italy,3.70m,in,Summer,"3,7",Serie A,2015,2015/2016
+Inter,Stevan Jovetic,25.0,Centre-Forward,Man City,Loan fee:2.50m,in,Summer,"2,5",Serie A,2015,2015/2016
+Inter,Adem Ljajic,23.0,Attacking Midfield,AS Roma,Loan fee:1.75m,in,Summer,"1,75",Serie A,2015,2015/2016
+Inter,Martín Montoya,24.0,Right-Back,Barcelona,Loan fee:1.30m,in,Summer,"1,3",Serie A,2015,2015/2016
+Inter,Alex Telles,22.0,Left-Back,Turkey,Loan fee:1.30m,in,Summer,"1,3",Serie A,2015,2015/2016
+Inter,Evans Kondogbia,26.0,Centre-Forward,France,?,in,Summer,0.01,Serie A,2015,2015/2016
+Inter,Francesco Forte,22.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2015,2015/2016
+Inter,Rey Manaj,18.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Torino,Andrea Belotti,21.0,Centre-Forward,US Palermo,8.40m,in,Summer,"8,4",Serie A,2015,2015/2016
+Torino,Daniele Baselli,23.0,Central Midfield,Atalanta BC,6.00m,in,Summer,6,Serie A,2015,2015/2016
+Torino,Davide Zappacosta,23.0,Right-Back,Atalanta BC,4.30m,in,Summer,"4,3",Serie A,2015,2015/2016
+Torino,Afriyie Acquah,23.0,Central Midfield,TSG Hoffenheim,3.10m,in,Summer,"3,1",Serie A,2015,2015/2016
+Torino,Joel Obi,24.0,Central Midfield,Inter,2.20m,in,Summer,"2,2",Serie A,2015,2015/2016
+Torino,Danilo Avelar,26.0,Left-Back,Italy,2.00m,in,Summer,2,Serie A,2015,2015/2016
+Torino,Salvador Ichazo,23.0,Goalkeeper,South America,1.20m,in,Summer,"1,2",Serie A,2015,2015/2016
+Torino,Sanjin Prcic,21.0,Central Midfield,Stade Rennais,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+AC Milan,Carlos Bacca,28.0,Centre-Forward,Sevilla FC,33.30m,in,Summer,"33,3",Serie A,2015,2015/2016
+AC Milan,Alessio Romagnoli,20.0,Centre-Back,AS Roma,25.00m,in,Summer,25,Serie A,2015,2015/2016
+AC Milan,Andrea Bertolacci,24.0,Central Midfield,AS Roma,21.00m,in,Summer,21,Serie A,2015,2015/2016
+AC Milan,Luiz Adriano,28.0,Centre-Forward,Est_EU,14.00m,in,Summer,14,Serie A,2015,2015/2016
+AC Milan,Luca Antonelli,28.0,Left-Back,Genoa,4.50m,in,Summer,"4,5",Serie A,2015,2015/2016
+AC Milan,Juraj Kucka,28.0,Central Midfield,Genoa,4.00m,in,Summer,4,Serie A,2015,2015/2016
+AC Milan,Simone Verdi,22.0,Attacking Midfield,Torino,450Th.,in,Summer,"0,45",Serie A,2015,2015/2016
+AC Milan,José Mauri,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+AC Milan,Rodrigo Ely,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+AC Milan,Juan Alberto Mauri,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+AC Milan,Matteo Pessina,18.0,Attacking Midfield,Italy,20Th.,in,Summer,"0,02",Serie A,2015,2015/2016
+AC Milan,Mario Balotelli,25.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+US Palermo,Oscar Hiljemark,23.0,Central Midfield,PSV Eindhoven,2.50m,in,Summer,"2,5",Serie A,2015,2015/2016
+US Palermo,Abdelhamid El Kaoutari,25.0,Centre-Back,Montpellier,2.00m,in,Summer,2,Serie A,2015,2015/2016
+US Palermo,Matheus Cassini,19.0,Attacking Midfield,South America,1.50m,in,Summer,"1,5",Serie A,2015,2015/2016
+US Palermo,Edoardo Goldaniga,21.0,Centre-Back,Juventus,1.50m,in,Summer,"1,5",Serie A,2015,2015/2016
+US Palermo,Aleksandar Trajkovski,22.0,Left Winger,Belgium,900Th.,in,Summer,"0,9",Serie A,2015,2015/2016
+US Palermo,Andrea Rispoli,26.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+US Palermo,Uros Djurdjevic,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+US Palermo,Alberto Gilardino,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+US Palermo,Ahmad Benali,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+US Palermo,Nicolas Viola,25.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2015,2015/2016
+US Palermo,Simone Colombi,24.0,Goalkeeper,Italy,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+US Palermo,Gastón Brugman,22.0,Defensive Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Sassuolo,Domenico Berardi,20.0,Right Winger,Juventus,10.00m,in,Summer,10,Serie A,2015,2015/2016
+Sassuolo,Grégoire Defrel,24.0,Centre-Forward,Italy,7.00m,in,Summer,7,Serie A,2015,2015/2016
+Sassuolo,Lorenzo Pellegrini,19.0,Attacking Midfield,Italy,1.25m,in,Summer,"1,25",Serie A,2015,2015/2016
+Sassuolo,Giovanni Sbrissa,18.0,Central Midfield,Italy,800Th.,in,Summer,"0,8",Serie A,2015,2015/2016
+Sassuolo,Matteo Politano,21.0,Right Winger,AS Roma,Loan fee:100Th.,in,Summer,"0,1",Serie A,2015,2015/2016
+Sassuolo,Cristian Dell'Orco,21.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Sassuolo,Alfred Duncan,22.0,Central Midfield,Sampdoria,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Hellas Verona,Federico Viviani,23.0,Defensive Midfield,AS Roma,4.00m,in,Summer,4,Serie A,2015,2015/2016
+Hellas Verona,Filip Helander,22.0,Centre-Back,North_EU,1.00m,in,Summer,1,Serie A,2015,2015/2016
+Hellas Verona,Eros Pisano,28.0,Right-Back,US Palermo,1.00m,in,Summer,1,Serie A,2015,2015/2016
+Hellas Verona,Leandro Greco,28.0,Central Midfield,Genoa,300Th.,in,Summer,"0,3",Serie A,2015,2015/2016
+Hellas Verona,Luca Siligardi,27.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Hellas Verona,Samuel Souprayen,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Valoti,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Hellas Verona,Giampaolo Pazzini,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Hellas Verona,Michelangelo Albertazzi,24.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Hellas Verona,Ferdinando Coppola,37.0,Goalkeeper,Bologna,?,in,Summer,0.01,Serie A,2015,2015/2016
+Hellas Verona,Pawel Wszolek,23.0,Right Winger,Sampdoria,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Hellas Verona,Cláudio Winck,21.0,Right-Back,South America,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Chievo Verona,Lucas Castro,26.0,Attacking Midfield,Italy,3.50m,in,Summer,"3,5",Serie A,2015,2015/2016
+Chievo Verona,Ervin Zukanovic,28.0,Centre-Back,Belgium,1.00m,in,Summer,1,Serie A,2015,2015/2016
+Chievo Verona,Paul-José Mpoku,23.0,Attacking Midfield,Belgium,Loan fee:750Th.,in,Summer,"0,75",Serie A,2015,2015/2016
+Chievo Verona,Fabrizio Cacciatore,28.0,Right-Back,Sampdoria,Loan fee:250Th.,in,Summer,"0,25",Serie A,2015,2015/2016
+Chievo Verona,Marco Calderoni,26.0,Left-Back,Italy,80Th.,in,Summer,"0,08",Serie A,2015,2015/2016
+Chievo Verona,Valter Birsa,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Filippo Di Maio,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Walter Bressan,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Giampiero Pinzi,34.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Pepe,31.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Isaac Ntow,21.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Massimo Gobbi,34.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Chievo Verona,Matteo Brunelli,21.0,Goalkeeper,Carpi,?,in,Summer,0.01,Serie A,2015,2015/2016
+Chievo Verona,Gianni Manfrin,21.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,2015,2015/2016
+Chievo Verona,Davide Savi,19.0,Centre-Back,Atalanta BC,?,in,Summer,0.01,Serie A,2015,2015/2016
+Empoli,Riccardo Saponara,23.0,Attacking Midfield,AC Milan,4.00m,in,Summer,4,Serie A,2015,2015/2016
+Empoli,Luca Bittante,21.0,Right-Back,Fiorentina,800Th.,in,Summer,"0,8",Serie A,2015,2015/2016
+Empoli,Raffaele Maiello,24.0,Defensive Midfield,SSC Napoli,Loan fee:750Th.,in,Summer,"0,75",Serie A,2015,2015/2016
+Empoli,Michele Camporese,23.0,Centre-Back,Fiorentina,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Empoli,Marko Livaja,22.0,Centre-Forward,Russia,Loan fee:300Th.,in,Summer,"0,3",Serie A,2015,2015/2016
+Empoli,Andrea Costa,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Empoli,Kastriot Dermaku,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Empoli,Rade Krunic,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Empoli,Marco Zambelli,29.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Empoli,Uros Cosic,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2015,2015/2016
+Empoli,Lukasz Skorupski,24.0,Goalkeeper,AS Roma,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Empoli,Leandro Paredes,21.0,Defensive Midfield,AS Roma,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Empoli,Marcel Büchel,24.0,Central Midfield,Juventus,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Udinese Calcio,Iván Piris,26.0,Right-Back,South America,3.50m,in,Summer,"3,5",Serie A,2015,2015/2016
+Udinese Calcio,Ali Adnan,21.0,Left-Back,Turkey,2.20m,in,Summer,"2,2",Serie A,2015,2015/2016
+Udinese Calcio,Adalberto Peñaranda,18.0,Centre-Forward,South America,770Th.,in,Summer,"0,77",Serie A,2015,2015/2016
+Udinese Calcio,Marquinho,29.0,Attacking Midfield,AS Roma,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Udinese Calcio,Felipe,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Udinese Calcio,Manuel Iturra,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Udinese Calcio,Emanuel Insúa,24.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Udinese Calcio,Duván Zapata,24.0,Centre-Forward,SSC Napoli,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Udinese Calcio,Emanuele Rovini,20.0,Centre-Forward,Empoli,?,in,Summer,0.01,Serie A,2015,2015/2016
+Atalanta BC,Luca Valzania,19.0,Central Midfield,Italy,6.20m,in,Summer,"6,2",Serie A,2015,2015/2016
+Atalanta BC,Rafael Tolói,24.0,Centre-Back,South America,3.87m,in,Summer,"3,87",Serie A,2015,2015/2016
+Atalanta BC,Jasmin Kurtic,26.0,Central Midfield,Sassuolo,3.20m,in,Summer,"3,2",Serie A,2015,2015/2016
+Atalanta BC,Franck Kessié,18.0,Central Midfield,Stella Club,1.50m,in,Summer,"1,5",Serie A,2015,2015/2016
+Atalanta BC,Marten de Roon,24.0,Defensive Midfield,Heerenveen,1.30m,in,Summer,"1,3",Serie A,2015,2015/2016
+Atalanta BC,Isnik Alimi,21.0,Central Midfield,Chievo Verona,1.20m,in,Summer,"1,2",Serie A,2015,2015/2016
+Atalanta BC,Boris Radunovic,19.0,Goalkeeper,Central_EU,960Th.,in,Summer,"0,96",Serie A,2015,2015/2016
+Atalanta BC,Gaetano Monachello,21.0,Centre-Forward,Monaco,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Atalanta BC,Marcos De Paula,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Bassi,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Atalanta BC,Edoardo Ceria,20.0,Right Winger,Juventus,?,in,Summer,0.01,Serie A,2015,2015/2016
+Atalanta BC,Luca Zanotti,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2015,2015/2016
+Atalanta BC,Gabriel Paletta,29.0,Centre-Back,AC Milan,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Bologna,Mattia Destro,24.0,Centre-Forward,AS Roma,8.50m,in,Summer,"8,5",Serie A,2015,2015/2016
+Bologna,Ibrahima Mbaye,20.0,Right-Back,Inter,3.50m,in,Summer,"3,5",Serie A,2015,2015/2016
+Bologna,Luca Rossettini,30.0,Centre-Back,Italy,2.50m,in,Summer,"2,5",Serie A,2015,2015/2016
+Bologna,Erick Pulgar,21.0,Defensive Midfield,South America,2.28m,in,Summer,"2,28",Serie A,2015,2015/2016
+Bologna,Anthony Mounier,27.0,Left Winger,Montpellier,2.00m,in,Summer,2,Serie A,2015,2015/2016
+Bologna,Godfred Donsah,19.0,Central Midfield,Italy,Loan fee:2.00m,in,Summer,2,Serie A,2015,2015/2016
+Bologna,Lorenzo Crisetig,22.0,Defensive Midfield,Inter,Loan fee:1.80m,in,Summer,"1,8",Serie A,2015,2015/2016
+Bologna,Marco Crimi,25.0,Central Midfield,Italy,1.00m,in,Summer,1,Serie A,2015,2015/2016
+Bologna,Amadou Diawara,17.0,Defensive Midfield,Italy,600Th.,in,Summer,"0,6",Serie A,2015,2015/2016
+Bologna,Emil Krafth,21.0,Right-Back,Helsingborg,500Th.,in,Summer,"0,5",Serie A,2015,2015/2016
+Bologna,Emanuele Giaccherini,30.0,Left Midfield,Sunderland,Loan fee:250Th.,in,Summer,"0,25",Serie A,2015,2015/2016
+Bologna,Franco Brienza,36.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Bologna,Matteo Brighi,34.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Bologna,Antonio Mirante,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Bologna,Luca Rizzo,23.0,Central Midfield,Sampdoria,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Bologna,Bálint Vécsei,22.0,Central Midfield,Central_EU,?,in,Summer,0.01,Serie A,2015,2015/2016
+Bologna,Filippo Falco,23.0,Right Winger,Italy,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Bologna,Saphir Taïder,23.0,Central Midfield,Inter,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Bologna,Marko Krivicic,19.0,Central Midfield,Central_EU,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Ryan Hiwat,19.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Andrea Lazzari,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Francesco Benussi,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Kamil Wilczek,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Nicolás Spolli,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Cristian Zaccardo,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Raphael Martinho,27.0,Left Midfield,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Vid Belec,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Carpi,Federico Franchini,21.0,Right Midfield,Chievo Verona,?,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Maicol Murano,18.0,Goalkeeper,Abano,?,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Igor Bubnjic,23.0,Centre-Back,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Gabriel Silva,24.0,Left-Back,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Gaspar Iñíguez,21.0,Central Midfield,Granada CF,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Isaac Cofie,23.0,Defensive Midfield,Genoa,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Federico Gino,22.0,Central Midfield,South America,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Wallace Oliveira,21.0,Right-Back,Chelsea,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Zeljko Brkic,29.0,Goalkeeper,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Luca Marrone,25.0,Centre-Back,Juventus,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Ryder Matos,22.0,Second Striker,Fiorentina,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Carpi,Matteo Fedele,23.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Aleksandar Tonev,25.0,Left Winger,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Frosinone,Modibo Diakité,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2015,2015/2016
+Frosinone,Nicolás Castillo,22.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Raman Chibsah,22.0,Central Midfield,Sassuolo,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Aleandro Rosi,28.0,Right-Back,Genoa,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Nicola Leali,22.0,Goalkeeper,Juventus,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Daniel Pavlovic,27.0,Left-Back,Uk,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Samuele Longo,23.0,Centre-Forward,Inter,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Daniele Verde,19.0,Right Winger,AS Roma,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Frosinone,Lys Gomis,25.0,Goalkeeper,Torino,loan transfer,in,Summer,0.01,Serie A,2015,2015/2016
+Juventus,Rolando Mandragora,18.0,Defensive Midfield,Genoa,9.00m,in,Winter,9,Serie A,2015,2015/2016
+AS Roma,Iago Falque,26.0,Right Winger,Genoa,7.00m,in,Winter,7,Serie A,2015,2015/2016
+AS Roma,Ismail H'Maidat,20.0,Central Midfield,Italy,3.15m,in,Winter,"3,15",Serie A,2015,2015/2016
+AS Roma,Stephan El Shaarawy,23.0,Left Winger,AC Milan,Loan fee:1.40m,in,Winter,"1,4",Serie A,2015,2015/2016
+AS Roma,Ervin Zukanovic,28.0,Centre-Back,Sampdoria,Loan fee:1.20m,in,Winter,"1,2",Serie A,2015,2015/2016
+AS Roma,Diego Perotti,27.0,Left Winger,Genoa,Loan fee:1.00m,in,Winter,1,Serie A,2015,2015/2016
+AS Roma,Nicola Falasco,22.0,Left-Back,Italy,220Th.,in,Winter,"0,22",Serie A,2015,2015/2016
+Lazio,Ivan Vargic,28.0,Goalkeeper,Est_EU,2.60m,in,Winter,"2,6",Serie A,2015,2015/2016
+Lazio,Milan Bisevac,32.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Lazio,Ronaldo,25.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Fiorentina,Andrés Schetino,21.0,Defensive Midfield,South America,3.50m,in,Winter,"3,5",Serie A,2015,2015/2016
+Fiorentina,Mauro Zárate,28.0,Second Striker,West Ham,2.10m,in,Winter,"2,1",Serie A,2015,2015/2016
+Fiorentina,Tino Costa,31.0,Central Midfield,Russia,Loan fee:500Th.,in,Winter,"0,5",Serie A,2015,2015/2016
+Fiorentina,Yohan Benalouane,28.0,Centre-Back,Leicester,Loan fee:250Th.,in,Winter,"0,25",Serie A,2015,2015/2016
+Fiorentina,Cristian Tello,24.0,Left Winger,Barcelona,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Fiorentina,Panagiotis Kone,28.0,Central Midfield,Udinese Calcio,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+SSC Napoli,Alberto Grassi,20.0,Central Midfield,Atalanta BC,8.00m,in,Winter,8,Serie A,2015,2015/2016
+SSC Napoli,Vasco Regini,25.0,Left-Back,Sampdoria,Loan fee:1.50m,in,Winter,"1,5",Serie A,2015,2015/2016
+SSC Napoli,Eddy Gnahoré,22.0,Central Midfield,Italy,150Th.,in,Winter,"0,15",Serie A,2015,2015/2016
+Genoa,Riccardo Fiamozzi,22.0,Right-Back,Italy,1.20m,in,Winter,"1,2",Serie A,2015,2015/2016
+Genoa,Luca Rigoni,31.0,Central Midfield,US Palermo,500Th.,in,Winter,"0,5",Serie A,2015,2015/2016
+Genoa,Tim Matavz,27.0,Centre-Forward,FC Augsburg,Loan fee:500Th.,in,Winter,"0,5",Serie A,2015,2015/2016
+Genoa,Bruno Gomes,19.0,Centre-Forward,South America,Loan fee:400Th.,in,Winter,"0,4",Serie A,2015,2015/2016
+Genoa,David Milinkovic,21.0,Left Winger,Italy,150Th.,in,Winter,"0,15",Serie A,2015,2015/2016
+Genoa,Sebastián Gorga,21.0,Centre-Back,Nacional,?,in,Winter,0.01,Serie A,2015,2015/2016
+Genoa,Gabriel Silva,24.0,Left-Back,Udinese Calcio,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Genoa,Alessio Cerci,28.0,Right Winger,Atlético Madrid,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Genoa,Suso,22.0,Right Winger,AC Milan,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Sampdoria,Milan Skriniar,20.0,Centre-Back,Central_EU,5.20m,in,Winter,"5,2",Serie A,2015,2015/2016
+Sampdoria,Ricardo Álvarez,27.0,Central Midfield,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Sampdoria,Modibo Diakité,28.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Sampdoria,Fabio Quagliarella,33.0,Centre-Forward,Torino,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Sampdoria,Dodô,23.0,Left-Back,Inter,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Sampdoria,Andrea Ranocchia,27.0,Centre-Back,Inter,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Sampdoria,Jacopo Sala,24.0,Central Midfield,Hellas Verona,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Inter,Éder,29.0,Second Striker,Sampdoria,Loan fee:2.00m,in,Winter,2,Serie A,2015,2015/2016
+Torino,Ciro Immobile,25.0,Centre-Forward,Sevilla FC,Loan fee:850Th.,in,Winter,"0,85",Serie A,2015,2015/2016
+US Palermo,Norbert Balogh,19.0,Centre-Forward,Central_EU,2.20m,in,Winter,"2,2",Serie A,2015,2015/2016
+US Palermo,Manuel Arteaga,21.0,Centre-Forward,South America,800Th.,in,Winter,"0,8",Serie A,2015,2015/2016
+US Palermo,Josip Posavec,19.0,Goalkeeper,Est_EU,500Th.,in,Winter,"0,5",Serie A,2015,2015/2016
+US Palermo,Thiago Cionek,29.0,Centre-Back,Italy,350Th.,in,Winter,"0,35",Serie A,2015,2015/2016
+US Palermo,Bryan Cristante,20.0,Defensive Midfield,Benfica,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Sassuolo,Stefano Sensi,20.0,Central Midfield,Italy,5.25m,in,Winter,"5,25",Serie A,2015,2015/2016
+Sassuolo,Luca Mazzitelli,20.0,Central Midfield,AS Roma,3.50m,in,Winter,"3,5",Serie A,2015,2015/2016
+Sassuolo,Marcello Trotta,23.0,Centre-Forward,Italy,2.80m,in,Winter,"2,8",Serie A,2015,2015/2016
+Hellas Verona,Ante Rebic,22.0,Left Winger,Fiorentina,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Hellas Verona,Gilberto,22.0,Right-Back,Fiorentina,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Hellas Verona,Dominik Furman,23.0,Central Midfield,Toulouse,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Hellas Verona,Luca Marrone,25.0,Centre-Back,Juventus,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Hellas Verona,Richard Marcone,23.0,Goalkeeper,Italy,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Hellas Verona,Samir,21.0,Centre-Back,Udinese Calcio,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Chievo Verona,Nikola Ninkovic,21.0,Attacking Midfield,Central_EU,550Th.,in,Winter,"0,55",Serie A,2015,2015/2016
+Chievo Verona,Nicolás Spolli,32.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Chievo Verona,Antonio Floro Flores,32.0,Centre-Forward,Sassuolo,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Empoli,Lorenzo Ariaudo,26.0,Centre-Back,Sassuolo,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Udinese Calcio,Ryder Matos,22.0,Second Striker,Fiorentina,5.25m,in,Winter,"5,25",Serie A,2015,2015/2016
+Udinese Calcio,Samir,21.0,Centre-Back,South America,4.00m,in,Winter,4,Serie A,2015,2015/2016
+Udinese Calcio,Andrija Balic,18.0,Central Midfield,Est_EU,3.00m,in,Winter,3,Serie A,2015,2015/2016
+Udinese Calcio,Gaspar Iñíguez,21.0,Central Midfield,Granada CF,1.20m,in,Winter,"1,2",Serie A,2015,2015/2016
+Udinese Calcio,Emil Hallfreðsson,31.0,Central Midfield,Hellas Verona,1.00m,in,Winter,1,Serie A,2015,2015/2016
+Udinese Calcio,Zdravko Kuzmanovic,28.0,Central Midfield,Uk,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Atalanta BC,Remo Freuler,23.0,Central Midfield,Uk,2.10m,in,Winter,"2,1",Serie A,2015,2015/2016
+Atalanta BC,Mauricio Pinilla,30.0,Centre-Forward,Genoa,2.00m,in,Winter,2,Serie A,2015,2015/2016
+Atalanta BC,Andrea Petagna,20.0,Centre-Forward,AC Milan,1.00m,in,Winter,1,Serie A,2015,2015/2016
+Atalanta BC,Marco Borriello,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Atalanta BC,Berat Djimsiti,22.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Atalanta BC,Serge Gakpé,28.0,Right Winger,Genoa,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Atalanta BC,Alessandro Diamanti,32.0,Attacking Midfield,GZ Evergrande,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Bologna,Filippo Falco,23.0,Right Winger,Italy,1.20m,in,Winter,"1,2",Serie A,2015,2015/2016
+Bologna,Sergio Floccari,34.0,Centre-Forward,Sassuolo,500Th.,in,Winter,"0,5",Serie A,2015,2015/2016
+Bologna,Camilo Zúñiga,30.0,Right-Back,SSC Napoli,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Stefano Sabelli,23.0,Right-Back,Italy,Loan fee:300Th.,in,Winter,"0,3",Serie A,2015,2015/2016
+Carpi,Fabio Daprelà,24.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2015,2015/2016
+Carpi,Jonathan de Guzmán,28.0,Central Midfield,SSC Napoli,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Eddy Gnahoré,22.0,Central Midfield,SSC Napoli,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Filippo Porcari,31.0,Defensive Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Simone Verdi,23.0,Attacking Midfield,AC Milan,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Simone Colombi,24.0,Goalkeeper,Italy,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Matteo Mancosu,31.0,Centre-Forward,Bologna,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Emanuele Suagher,23.0,Centre-Back,Atalanta BC,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Carpi,Marco Crimi,25.0,Central Midfield,Bologna,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Frosinone,Oliver Kragl,25.0,Left Midfield,Central_EU,400Th.,in,Winter,"0,4",Serie A,2015,2015/2016
+Frosinone,Francesco Bardi,24.0,Goalkeeper,Inter,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Frosinone,Vasyl Pryima,24.0,Centre-Back,Torino,loan transfer,in,Winter,0.01,Serie A,2015,2015/2016
+Paris SG,Ángel Di María,27.0,Right Winger,Man Utd,63.00m,in,Summer,63,Ligue 1,2015,2015/2016
+Paris SG,Layvin Kurzawa,22.0,Left-Back,Monaco,25.00m,in,Summer,25,Ligue 1,2015,2015/2016
+Paris SG,Serge Aurier,22.0,Right-Back,Toulouse,10.00m,in,Summer,10,Ligue 1,2015,2015/2016
+Paris SG,Kevin Trapp,25.0,Goalkeeper,E. Frankfurt,9.50m,in,Summer,"9,5",Ligue 1,2015,2015/2016
+Paris SG,Benjamin Stambouli,24.0,Defensive Midfield,Spurs,8.60m,in,Summer,"8,6",Ligue 1,2015,2015/2016
+Olympique Lyon,Sergi Darder,21.0,Central Midfield,Málaga CF,13.10m,in,Summer,"13,1",Ligue 1,2015,2015/2016
+Olympique Lyon,Mapou Yanga-Mbiwa,26.0,Centre-Back,AS Roma,9.40m,in,Summer,"9,4",Ligue 1,2015,2015/2016
+Olympique Lyon,Claudio Beauvue,27.0,Centre-Forward,Guingamp,6.00m,in,Summer,6,Ligue 1,2015,2015/2016
+Olympique Lyon,Mathieu Valbuena,30.0,Attacking Midfield,Russia,6.00m,in,Summer,6,Ligue 1,2015,2015/2016
+Olympique Lyon,Rafael,25.0,Right-Back,Man Utd,3.20m,in,Summer,"3,2",Ligue 1,2015,2015/2016
+Olympique Lyon,Lucas Tousart,18.0,Defensive Midfield,France,2.60m,in,Summer,"2,6",Ligue 1,2015,2015/2016
+Olympique Lyon,Olivier Kemen,19.0,Central Midfield,Uk,800Th.,in,Summer,"0,8",Ligue 1,2015,2015/2016
+Olympique Lyon,Jérémy Morel,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Monaco,Ivan Cavaleiro,21.0,Left Winger,Benfica,15.00m,in,Summer,15,Ligue 1,2015,2015/2016
+Monaco,Adama Traoré,20.0,Attacking Midfield,LOSC Lille,14.00m,in,Summer,14,Ligue 1,2015,2015/2016
+Monaco,Rony Lopes,19.0,Right Winger,Man City,12.00m,in,Summer,12,Ligue 1,2015,2015/2016
+Monaco,Gabriel Boschilia,19.0,Attacking Midfield,South America,9.06m,in,Summer,"9,06",Ligue 1,2015,2015/2016
+Monaco,Guido Carrillo,24.0,Centre-Forward,South America,9.00m,in,Summer,9,Ligue 1,2015,2015/2016
+Monaco,Fabinho,21.0,Defensive Midfield,Rio Ave FC,6.00m,in,Summer,6,Ligue 1,2015,2015/2016
+Monaco,Allan Saint-Maximin,18.0,Left Winger,Saint-Étienne,5.00m,in,Summer,5,Ligue 1,2015,2015/2016
+Monaco,Gil Dias,18.0,Left Midfield,Portugal,5.00m,in,Summer,5,Ligue 1,2015,2015/2016
+Monaco,Thomas Lemar,19.0,Attacking Midfield,SM Caen,4.00m,in,Summer,4,Ligue 1,2015,2015/2016
+Monaco,Corentin Jean,19.0,Centre-Forward,Troyes,4.00m,in,Summer,4,Ligue 1,2015,2015/2016
+Monaco,Farès Bahlouli,20.0,Attacking Midfield,Olympique Lyon,3.50m,in,Summer,"3,5",Ligue 1,2015,2015/2016
+Monaco,Stephan El Shaarawy,22.0,Left Winger,AC Milan,Loan fee:2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+Monaco,Hélder Costa,21.0,Right Winger,Benfica,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Monaco,Mario Pasalic,20.0,Attacking Midfield,Chelsea,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Monaco,Fábio Coentrão,27.0,Left-Back,Real Madrid,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Marseille,Lucas Ocampos,20.0,Left Winger,Monaco,7.50m,in,Summer,"7,5",Ligue 1,2015,2015/2016
+Marseille,Karim Rekik,20.0,Centre-Back,Man City,5.00m,in,Summer,5,Ligue 1,2015,2015/2016
+Marseille,Bouna Sarr,23.0,Right-Back,France,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+Marseille,Georges-Kevin N'Koudou,20.0,Left Winger,FC Nantes,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+Marseille,Rolando,30.0,Centre-Back,FC Porto,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+Marseille,Mauricio Isla,27.0,Right-Back,Juventus,Loan fee:1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+Marseille,Lucas Silva,22.0,Defensive Midfield,Real Madrid,Loan fee:650Th.,in,Summer,"0,65",Ligue 1,2015,2015/2016
+Marseille,Rémy Cabella,25.0,Attacking Midfield,Newcastle,Loan fee:600Th.,in,Summer,"0,6",Ligue 1,2015,2015/2016
+Marseille,Abou Diaby,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Marseille,Yohann Pelé,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Marseille,Paolo De Ceglie,28.0,Left-Back,Juventus,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Marseille,Javier Manquillo,21.0,Right-Back,Atlético Madrid,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Saint-Étienne,Robert Beric,24.0,Centre-Forward,Central_EU,7.50m,in,Summer,"7,5",Ligue 1,2015,2015/2016
+Saint-Étienne,Kévin Théophile-Catherine,25.0,Centre-Back,Uk,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+Saint-Étienne,Nolan Roux,27.0,Centre-Forward,LOSC Lille,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+Saint-Étienne,Neal Maupay,18.0,Centre-Forward,OGC Nice,600Th.,in,Summer,"0,6",Ligue 1,2015,2015/2016
+Saint-Étienne,Kévin Malcuit,24.0,Right-Back,France,500Th.,in,Summer,"0,5",Ligue 1,2015,2015/2016
+Saint-Étienne,Vincent Pajot,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Saint-Étienne,Valentin Eysseric,23.0,Attacking Midfield,OGC Nice,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Saint-Étienne,Jean-Christophe Bahebeck,22.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+G. Bordeaux,Pablo,24.0,Centre-Back,South America,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+G. Bordeaux,Milan Gajic,19.0,Right-Back,Central_EU,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+Montpellier,Ryad Boudebouz,25.0,Attacking Midfield,SC Bastia,1.70m,in,Summer,"1,7",Ligue 1,2015,2015/2016
+Montpellier,Mustapha Yatabaré,29.0,Centre-Forward,Turkey,Loan fee:950Th.,in,Summer,"0,95",Ligue 1,2015,2015/2016
+Montpellier,Casimir Ninga,22.0,Left Winger,Mangasport,75Th.,in,Summer,"0,075",Ligue 1,2015,2015/2016
+Montpellier,William Rémy,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Montpellier,Ramy Bensebaini,20.0,Left-Back,Africa Sports,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+LOSC Lille,Baptiste Guillaume,20.0,Centre-Forward,France,4.00m,in,Summer,4,Ligue 1,2015,2015/2016
+LOSC Lille,Eric Bauthéac,27.0,Right Winger,OGC Nice,2.40m,in,Summer,"2,4",Ligue 1,2015,2015/2016
+LOSC Lille,Ibrahim Amadou,22.0,Defensive Midfield,France,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+LOSC Lille,Mike Maignan,20.0,Goalkeeper,Paris SG,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+LOSC Lille,Lenny Nangis,21.0,Left Winger,SM Caen,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+LOSC Lille,Junior Tallo,22.0,Centre-Forward,AS Roma,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+LOSC Lille,Yassine Benzia,20.0,Attacking Midfield,Olympique Lyon,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+LOSC Lille,Serhou Guirassy,19.0,Centre-Forward,France,500Th.,in,Summer,"0,5",Ligue 1,2015,2015/2016
+LOSC Lille,Renato Civelli,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+LOSC Lille,Mounir Obbadi,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+LOSC Lille,Yaw Yeboah,18.0,Right Winger,Uk,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+LOSC Lille,Stoppila Sunzu,26.0,Centre-Back,Asia,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Rennes,Giovanni Sio,26.0,Centre-Forward,Uk,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+Rennes,Yacouba Sylla,24.0,Defensive Midfield,Aston Villa,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+Rennes,Mehdi Zeffane,23.0,Right-Back,Olympique Lyon,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+Rennes,Juan Fernando Quintero,22.0,Attacking Midfield,FC Porto,Loan fee:500Th.,in,Summer,"0,5",Ligue 1,2015,2015/2016
+Rennes,Pedro Mendes,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Rennes,Ludovic Baal,29.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Rennes,Jérémie Boga,18.0,Left Winger,Uk,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Guingamp,Nicolas Benezet,24.0,Left Winger,France,1.20m,in,Summer,"1,2",Ligue 1,2015,2015/2016
+Guingamp,Nill De Pauw,25.0,Right Winger,Belgium,750Th.,in,Summer,"0,75",Ligue 1,2015,2015/2016
+Guingamp,Théo Guivarch,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Guingamp,Jimmy Briand,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Guingamp,Sloan Privat,25.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+OGC Nice,Mickaël Le Bihan,25.0,Centre-Forward,France,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+OGC Nice,Jean Michaël Seri,23.0,Central Midfield,Paços Ferreira,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+OGC Nice,Maxime Le Marchand,25.0,Centre-Back,France,600Th.,in,Summer,"0,6",Ligue 1,2015,2015/2016
+OGC Nice,Paul Baysse,27.0,Centre-Back,Saint-Étienne,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+OGC Nice,Valère Germain,25.0,Centre-Forward,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+OGC Nice,Ricardo Pereira,21.0,Right-Back,FC Porto,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+OGC Nice,Wallyson,21.0,Defensive Midfield,Sporting CP,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+SC Bastia,Yassine Jebbour,23.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+SC Bastia,Seko Fofana,20.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+SC Bastia,Florian Raspentino,26.0,Centre-Forward,SM Caen,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+SC Bastia,Axel Ngando,22.0,Attacking Midfield,Stade Rennais,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+SC Bastia,Mehdi Mostefa,31.0,Defensive Midfield,FC Lorient,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+SC Bastia,Sadio Diallo,24.0,Central Midfield,Stade Rennais,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+SC Bastia,Jesper Hansen,30.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+SM Caen,Andy Delort,23.0,Centre-Forward,Uk,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+SM Caen,Jeff Louis,22.0,Attacking Midfield,Belgium,2.00m,in,Summer,2,Ligue 1,2015,2015/2016
+SM Caen,Jonathan Delaplace,29.0,Central Midfield,LOSC Lille,600Th.,in,Summer,"0,6",Ligue 1,2015,2015/2016
+SM Caen,Chaker Alhadhur,23.0,Left-Back,FC Nantes,50Th.,in,Summer,"0,05",Ligue 1,2015,2015/2016
+SM Caen,Jordan N'Kololo,22.0,Second Striker,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+SM Caen,Syam Ben Youssef,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+SM Caen,Vincent Bessat,29.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+SM Caen,Florian Le Joncour,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+SM Caen,Ronny Rodelin,25.0,Right Winger,LOSC Lille,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+FC Nantes,Kolbeinn Sigthórsson,25.0,Centre-Forward,Ajax,3.00m,in,Summer,3,Ligue 1,2015,2015/2016
+FC Nantes,Emiliano Sala,24.0,Centre-Forward,G. Bordeaux,1.00m,in,Summer,1,Ligue 1,2015,2015/2016
+FC Nantes,Adrien Thomasson,21.0,Attacking Midfield,France,800Th.,in,Summer,"0,8",Ligue 1,2015,2015/2016
+FC Nantes,Lorik Cana,32.0,Defensive Midfield,Lazio,200Th.,in,Summer,"0,2",Ligue 1,2015,2015/2016
+FC Nantes,Wilfried Moimbé,26.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+FC Nantes,Ermir Lenjani,26.0,Left-Back,Stade Rennais,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+FC Nantes,Youssouf Sabaly,22.0,Right-Back,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+FC Nantes,Adryan,20.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Stade Reims,Jaba Kankava,29.0,Defensive Midfield,Est_EU,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+Stade Reims,Hamari Traoré,23.0,Right-Back,Belgium,900Th.,in,Summer,"0,9",Ligue 1,2015,2015/2016
+Stade Reims,Hassane Kamara,21.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Stade Reims,Hugo Rodriguez,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Stade Reims,Frédéric Bulot,24.0,Left Winger,Belgium,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+FC Lorient,Majeed Waris,23.0,Centre-Forward,Turkey,4.73m,in,Summer,"4,73",Ligue 1,2015,2015/2016
+FC Lorient,Zargo Touré,25.0,Centre-Back,France,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+FC Lorient,Benjamin Moukandjo,26.0,Centre-Forward,Stade Reims,1.50m,in,Summer,"1,5",Ligue 1,2015,2015/2016
+FC Lorient,Moryké Fofana,23.0,Left Winger,North_EU,400Th.,in,Summer,"0,4",Ligue 1,2015,2015/2016
+FC Lorient,Pape Paye,25.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Toulouse,Somália,26.0,Central Midfield,Central_EU,2.40m,in,Summer,"2,4",Ligue 1,2015,2015/2016
+Toulouse,Mauro Goicoechea,27.0,Goalkeeper,Arouca,500Th.,in,Summer,"0,5",Ligue 1,2015,2015/2016
+Angers SCO,Férébory Doré,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Romain Saïss,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Mathias Serin,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Cheikh N'Doye,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Pierrick Capelle,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Yoann Andreu,26.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Slimane Sissoko,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Billy Ketkeophomphone,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Ismaël Traoré,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Bilel Mohsni,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Goran Karanovic,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Thomas Mangani,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Angers SCO,Gilles Sunu,24.0,Attacking Midfield,France,?,in,Summer,0.01,Ligue 1,2015,2015/2016
+Troyes,Christian Bekamenga,29.0,Centre-Forward,France,300Th.,in,Summer,"0,3",Ligue 1,2015,2015/2016
+Troyes,Charles Traoré,23.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Troyes,Lossémy Karaboué,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Troyes,Fabien Camus,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Troyes,Johan Martial,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+Troyes,Dusan Veskovac,29.0,Centre-Back,Toulouse,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Troyes,Anele Ngcongca,27.0,Right-Back,Belgium,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Troyes,Corentin Jean,19.0,Centre-Forward,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Troyes,Chris Mavinga-Adebayor,24.0,Centre-Back,Russia,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Troyes,Brayan Perea,22.0,Centre-Forward,Lazio,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+G. Ajaccio,Jacques Zoua,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+G. Ajaccio,Damjan Djokovic,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+G. Ajaccio,Issiar Dia,28.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+G. Ajaccio,Alassane Touré,26.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+G. Ajaccio,Jérôme Le Moigne,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2015,2015/2016
+G. Ajaccio,Alexandre Coeff,23.0,Centre-Back,Udinese Calcio,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+G. Ajaccio,Issiaga Sylla,21.0,Left-Back,Toulouse,loan transfer,in,Summer,0.01,Ligue 1,2015,2015/2016
+Monaco,Jemerson,23.0,Centre-Back,South America,11.00m,in,Winter,11,Ligue 1,2015,2015/2016
+Monaco,Vágner Love,31.0,Centre-Forward,South America,1.50m,in,Winter,"1,5",Ligue 1,2015,2015/2016
+Marseille,Florian Thauvin,23.0,Right Winger,Newcastle,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+Marseille,Steven Fletcher,28.0,Centre-Forward,Sunderland,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+Saint-Étienne,Ole Selnaes,21.0,Defensive Midfield,North_EU,3.20m,in,Winter,"3,2",Ligue 1,2015,2015/2016
+Saint-Étienne,Oussama Tannane,21.0,Attacking Midfield,Heracles Almelo,2.50m,in,Winter,"2,5",Ligue 1,2015,2015/2016
+Saint-Étienne,Alexander Söderlund,28.0,Centre-Forward,North_EU,2.00m,in,Winter,2,Ligue 1,2015,2015/2016
+Saint-Étienne,Franck Tabanou,26.0,Left-Back,Swansea,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+G. Bordeaux,Malcom,18.0,Right Winger,South America,5.00m,in,Winter,5,Ligue 1,2015,2015/2016
+G. Bordeaux,Mauro Arambarri,20.0,Central Midfield,South America,3.00m,in,Winter,3,Ligue 1,2015,2015/2016
+G. Bordeaux,Paul Bernardoni,18.0,Goalkeeper,Troyes,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+G. Bordeaux,Mathieu Debuchy,30.0,Right-Back,Arsenal,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+LOSC Lille,Rony Lopes,20.0,Right Winger,Monaco,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+LOSC Lille,Éder,28.0,Centre-Forward,Swansea,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+LOSC Lille,Yves Bissouma,19.0,Central Midfield,AS Real Bamako,?,in,Winter,0.01,Ligue 1,2015,2015/2016
+Rennes,Kermit Erasmus,25.0,Centre-Forward,Africa Sports,640Th.,in,Winter,"0,64",Ligue 1,2015,2015/2016
+Guingamp,Jonathan Martins Pereira,29.0,Right-Back,free agents,free transfer,in,Winter,0,Ligue 1,2015,2015/2016
+Guingamp,Mevlüt Erdinc,28.0,Centre-Forward,Hannover 96,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+OGC Nice,Rémi Walter,20.0,Central Midfield,France,1.00m,in,Winter,1,Ligue 1,2015,2015/2016
+SM Caen,Pape Sané,24.0,Centre-Forward,France,900Th.,in,Winter,"0,9",Ligue 1,2015,2015/2016
+SM Caen,Christian Kouakou,24.0,Left Winger,France,500Th.,in,Winter,"0,5",Ligue 1,2015,2015/2016
+SM Caen,Ismael Diomande,23.0,Defensive Midfield,Saint-Étienne,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+FC Nantes,Guillaume Gillet,31.0,Defensive Midfield,Belgium,2.00m,in,Winter,2,Ligue 1,2015,2015/2016
+Stade Reims,Thievy Bifouma,23.0,Right Winger,Espanyol,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+Stade Reims,Johann Carrasso,27.0,Goalkeeper,France,?,in,Winter,0.01,Ligue 1,2015,2015/2016
+Stade Reims,Abdelhamid El Kaoutari,25.0,Centre-Back,US Palermo,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+Stade Reims,Lass Bangoura,23.0,Right Winger,Rayo Vallecano,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+FC Lorient,Jimmy Cabot,21.0,Right Midfield,Troyes,1.80m,in,Winter,"1,8",Ligue 1,2015,2015/2016
+FC Lorient,Yrondu Musavu-King,24.0,Centre-Back,Granada CF,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+FC Lorient,Lindsay Rose,23.0,Centre-Back,Olympique Lyon,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+Angers SCO,Denis Petric,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2015,2015/2016
+Angers SCO,Grégory Bourillon,31.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2015,2015/2016
+Angers SCO,Mohamed Yattara,22.0,Centre-Forward,Belgium,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+Angers SCO,Saïd Benrahma,20.0,Left Winger,OGC Nice,loan transfer,in,Winter,0.01,Ligue 1,2015,2015/2016
+G. Ajaccio,Amine Chermiti,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,2015,2015/2016
+Bayern Munich,Arturo Vidal,28.0,Central Midfield,Juventus,39.25m,in,Summer,"39,25",1 Bundesliga,2015,2015/2016
+Bayern Munich,Douglas Costa,24.0,Right Winger,Est_EU,30.00m,in,Summer,30,1 Bundesliga,2015,2015/2016
+Bayern Munich,Joshua Kimmich,20.0,Defensive Midfield,VfB Stuttgart,8.50m,in,Summer,"8,5",1 Bundesliga,2015,2015/2016
+Bayern Munich,Kingsley Coman,19.0,Right Winger,Juventus,Loan fee:7.00m,in,Summer,7,1 Bundesliga,2015,2015/2016
+Bayern Munich,Sven Ulreich,26.0,Goalkeeper,VfB Stuttgart,3.50m,in,Summer,"3,5",1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Julian Draxler,21.0,Left Winger,FC Schalke 04,43.00m,in,Summer,43,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Max Kruse,27.0,Second Striker,Bor. M'gladbach,12.00m,in,Summer,12,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Dante,31.0,Centre-Back,Bayern Munich,4.50m,in,Summer,"4,5",1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Francisco Rodríguez,19.0,Attacking Midfield,Uk,1.60m,in,Summer,"1,6",1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Carlos Ascues,23.0,Central Midfield,South America,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Ismail Azzaoui,17.0,Right Winger,Uk,1.00m,in,Summer,1,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Josip Drmic,22.0,Centre-Forward,Bay. Leverkusen,10.00m,in,Summer,10,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Thorgan Hazard,22.0,Left Winger,Chelsea,8.00m,in,Summer,8,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Nico Schulz,22.0,Left-Back,Hertha BSC,4.00m,in,Summer,4,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Nico Elvedi,18.0,Centre-Back,Uk,4.00m,in,Summer,4,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Lars Stindl,26.0,Attacking Midfield,Hannover 96,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Tobias Sippel,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Andreas Christensen,19.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,Charles Aránguiz,26.0,Central Midfield,South America,13.00m,in,Summer,13,1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,Chicharito,27.0,Centre-Forward,Man Utd,12.00m,in,Summer,12,1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,Kevin Kampl,24.0,Central Midfield,Bor. Dortmund,11.00m,in,Summer,11,1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,Admir Mehmedi,24.0,Second Striker,Germany,8.00m,in,Summer,8,1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,Jonathan Tah,19.0,Centre-Back,Hamburger SV,7.50m,in,Summer,"7,5",1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,Kyriakos Papadopoulos,23.0,Centre-Back,FC Schalke 04,6.50m,in,Summer,"6,5",1 Bundesliga,2015,2015/2016
+Bay. Leverkusen,André Ramalho,23.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Ja-cheol Koo,26.0,Central Midfield,1.FSV Mainz 05,5.00m,in,Summer,5,1 Bundesliga,2015,2015/2016
+FC Augsburg,Philipp Max,21.0,Left-Back,Germany,3.80m,in,Summer,"3,8",1 Bundesliga,2015,2015/2016
+FC Augsburg,Konstantinos Stafylidis,21.0,Left-Back,Bay. Leverkusen,2.50m,in,Summer,"2,5",1 Bundesliga,2015,2015/2016
+FC Augsburg,Dominik Kohr,21.0,Central Midfield,Bay. Leverkusen,1.40m,in,Summer,"1,4",1 Bundesliga,2015,2015/2016
+FC Augsburg,Daniel Opare,24.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Piotr Trochowski,31.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Johannes Geis,21.0,Defensive Midfield,1.FSV Mainz 05,10.50m,in,Summer,"10,5",1 Bundesliga,2015,2015/2016
+FC Schalke 04,Matija Nastasic,22.0,Centre-Back,Man City,9.50m,in,Summer,"9,5",1 Bundesliga,2015,2015/2016
+FC Schalke 04,Franco Di Santo,26.0,Centre-Forward,Werder Bremen,6.00m,in,Summer,6,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Júnior Caiçara,26.0,Right-Back,Central_EU,4.50m,in,Summer,"4,5",1 Bundesliga,2015,2015/2016
+FC Schalke 04,Pierre-Emile Höjbjerg,20.0,Central Midfield,Bayern Munich,Loan fee:1.00m,in,Summer,1,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Alexander Nübel,18.0,Goalkeeper,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,2015,2015/2016
+FC Schalke 04,Sascha Riether,32.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bor. Dortmund,Gonzalo Castro,28.0,Central Midfield,Bay. Leverkusen,11.00m,in,Summer,11,1 Bundesliga,2015,2015/2016
+Bor. Dortmund,Roman Bürki,24.0,Goalkeeper,Germany,3.50m,in,Summer,"3,5",1 Bundesliga,2015,2015/2016
+Bor. Dortmund,Ju-ho Park,28.0,Left-Back,1.FSV Mainz 05,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+Bor. Dortmund,Julian Weigl,19.0,Defensive Midfield,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,2015,2015/2016
+Bor. Dortmund,Adnan Januzaj,20.0,Right Winger,Man Utd,loan transfer,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Eduardo Vargas,25.0,Second Striker,SSC Napoli,6.00m,in,Summer,6,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Fabian Schär,23.0,Centre-Back,Uk,4.00m,in,Summer,4,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Pavel Kaderabek,23.0,Right-Back,Central_EU,3.50m,in,Summer,"3,5",1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Jonathan Schmid,25.0,Right-Back,Germany,3.50m,in,Summer,"3,5",1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Mark Uth,23.0,Second Striker,Heerenveen,2.20m,in,Summer,"2,2",1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Joelinton,18.0,Attacking Midfield,South America,2.20m,in,Summer,"2,2",1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Felipe Pires,20.0,Left Winger,Central_EU,1.00m,in,Summer,1,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Marko Maric,19.0,Goalkeeper,Central_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Antonio Colak,21.0,Centre-Forward,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Kevin Kuranyi,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,In-hyeok Park,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Christoph Martschinko,21.0,Left-Back,Central_EU,?,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+E. Frankfurt,Lukas Hradecky,25.0,Goalkeeper,North_EU,2.50m,in,Summer,"2,5",1 Bundesliga,2015,2015/2016
+E. Frankfurt,Luc Castaignos,22.0,Centre-Forward,Twente FC,2.50m,in,Summer,"2,5",1 Bundesliga,2015,2015/2016
+E. Frankfurt,David Abraham,28.0,Centre-Back,TSG Hoffenheim,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+E. Frankfurt,Mijat Gacinovic,20.0,Attacking Midfield,Est_EU,1.25m,in,Summer,"1,25",1 Bundesliga,2015,2015/2016
+E. Frankfurt,Stefan Reinartz,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+E. Frankfurt,Heinz Lindner,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Werder Bremen,Anthony Ujah,24.0,Centre-Forward,1. FC Köln,4.50m,in,Summer,"4,5",1 Bundesliga,2015,2015/2016
+Werder Bremen,Aron Jóhannsson,24.0,Centre-Forward,AZ Alkmaar,4.20m,in,Summer,"4,2",1 Bundesliga,2015,2015/2016
+Werder Bremen,Ulisses Garcia,19.0,Left-Back,Uk,600Th.,in,Summer,"0,6",1 Bundesliga,2015,2015/2016
+Werder Bremen,Felix Wiedwald,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Fabian Frei,26.0,Defensive Midfield,Uk,3.60m,in,Summer,"3,6",1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Yoshinori Muto,22.0,Centre-Forward,Asia,2.80m,in,Summer,"2,8",1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Florian Niederlechner,24.0,Centre-Forward,Germany,2.00m,in,Summer,2,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Gaëtan Bussmann,24.0,Left-Back,France,1.00m,in,Summer,1,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Jhon Córdoba,22.0,Centre-Forward,Granada CF,Loan fee:600Th.,in,Summer,"0,6",1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Besar Halimi,20.0,Attacking Midfield,Germany,350Th.,in,Summer,"0,35",1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Henrique Sereno,30.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Leon Balogun,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Danny Latza,25.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Gianluca Curci,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Maximilian Beister,24.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Anthony Modeste,27.0,Centre-Forward,TSG Hoffenheim,4.50m,in,Summer,"4,5",1 Bundesliga,2015,2015/2016
+1. FC Köln,Milos Jojic,23.0,Central Midfield,Bor. Dortmund,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+1. FC Köln,Leonardo Bittencourt,21.0,Attacking Midfield,Hannover 96,2.50m,in,Summer,"2,5",1 Bundesliga,2015,2015/2016
+1. FC Köln,Frederik Sörensen,23.0,Centre-Back,Juventus,1.78m,in,Summer,"1,78",1 Bundesliga,2015,2015/2016
+1. FC Köln,Dominique Heintz,21.0,Centre-Back,Germany,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+1. FC Köln,Philipp Hosiner,26.0,Centre-Forward,Stade Rennais,loan transfer,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+Hannover 96,Oliver Sorg,25.0,Right-Back,Germany,3.50m,in,Summer,"3,5",1 Bundesliga,2015,2015/2016
+Hannover 96,Mevlüt Erdinc,28.0,Centre-Forward,Saint-Étienne,3.30m,in,Summer,"3,3",1 Bundesliga,2015,2015/2016
+Hannover 96,Felix Klaus,22.0,Right Winger,Germany,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+Hannover 96,Uffe Bech,22.0,Right Winger,North_EU,2.00m,in,Summer,2,1 Bundesliga,2015,2015/2016
+Hannover 96,Charlison Benschop,25.0,Centre-Forward,Germany,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+Hannover 96,Philipp Tschauner,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Allan Saint-Maximin,18.0,Left Winger,Monaco,loan transfer,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Mitchell Langerak,26.0,Goalkeeper,Bor. Dortmund,3.50m,in,Summer,"3,5",1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Toni Sunjic,26.0,Centre-Back,Russia,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Joshua Kimmich,20.0,Defensive Midfield,Germany,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Jan Kliment,21.0,Centre-Forward,FC Vysocina,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Przemyslaw Tyton,28.0,Goalkeeper,PSV Eindhoven,1.00m,in,Summer,1,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Philip Heise,24.0,Left-Back,Germany,750Th.,in,Summer,"0,75",1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Robbie Kruse,26.0,Left Winger,Bay. Leverkusen,Loan fee:750Th.,in,Summer,"0,75",1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Lukas Rupp,24.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Emiliano Insúa,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Vladimir Darida,24.0,Central Midfield,Germany,3.80m,in,Summer,"3,8",1 Bundesliga,2015,2015/2016
+Hertha BSC,Niklas Stark,20.0,Centre-Back,Germany,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+Hertha BSC,Mitchell Weiser,21.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Vedad Ibisevic,31.0,Centre-Forward,VfB Stuttgart,loan transfer,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+Hamburger SV,Lewis Holtby,24.0,Central Midfield,Spurs,6.50m,in,Summer,"6,5",1 Bundesliga,2015,2015/2016
+Hamburger SV,Albin Ekdal,25.0,Defensive Midfield,Italy,4.50m,in,Summer,"4,5",1 Bundesliga,2015,2015/2016
+Hamburger SV,Aaron Hunt,28.0,Attacking Midfield,VfL Wolfsburg,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+Hamburger SV,Michael Gregoritsch,21.0,Centre-Forward,Germany,3.00m,in,Summer,3,1 Bundesliga,2015,2015/2016
+Hamburger SV,Sven Schipplock,26.0,Centre-Forward,TSG Hoffenheim,2.50m,in,Summer,"2,5",1 Bundesliga,2015,2015/2016
+Hamburger SV,Gotoku Sakai,24.0,Left-Back,VfB Stuttgart,700Th.,in,Summer,"0,7",1 Bundesliga,2015,2015/2016
+Hamburger SV,Batuhan Altintas,19.0,Centre-Forward,Turkey,400Th.,in,Summer,"0,4",1 Bundesliga,2015,2015/2016
+Hamburger SV,Andreas Hirzel,22.0,Goalkeeper,Uk,50Th.,in,Summer,"0,05",1 Bundesliga,2015,2015/2016
+FC Ingolstadt,Elias Kachunga,23.0,Right Winger,Germany,1.50m,in,Summer,"1,5",1 Bundesliga,2015,2015/2016
+FC Ingolstadt,Örjan Nyland,24.0,Goalkeeper,North_EU,1.00m,in,Summer,1,1 Bundesliga,2015,2015/2016
+FC Ingolstadt,Markus Suttner,28.0,Left-Back,Central_EU,700Th.,in,Summer,"0,7",1 Bundesliga,2015,2015/2016
+FC Ingolstadt,Maurice Multhaup,18.0,Right Winger,FC Schalke 04,500Th.,in,Summer,"0,5",1 Bundesliga,2015,2015/2016
+FC Ingolstadt,Romain Brégerie,28.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,Mario Vrancic,26.0,Central Midfield,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,2015,2015/2016
+Darmstadt 98,Fabian Holland,24.0,Left-Back,Hertha BSC,500Th.,in,Summer,"0,5",1 Bundesliga,2015,2015/2016
+Darmstadt 98,Luca Caldirola,24.0,Centre-Back,Werder Bremen,Loan fee:100Th.,in,Summer,"0,1",1 Bundesliga,2015,2015/2016
+Darmstadt 98,Sandro Wagner,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,Lukasz Zaluska,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,Jan Rosenthal,29.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,Júnior Díaz,31.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,Konstantin Rausch,25.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,Peter Niemeyer,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Darmstadt 98,György Garics,31.0,Right-Back,Bologna,?,in,Summer,0.01,1 Bundesliga,2015,2015/2016
+Bayern Munich,Serdar Tasci,28.0,Centre-Back,Russia,Loan fee:2.50m,in,Winter,"2,5",1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Bruno Henrique,25.0,Left Winger,South America,4.50m,in,Winter,"4,5",1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Jonas Hofmann,23.0,Attacking Midfield,Bor. Dortmund,8.00m,in,Winter,8,1 Bundesliga,2015,2015/2016
+Bor. M'gladbach,Martin Hinteregger,23.0,Centre-Back,Central_EU,Loan fee:1.00m,in,Winter,1,1 Bundesliga,2015,2015/2016
+FC Augsburg,Jeffrey Gouweleeuw,24.0,Centre-Back,AZ Alkmaar,3.00m,in,Winter,3,1 Bundesliga,2015,2015/2016
+FC Augsburg,Albian Ajeti,18.0,Centre-Forward,Uk,1.00m,in,Winter,1,1 Bundesliga,2015,2015/2016
+FC Augsburg,Alfred Finnbogason,27.0,Centre-Forward,Real Sociedad,loan transfer,in,Winter,0.01,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Alessandro Schöpf,21.0,Central Midfield,Germany,5.00m,in,Winter,5,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Younès Belhanda,25.0,Attacking Midfield,Est_EU,loan transfer,in,Winter,0.01,1 Bundesliga,2015,2015/2016
+TSG Hoffenheim,Andrej Kramaric,24.0,Centre-Forward,Leicester,loan transfer,in,Winter,0.01,1 Bundesliga,2015,2015/2016
+E. Frankfurt,Marco Fabián,26.0,Attacking Midfield,North America,3.70m,in,Winter,"3,7",1 Bundesliga,2015,2015/2016
+E. Frankfurt,Szabolcs Huszti,32.0,Left Midfield,Asia,250Th.,in,Winter,"0,25",1 Bundesliga,2015,2015/2016
+E. Frankfurt,Yanni Regäsel,20.0,Right-Back,Hertha BSC,120Th.,in,Winter,"0,12",1 Bundesliga,2015,2015/2016
+E. Frankfurt,Änis Ben-Hatira,27.0,Attacking Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+E. Frankfurt,Kaan Ayhan,21.0,Centre-Back,FC Schalke 04,loan transfer,in,Winter,0.01,1 Bundesliga,2015,2015/2016
+Werder Bremen,Sambou Yatabaré,26.0,Central Midfield,Central_EU,2.50m,in,Winter,"2,5",1 Bundesliga,2015,2015/2016
+Werder Bremen,Papy Djilobodji,27.0,Centre-Back,Chelsea,Loan fee:400Th.,in,Winter,"0,4",1 Bundesliga,2015,2015/2016
+Werder Bremen,Milos Veljkovic,20.0,Centre-Back,Uk,330Th.,in,Winter,"0,33",1 Bundesliga,2015,2015/2016
+Werder Bremen,László Kleinheisler,21.0,Attacking Midfield,Central_EU,250Th.,in,Winter,"0,25",1 Bundesliga,2015,2015/2016
+Werder Bremen,Gerhard Tremmel,37.0,Goalkeeper,Swansea,Loan fee:100Th.,in,Winter,"0,1",1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Emil Berggreen,22.0,Centre-Forward,Germany,2.50m,in,Winter,"2,5",1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Giulio Donati,25.0,Right-Back,Bay. Leverkusen,1.00m,in,Winter,1,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Karim Onisiwo,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Filip Mladenovic,24.0,Left-Back,Est_EU,1.50m,in,Winter,"1,5",1 Bundesliga,2015,2015/2016
+Hannover 96,Iver Fossum,19.0,Central Midfield,North_EU,2.00m,in,Winter,2,1 Bundesliga,2015,2015/2016
+Hannover 96,Marius Wolf,20.0,Right Winger,Germany,1.50m,in,Winter,"1,5",1 Bundesliga,2015,2015/2016
+Hannover 96,Hotaru Yamaguchi,25.0,Defensive Midfield,Asia,1.00m,in,Winter,1,1 Bundesliga,2015,2015/2016
+Hannover 96,Ádám Szalai,28.0,Centre-Forward,TSG Hoffenheim,Loan fee:600Th.,in,Winter,"0,6",1 Bundesliga,2015,2015/2016
+Hannover 96,Hugo Almeida,31.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Alexander Milosevic,24.0,Centre-Back,Turkey,loan transfer,in,Winter,0.01,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Kevin Großkreutz,27.0,Right-Back,Turkey,2.17m,in,Winter,"2,17",1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Federico Barba,22.0,Centre-Back,Empoli,Loan fee:1.00m,in,Winter,1,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Artem Kravets,26.0,Centre-Forward,Est_EU,Loan fee:500Th.,in,Winter,"0,5",1 Bundesliga,2015,2015/2016
+Hertha BSC,Sinan Kurt,19.0,Left Winger,Bayern Munich,500Th.,in,Winter,"0,5",1 Bundesliga,2015,2015/2016
+Hamburger SV,Josip Drmic,23.0,Centre-Forward,Bor. M'gladbach,Loan fee:1.20m,in,Winter,"1,2",1 Bundesliga,2015,2015/2016
+Hamburger SV,Nabil Bahoui,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt,Darío Lezcano,25.0,Centre-Forward,Uk,2.50m,in,Winter,"2,5",1 Bundesliga,2015,2015/2016
+Darmstadt 98,Felix Platte,19.0,Centre-Forward,FC Schalke 04,loan transfer,in,Winter,0.01,1 Bundesliga,2015,2015/2016
+Chelsea,Pedro,28.0,Right Winger,Barcelona,27.00m,in,Summer,27,Premier League,2015,2015/2016
+Chelsea,Abdul-Rahman Baba,21.0,Left-Back,FC Augsburg,26.00m,in,Summer,26,Premier League,2015,2015/2016
+Chelsea,Asmir Begovic,28.0,Goalkeeper,Stoke City,11.00m,in,Summer,11,Premier League,2015,2015/2016
+Chelsea,Kenedy,19.0,Left Midfield,South America,8.00m,in,Summer,8,Premier League,2015,2015/2016
+Chelsea,Radamel Falcao,29.0,Centre-Forward,Monaco,Loan fee:7.00m,in,Summer,7,Premier League,2015,2015/2016
+Chelsea,Michael Hector,23.0,Centre-Back,Uk,5.40m,in,Summer,"5,4",Premier League,2015,2015/2016
+Chelsea,Nathan,19.0,Attacking Midfield,South America,4.00m,in,Summer,4,Premier League,2015,2015/2016
+Chelsea,Papy Djilobodji,26.0,Centre-Back,FC Nantes,3.50m,in,Summer,"3,5",Premier League,2015,2015/2016
+Chelsea,Danilo Pantic,18.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Man City,Kevin De Bruyne,24.0,Attacking Midfield,VfL Wolfsburg,76.00m,in,Summer,76,Premier League,2015,2015/2016
+Man City,Raheem Sterling,20.0,Left Winger,Uk,63.70m,in,Summer,"63,7",Premier League,2015,2015/2016
+Man City,Nicolás Otamendi,27.0,Centre-Back,Valencia,44.50m,in,Summer,"44,5",Premier League,2015,2015/2016
+Man City,Fabian Delph,25.0,Central Midfield,Aston Villa,11.50m,in,Summer,"11,5",Premier League,2015,2015/2016
+Man City,Patrick Roberts,18.0,Right Winger,Uk,7.20m,in,Summer,"7,2",Premier League,2015,2015/2016
+Man City,Enes Ünal,18.0,Centre-Forward,Turkey,4.40m,in,Summer,"4,4",Premier League,2015,2015/2016
+Man City,Rubén Sobrino,23.0,Centre-Forward,Spain,550Th.,in,Summer,"0,55",Premier League,2015,2015/2016
+Man City,Florian Lejeune,24.0,Centre-Back,Spain,300Th.,in,Summer,"0,3",Premier League,2015,2015/2016
+Man City,Luke Brattan,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Arsenal,Petr Cech,33.0,Goalkeeper,Chelsea,14.00m,in,Summer,14,Premier League,2015,2015/2016
+Man Utd,Anthony Martial,19.0,Centre-Forward,Monaco,60.00m,in,Summer,60,Premier League,2015,2015/2016
+Man Utd,Morgan Schneiderlin,25.0,Defensive Midfield,Southampton,35.00m,in,Summer,35,Premier League,2015,2015/2016
+Man Utd,Memphis Depay,21.0,Centre-Forward,PSV Eindhoven,34.00m,in,Summer,34,Premier League,2015,2015/2016
+Man Utd,Matteo Darmian,25.0,Right-Back,Torino,18.00m,in,Summer,18,Premier League,2015,2015/2016
+Man Utd,Bastian Schweinsteiger,30.0,Central Midfield,Bayern Munich,9.00m,in,Summer,9,Premier League,2015,2015/2016
+Man Utd,Sergio Romero,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Spurs,Heung-min Son,23.0,Left Winger,Bay. Leverkusen,30.00m,in,Summer,30,Premier League,2015,2015/2016
+Spurs,Toby Alderweireld,26.0,Centre-Back,Atlético Madrid,16.00m,in,Summer,16,Premier League,2015,2015/2016
+Spurs,Clinton N'Jie,22.0,Right Winger,Olympique Lyon,14.10m,in,Summer,"14,1",Premier League,2015,2015/2016
+Spurs,Kevin Wimmer,22.0,Centre-Back,1. FC Köln,6.00m,in,Summer,6,Premier League,2015,2015/2016
+Spurs,Kieran Trippier,24.0,Right-Back,Uk,4.90m,in,Summer,"4,9",Premier League,2015,2015/2016
+Liverpool FC,Christian Benteke,24.0,Centre-Forward,Aston Villa,46.50m,in,Summer,"46,5",Premier League,2015,2015/2016
+Liverpool FC,Roberto Firmino,23.0,Centre-Forward,TSG Hoffenheim,41.00m,in,Summer,41,Premier League,2015,2015/2016
+Liverpool FC,Nathaniel Clyne,24.0,Right-Back,Southampton,17.70m,in,Summer,"17,7",Premier League,2015,2015/2016
+Liverpool FC,Danny Ings,22.0,Centre-Forward,Uk,8.30m,in,Summer,"8,3",Premier League,2015,2015/2016
+Liverpool FC,Joe Gomez,18.0,Centre-Back,Uk,4.90m,in,Summer,"4,9",Premier League,2015,2015/2016
+Liverpool FC,Taiwo Awoniyi,18.0,Centre-Forward,Imperial Acad.,1.10m,in,Summer,"1,1",Premier League,2015,2015/2016
+Liverpool FC,Ádám Bogdán,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,James Milner,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Southampton,Virgil van Dijk,24.0,Centre-Back,Uk,15.70m,in,Summer,"15,7",Premier League,2015,2015/2016
+Southampton,Jordy Clasie,24.0,Defensive Midfield,Feyenoord,15.00m,in,Summer,15,Premier League,2015,2015/2016
+Southampton,Juanmi,22.0,Left Winger,Málaga CF,7.00m,in,Summer,7,Premier League,2015,2015/2016
+Southampton,Cédric Soares,23.0,Right-Back,Sporting CP,7.00m,in,Summer,7,Premier League,2015,2015/2016
+Southampton,Oriol Romeu,23.0,Defensive Midfield,Chelsea,7.00m,in,Summer,7,Premier League,2015,2015/2016
+Southampton,Steven Caulker,23.0,Centre-Back,Uk,Loan fee:1.70m,in,Summer,"1,7",Premier League,2015,2015/2016
+Southampton,Cuco Martina,25.0,Right-Back,Twente FC,1.50m,in,Summer,"1,5",Premier League,2015,2015/2016
+Southampton,Maarten Stekelenburg,32.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Swansea,Éder,27.0,Centre-Forward,SC Braga,6.70m,in,Summer,"6,7",Premier League,2015,2015/2016
+Swansea,Franck Tabanou,26.0,Left-Back,Saint-Étienne,4.90m,in,Summer,"4,9",Premier League,2015,2015/2016
+Swansea,Kristoffer Nordfeldt,26.0,Goalkeeper,Heerenveen,850Th.,in,Summer,"0,85",Premier League,2015,2015/2016
+Swansea,Oliver McBurnie,19.0,Centre-Forward,Uk,350Th.,in,Summer,"0,35",Premier League,2015,2015/2016
+Swansea,Botti Biabi,19.0,Centre-Forward,Uk,210Th.,in,Summer,"0,21",Premier League,2015,2015/2016
+Swansea,André Ayew,25.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Xherdan Shaqiri,23.0,Right Winger,Inter,17.00m,in,Summer,17,Premier League,2015,2015/2016
+Stoke City,Joselu,25.0,Centre-Forward,Hannover 96,8.00m,in,Summer,8,Premier League,2015,2015/2016
+Stoke City,Philipp Wollscheid,26.0,Centre-Back,Bay. Leverkusen,3.80m,in,Summer,"3,8",Premier League,2015,2015/2016
+Stoke City,Jakob Haugaard,23.0,Goalkeeper,North_EU,600Th.,in,Summer,"0,6",Premier League,2015,2015/2016
+Stoke City,Shay Given,39.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Ibrahim Afellay,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Glen Johnson,30.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Marco van Ginkel,22.0,Central Midfield,Chelsea,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Stoke City,Dom Telford,18.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,2015,2015/2016
+Crystal Palace,Yohan Cabaye,29.0,Central Midfield,Paris SG,13.90m,in,Summer,"13,9",Premier League,2015,2015/2016
+Crystal Palace,Connor Wickham,22.0,Centre-Forward,Sunderland,10.00m,in,Summer,10,Premier League,2015,2015/2016
+Crystal Palace,Alex McCarthy,25.0,Goalkeeper,Uk,4.90m,in,Summer,"4,9",Premier League,2015,2015/2016
+Crystal Palace,Bakary Sako,27.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Kleton Perntreou,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Patrick Bamford,21.0,Centre-Forward,Chelsea,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Everton,Ramiro Funes Mori,24.0,Centre-Back,South America,12.90m,in,Summer,"12,9",Premier League,2015,2015/2016
+Everton,Gerard Deulofeu,21.0,Centre-Forward,Barcelona,6.00m,in,Summer,6,Premier League,2015,2015/2016
+Everton,Aaron Lennon,28.0,Right Winger,Spurs,6.00m,in,Summer,6,Premier League,2015,2015/2016
+Everton,Mason Holgate,18.0,Centre-Back,Uk,1.40m,in,Summer,"1,4",Premier League,2015,2015/2016
+Everton,Leandro Rodríguez,22.0,Centre-Forward,South America,700Th.,in,Summer,"0,7",Premier League,2015,2015/2016
+Everton,Tom Cleverley,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+West Ham,Dimitri Payet,28.0,Attacking Midfield,Marseille,15.00m,in,Summer,15,Premier League,2015,2015/2016
+West Ham,Angelo Ogbonna,27.0,Centre-Back,Juventus,11.00m,in,Summer,11,Premier League,2015,2015/2016
+West Ham,Michail Antonio,25.0,Centre-Forward,Uk,9.50m,in,Summer,"9,5",Premier League,2015,2015/2016
+West Ham,Pedro Obiang,23.0,Central Midfield,Sampdoria,6.00m,in,Summer,6,Premier League,2015,2015/2016
+West Ham,Nikica Jelavic,30.0,Centre-Forward,Uk,4.10m,in,Summer,"4,1",Premier League,2015,2015/2016
+West Ham,Stephen Hendrie,20.0,Left-Back,Uk,1.30m,in,Summer,"1,3",Premier League,2015,2015/2016
+West Ham,Darren Randolph,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+West Ham,Victor Moses,24.0,Right Midfield,Chelsea,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+West Ham,Alex Song,27.0,Defensive Midfield,Barcelona,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+West Ham,Manuel Lanzini,22.0,Attacking Midfield,Asia,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+West Brom,Salomón Rondón,25.0,Centre-Forward,Russia,17.00m,in,Summer,17,Premier League,2015,2015/2016
+West Brom,James Chester,26.0,Centre-Back,Uk,11.30m,in,Summer,"11,3",Premier League,2015,2015/2016
+West Brom,Jonny Evans,27.0,Centre-Back,Man Utd,8.30m,in,Summer,"8,3",Premier League,2015,2015/2016
+West Brom,Rickie Lambert,33.0,Centre-Forward,Uk,4.20m,in,Summer,"4,2",Premier League,2015,2015/2016
+West Brom,James McClean,26.0,Left Midfield,Uk,2.10m,in,Summer,"2,1",Premier League,2015,2015/2016
+West Brom,Anders Lindegaard,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+West Brom,Serge Gnabry,20.0,Right Winger,Arsenal,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Leicester,Shinji Okazaki,29.0,Centre-Forward,1.FSV Mainz 05,11.00m,in,Summer,11,Premier League,2015,2015/2016
+Leicester,N'Golo Kanté,24.0,Defensive Midfield,SM Caen,9.00m,in,Summer,9,Premier League,2015,2015/2016
+Leicester,Gökhan Inler,31.0,Defensive Midfield,SSC Napoli,7.00m,in,Summer,7,Premier League,2015,2015/2016
+Leicester,Yohan Benalouane,28.0,Centre-Back,Atalanta BC,7.00m,in,Summer,7,Premier League,2015,2015/2016
+Leicester,Robert Huth,30.0,Centre-Back,Stoke City,4.20m,in,Summer,"4,2",Premier League,2015,2015/2016
+Leicester,Christian Fuchs,29.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Leicester,Nathan Dyer,27.0,Right Winger,Swansea,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Newcastle,Georginio Wijnaldum,24.0,Central Midfield,PSV Eindhoven,20.00m,in,Summer,20,Premier League,2015,2015/2016
+Newcastle,Aleksandar Mitrovic,20.0,Centre-Forward,Belgium,18.50m,in,Summer,"18,5",Premier League,2015,2015/2016
+Newcastle,Florian Thauvin,22.0,Right Winger,Marseille,18.35m,in,Summer,"18,35",Premier League,2015,2015/2016
+Newcastle,Chancel Mbemba,20.0,Centre-Back,Belgium,12.00m,in,Summer,12,Premier League,2015,2015/2016
+Newcastle,Ivan Toney,19.0,Centre-Forward,Uk,360Th.,in,Summer,"0,36",Premier League,2015,2015/2016
+Sunderland,Jeremain Lens,27.0,Right Winger,Est_EU,11.40m,in,Summer,"11,4",Premier League,2015,2015/2016
+Sunderland,Fabio Borini,24.0,Left Winger,Uk,10.70m,in,Summer,"10,7",Premier League,2015,2015/2016
+Sunderland,Ricardo Álvarez,27.0,Central Midfield,Inter,10.50m,in,Summer,"10,5",Premier League,2015,2015/2016
+Sunderland,Younès Kaboul,29.0,Centre-Back,Spurs,4.30m,in,Summer,"4,3",Premier League,2015,2015/2016
+Sunderland,Santiago Vergini,26.0,Centre-Back,South America,2.85m,in,Summer,"2,85",Premier League,2015,2015/2016
+Sunderland,Sebastián Coates,24.0,Centre-Back,Uk,2.80m,in,Summer,"2,8",Premier League,2015,2015/2016
+Sunderland,Adam Matthews,23.0,Right-Back,Uk,2.80m,in,Summer,"2,8",Premier League,2015,2015/2016
+Sunderland,DeAndre Yedlin,22.0,Right-Back,Spurs,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Sunderland,Yann M'Vila,25.0,Defensive Midfield,Russia,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Sunderland,Ola Toivonen,29.0,Attacking Midfield,Stade Rennais,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Aston Villa,Jordan Ayew,23.0,Centre-Forward,FC Lorient,12.00m,in,Summer,12,Premier League,2015,2015/2016
+Aston Villa,Jordan Amavi,21.0,Left-Back,OGC Nice,11.00m,in,Summer,11,Premier League,2015,2015/2016
+Aston Villa,Adama Traoré,19.0,Right Winger,Spain,10.00m,in,Summer,10,Premier League,2015,2015/2016
+Aston Villa,Jordan Veretout,22.0,Central Midfield,FC Nantes,10.00m,in,Summer,10,Premier League,2015,2015/2016
+Aston Villa,Idrissa Gueye,25.0,Central Midfield,LOSC Lille,9.00m,in,Summer,9,Premier League,2015,2015/2016
+Aston Villa,Rudy Gestede,26.0,Centre-Forward,Uk,8.50m,in,Summer,"8,5",Premier League,2015,2015/2016
+Aston Villa,Scott Sinclair,26.0,Left Winger,Man City,3.50m,in,Summer,"3,5",Premier League,2015,2015/2016
+Aston Villa,Joleon Lescott,33.0,Centre-Back,West Brom,1.40m,in,Summer,"1,4",Premier League,2015,2015/2016
+Aston Villa,José Crespo,28.0,Centre-Back,Spain,800Th.,in,Summer,"0,8",Premier League,2015,2015/2016
+Aston Villa,Tiago Ilori,22.0,Centre-Back,Uk,Loan fee:350Th.,in,Summer,"0,35",Premier League,2015,2015/2016
+Aston Villa,Micah Richards,27.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Mark Bunn,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Bournemouth,Tyrone Mings,22.0,Centre-Back,Uk,11.30m,in,Summer,"11,3",Premier League,2015,2015/2016
+Bournemouth,Max Gradel,27.0,Left Winger,Saint-Étienne,10.00m,in,Summer,10,Premier League,2015,2015/2016
+Bournemouth,Glenn Murray,31.0,Centre-Forward,Crystal Palace,5.40m,in,Summer,"5,4",Premier League,2015,2015/2016
+Bournemouth,Lee Tomlin,26.0,Second Striker,Uk,4.30m,in,Summer,"4,3",Premier League,2015,2015/2016
+Bournemouth,Artur Boruc,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Bournemouth,Sylvain Distin,37.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Bournemouth,Joshua King,23.0,Second Striker,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Bournemouth,Adam Federici,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Bournemouth,Jordan Green,20.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Bournemouth,Christian Atsu,23.0,Left Winger,Chelsea,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Bournemouth,Joe Bennett,25.0,Left-Back,Aston Villa,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Bournemouth,Tomás Andrade,18.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Watford,Étienne Capoue,26.0,Defensive Midfield,Spurs,8.90m,in,Summer,"8,9",Premier League,2015,2015/2016
+Watford,José Manuel Jurado,29.0,Attacking Midfield,Russia,8.60m,in,Summer,"8,6",Premier League,2015,2015/2016
+Watford,Matej Vydra,23.0,Centre-Forward,Udinese Calcio,8.40m,in,Summer,"8,4",Premier League,2015,2015/2016
+Watford,Obbi Oulare,19.0,Centre-Forward,Belgium,7.50m,in,Summer,"7,5",Premier League,2015,2015/2016
+Watford,Steven Berghuis,23.0,Attacking Midfield,AZ Alkmaar,6.50m,in,Summer,"6,5",Premier League,2015,2015/2016
+Watford,Valon Behrami,30.0,Defensive Midfield,Hamburger SV,3.50m,in,Summer,"3,5",Premier League,2015,2015/2016
+Watford,Jose Cholevas,31.0,Left-Back,AS Roma,2.50m,in,Summer,"2,5",Premier League,2015,2015/2016
+Watford,Víctor Ibarbo,25.0,Second Striker,AS Roma,Loan fee:2.00m,in,Summer,2,Premier League,2015,2015/2016
+Watford,Allan Nyom,27.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford,Miguel Britos,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford,Giedrius Arlauskis,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford,Sebastian Prödl,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford,Rafael Romo,25.0,Goalkeeper,Udinese Calcio,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Watford,Adlène Guédioura,29.0,Central Midfield,Crystal Palace,?,in,Summer,0.01,Premier League,2015,2015/2016
+Watford,Nathan Aké,20.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Watford,Alessandro Diamanti,32.0,Attacking Midfield,GZ Evergrande,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Norwich,Robbie Brady,23.0,Left Midfield,Uk,9.90m,in,Summer,"9,9",Premier League,2015,2015/2016
+Norwich,Graham Dorrans,28.0,Central Midfield,West Brom,4.10m,in,Summer,"4,1",Premier League,2015,2015/2016
+Norwich,Andre Wisdom,22.0,Right-Back,Uk,Loan fee:1.80m,in,Summer,"1,8",Premier League,2015,2015/2016
+Norwich,Youssouf Mulumbu,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Norwich,Jake Kean,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2015,2015/2016
+Norwich,Dieumerci Mbokani,29.0,Centre-Forward,Est_EU,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Norwich,Matt Jarvis,29.0,Left Winger,West Ham,loan transfer,in,Summer,0.01,Premier League,2015,2015/2016
+Chelsea,Matt Miazga,20.0,Centre-Back,North America,4.60m,in,Winter,"4,6",Premier League,2015,2015/2016
+Chelsea,Alexandre Pato,26.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+Man City,Anthony Cáceres,23.0,Central Midfield,Asia,320Th.,in,Winter,"0,32",Premier League,2015,2015/2016
+Arsenal,Mohamed Elneny,23.0,Defensive Midfield,Uk,12.50m,in,Winter,"12,5",Premier League,2015,2015/2016
+Liverpool FC,Marko Grujic,19.0,Central Midfield,Central_EU,7.00m,in,Winter,7,Premier League,2015,2015/2016
+Liverpool FC,Steven Caulker,24.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+Southampton,Charlie Austin,26.0,Centre-Forward,Uk,5.20m,in,Winter,"5,2",Premier League,2015,2015/2016
+Swansea,Alberto Paloschi,26.0,Centre-Forward,Chievo Verona,8.80m,in,Winter,"8,8",Premier League,2015,2015/2016
+Swansea,Leroy Fer,26.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+Stoke City,Giannelli Imbula,23.0,Defensive Midfield,FC Porto,24.25m,in,Winter,"24,25",Premier League,2015,2015/2016
+Crystal Palace,Freddie Ladapo,23.0,Centre-Forward,Margate FC,?,in,Winter,0.01,Premier League,2015,2015/2016
+Everton,Oumar Niasse,25.0,Centre-Forward,Russia,17.90m,in,Winter,"17,9",Premier League,2015,2015/2016
+Everton,Shani Tarashaj,20.0,Second Striker,Uk,4.00m,in,Winter,4,Premier League,2015,2015/2016
+West Ham,Sam Byram,22.0,Right-Back,Uk,4.80m,in,Winter,"4,8",Premier League,2015,2015/2016
+West Ham,Emmanuel Emenike,28.0,Centre-Forward,Turkey,Loan fee:1.00m,in,Winter,1,Premier League,2015,2015/2016
+West Brom,Alex Pritchard,22.0,Attacking Midfield,Spurs,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+West Brom,Sandro,26.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+Leicester,Daniel Amartey,21.0,Centre-Back,North_EU,6.60m,in,Winter,"6,6",Premier League,2015,2015/2016
+Leicester,Demarai Gray,19.0,Left Winger,Uk,5.10m,in,Winter,"5,1",Premier League,2015,2015/2016
+Newcastle,Jonjo Shelvey,23.0,Central Midfield,Swansea,16.00m,in,Winter,16,Premier League,2015,2015/2016
+Newcastle,Andros Townsend,24.0,Right Winger,Spurs,15.70m,in,Winter,"15,7",Premier League,2015,2015/2016
+Newcastle,Henri Saivet,25.0,Attacking Midfield,G. Bordeaux,6.00m,in,Winter,6,Premier League,2015,2015/2016
+Newcastle,Seydou Doumbia,28.0,Centre-Forward,AS Roma,Loan fee:1.00m,in,Winter,1,Premier League,2015,2015/2016
+Sunderland,Wahbi Khazri,24.0,Centre-Forward,G. Bordeaux,11.80m,in,Winter,"11,8",Premier League,2015,2015/2016
+Sunderland,Lamine Koné,26.0,Centre-Back,FC Lorient,6.50m,in,Winter,"6,5",Premier League,2015,2015/2016
+Sunderland,Dame N'Doye,30.0,Centre-Forward,Turkey,Loan fee:1.40m,in,Winter,"1,4",Premier League,2015,2015/2016
+Sunderland,Jan Kirchhoff,25.0,Centre-Back,Bayern Munich,1.00m,in,Winter,1,Premier League,2015,2015/2016
+Bournemouth,Benik Afobe,22.0,Centre-Forward,Uk,13.30m,in,Winter,"13,3",Premier League,2015,2015/2016
+Bournemouth,Lewis Grabban,27.0,Centre-Forward,Norwich,9.35m,in,Winter,"9,35",Premier League,2015,2015/2016
+Bournemouth,Juan Iturbe,22.0,Left Winger,AS Roma,Loan fee:1.20m,in,Winter,"1,2",Premier League,2015,2015/2016
+Bournemouth,Rhoys Wiggins,28.0,Left-Back,Uk,260Th.,in,Winter,"0,26",Premier League,2015,2015/2016
+Bournemouth,Marius Adamonis,18.0,Goalkeeper,Est_EU,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+Watford,Adalberto Peñaranda,18.0,Centre-Forward,Udinese Calcio,10.60m,in,Winter,"10,6",Premier League,2015,2015/2016
+Watford,Abdoulaye Doucouré,23.0,Central Midfield,Stade Rennais,10.60m,in,Winter,"10,6",Premier League,2015,2015/2016
+Watford,Nordin Amrabat,28.0,Right Winger,Málaga CF,8.40m,in,Winter,"8,4",Premier League,2015,2015/2016
+Watford,Mario Suárez,28.0,Centre-Back,Fiorentina,5.30m,in,Winter,"5,3",Premier League,2015,2015/2016
+Watford,Costel Pantilimon,28.0,Goalkeeper,Sunderland,?,in,Winter,0.01,Premier League,2015,2015/2016
+Norwich,Steven Naismith,29.0,Second Striker,Everton,11.00m,in,Winter,11,Premier League,2015,2015/2016
+Norwich,Timm Klose,27.0,Centre-Back,VfL Wolfsburg,11.00m,in,Winter,11,Premier League,2015,2015/2016
+Norwich,Ivo Pinto,26.0,Right-Back,Est_EU,3.70m,in,Winter,"3,7",Premier League,2015,2015/2016
+Norwich,Matt Jarvis,29.0,Left Winger,West Ham,3.40m,in,Winter,"3,4",Premier League,2015,2015/2016
+Norwich,Ben Godfrey,18.0,Centre-Back,Uk,2.95m,in,Winter,"2,95",Premier League,2015,2015/2016
+Norwich,James Maddison,19.0,Attacking Midfield,Uk,2.65m,in,Winter,"2,65",Premier League,2015,2015/2016
+Norwich,Ebou Adams,20.0,Central Midfield,Uk,?,in,Winter,0.01,Premier League,2015,2015/2016
+Norwich,Patrick Bamford,22.0,Centre-Forward,Chelsea,loan transfer,in,Winter,0.01,Premier League,2015,2015/2016
+Barcelona,Arda Turan,28.0,Left Winger,Atlético Madrid,34.00m,in,Summer,34,Primera Division,2015,2015/2016
+Barcelona,Aleix Vidal,25.0,Right-Back,Sevilla FC,17.00m,in,Summer,17,Primera Division,2015,2015/2016
+Real Madrid,Mateo Kovacic,21.0,Central Midfield,Inter,38.00m,in,Summer,38,Primera Division,2015,2015/2016
+Real Madrid,Danilo,23.0,Right-Back,FC Porto,31.50m,in,Summer,"31,5",Primera Division,2015,2015/2016
+Real Madrid,Kiko Casilla,28.0,Goalkeeper,Espanyol,6.00m,in,Summer,6,Primera Division,2015,2015/2016
+Real Madrid,Jesús Vallejo,18.0,Centre-Back,Spain,5.00m,in,Summer,5,Primera Division,2015,2015/2016
+Real Madrid,Marco Asensio,19.0,Right Winger,Spain,3.90m,in,Summer,"3,9",Primera Division,2015,2015/2016
+Real Madrid,Lucas Vázquez,24.0,Right Winger,Espanyol,1.00m,in,Summer,1,Primera Division,2015,2015/2016
+Atlético Madrid,Jackson Martínez,28.0,Centre-Forward,FC Porto,35.00m,in,Summer,35,Primera Division,2015,2015/2016
+Atlético Madrid,Luciano Vietto,21.0,Centre-Forward,Villarreal,20.00m,in,Summer,20,Primera Division,2015,2015/2016
+Atlético Madrid,Filipe Luís,29.0,Left-Back,Chelsea,16.00m,in,Summer,16,Primera Division,2015,2015/2016
+Atlético Madrid,Yannick Carrasco,21.0,Left Winger,Monaco,15.00m,in,Summer,15,Primera Division,2015,2015/2016
+Atlético Madrid,Stefan Savic,24.0,Centre-Back,Fiorentina,12.00m,in,Summer,12,Primera Division,2015,2015/2016
+Atlético Madrid,Matías Kranevitter,22.0,Defensive Midfield,South America,6.00m,in,Summer,6,Primera Division,2015,2015/2016
+Atlético Madrid,Bernard Mensah,20.0,Attacking Midfield,Vit. Guimarães,6.00m,in,Summer,6,Primera Division,2015,2015/2016
+Atlético Madrid,Rafael Borré,19.0,Centre-Forward,South America,5.00m,in,Summer,5,Primera Division,2015,2015/2016
+Valencia,Rodrigo,24.0,Second Striker,Benfica,30.00m,in,Summer,30,Primera Division,2015,2015/2016
+Valencia,Álvaro Negredo,29.0,Centre-Forward,Man City,28.00m,in,Summer,28,Primera Division,2015,2015/2016
+Valencia,Aymen Abdennour,26.0,Centre-Back,Monaco,22.00m,in,Summer,22,Primera Division,2015,2015/2016
+Valencia,André Gomes,21.0,Central Midfield,Benfica,20.00m,in,Summer,20,Primera Division,2015,2015/2016
+Valencia,João Cancelo,21.0,Right-Back,Benfica,15.00m,in,Summer,15,Primera Division,2015,2015/2016
+Valencia,Santi Mina,19.0,Centre-Forward,Celta de Vigo,10.00m,in,Summer,10,Primera Division,2015,2015/2016
+Valencia,Aderllan Santos,26.0,Centre-Back,SC Braga,9.50m,in,Summer,"9,5",Primera Division,2015,2015/2016
+Valencia,Mathew Ryan,23.0,Goalkeeper,Belgium,7.00m,in,Summer,7,Primera Division,2015,2015/2016
+Valencia,Yoel Rodríguez,26.0,Goalkeeper,Celta de Vigo,2.00m,in,Summer,2,Primera Division,2015,2015/2016
+Valencia,Danilo Barbosa,19.0,Defensive Midfield,SC Braga,Loan fee:400Th.,in,Summer,"0,4",Primera Division,2015,2015/2016
+Valencia,Zakaria Bakkali,19.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Sevilla FC,Steven Nzonzi,26.0,Defensive Midfield,Stoke City,8.00m,in,Summer,8,Primera Division,2015,2015/2016
+Sevilla FC,Iago Aspas,27.0,Centre-Forward,Uk,6.00m,in,Summer,6,Primera Division,2015,2015/2016
+Sevilla FC,Gaël Kakuta,24.0,Attacking Midfield,Chelsea,6.00m,in,Summer,6,Primera Division,2015,2015/2016
+Sevilla FC,Mariano,29.0,Right-Back,G. Bordeaux,3.50m,in,Summer,"3,5",Primera Division,2015,2015/2016
+Sevilla FC,Sergio Escudero,25.0,Left-Back,Getafe,3.00m,in,Summer,3,Primera Division,2015,2015/2016
+Sevilla FC,Ciro Immobile,25.0,Centre-Forward,Bor. Dortmund,Loan fee:3.00m,in,Summer,3,Primera Division,2015,2015/2016
+Sevilla FC,Adil Rami,29.0,Centre-Back,AC Milan,2.50m,in,Summer,"2,5",Primera Division,2015,2015/2016
+Sevilla FC,Marco Andreolli,29.0,Centre-Back,Inter,Loan fee:1.00m,in,Summer,1,Primera Division,2015,2015/2016
+Sevilla FC,Yevgen Konoplyanka,25.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Sevilla FC,Fernando Llorente,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Sevilla FC,Michael Krohn-Dehli,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Villarreal,Roberto Soldado,30.0,Centre-Forward,Spurs,16.00m,in,Summer,16,Primera Division,2015,2015/2016
+Villarreal,Samu García,24.0,Right Winger,Málaga CF,8.00m,in,Summer,8,Primera Division,2015,2015/2016
+Villarreal,Samu Castillejo,20.0,Right Winger,Málaga CF,8.00m,in,Summer,8,Primera Division,2015,2015/2016
+Villarreal,Cédric Bakambu,24.0,Centre-Forward,Turkey,7.50m,in,Summer,"7,5",Primera Division,2015,2015/2016
+Villarreal,Denis Suárez,21.0,Attacking Midfield,Barcelona,4.00m,in,Summer,4,Primera Division,2015,2015/2016
+Villarreal,Víctor Ruiz,26.0,Centre-Back,Valencia,2.70m,in,Summer,"2,7",Primera Division,2015,2015/2016
+Villarreal,Adrián López,27.0,Centre-Forward,FC Porto,Loan fee:1.00m,in,Summer,1,Primera Division,2015,2015/2016
+Villarreal,Daniele Bonera,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Villarreal,Mariano Barbosa,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Villarreal,Alphonse Areola,22.0,Goalkeeper,Paris SG,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Villarreal,Léo Baptistão,22.0,Second Striker,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Athletic,Raúl García,29.0,Centre-Forward,Atlético Madrid,10.00m,in,Summer,10,Primera Division,2015,2015/2016
+Athletic,Javi Eraso,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Athletic,Eneko Bóveda,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Athletic,Gorka Elustondo,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Celta de Vigo,Iago Aspas,27.0,Centre-Forward,Sevilla FC,5.30m,in,Summer,"5,3",Primera Division,2015,2015/2016
+Celta de Vigo,Daniel Wass,26.0,Central Midfield,France,3.00m,in,Summer,3,Primera Division,2015,2015/2016
+Celta de Vigo,Dejan Drazic,19.0,Left Winger,Central_EU,1.20m,in,Summer,"1,2",Primera Division,2015,2015/2016
+Celta de Vigo,John Guidetti,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Málaga CF,Nordin Amrabat,28.0,Right Winger,Turkey,3.50m,in,Summer,"3,5",Primera Division,2015,2015/2016
+Málaga CF,Adnane Tighadouini,22.0,Left Winger,Netherlands,1.20m,in,Summer,"1,2",Primera Division,2015,2015/2016
+Málaga CF,Duje Cop,25.0,Centre-Forward,Italy,Loan fee:750Th.,in,Summer,"0,75",Primera Division,2015,2015/2016
+Málaga CF,Charles,31.0,Centre-Forward,Celta de Vigo,500Th.,in,Summer,"0,5",Primera Division,2015,2015/2016
+Málaga CF,Fábio Espinho,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Málaga CF,Roque Santa Cruz,34.0,Centre-Forward,North America,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Málaga CF,Hachim Mastour,17.0,Attacking Midfield,AC Milan,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Málaga CF,Juankar,25.0,Left-Back,SC Braga,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Málaga CF,Raúl Albentosa,26.0,Centre-Back,Uk,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Espanyol,Gerard Moreno,23.0,Centre-Forward,Villarreal,1.50m,in,Summer,"1,5",Primera Division,2015,2015/2016
+Espanyol,Hernán Pérez,26.0,Right Winger,Villarreal,1.30m,in,Summer,"1,3",Primera Division,2015,2015/2016
+Espanyol,Lucas Vázquez,24.0,Right Winger,Spain,500Th.,in,Summer,"0,5",Primera Division,2015,2015/2016
+Espanyol,Pape Diop,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Espanyol,Michaël Ciani,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Espanyol,Francesco Bardi,23.0,Goalkeeper,Inter,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Espanyol,Marco Asensio,19.0,Right Winger,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Espanyol,Enzo Roco,22.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Espanyol,Burgui,21.0,Left Winger,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Juan Carlos,27.0,Goalkeeper,Spain,100Th.,in,Summer,"0,1",Primera Division,2015,2015/2016
+Rayo Vallecano,Razvan Rat,34.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Rayo Vallecano,Patrick Ebert,28.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Rayo Vallecano,Ousseynou Cissé,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Rayo Vallecano,Chechu Dorado,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Rayo Vallecano,Diego Llorente,21.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Javi Guerra,33.0,Centre-Forward,Uk,?,in,Summer,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Pablo Hernández,30.0,Attacking Midfield,Asia,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Luis Fariña,24.0,Attacking Midfield,Benfica,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Chengdong Zhang,26.0,Right Winger,Asia,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Bebé,24.0,Left Winger,Benfica,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Real Sociedad,Asier Illarramendi,25.0,Defensive Midfield,Real Madrid,17.00m,in,Summer,17,Primera Division,2015,2015/2016
+Real Sociedad,Jonathas,26.0,Centre-Forward,Spain,7.20m,in,Summer,"7,2",Primera Division,2015,2015/2016
+Real Sociedad,Bruma,20.0,Left Winger,Turkey,Loan fee:1.90m,in,Summer,"1,9",Primera Division,2015,2015/2016
+Real Sociedad,David Concha,18.0,Right Winger,Spain,1.00m,in,Summer,1,Primera Division,2015,2015/2016
+Real Sociedad,Oier Olazábal,25.0,Goalkeeper,Granada CF,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Real Sociedad,Diego Reyes,22.0,Centre-Back,FC Porto,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Levante,Deyverson,24.0,Centre-Forward,Belenenses,1.80m,in,Summer,"1,8",Primera Division,2015,2015/2016
+Levante,Ángel Trujillo,27.0,Centre-Back,Spain,1.00m,in,Summer,1,Primera Division,2015,2015/2016
+Levante,Jefferson Lerma,20.0,Defensive Midfield,South America,Loan fee:300Th.,in,Summer,"0,3",Primera Division,2015,2015/2016
+Levante,Diego Mariño,25.0,Goalkeeper,Spain,250Th.,in,Summer,"0,25",Primera Division,2015,2015/2016
+Levante,Zouhair Feddal,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Levante,Verza,28.0,midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Levante,Rubén Martínez,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Levante,Nabil Ghilas,25.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Getafe,Balázs Megyeri,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Getafe,Juan Cala,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Getafe,Wanderson,20.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Getafe,Damián Suárez,27.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Getafe,Santiago Vergini,26.0,Centre-Back,Sunderland,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Getafe,Moi Gómez,21.0,Left Winger,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Getafe,Stefan Scepovic,25.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Getafe,Víctor Rodríguez,26.0,Left Winger,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Getafe,Bernard Mensah,20.0,Attacking Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Getafe,Álvaro Medrán,21.0,Central Midfield,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Dep. La Coruña,Sidnei,25.0,Centre-Back,Benfica,6.50m,in,Summer,"6,5",Primera Division,2015,2015/2016
+Dep. La Coruña,Lucas Pérez,26.0,Centre-Forward,Central_EU,1.50m,in,Summer,"1,5",Primera Division,2015,2015/2016
+Dep. La Coruña,Jonás Gutiérrez,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Dep. La Coruña,Manu Fernández,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Dep. La Coruña,Pedro Mosquera,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Dep. La Coruña,Cani,33.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Dep. La Coruña,Alejandro Arribas,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Dep. La Coruña,Fernando Navarro,33.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Dep. La Coruña,Luis Alberto,22.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Dep. La Coruña,Fayçal Fajr,27.0,Central Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Dep. La Coruña,Celso Borges,27.0,Central Midfield,North_EU,?,in,Summer,0.01,Primera Division,2015,2015/2016
+Dep. La Coruña,Oriol Riera,28.0,Centre-Forward,Uk,?,in,Summer,0.01,Primera Division,2015,2015/2016
+Dep. La Coruña,Jonathan Rodríguez,22.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Dep. La Coruña,Fede Cartabia,22.0,Right Winger,Valencia,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Rene Krhin,25.0,Defensive Midfield,Inter,1.30m,in,Summer,"1,3",Primera Division,2015,2015/2016
+Granada CF,Gaspar Iñíguez,21.0,Central Midfield,South America,1.20m,in,Summer,"1,2",Primera Division,2015,2015/2016
+Granada CF,Edgar Méndez,25.0,Right Winger,Spain,750Th.,in,Summer,"0,75",Primera Division,2015,2015/2016
+Granada CF,Andrés Fernández,28.0,Goalkeeper,FC Porto,Loan fee:400Th.,in,Summer,"0,4",Primera Division,2015,2015/2016
+Granada CF,Thievy Bifouma,23.0,Right Winger,Espanyol,Loan fee:200Th.,in,Summer,"0,2",Primera Division,2015,2015/2016
+Granada CF,David Lombán,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Granada CF,Yrondu Musavu-King,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Granada CF,Aridane Hernández,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Granada CF,Ivan Kelava,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Granada CF,Cristiano Biraghi,22.0,Left-Back,Inter,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Rubén Pérez,26.0,Defensive Midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Adalberto Peñaranda,18.0,Centre-Forward,Udinese Calcio,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Dória,20.0,Centre-Back,Marseille,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Neuton,25.0,Centre-Back,Udinese Calcio,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Nicolás López,21.0,Centre-Forward,Udinese Calcio,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Miguel Lopes,28.0,Right-Back,Sporting CP,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Salva Ruiz,20.0,Left-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Granada CF,Rober Ibáñez,22.0,Right Winger,Valencia,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+SD Eibar,Takashi Inui,27.0,Left Winger,E. Frankfurt,500Th.,in,Summer,"0,5",Primera Division,2015,2015/2016
+SD Eibar,Iván Ramis,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Sergi Enrich,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Asier Riesgo,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Sergio García,25.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Antonio Luna,24.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Keko Gontán,23.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,David Juncà,21.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Mauro dos Santos,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Adrián González,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+SD Eibar,Izet Hajrovic,24.0,Right Winger,Werder Bremen,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+SD Eibar,Borja Bastón,22.0,Centre-Forward,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+SD Eibar,Simone Verdi,23.0,Attacking Midfield,AC Milan,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+SD Eibar,Aleksandar Pantic,23.0,Centre-Back,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+SD Eibar,Gonzalo Escalante,22.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+SD Eibar,Eddy Silvestre,22.0,Central Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+UD Las Palmas,Jonathan Viera,25.0,Attacking Midfield,Belgium,2.90m,in,Summer,"2,9",Primera Division,2015,2015/2016
+UD Las Palmas,Sergio Araujo,23.0,Centre-Forward,South America,2.50m,in,Summer,"2,5",Primera Division,2015,2015/2016
+UD Las Palmas,Alfredo Ortuño,24.0,Centre-Forward,Granada CF,1.00m,in,Summer,1,Primera Division,2015,2015/2016
+UD Las Palmas,Nabil El Zhar,28.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+UD Las Palmas,Javier Garrido,30.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+UD Las Palmas,Antolín Alcaraz,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+UD Las Palmas,Javi Varas,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+UD Las Palmas,Pedro Bigas,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+UD Las Palmas,Willian José,23.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+UD Las Palmas,Mubarak Wakaso,25.0,Central Midfield,Russia,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Sporting Gijón,Omar Mascarell,22.0,Defensive Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Sporting Gijón,Alen Halilovic,19.0,Attacking Midfield,Barcelona,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Sporting Gijón,Antonio Sanabria,19.0,Centre-Forward,AS Roma,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Real Betis,Germán Pezzella,24.0,Centre-Back,South America,2.25m,in,Summer,"2,25",Primera Division,2015,2015/2016
+Real Betis,Petros,26.0,Defensive Midfield,South America,1.70m,in,Summer,"1,7",Primera Division,2015,2015/2016
+Real Betis,Joaquín,34.0,Right Winger,Fiorentina,1.50m,in,Summer,"1,5",Primera Division,2015,2015/2016
+Real Betis,Cristiano Piccini,22.0,Right-Back,Fiorentina,1.50m,in,Summer,"1,5",Primera Division,2015,2015/2016
+Real Betis,Francisco Portillo,25.0,Right Winger,Málaga CF,1.00m,in,Summer,1,Primera Division,2015,2015/2016
+Real Betis,Foued Kadir,31.0,Attacking Midfield,Marseille,600Th.,in,Summer,"0,6",Primera Division,2015,2015/2016
+Real Betis,Amro Tarek,23.0,Centre-Back,Africa Sports,300Th.,in,Summer,"0,3",Primera Division,2015,2015/2016
+Real Betis,Heiko Westermann,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Real Betis,Juan Manuel Vargas,31.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Real Betis,Didier Digard,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Real Betis,Rafael van der Vaart,32.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2015,2015/2016
+Real Betis,Ricky van Wolfswinkel,26.0,Centre-Forward,Norwich,loan transfer,in,Summer,0.01,Primera Division,2015,2015/2016
+Atlético Madrid,Augusto Fernández,29.0,Central Midfield,Celta de Vigo,4.00m,in,Winter,4,Primera Division,2015,2015/2016
+Valencia,Guilherme Siqueira,29.0,Left-Back,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Valencia,Denis Cheryshev,25.0,Left Winger,Real Madrid,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Sevilla FC,Ciro Immobile,25.0,Centre-Forward,Bor. Dortmund,11.00m,in,Winter,11,Primera Division,2015,2015/2016
+Sevilla FC,Federico Fazio,28.0,Centre-Back,Spurs,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Celta de Vigo,Claudio Beauvue,27.0,Centre-Forward,Olympique Lyon,5.00m,in,Winter,5,Primera Division,2015,2015/2016
+Celta de Vigo,Marcelo Díaz,29.0,Defensive Midfield,Hamburger SV,1.80m,in,Winter,"1,8",Primera Division,2015,2015/2016
+Málaga CF,Federico Ricca,21.0,Left-Back,South America,2.50m,in,Winter,"2,5",Primera Division,2015,2015/2016
+Málaga CF,Miguel Cifuentes,25.0,Right-Back,Spain,Loan fee:200Th.,in,Winter,"0,2",Primera Division,2015,2015/2016
+Málaga CF,Chory Castro,31.0,Left Winger,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Málaga CF,Christian Atsu,24.0,Left Winger,Chelsea,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Málaga CF,Ikechukwu Uche,32.0,Centre-Forward,North America,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Espanyol,Óscar Duarte,26.0,Centre-Back,Belgium,1.15m,in,Winter,"1,15",Primera Division,2015,2015/2016
+Espanyol,Giedrius Arlauskis,28.0,Goalkeeper,Watford,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Aras Özbiliz,25.0,Right Winger,Turkey,Loan fee:300Th.,in,Winter,"0,3",Primera Division,2015,2015/2016
+Rayo Vallecano,Piti,34.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Rayo Vallecano,Yoel Rodríguez,27.0,Goalkeeper,Valencia,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,José Crespo,28.0,Centre-Back,Aston Villa,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Rayo Vallecano,Manuel Iturra,31.0,Defensive Midfield,Udinese Calcio,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Levante,Mauricio Cuero,22.0,Right Winger,South America,3.20m,in,Winter,"3,2",Primera Division,2015,2015/2016
+Levante,Carl Medjani,30.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Levante,Joan Verdú,32.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Levante,Giuseppe Rossi,28.0,Centre-Forward,Fiorentina,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Levante,Lucas Orbán,26.0,Centre-Back,Valencia,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Getafe,Álvaro Pereira,30.0,Left-Back,South America,Loan fee:270Th.,in,Winter,"0,27",Primera Division,2015,2015/2016
+Getafe,Henok Goitom,31.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Granada CF,David Barral,32.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Granada CF,Jesús Fernández,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Granada CF,Ricardo Costa,34.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Granada CF,Isaac Cuenca,24.0,Left Winger,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Granada CF,Abdoulaye Doucouré,23.0,Central Midfield,Watford,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Granada CF,Adalberto Peñaranda,18.0,Centre-Forward,Watford,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+SD Eibar,Kike García,26.0,Centre-Forward,Uk,2.00m,in,Winter,2,Primera Division,2015,2015/2016
+SD Eibar,Gonzalo Escalante,22.0,Central Midfield,Italy,1.00m,in,Winter,1,Primera Division,2015,2015/2016
+SD Eibar,Josip Radosevic,21.0,Defensive Midfield,SSC Napoli,Loan fee:200Th.,in,Winter,"0,2",Primera Division,2015,2015/2016
+SD Eibar,Ion Ansotegi,33.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+SD Eibar,Jota Peleteiro,24.0,Right Winger,Uk,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+UD Las Palmas,Ángel Montoro,27.0,Central Midfield,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+UD Las Palmas,Mauricio Lemos,20.0,Centre-Back,Russia,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Sporting Gijón,Ognjen Vranjes,26.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2015,2015/2016
+Sporting Gijón,Igor Lichnovsky,21.0,Centre-Back,Portugal,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Real Betis,Leandro Damião,26.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Real Betis,Charly Musonda Jr.,19.0,Attacking Midfield,Uk,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Real Betis,Martín Montoya,24.0,Right-Back,Barcelona,loan transfer,in,Winter,0.01,Primera Division,2015,2015/2016
+Benfica,Raúl Jiménez,24.0,Centre-Forward,Atlético Madrid,22.00m,in,Summer,22,Liga Nos,2015,2015/2016
+Benfica,Mehdi Carcela-González,26.0,Right Winger,Belgium,2.50m,in,Summer,"2,5",Liga Nos,2015,2015/2016
+Benfica,Konstantinos Mitroglou,27.0,Centre-Forward,Uk,Loan fee:800Th.,in,Summer,"0,8",Liga Nos,2015,2015/2016
+Benfica,Jhon Murillo,19.0,Right Winger,South America,750Th.,in,Summer,"0,75",Liga Nos,2015,2015/2016
+Benfica,Ederson,21.0,Goalkeeper,Rio Ave FC,500Th.,in,Summer,"0,5",Liga Nos,2015,2015/2016
+Benfica,Diego Lopes,21.0,Central Midfield,Rio Ave FC,100Th.,in,Summer,"0,1",Liga Nos,2015,2015/2016
+Benfica,Pelé,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Benfica,Adel Taarabt,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Benfica,Marçal,26.0,Left-Back,Nacional,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+FC Porto,Giannelli Imbula,22.0,Defensive Midfield,Marseille,20.00m,in,Summer,20,Liga Nos,2015,2015/2016
+FC Porto,Tecatito,22.0,Right Winger,Twente FC,10.50m,in,Summer,"10,5",Liga Nos,2015,2015/2016
+FC Porto,Danilo Pereira,23.0,Defensive Midfield,Marítimo,4.50m,in,Summer,"4,5",Liga Nos,2015,2015/2016
+FC Porto,André André,25.0,Central Midfield,Vit. Guimarães,1.50m,in,Summer,"1,5",Liga Nos,2015,2015/2016
+FC Porto,Sérgio Oliveira,23.0,Central Midfield,Paços Ferreira,1.00m,in,Summer,1,Liga Nos,2015,2015/2016
+FC Porto,Miguel Layún,27.0,Right-Back,Watford,Loan fee:500Th.,in,Summer,"0,5",Liga Nos,2015,2015/2016
+FC Porto,Iker Casillas,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Daniel Osvaldo,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Alberto Bueno,27.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Maximiliano Pereira,31.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Aly Cissokho,27.0,Centre-Back,Aston Villa,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Sporting CP,Teófilo Gutiérrez,30.0,Centre-Forward,South America,3.40m,in,Summer,"3,4",Liga Nos,2015,2015/2016
+Sporting CP,Naldo,26.0,Centre-Back,Udinese Calcio,3.00m,in,Summer,3,Liga Nos,2015,2015/2016
+Sporting CP,Ewerton,26.0,Centre-Back,Russia,1.50m,in,Summer,"1,5",Liga Nos,2015,2015/2016
+Sporting CP,Bryan Ruiz,29.0,Attacking Midfield,Uk,1.32m,in,Summer,"1,32",Liga Nos,2015,2015/2016
+Sporting CP,Alberto Aquilani,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Azbe Jug,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,João Pereira,31.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Michaël Ciani,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Bruno Paulista,19.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+SC Braga,Alef,20.0,Defensive Midfield,South America,750Th.,in,Summer,"0,75",Liga Nos,2015,2015/2016
+SC Braga,Nikola Stojiljkovic,22.0,Centre-Forward,Cukaricki,750Th.,in,Summer,"0,75",Liga Nos,2015,2015/2016
+SC Braga,Ahmed Hassan,22.0,Centre-Forward,Rio Ave FC,700Th.,in,Summer,"0,7",Liga Nos,2015,2015/2016
+SC Braga,Crislan,23.0,Centre-Forward,Penapolense-SP,600Th.,in,Summer,"0,6",Liga Nos,2015,2015/2016
+SC Braga,Rodrigo Pinho,24.0,Centre-Forward,South America,400Th.,in,Summer,"0,4",Liga Nos,2015,2015/2016
+SC Braga,Ricardo Ferreira,22.0,Centre-Back,Portugal,300Th.,in,Summer,"0,3",Liga Nos,2015,2015/2016
+SC Braga,Arghus,27.0,Centre-Back,Central_EU,200Th.,in,Summer,"0,2",Liga Nos,2015,2015/2016
+SC Braga,William Pottker,21.0,Right Winger,South America,Loan fee:100Th.,in,Summer,"0,1",Liga Nos,2015,2015/2016
+SC Braga,Joan Román,22.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Wilson Eduardo,25.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Aarón Ñíguez,26.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Rui Fonte,25.0,Centre-Forward,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+SC Braga,Filipe Augusto,22.0,Defensive Midfield,Rio Ave FC,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Tozé,22.0,Attacking Midfield,FC Porto,1.50m,in,Summer,"1,5",Liga Nos,2015,2015/2016
+Vit. Guimarães,Dalbert,21.0,Left-Back,Portugal,500Th.,in,Summer,"0,5",Liga Nos,2015,2015/2016
+Vit. Guimarães,Henrique Dourado,25.0,Centre-Forward,South America,Loan fee:250Th.,in,Summer,"0,25",Liga Nos,2015,2015/2016
+Vit. Guimarães,Bruno Gaspar,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vit. Guimarães,Thibang Phete,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vit. Guimarães,Pedro Henrique,22.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Licá,26.0,Left Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Santiago Montoya,23.0,Attacking Midfield,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Belenenses,Betinho,22.0,Centre-Forward,Portugal,250Th.,in,Summer,"0,25",Liga Nos,2015,2015/2016
+Belenenses,Ricardo Ribeiro,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,Rúben Pinto,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,João Amorim,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,Tonel,35.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,João Vilela,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,André Sousa,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,Rafael Floro,21.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,Gonçalo Silva,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses,André Geraldes,24.0,Right-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Belenenses,Dálcio,19.0,Central Midfield,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Belenenses,Traquina,26.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Belenenses,Kuca,26.0,Left Winger,Turkey,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Belenenses,Luís Leal,28.0,Centre-Forward,Est_EU,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Mauro Cerqueira,22.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Nacional,Salvador Agra,23.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Nacional,Cas Peters,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Nacional,Nenê Bonilha,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Nacional,Wanderson,23.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Washington Santana,26.0,Defensive Midfield,Penapolense-SP,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Jhonder Cádiz,20.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Alan Henrique,24.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Gustavo,21.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Geraldo,22.0,Defensive Midfield,LD Maputo,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Zezinho,23.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Nacional,Sebastián Ayala,19.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Bruno Santos,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,João Silva,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Christian,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Marafona,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Marco Baixinho,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Miguel Vieira,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,João Góis,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Roniel,21.0,Right Winger,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Pelé,23.0,Defensive Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Paulo Henrique,18.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Lorran,22.0,Central Midfield,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Fábio Martins,22.0,Left Winger,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Marítimo,Dirceu,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Marítimo,Baba Diawara,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Marítimo,Patrick Vieira,24.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Marítimo,Deyvison,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Marítimo,Ulysse Diallo,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Marítimo,Gevorg Ghazaryan,27.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Marítimo,Tiago Rodrigues,23.0,Attacking Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Marítimo,Lynneeker,21.0,Right Winger,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Marítimo,Romário,23.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,Filip Krovinovic,20.0,Attacking Midfield,Est_EU,800Th.,in,Summer,"0,8",Liga Nos,2015,2015/2016
+Rio Ave FC,Edimar,29.0,Left-Back,Chievo Verona,Loan fee:110Th.,in,Summer,"0,11",Liga Nos,2015,2015/2016
+Rio Ave FC,Hélder Guedes,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Aníbal Capela,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedrinho,30.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Yazalde,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,José Postiga,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Rui Gabriel Vieira,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Kizito,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Zé Pedro,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedro Moreira,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Héldon,26.0,Left Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,João Novais,21.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,Zé Paulo,21.0,Central Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedro Paulo,21.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,Joris Kayembe,20.0,Left-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Milan Marcic,19.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,Filipe Gonçalves,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,Victor Braga,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,Evaldo,33.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,Rafa Sousa,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,Luís Carlos,28.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,André Micael,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,André Fontes,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense ,Rafael Martins,26.0,Centre-Forward,Levante,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Ernest Ohemeng,19.0,Left Winger,Rio Ave FC,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Emmanuel Boateng,19.0,Centre-Forward,Rio Ave FC,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,João Vieira,23.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Alan Schons,22.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Pierre Sagna,24.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,João Palhinha,20.0,Defensive Midfield,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Iuri Medeiros,21.0,Right Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Léo Bonatini,21.0,Centre-Forward,South America,400Th.,in,Summer,"0,4",Liga Nos,2015,2015/2016
+Estoril Praia,Gladestony,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Morelatto,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Wanderson,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Leandro Chaparro,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Bruno César,26.0,Central Midfield,Asia,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Oumar Diakhite,21.0,Centre-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Matheuzinho,22.0,Attacking Midfield,GO Audax,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Georgemy,19.0,Goalkeeper,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Boavista,Renato Santos,23.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Gideão,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Rivaldinho,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Paulo Vinícius,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Uche Nwofor,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Alex Júnior,22.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Nuno Henrique,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Emmanuel Hackman,20.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,André Bukia,20.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Samuel Inkoom,26.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista,Ibrahima Faye,22.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Boavista,Tiago Mesquita,24.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Boavista,Luisinho,25.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Coimbra,William Gustavo,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Coimbra,Nii Plange,26.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Coimbra,Rabiola,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Coimbra,Selim Bouadla,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Coimbra,Emídio Rafael,29.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Coimbra,Pedro Trigueira,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Coimbra,Rúben Vinagre,17.0,Left-Back,Monaco,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Coimbra,Leandro Silva,21.0,Central Midfield,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Coimbra,Gonçalo Paciência,20.0,Centre-Forward,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Alexandre Cardoso,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,André Claro,24.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,William Alves,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Toni Gorupec,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Nuno Pinto,28.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Diego,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Cléber,23.0,defence,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Cristian Tissone,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Vasco Costa,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Ruca,24.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Fábio Pacheco,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Costinha,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Shaher Mansour,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Ricardo Nunes,33.0,Goalkeeper,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Rúben Semedo,21.0,Centre-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Al-Gadi,25.0,Defensive Midfield,Al-Ahly Tripoli,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Arnold Issoko,23.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Ulises Dávila,24.0,Attacking Midfield,Chelsea,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Zequinha,28.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Adilson Goiano,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Rafael Bracali,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Idrissa Coulibaly,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Lucas Lima,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,José Manuel Velázquez,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Nuno Valente,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Gegé,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Arouca,Jaílson,24.0,Right-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Ivo,20.0,Right Winger,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Karl,22.0,Central Midfield,South America,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Maurides,21.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Borja López,21.0,Centre-Back,Monaco,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Caio Rangel,19.0,Right Winger,Italy,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Arouca,Leandro Ribeiro,20.0,Left Winger,Inter,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Nathan Júnior,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Wagner,28.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Kaká,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Markus Berger,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Helder Tavares,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Jordan Massengo,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Luis Tinoco,28.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Lucas Souza,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Salva Chamorro,25.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Tondela,Raphael Guzzo,20.0,Central Midfield,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Jhon Murillo,19.0,Right Winger,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Bruno Nascimento,24.0,Centre-Back,1. FC Köln,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Junior Oto'o,21.0,Right-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Dolly Menga,22.0,Centre-Forward,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Matt Jones,29.0,Goalkeeper,Belenenses,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Tondela,Romário Baldé,18.0,Left Winger,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Amilton,25.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Nilson,27.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Paulinho,23.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Erick Iragua,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Danilo Dias,29.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Diego Galo,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Diogo Coelho,22.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Breitner,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Tiago Ferreira,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,Abdullahi Shehu,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+União Madeira,André Moreira,19.0,Goalkeeper,Atlético Madrid,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Joãozinho,26.0,Left-Back,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Fabiano Oliveira,29.0,Centre-Forward,Tigres,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Paulo Monteiro,30.0,Centre-Back,Est_EU,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Gian Martins,22.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Otávio Silva,24.0,Centre-Back,Khaitan SC,?,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Gonzalo Bueno,22.0,Left Winger,Russia,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Jhonder Cádiz,19.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+União Madeira,Edder Farías,27.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2015,2015/2016
+Benfica,Luka Jovic,18.0,Centre-Forward,Est_EU,6.60m,in,Winter,"6,6",Liga Nos,2015,2015/2016
+Benfica,Alejandro Grimaldo,20.0,Left-Back,Spain,2.10m,in,Winter,"2,1",Liga Nos,2015,2015/2016
+FC Porto,Moussa Marega,24.0,Second Striker,Marítimo,3.80m,in,Winter,"3,8",Liga Nos,2015,2015/2016
+FC Porto,Hyun-jun Suk,24.0,Centre-Forward,Vitória Setúbal,1.50m,in,Winter,"1,5",Liga Nos,2015,2015/2016
+FC Porto,José Sá,23.0,Goalkeeper,Marítimo,1.20m,in,Winter,"1,2",Liga Nos,2015,2015/2016
+Sporting CP,Marvin Zeegelaar,25.0,Left-Back,Rio Ave FC,300Th.,in,Winter,"0,3",Liga Nos,2015,2015/2016
+Sporting CP,Sebastián Coates,25.0,Centre-Back,Sunderland,Loan fee:250Th.,in,Winter,"0,25",Liga Nos,2015,2015/2016
+Sporting CP,Bruno César,27.0,Central Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Hernán Barcos,31.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Marafona,28.0,Goalkeeper,Paços Ferreira,400Th.,in,Winter,"0,4",Liga Nos,2015,2015/2016
+SC Braga,Stian Ringstad,24.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Josué,25.0,Attacking Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Victor Andrade,20.0,Left Winger,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,João Teixeira,21.0,Attacking Midfield,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Uri Rosell,23.0,Defensive Midfield,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Paolo Hurtado,25.0,Attacking Midfield,Uk,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vit. Guimarães,Francis,25.0,Right Winger,Coimbra-MG,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Belenenses,Rafael Leme Amorim,28.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses,Abel Aguilar,31.0,Defensive Midfield,Toulouse,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Belenenses,Juanto Ortuño,23.0,Centre-Forward,Llagostera,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Belenenses,Lucas Pugh,22.0,Centre-Forward,Arsenal FC,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Belenenses,Marko Bakic,22.0,Central Midfield,Fiorentina,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Nacional,Hicham Belkaroui,25.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Nacional,Paulinho,23.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Nacional,Joan Román,22.0,Left Winger,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Nacional,Rodrigo Pinho,24.0,Centre-Forward,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Nacional,Ricardo Gomes,24.0,Centre-Forward,Vit. Guimarães,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Nacional,Filipe Ferreira,19.0,Goalkeeper,FC Porto U19,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Cícero,29.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Mário Felgueiras,29.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Paços Ferreira,Sodiq Fatai,19.0,Left Winger,Portugal,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Paços Ferreira,Ponck,21.0,Centre-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Marítimo,Donald Djousse,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Marítimo,Charles,21.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Marítimo,Lynneeker,22.0,Right Winger,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Marítimo,Alireza Haghighi,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Marítimo,Gevaro Nepomuceno,23.0,Left Winger,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Marítimo,Damien Plessis,27.0,Defensive Midfield,France,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Marítimo,Maurício Antônio,23.0,Centre-Back,Portugal,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,Hélder Postiga,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Ronan,20.0,Centre-Forward,Portugal,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Rio Ave FC,Kuca,26.0,Left Winger,Turkey,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Fábio Espinho,30.0,Attacking Midfield,Málaga CF,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Moreirense ,Nildo Petrolina,29.0,Left Winger,Arouca,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Felipe Augusto,23.0,Right Winger,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Dankler,24.0,Centre-Back,South America,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Michael,22.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Marion,24.0,Left Winger,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Lucas Farias,21.0,Right Winger,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Estoril Praia,Pedro Botelho,26.0,Left-Back,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Boavista,Rúben Ribeiro,28.0,Central Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Boavista,Mario Martínez,30.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Boavista,Aymen Tahar,26.0,Central Midfield,Est_EU,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Boavista,Imanol Iriberri,28.0,Centre-Forward,Wilstermann,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Boavista,Cristian Cangá,22.0,Centre-Forward,South America,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Coimbra,Rafa Soares,20.0,Left-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Coimbra,Inters Gui,23.0,Attacking Midfield,Vit. Guimarães,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Tiago Valente,30.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal,Albert Meyong,35.0,Centre-Forward,Kabuscorp SC,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Maciej Makuszewski,26.0,Right Winger,Central_EU,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Vitória Setúbal,Salim Cissé,23.0,Centre-Forward,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Arouca,Rodney Wallace,27.0,Left Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Arouca,Mateus,31.0,Left Winger,1º de Agosto,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Arouca,Jubal,22.0,Centre-Back,South America,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Arouca,Jorginho,20.0,Left Winger,Uk,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+Arouca,Walter González,20.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Tondela,Billal Sebaihi,23.0,Right Winger,Estoril Praia,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Tondela,Wanderson Lima,20.0,Right-Back,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Tondela,Érick Moreno,24.0,Centre-Forward,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+Tondela,Karl,22.0,Central Midfield,Arouca,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+União Madeira,Genséric Kusunga,27.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+União Madeira,Rúben Lima,26.0,Left-Back,Din. Zagreb,?,in,Winter,0.01,Liga Nos,2015,2015/2016
+União Madeira,Marco Túlio,23.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+União Madeira,Miguel Cardoso,21.0,Right Winger,Deportivo,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+União Madeira,Raúl Gudiño,19.0,Goalkeeper,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2015,2015/2016
+PSV Eindhoven,Gastón Pereiro,20.0,Attacking Midfield,Nacional,7.00m,in,Summer,7,Eredivisie,2015,2015/2016
+PSV Eindhoven,Davy Pröpper,23.0,Central Midfield,Vitesse,4.50m,in,Summer,"4,5",Eredivisie,2015,2015/2016
+PSV Eindhoven,Héctor Moreno,27.0,Centre-Back,Espanyol,3.50m,in,Summer,"3,5",Eredivisie,2015,2015/2016
+PSV Eindhoven,Andrés Guardado,28.0,Central Midfield,Valencia,2.80m,in,Summer,"2,8",Eredivisie,2015,2015/2016
+PSV Eindhoven,Nicolas Isimat-Mirin,23.0,Centre-Back,Monaco,2.40m,in,Summer,"2,4",Eredivisie,2015,2015/2016
+PSV Eindhoven,Luuk Koopmans,21.0,Goalkeeper,Netherlands,100Th.,in,Summer,"0,1",Eredivisie,2015,2015/2016
+PSV Eindhoven,Simon Poulsen,30.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Maxime Lestienne,23.0,Left Winger,Asia,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Ajax,Nemanja Gudelj,23.0,Defensive Midfield,AZ Alkmaar,6.00m,in,Summer,6,Eredivisie,2015,2015/2016
+Ajax,Arkadiusz Milik,21.0,Centre-Forward,Bay. Leverkusen,2.80m,in,Summer,"2,8",Eredivisie,2015,2015/2016
+Ajax,Amin Younes,21.0,Attacking Midfield,Bor. M'gladbach,2.50m,in,Summer,"2,5",Eredivisie,2015,2015/2016
+Ajax,Johnny Heitinga,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Ajax,Mitchell Dijks,22.0,Left-Back,Willem II,?,in,Summer,0.01,Eredivisie,2015,2015/2016
+Ajax,Yaya Sanogo,22.0,Centre-Forward,Arsenal,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+AZ Alkmaar,Alireza Jahanbakhsh,21.0,Right Winger,NEC Nijmegen,1.80m,in,Summer,"1,8",Eredivisie,2015,2015/2016
+AZ Alkmaar,Ben Rienstra,25.0,Central Midfield,PEC Zwolle,1.50m,in,Summer,"1,5",Eredivisie,2015,2015/2016
+AZ Alkmaar,Vincent Janssen,21.0,Centre-Forward,Netherlands,500Th.,in,Summer,"0,5",Eredivisie,2015,2015/2016
+AZ Alkmaar,Rajko Brezancic,25.0,Left-Back,Cukaricki,400Th.,in,Summer,"0,4",Eredivisie,2015,2015/2016
+AZ Alkmaar,Gino Coutinho,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Jop van der Linden,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord,Marko Vejinovic,25.0,Central Midfield,Vitesse,3.50m,in,Summer,"3,5",Eredivisie,2015,2015/2016
+Feyenoord,Eric Botteghin,27.0,Centre-Back,FC Groningen,2.50m,in,Summer,"2,5",Eredivisie,2015,2015/2016
+Feyenoord,Simon Gustafson,20.0,Central Midfield,North_EU,1.50m,in,Summer,"1,5",Eredivisie,2015,2015/2016
+Feyenoord,Michiel Kramer,26.0,Centre-Forward,ADO Den Haag,1.50m,in,Summer,"1,5",Eredivisie,2015,2015/2016
+Feyenoord,Jan-Arie van der Heijden,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord,Eljero Elia,28.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord,Colin Kazim-Richards,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord,Dirk Kuyt,34.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse,Sheran Yeini,28.0,Defensive Midfield,Est_EU,400Th.,in,Summer,"0,4",Eredivisie,2015,2015/2016
+Vitesse,Milot Rashica,19.0,Right Winger,Central_EU,300Th.,in,Summer,"0,3",Eredivisie,2015,2015/2016
+Vitesse,Maikel van der Werff,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse,Nathan,19.0,Attacking Midfield,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Vitesse,Dominic Solanke,17.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Vitesse,Danilo Pantic,18.0,Central Midfield,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Vitesse,Izzy Brown,18.0,Second Striker,Uk,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Vitesse,Lewis Baker,20.0,Central Midfield,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+PEC Zwolle,Ouasim Bouy,22.0,Defensive Midfield,Juventus,Loan fee:100Th.,in,Summer,"0,1",Eredivisie,2015,2015/2016
+PEC Zwolle,Abdel Malek El Hasnaoui,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Dirk Marcellis,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Mickey van der Hart,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Bart Schenkeveld,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Gustavo Hebling,19.0,Central Midfield,France,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+PEC Zwolle,Lars Veldwijk,23.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+PEC Zwolle,Queensy Menig,19.0,Left Winger,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Heerenveen,Luka Zahovic,19.0,Centre-Forward,Central_EU,700Th.,in,Summer,"0,7",Eredivisie,2015,2015/2016
+Heerenveen,Mitchell Te Vrede,24.0,Centre-Forward,Feyenoord,500Th.,in,Summer,"0,5",Eredivisie,2015,2015/2016
+Heerenveen,Caner Cavlan,23.0,Left-Back,De Graafschap,300Th.,in,Summer,"0,3",Eredivisie,2015,2015/2016
+Heerenveen,Lucas Bijker,22.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heerenveen,Erwin Mulder,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heerenveen,Wieger Sietsma,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heerenveen,Branco van den Boomen,19.0,Central Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2015,2015/2016
+FC Groningen,Jesper Drost,22.0,Attacking Midfield,PEC Zwolle,1.45m,in,Summer,"1,45",Eredivisie,2015,2015/2016
+FC Groningen,Bryan Linssen,24.0,Centre-Forward,Heracles Almelo,850Th.,in,Summer,"0,85",Eredivisie,2015,2015/2016
+FC Groningen,Kasper Larsen,22.0,Centre-Back,North_EU,450Th.,in,Summer,"0,45",Eredivisie,2015,2015/2016
+FC Groningen,Etiënne Reijnen,28.0,Centre-Back,Netherlands,400Th.,in,Summer,"0,4",Eredivisie,2015,2015/2016
+FC Groningen,Hedwiges Maduro,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Abel Tamata,24.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Funso Ojo,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Guus Joppen,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Dico Koppers,23.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Nick van der Velden,33.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Konstantinos Lamprou,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Adam Nemec,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Nigel Bertrams,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Erik Falkenburg,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Jeffrey Altheer,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II,Frenkie de Jong,18.0,Central Midfield,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Willem II,Lucas Andersen,20.0,Left Winger,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Willem II,Ruben Ligeon,23.0,Right-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Willem II,Richairo ivkovic,18.0,Centre-Forward,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Willem II,Lesly de Sa,22.0,Right Winger,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Twente FC,Georgios Katsikas,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Twente FC,Chinedu Ede,28.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Twente FC,Bruno Uvini,24.0,Centre-Back,SSC Napoli,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Twente FC,Michael Olaitan,22.0,Centre-Forward,Central_EU,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Twente FC,Thomas Agyepong,18.0,Left Winger,Uk,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+FC Utrecht,Sébastien Haller,21.0,Centre-Forward,France,750Th.,in,Summer,"0,75",Eredivisie,2015,2015/2016
+FC Utrecht,Timo Letschert,22.0,Centre-Back,Roda JC,200Th.,in,Summer,"0,2",Eredivisie,2015,2015/2016
+FC Utrecht,Rico Strieder,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Filip Bednarek,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Andreas Ludwig,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Kevin Conboy,27.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Louis Nganioni,20.0,Left-Back,Olympique Lyon,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Sjoerd Overgoor,26.0,Central Midfield,Netherlands,75Th.,in,Summer,"0,075",Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Dominik Masek,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Xander Houtkoop,26.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Valmir Berisha,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Marvin Peersman,24.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Kai Heerings,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jergé Hoefdraad,28.0,attack,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,André Krul,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Djavan Anderson,20.0,Right-Back,AZ Alkmaar,?,in,Summer,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Martijn van der Laan,27.0,Centre-Back,FC Groningen,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jack Byrne,19.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Wessel Dammers,20.0,Centre-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+ADO Den Haag,Tom Beugelsdijk,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ruben Schaken,33.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ludcinio Marengo,23.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Édouard Duplan,32.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Mike Havenaar,28.0,Centre-Forward,North_EU,?,in,Summer,0.01,Eredivisie,2015,2015/2016
+ADO Den Haag,Kenji Gorré,20.0,Left Winger,Swansea,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Heracles Almelo,Robin Gosens,20.0,Left Midfield,Vitesse,200Th.,in,Summer,"0,2",Eredivisie,2015,2015/2016
+Heracles Almelo,Gino Bosz,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Peter van Ooijen,23.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Tim Breukers,27.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Paul Gladon,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Marijn de Kler,21.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Wout Droste,26.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Gonzalo García,31.0,Second Striker,Est_EU,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Excelsior,Stanley Elbers,23.0,Right Winger,Netherlands,300Th.,in,Summer,"0,3",Eredivisie,2015,2015/2016
+Excelsior,Tom Muyters,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Tom Overtoom,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Mike Havekotte,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Henrico Drost,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Bas Kuipers,20.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Filip Kurto,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Nigel Hasselbaink,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Brandley Kuwas,22.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Excelsior,Yoëll van Nieff,22.0,Defensive Midfield,FC Groningen,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mihai Roman II,23.0,Centre-Forward,Pandurii,350Th.,in,Summer,"0,35",Eredivisie,2015,2015/2016
+NEC Nijmegen,Joey Sleegers,21.0,Left Winger,Feyenoord,100Th.,in,Summer,"0,1",Eredivisie,2015,2015/2016
+NEC Nijmegen,Bart Buysse,28.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Benjamin Kirsten,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Janio Bikel,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Marco van Duin,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mohamed Rayhi,21.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Wojciech Golla,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Hannes Thór Halldórsson,31.0,Goalkeeper,North_EU,?,in,Summer,0.01,Eredivisie,2015,2015/2016
+NEC Nijmegen,Sam Lundholm,21.0,Right Winger,North_EU,?,in,Summer,0.01,Eredivisie,2015,2015/2016
+NEC Nijmegen,Lucas Woudenberg,21.0,Left-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+NEC Nijmegen,Todd Kane,21.0,Right-Back,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+NEC Nijmegen,Marcel Ritzmaier,22.0,Central Midfield,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+De Graafschap,Youssef El Jebli,22.0,Attacking Midfield,Netherlands,50Th.,in,Summer,"0,05",Eredivisie,2015,2015/2016
+De Graafschap,Alexander Bannink,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Cas Peters,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Eric Verstappen,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Thijs Bouma,23.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Erik Quekel,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Jeroen Tesselaar,26.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Andy Driver,27.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Tim Linthorst,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Bryan Smeets,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap,Nathan Kabasele,21.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Roda JC,Farshad Noor,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC,Gibril Sankoh,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC,Rostyn Griffiths,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC,Jens van Son,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC,Santiago Palacios,24.0,Second Striker,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC,Tomi Juric,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC,Richmond Boakye,22.0,Centre-Forward,Atalanta BC,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+Roda JC,Daniel De Silva,18.0,Attacking Midfield,Asia,loan transfer,in,Summer,0.01,Eredivisie,2015,2015/2016
+PSV Eindhoven,Marco van Ginkel,23.0,Central Midfield,Chelsea,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+AZ Alkmaar,Stijn Wuytens,26.0,Centre-Back,Willem II,500Th.,in,Winter,"0,5",Eredivisie,2015,2015/2016
+AZ Alkmaar,Levi García,18.0,Right Winger,Central FC,?,in,Winter,0.01,Eredivisie,2015,2015/2016
+Feyenoord,Renato Tapia,20.0,Defensive Midfield,Twente FC,1.50m,in,Winter,"1,5",Eredivisie,2015,2015/2016
+Feyenoord,Pär Hansson,29.0,Goalkeeper,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Vitesse,Kosuke Ota,28.0,Left-Back,Asia,750Th.,in,Winter,"0,75",Eredivisie,2015,2015/2016
+PEC Zwolle,Youness Mokhtar,24.0,Left Winger,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Heerenveen,Arbër Zeneli,20.0,Left Winger,North_EU,1.95m,in,Winter,"1,95",Eredivisie,2015,2015/2016
+FC Groningen,Alexander Sörloth,20.0,Centre-Forward,North_EU,550Th.,in,Winter,"0,55",Eredivisie,2015,2015/2016
+Willem II,Bartholomew Ogbeche,31.0,Centre-Forward,Netherlands,300Th.,in,Winter,"0,3",Eredivisie,2015,2015/2016
+Willem II,Rochdi Achenteh,27.0,Left-Back,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Willem II,Guus Hupperts,23.0,Right Winger,AZ Alkmaar,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Willem II,Andy Kawaya,19.0,Left Winger,Belgium,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Twente FC,Oskar Zawada,20.0,Centre-Forward,VfL Wolfsburg,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Twente FC,Zakaria El Azzouzi,19.0,Centre-Forward,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Twente FC,Stefan Thesker,24.0,Centre-Back,Germany,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+FC Utrecht,Ruben Ligeon,23.0,Right-Back,Ajax,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Darryl Lachman,26.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Tom Hiariej,27.0,Defensive Midfield,FC Groningen,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Rai Vloet,20.0,Attacking Midfield,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Kevin van Veen,24.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+ADO Den Haag,Kyle Ebecilio,21.0,Central Midfield,Twente FC,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Heracles Almelo,Tarik Kada,19.0,Right Winger,Heerenveen,100Th.,in,Winter,"0,1",Eredivisie,2015,2015/2016
+Heracles Almelo,Justin Hoogma,17.0,Centre-Back,FC Twente U19,?,in,Winter,0.01,Eredivisie,2015,2015/2016
+Excelsior,Michiel Hemmen,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mikael Dyrestam,24.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Dario Dumic,23.0,Centre-Back,North_EU,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+De Graafschap,Piotr Parzyszek,22.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+De Graafschap,Mark Diemers,22.0,Central Midfield,FC Utrecht,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Roda JC,Jordy Buijs,27.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC,Ugur Inceman,34.0,Central Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC,Rydell Poepon,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC,Marcos Gullón,26.0,Central Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC,Georgi Zhukov,21.0,Central Midfield,Standard,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Roda JC,Mike van Duinen,24.0,Centre-Forward,Germany,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Roda JC,Martin Milec,24.0,Right-Back,Belgium,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016
+Roda JC,Kristoffer Peterson,21.0,Left Winger,FC Utrecht,loan transfer,in,Winter,0.01,Eredivisie,2015,2015/2016

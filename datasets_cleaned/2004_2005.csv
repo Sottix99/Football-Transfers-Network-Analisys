@@ -1,0 +1,1379 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+AS Roma,Matteo Brighi,23.0,Central Midfield,Juventus,16.00m,in,Summer,16,Serie A,2004,2004/2005
+AS Roma,Simone Perrotta,26.0,Attacking Midfield,Chievo Verona,7.20m,in,Summer,"7,2",Serie A,2004,2004/2005
+AS Roma,Philippe Mexès,22.0,Centre-Back,AJ Auxerre,7.00m,in,Summer,7,Serie A,2004,2004/2005
+AS Roma,Matteo Ferrari,24.0,Centre-Back,Parma,7.00m,in,Summer,7,Serie A,2004,2004/2005
+AS Roma,Mido,21.0,Centre-Forward,Marseille,6.00m,in,Summer,6,Serie A,2004,2004/2005
+AS Roma,Cesare Bovo,21.0,Centre-Back,Lecce,10Th.,in,Summer,"0,01",Serie A,2004,2004/2005
+Sampdoria,Vitali Kutuzov,24.0,Centre-Forward,AC Milan,1.50m,in,Summer,"1,5",Serie A,2004,2004/2005
+Sampdoria,Marcello Castellini,31.0,Centre-Back,Parma,1.20m,in,Summer,"1,2",Serie A,2004,2004/2005
+Sampdoria,Cristian Zenoni,27.0,Right-Back,Juventus,1.00m,in,Summer,1,Serie A,2004,2004/2005
+Sampdoria,Max Tonetto,29.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Sampdoria,Simone Pavan,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Sampdoria,Vincenzo Iacopino,27.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Sampdoria,Daniele Padelli,18.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Sampdoria,Fausto Rossini,26.0,Centre-Forward,Atalanta BC,?,in,Summer,0.01,Serie A,2004,2004/2005
+Sampdoria,Marco Pisano,22.0,Left-Back,Brescia,?,in,Summer,0.01,Serie A,2004,2004/2005
+Sampdoria,Biagio Pagano,21.0,Right Winger,Atalanta BC,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Sampdoria,Marco Donadel,21.0,Defensive Midfield,AC Milan,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Aleksey Eremenko Jr.,21.0,Attacking Midfield,North_EU,250Th.,in,Summer,"0,25",Serie A,2004,2004/2005
+Lecce,Samuele Dalla Bona,23.0,Central Midfield,AC Milan,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Souleymane Diamoutene,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Sasa Bjelanovic,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Francesco Marianini,25.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Alex Pinardi,23.0,Defensive Midfield,Atalanta BC,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Massimo Paci,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Babù,23.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lecce,Luca Anania,24.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Atalanta BC,Demetrio Albertini,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Atalanta BC,Santos,23.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Atalanta BC,Claudio Rivalta,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Juventus,Émerson,28.0,Defensive Midfield,AS Roma,28.00m,in,Summer,28,Serie A,2004,2004/2005
+Juventus,Zlatan Ibrahimovic,22.0,Centre-Forward,Ajax,16.00m,in,Summer,16,Serie A,2004,2004/2005
+Juventus,Matteo Brighi,23.0,Central Midfield,Parma,11.50m,in,Summer,"11,5",Serie A,2004,2004/2005
+Juventus,Fabio Cannavaro,30.0,Centre-Back,Inter,10.00m,in,Summer,10,Serie A,2004,2004/2005
+Juventus,Fabián Carini,24.0,Goalkeeper,Belgium,5.20m,in,Summer,"5,2",Serie A,2004,2004/2005
+Juventus,Benjamin Onwuachi,20.0,Centre-Forward,Italy,420Th.,in,Summer,"0,42",Serie A,2004,2004/2005
+Juventus,Olivier Kapo,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Juventus,Jonathan Zebina,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Juventus,Rey Volpato,17.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Udinese Calcio,Antonio Di Natale,26.0,Centre-Forward,Italy,100Th.,in,Summer,"0,1",Serie A,2004,2004/2005
+Udinese Calcio,Samir Handanovic,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Udinese Calcio,Cribari,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Udinese Calcio,Manuel Belleri,27.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Udinese Calcio,Stefano Mauri,24.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Udinese Calcio,José Devaca,21.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,2004,2004/2005
+Udinese Calcio,Claudio Vargas,18.0,Defensive Midfield,South America,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Goran Pandev,20.0,Second Striker,Inter,8.00m,in,Summer,8,Serie A,2004,2004/2005
+Lazio,Anthony Seric,25.0,Left-Back,Italy,1.50m,in,Summer,"1,5",Serie A,2004,2004/2005
+Lazio,Miguel Mea Vitali,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Lazio,Paolo Di Canio,36.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Lazio,Matías Lequi,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Lazio,Tommaso Rocchi,26.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Braian Robert,20.0,Left Midfield,South America,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Esteban González,25.0,Defensive Midfield,South America,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Sebastiano Siviglia,31.0,Centre-Back,Parma,?,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Emanuele Filippini,31.0,Central Midfield,US Palermo,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Antonio Filippini,31.0,Right Midfield,US Palermo,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Leonardo Talamonti,22.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Lazio,Óscar López,24.0,Right-Back,Barcelona,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Parma,Massimo Maccarone,24.0,Centre-Forward,Middlesbrough,Loan fee:1.00m,in,Summer,1,Serie A,2004,2004/2005
+Parma,Matteo Contini,24.0,Centre-Back,Italy,580Th.,in,Summer,"0,58",Serie A,2004,2004/2005
+Parma,Alessandro Budel,23.0,Defensive Midfield,AC Milan,Loan fee:400Th.,in,Summer,"0,4",Serie A,2004,2004/2005
+Parma,Cesare Bovo,21.0,Centre-Back,AS Roma,Loan fee:100Th.,in,Summer,"0,1",Serie A,2004,2004/2005
+Parma,Gianluca Berti,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Parma,Fábio Simplício,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Parma,Andrea Pisanu,22.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Parma,Damiano Ferronetti,19.0,Centre-Back,AS Roma,?,in,Summer,0.01,Serie A,2004,2004/2005
+Parma,Vince Grella,24.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Parma,Mario Rebecchi,20.0,Central Midfield,Inter,?,in,Summer,0.01,Serie A,2004,2004/2005
+Inter,Fabián Carini,24.0,Goalkeeper,Juventus,10.00m,in,Summer,10,Serie A,2004,2004/2005
+Inter,Nicolás Burdisso,23.0,Centre-Back,South America,3.50m,in,Summer,"3,5",Serie A,2004,2004/2005
+Inter,Lampros Choutos,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Inter,Esteban Cambiasso,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Inter,Sinia Mihajlovic,35.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Inter,Zé Maria,30.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Inter,Edgar Davids,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Inter,Giuseppe Favalli,32.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Inter,Juan Sebastián Verón,29.0,Central Midfield,Chelsea,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Inter,Ilario Aloe,17.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+AC Milan,Jaap Stam,31.0,Centre-Back,Lazio,10.50m,in,Summer,"10,5",Serie A,2004,2004/2005
+AC Milan,Vikash Dhorasoo,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+AC Milan,Giuseppe Pancaro,32.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+AC Milan,Sandro Bloudek,18.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+AC Milan,Hernán Crespo,29.0,Centre-Forward,Chelsea,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+US Palermo,Simone Barone,26.0,Central Midfield,Parma,5.00m,in,Summer,5,Serie A,2004,2004/2005
+US Palermo,Mariano González,23.0,midfield,South America,3.50m,in,Summer,"3,5",Serie A,2004,2004/2005
+US Palermo,Andrea Barzagli,23.0,Centre-Back,Chievo Verona,1.50m,in,Summer,"1,5",Serie A,2004,2004/2005
+US Palermo,Cristian Zaccardo,22.0,Centre-Back,Bologna,680Th.,in,Summer,"0,68",Serie A,2004,2004/2005
+US Palermo,Daniele Fornaio,16.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+US Palermo,Francesco Milano,20.0,attack,Isernia,?,in,Summer,0.01,Serie A,2004,2004/2005
+US Palermo,Cristian Raimondi,23.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+US Palermo,Adriano,22.0,Right-Back,South America,?,in,Summer,0.01,Serie A,2004,2004/2005
+US Palermo,Matteo Guardalben,30.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Messina Peloro,Rafael,24.0,Right-Back,South America,500Th.,in,Summer,"0,5",Serie A,2004,2004/2005
+Messina Peloro,Dimitrios Eleftheropoulos,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Messina Peloro,Ivica Iliev,24.0,Second Striker,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Messina Peloro,Alessandro Cucciari,34.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Messina Peloro,Nicola Amoruso,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Messina Peloro,Raffaele Sorriso,16.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Messina Peloro,Marco Zanchi,27.0,Centre-Back,Bologna,?,in,Summer,0.01,Serie A,2004,2004/2005
+Messina Peloro,Mirko Conte,29.0,Centre-Back,Sampdoria,?,in,Summer,0.01,Serie A,2004,2004/2005
+Messina Peloro,Atsushi Yanagisawa,27.0,Centre-Forward,Sampdoria,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Messina Peloro,Massimo Donati,23.0,Defensive Midfield,AC Milan,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Fiorentina,Tomas Ujfalusi,26.0,Centre-Back,Hamburger SV,7.50m,in,Summer,"7,5",Serie A,2004,2004/2005
+Fiorentina,Fabrizio Miccoli,25.0,Centre-Forward,Juventus,7.00m,in,Summer,7,Serie A,2004,2004/2005
+Fiorentina,Giorgio Chiellini,19.0,Centre-Back,AS Livorno,6.50m,in,Summer,"6,5",Serie A,2004,2004/2005
+Fiorentina,Dario Dainelli,25.0,Centre-Back,Brescia,5.50m,in,Summer,"5,5",Serie A,2004,2004/2005
+Fiorentina,Christian Obodo,20.0,Central Midfield,Italy,Loan fee:2.50m,in,Summer,"2,5",Serie A,2004,2004/2005
+Fiorentina,Gianni Guigou,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Fiorentina,Hidetoshi Nakata,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Fiorentina,Javier Portillo,22.0,Centre-Forward,Real Madrid,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Fiorentina,Martin Jörgensen,28.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Fiorentina,Cristiano Lupatelli,26.0,Goalkeeper,AS Roma,?,in,Summer,0.01,Serie A,2004,2004/2005
+Fiorentina,Jaime Valdés,23.0,midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Fiorentina,Daniele Delli Carri,32.0,Centre-Back,Siena,?,in,Summer,0.01,Serie A,2004,2004/2005
+Fiorentina,Enzo Maresca,24.0,Central Midfield,Juventus,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Moïse Brou Apanga,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Brescia,Pierre Womé,25.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Brescia,Matías Almeyda,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Brescia,Daniele Mannini,20.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Daniele Adani,29.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Luigi Dipasquale,23.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Omar Milanetto,28.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Ernesto Luca Fiumicelli,19.0,attack,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Fabrizio Zambrella,18.0,Central Midfield,Uk,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Maurizio Domizzi,24.0,Centre-Back,Sampdoria,?,in,Summer,0.01,Serie A,2004,2004/2005
+Brescia,Giuseppe Sculli,23.0,Left Winger,Juventus,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+AS Livorno,Alessandro Grandoni,26.0,Centre-Back,Sampdoria,500Th.,in,Summer,"0,5",Serie A,2004,2004/2005
+AS Livorno,José Luís Vidigal,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+AS Livorno,Emmanuel Osei,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+AS Livorno,Alessandro Lucarelli,27.0,Centre-Back,Fiorentina,?,in,Summer,0.01,Serie A,2004,2004/2005
+AS Livorno,Andrea Giallombardo,23.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+AS Livorno,Corrado Colombo,24.0,Centre-Forward,Sampdoria,?,in,Summer,0.01,Serie A,2004,2004/2005
+AS Livorno,Nicolás Córdova,25.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+AS Livorno,Cristiano Lucarelli,28.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+AS Livorno,Jorge Vargas,28.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Bologna,Federico Giunti,32.0,Defensive Midfield,Turkey,1.00m,in,Summer,1,Serie A,2004,2004/2005
+Bologna,Theodoros Zagorakis,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Bologna,Giacomo Cipriani,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Bologna,Valentin Nastase,29.0,Centre-Back,US Palermo,?,in,Summer,0.01,Serie A,2004,2004/2005
+Bologna,Stefano Torrisi,33.0,Centre-Back,Reggina,?,in,Summer,0.01,Serie A,2004,2004/2005
+Bologna,Ciro Capuano,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Bologna,Fabio Petruzzi,33.0,Centre-Back,Brescia,?,in,Summer,0.01,Serie A,2004,2004/2005
+Bologna,Daniele Daino,24.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Bologna,Alessandro Violini,20.0,Goalkeeper,Unknown,?,in,Summer,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Massimo Gobbi,23.0,Left-Back,Italy,700Th.,in,Summer,"0,7",Serie A,2004,2004/2005
+Cagliari Calcio,Theofanis Katergiannakis,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Cagliari Calcio,Francesco Bega,29.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Rolando Bianchi,21.0,Centre-Forward,Atalanta BC,?,in,Summer,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Horacio Peralta,22.0,Centre-Forward,Inter,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Marco Zamboni,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Reggina,Ricardo Esteves,24.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Reggina,Marco Borriello,22.0,Centre-Forward,AC Milan,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Juriy Cannarsa,28.0,Right-Back,AS Livorno,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Davide Dionigi,30.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Giacomo Mazzi,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Nicola Pavarini,30.0,Goalkeeper,AS Livorno,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Massimo Ganci,22.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Salvatore Soviero,31.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Gaetano De Rosa,31.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Jacopo Balestri,29.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Giuseppe Colucci,23.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Reggina,Felice Piccolo,20.0,Centre-Back,Juventus,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Adriano Zancopè,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Siena,Daniele Portanova,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Siena,Marco Carparelli,28.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Gennaro Esposito,19.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Alfonso Camorani,26.0,Central Midfield,Fiorentina,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Matteo Serafini,26.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Mattia Graffiedi,24.0,Centre-Forward,Fiorentina,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Simone Marini,22.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Gianluca Falsini,28.0,Left-Back,Reggina,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Francesco Colonnese,32.0,Centre-Back,Lazio,?,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Davide Chiumiento,19.0,Attacking Midfield,Juventus,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Daniele Di Donato,27.0,Central Midfield,US Palermo,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Davide Nicola,31.0,Right-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Fabio Pecchia,30.0,Right Midfield,Bologna,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Alexander Manninger,27.0,Goalkeeper,Bologna,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Siena,Alberto Valentim,29.0,Right Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Sergio Marcon,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Chievo Verona,Marco Esposito,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2004,2004/2005
+Chievo Verona,Paolo Sammarco,21.0,Central Midfield,AC Milan,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Simone Tiribocchi,26.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Davide Marchini,23.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Mattia Passarini,23.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Massimiliano Fusani,24.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Franco Semioli,24.0,Right Winger,Inter,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Mattia Marchesetti,20.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Roberto Bortolotto,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Andrea Mengoni,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Davide Mandelli,27.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Marco Brighi,21.0,midfield,Italy,?,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Matteo Brighi,23.0,Central Midfield,AS Roma,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+Chievo Verona,Riccardo Allegretti,26.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2004,2004/2005
+AS Roma,Felipe,18.0,Second Striker,EC Juventude,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Sampdoria,Gennaro Delvecchio,26.0,Central Midfield,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Sampdoria,Simone Inzaghi,28.0,Centre-Forward,Lazio,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Sampdoria,Andrea Gasbarroni,23.0,Second Striker,US Palermo,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Lecce,Jaime Valdés,23.0,midfield,Fiorentina,?,in,Winter,0.01,Serie A,2004,2004/2005
+Lecce,Giuseppe Cozzolino,19.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Atalanta BC,Stephen Makinwa,21.0,Centre-Forward,Italy,5.40m,in,Winter,"5,4",Serie A,2004,2004/2005
+Atalanta BC,Lampros Choutos,25.0,Centre-Forward,Inter,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Atalanta BC,Adriano,22.0,Right-Back,US Palermo,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Atalanta BC,Giulio Migliaccio,23.0,Central Midfield,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Atalanta BC,Mariano Stendardo,21.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Atalanta BC,Davide Sinigaglia,23.0,Centre-Forward,Italy,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Juventus,Adrian Mutu,26.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Udinese Calcio,Damiano Zenoni,27.0,Right-Back,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Lazio,Fabio Bazzani,28.0,Centre-Forward,Sampdoria,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Lazio,Leonardo Colucci,32.0,Central Midfield,Bologna,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Parma,Stefano Bettarini,32.0,Left-Back,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Parma,Luca Bucci,35.0,Goalkeeper,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Parma,Daniele Degano,22.0,Second Striker,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Parma,Federico Ranieri,18.0,midfield,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Parma,Fabio Vignaroli,28.0,Centre-Forward,Italy,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Inter,Júlio César,25.0,Goalkeeper,South America,2.45m,in,Winter,"2,45",Serie A,2004,2004/2005
+Inter,Luca Franchini,21.0,Left-Back,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Inter,Mario Rebecchi,21.0,Central Midfield,Parma,?,in,Winter,0.01,Serie A,2004,2004/2005
+AC Milan,Digão,19.0,Centre-Back,South America,500Th.,in,Winter,"0,5",Serie A,2004,2004/2005
+US Palermo,Davide Possanzini,28.0,Centre-Forward,Italy,1.90m,in,Winter,"1,9",Serie A,2004,2004/2005
+Messina Peloro,Gaetano D'Agostino,22.0,Central Midfield,AS Roma,Loan fee:400Th.,in,Winter,"0,4",Serie A,2004,2004/2005
+Messina Peloro,Filippo Cristante,27.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Messina Peloro,Matthew Olorunleke,21.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Fiorentina,Valeri Bozhinov,18.0,Centre-Forward,Lecce,14.00m,in,Winter,14,Serie A,2004,2004/2005
+Fiorentina,Giampaolo Pazzini,20.0,Centre-Forward,Atalanta BC,6.50m,in,Winter,"6,5",Serie A,2004,2004/2005
+Fiorentina,Marco Donadel,21.0,Defensive Midfield,AC Milan,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Brescia,Marco Delvecchio,31.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Brescia,Daniele Berretta,32.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Brescia,Johan Vonlanthen,18.0,Left Midfield,PSV Eindhoven,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+AS Livorno,Paulinho,18.0,Centre-Forward,South America,100Th.,in,Winter,"0,1",Serie A,2004,2004/2005
+AS Livorno,Mario Licka,22.0,Attacking Midfield,Central_EU,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Bologna,Marco Ferrante,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Bologna,Nicola Legrottaglie,28.0,Centre-Back,Juventus,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Fabio Vignati,20.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Alex Brunner,31.0,Goalkeeper,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Alessandro Budel,23.0,Defensive Midfield,AC Milan,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Cagliari Calcio,Édgar Álvarez,24.0,Right Midfield,South America,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Reggina,Ilyas Zeytulaev,22.0,Left Winger,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Reggina,Viktor Budyanskiy,20.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Siena,Massimo Maccarone,25.0,Centre-Forward,Middlesbrough,Loan fee:400Th.,in,Winter,"0,4",Serie A,2004,2004/2005
+Siena,Alin Stoica,25.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Serie A,2004,2004/2005
+Siena,Igor Tudor,26.0,Centre-Back,Juventus,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Siena,Francesco Cozza,30.0,Attacking Midfield,Italy,?,in,Winter,0.01,Serie A,2004,2004/2005
+Siena,Giovanni Pasquale,22.0,Left-Back,Inter,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Chievo Verona,Alessandro Potenza,20.0,Centre-Back,Inter,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Chievo Verona,Simone Rizzato,23.0,Left-Back,Italy,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Chievo Verona,Júlio César,25.0,Goalkeeper,Inter,loan transfer,in,Winter,0.01,Serie A,2004,2004/2005
+Olympique Lyon,Éric Abidal,24.0,Left-Back,LOSC Lille,8.50m,in,Summer,"8,5",Ligue 1,2004,2004/2005
+Olympique Lyon,Pierre-Alain Frau,24.0,Centre-Forward,FC Sochaux,8.50m,in,Summer,"8,5",Ligue 1,2004,2004/2005
+Olympique Lyon,Nilmar,20.0,Centre-Forward,South America,5.75m,in,Summer,"5,75",Ligue 1,2004,2004/2005
+Olympique Lyon,Cris,27.0,Centre-Back,South America,3.50m,in,Summer,"3,5",Ligue 1,2004,2004/2005
+Olympique Lyon,Joan Hartock,17.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Olympique Lyon,Lamine Diatta,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Olympique Lyon,Sylvain Wiltord,30.0,Second Striker,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Paris SG,Mario Yepes,28.0,Centre-Back,FC Nantes,10.00m,in,Summer,10,Ligue 1,2004,2004/2005
+Paris SG,Jérôme Rothen,26.0,Left Midfield,Monaco,10.00m,in,Summer,10,Ligue 1,2004,2004/2005
+Paris SG,Sylvain Armand,23.0,Left-Back,FC Nantes,5.00m,in,Summer,5,Ligue 1,2004,2004/2005
+Paris SG,Jean-Hugues Ateba,22.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Paris SG,Hélder Cristóvão,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Paris SG,Stéphane Pichot,27.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Paris SG,Vedad Ibisevic,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Paris SG,José-Karl Pierre-Fanfan,28.0,Centre-Back,Monaco,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Paris SG,Charles-Edouard Coridon,31.0,Attacking Midfield,Lens,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Paris SG,Fabrice Pancrate,24.0,Right Winger,France,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Monaco,Javier Chevantón,23.0,Centre-Forward,Lecce,10.00m,in,Summer,10,Ligue 1,2004,2004/2005
+Monaco,Mohamed Kallon,24.0,Centre-Forward,Inter,5.00m,in,Summer,5,Ligue 1,2004,2004/2005
+Monaco,Maicon,22.0,Right-Back,South America,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+Monaco,Diego Pérez,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Monaco,François Modesto,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Monaco,Javier Saviola,22.0,Second Striker,Barcelona,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Monaco,Fabien Audard,26.0,Goalkeeper,France,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+AJ Auxerre,Luigi Pieroni,23.0,Centre-Forward,Belgium,1.25m,in,Summer,"1,25",Ligue 1,2004,2004/2005
+AJ Auxerre,Rene Bolf,30.0,Centre-Back,Central_EU,1.00m,in,Summer,1,Ligue 1,2004,2004/2005
+AJ Auxerre,Michaël Ciani,20.0,Centre-Back,Belgium,750Th.,in,Summer,"0,75",Ligue 1,2004,2004/2005
+AJ Auxerre,Yannick Boumsong,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AJ Auxerre,Benoît Cheyrou,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Sochaux,Ilan,23.0,Centre-Forward,South America,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+FC Sochaux,Romain Pitau,26.0,Defensive Midfield,OGC Nice,1.40m,in,Summer,"1,4",Ligue 1,2004,2004/2005
+FC Sochaux,Lionel Potillon,30.0,Left-Back,Paris SG,1.00m,in,Summer,1,Ligue 1,2004,2004/2005
+FC Nantes,Florin Bratu,24.0,Centre-Forward,Turkey,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+FC Nantes,Julio Cáceres,24.0,Centre-Back,South America,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+FC Nantes,Gilles Yapi,22.0,Defensive Midfield,Belgium,1.50m,in,Summer,"1,5",Ligue 1,2004,2004/2005
+FC Nantes,Aurélien Capoue,22.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Nantes,Alexander Viveros,26.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Nantes,Mamadou Bagayoko,25.0,Centre-Forward,AC Ajaccio,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Marseille,Péguy Luyindula,25.0,Centre-Forward,Olympique Lyon,10.00m,in,Summer,10,Ligue 1,2004,2004/2005
+Marseille,Eduardo Costa,21.0,Defensive Midfield,G. Bordeaux,6.00m,in,Summer,6,Ligue 1,2004,2004/2005
+Marseille,Benoît Pedretti,23.0,Defensive Midfield,FC Sochaux,5.00m,in,Summer,5,Ligue 1,2004,2004/2005
+Marseille,Habib Bamogo,22.0,Second Striker,France,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+Marseille,Fabrice Fiorèse,29.0,Right Winger,Paris SG,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+Marseille,Léo Matos,18.0,Right-Back,South America,1.40m,in,Summer,"1,4",Ligue 1,2004,2004/2005
+Marseille,Leyti N'Diaye,18.0,Centre-Back,France,1.00m,in,Summer,1,Ligue 1,2004,2004/2005
+Marseille,Koke,21.0,Centre-Forward,Málaga CF,700Th.,in,Summer,"0,7",Ligue 1,2004,2004/2005
+Marseille,Frédéric Déhu,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Marseille,Bixente Lizarazu,34.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Marseille,Demetrius Ferreira,30.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Marseille,Fabien Barthez,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Marseille,Bruno Cheyrou,26.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Lens,Éric Carrière,31.0,Attacking Midfield,Olympique Lyon,3.00m,in,Summer,3,Ligue 1,2004,2004/2005
+Lens,Jérôme Leroy,29.0,Attacking Midfield,France,500Th.,in,Summer,"0,5",Ligue 1,2004,2004/2005
+Lens,Daniel Cousin,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Lens,Nicolas Gillet,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Lens,Hilton,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Lens,Adil Hermach,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Lens,Alou Diarra,23.0,Defensive Midfield,Uk,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Lens,Éric Cubilier,24.0,Right-Back,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Rennes,Adailton,21.0,Centre-Back,South America,2.50m,in,Summer,"2,5",Ligue 1,2004,2004/2005
+Rennes,Andreas Isaksson,22.0,Goalkeeper,North_EU,1.70m,in,Summer,"1,7",Ligue 1,2004,2004/2005
+Rennes,Jean-Joël Perrier-Doumbé,25.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Rennes,Ivica Mornar,30.0,Centre-Forward,Portsmouth,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Rennes,Abdeslam Ouaddou,25.0,Centre-Back,Fulham,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Rennes,Dudu Cearense,21.0,Central Midfield,Asia,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+LOSC Lille,Peter Odemwingie,23.0,Right Winger,Belgium,650Th.,in,Summer,"0,65",Ligue 1,2004,2004/2005
+LOSC Lille,Milivoje Vitakic,27.0,Centre-Back,Central_EU,308Th.,in,Summer,"0,308",Ligue 1,2004,2004/2005
+LOSC Lille,Milenko Acimovic,27.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+LOSC Lille,Stathis Tavlaridis,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+LOSC Lille,Johan Audel,20.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+LOSC Lille,Nicolas Raynier,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+LOSC Lille,Tony Sylva,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+LOSC Lille,Claude N´Gantchéa,17.0,Goalkeeper,Belgium,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+OGC Nice,Florent Balmont,24.0,Central Midfield,Olympique Lyon,1.50m,in,Summer,"1,5",Ligue 1,2004,2004/2005
+OGC Nice,Roberto Bisconti,31.0,Defensive Midfield,Belgium,800Th.,in,Summer,"0,8",Ligue 1,2004,2004/2005
+OGC Nice,Edgaras Jankauskas,29.0,Centre-Forward,FC Porto,Loan fee:750Th.,in,Summer,"0,75",Ligue 1,2004,2004/2005
+OGC Nice,Marama Vahirua,24.0,Centre-Forward,FC Nantes,500Th.,in,Summer,"0,5",Ligue 1,2004,2004/2005
+OGC Nice,Olivier Fauconnier,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+OGC Nice,Victor Agali,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+OGC Nice,Sébastien Roudet,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+OGC Nice,François Grenet,29.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+OGC Nice,Roland Linz,22.0,Centre-Forward,Central_EU,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+OGC Nice,Florian Jarjat,24.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+G. Bordeaux,Michalis Kapsis,30.0,Centre-Back,Central_EU,500Th.,in,Summer,"0,5",Ligue 1,2004,2004/2005
+G. Bordeaux,Kalu Uche,21.0,Centre-Forward,Central_EU,Loan fee:500Th.,in,Summer,"0,5",Ligue 1,2004,2004/2005
+G. Bordeaux,Thiago Ribeiro,18.0,Left Winger,Rio Branco-SP,Loan fee:280Th.,in,Summer,"0,28",Ligue 1,2004,2004/2005
+G. Bordeaux,Renaud Cohade,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+G. Bordeaux,Cyril Rool,29.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+G. Bordeaux,Julien Faubert,20.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+G. Bordeaux,Lilian Laslandes,32.0,Centre-Forward,OGC Nice,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+R. Strasbourg,Karim Haggui,20.0,Centre-Back,Africa Sports,1.00m,in,Summer,1,Ligue 1,2004,2004/2005
+R. Strasbourg,Mickaël Pagis,30.0,Second Striker,FC Sochaux,500Th.,in,Summer,"0,5",Ligue 1,2004,2004/2005
+R. Strasbourg,Abdelilah Fahmi,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+R. Strasbourg,Stéphane Cassard,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+R. Strasbourg,Rémy Vercoutre,24.0,Goalkeeper,Olympique Lyon,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+R. Strasbourg,Arthur Boka,21.0,Left-Back,Belgium,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+R. Strasbourg,Pascal Johansen,25.0,Central Midfield,Marseille,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+R. Strasbourg,Katlego Mphela,19.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Metz,Nicolas N´Dione,22.0,attack,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Richard Socrier,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Moktar Mangane,21.0,defence,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Franck Ribéry,21.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Jean-Philippe Caillet,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Bruno Pompière,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Guillaume Cherreau,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Benjamin Nicaise,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Hervé Tum,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Grégory Wimbée,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Stéphane Thys,18.0,attack,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Christophe Avezac,27.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Roy Contout,19.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Metz,Mehdi Méniri,27.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Metz,Momar N'Diaye,16.0,Right Winger,Dakar UC,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+AC Ajaccio,Gaspar,29.0,Centre-Back,Gil Vicente,195Th.,in,Summer,"0,195",Ligue 1,2004,2004/2005
+AC Ajaccio,Lucas Pereira,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AC Ajaccio,André Luiz,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AC Ajaccio,Marcelinho Carioca,33.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AC Ajaccio,Nenad Dzodic,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AC Ajaccio,Fabien Laurenti,21.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AC Ajaccio,Stéphane Porato,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+AC Ajaccio,Cyril Chapuis,25.0,Centre-Forward,Marseille,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Toulouse,Daniel Moreira,26.0,Second Striker,Lens,2.50m,in,Summer,"2,5",Ligue 1,2004,2004/2005
+Toulouse,David Suarez,25.0,Second Striker,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Toulouse,Dominique Arribagé,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Toulouse,Nicolas Douchez,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Toulouse,Pantxi Sirieix,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+Toulouse,François Clerc,21.0,Right-Back,Olympique Lyon,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Toulouse,Christophe Grondin,20.0,Defensive Midfield,Belgium,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Toulouse,Stéphane Dalmat,25.0,Central Midfield,Inter,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+SC Bastia,Patrick Beneforti,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+SC Bastia,Pierre-Yves André,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+SC Bastia,Tony Vairelles,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+SC Bastia,Bjørn Tore Kvarme,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+SC Bastia,David Sauget,24.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+SC Bastia,Djibril Sidibé,22.0,Defensive Midfield,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+SC Bastia,Romain Rocchi,22.0,Defensive Midfield,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Didier Zokora,23.0,Defensive Midfield,Belgium,1.20m,in,Summer,"1,2",Ligue 1,2004,2004/2005
+Saint-Étienne,Ronan Le Crom,29.0,Goalkeeper,France,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Anthony Le Tallec,19.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Hérita Ilunga,22.0,Left-Back,Spain,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Zoumana Camara,25.0,Centre-Back,Lens,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Pascal Feindouno,23.0,Right Winger,G. Bordeaux,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Javier Garrido,25.0,Right-Back,Valencia,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Frédéric Piquionne,25.0,Centre-Forward,Stade Rennais,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+SM Caen,Gregory Dufer,22.0,Right Winger,Belgium,1.00m,in,Summer,1,Ligue 1,2004,2004/2005
+SM Caen,Steve Dugardein,30.0,Defensive Midfield,Belgium,500Th.,in,Summer,"0,5",Ligue 1,2004,2004/2005
+SM Caen,Frédéric Danjou,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+SM Caen,Ibrahima Faye,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Hermann Ouédraogo,22.0,Centre-Forward,Planète Champ.,Loan fee:80Th.,in,Summer,"0,08",Ligue 1,2004,2004/2005
+FC Istres,Rafik Saïfi,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Adel Chedli,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Fiston Kuku,18.0,attack,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Nia Saveljic,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Florian Maurice,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Steeve Théophile,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Rudy Riou,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Moussa N'Diaye,25.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Gérald Forschelet,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2004,2004/2005
+FC Istres,Abdoulaye Faye,26.0,Centre-Back,Lens,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Steven Pelé,22.0,Centre-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Benoît Aureille,20.0,Goalkeeper,Monaco,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Noureddine Kacemi,26.0,defence,Africa Sports,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Dejan Ilic,28.0,Central Midfield,Central_EU,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Laurent Mohellebi,20.0,midfield,Monaco,?,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Víctor Montaño,20.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+FC Istres,Luka Zinko,21.0,Defensive Midfield,Central_EU,loan transfer,in,Summer,0.01,Ligue 1,2004,2004/2005
+Paris SG,Sergey Semak,28.0,Central Midfield,Russia,2.50m,in,Winter,"2,5",Ligue 1,2004,2004/2005
+FC Sochaux,Mohamed Kader,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+FC Nantes,Mamadou Diallo,22.0,Centre-Forward,Africa Sports,700Th.,in,Winter,"0,7",Ligue 1,2004,2004/2005
+FC Nantes,Guillaume Norbert,24.0,Right Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+Marseille,Taye Taiwo,19.0,Left-Back,Africa Sports,180Th.,in,Winter,"0,18",Ligue 1,2004,2004/2005
+Marseille,Koji Nakata,25.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+Lens,Jussiê,21.0,Attacking Midfield,South America,2.00m,in,Winter,2,Ligue 1,2004,2004/2005
+Lens,Furtado,21.0,Defensive Midfield,France,?,in,Winter,0.01,Ligue 1,2004,2004/2005
+Rennes,Alex Silva,19.0,Centre-Back,South America,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+LOSC Lille,Benoît Angbwa,23.0,Right-Back,Nacional,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+OGC Nice,Martin Djetou,30.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+OGC Nice,Ederson,19.0,Attacking Midfield,South America,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+G. Bordeaux,Adonis,18.0,Attacking Midfield,Rio Branco-SP,Loan fee:280Th.,in,Winter,"0,28",Ligue 1,2004,2004/2005
+FC Metz,Ruslan Pimenov,23.0,Centre-Forward,Russia,Loan fee:250Th.,in,Winter,"0,25",Ligue 1,2004,2004/2005
+FC Metz,Ivan Gvozdenovic,26.0,Centre-Back,Belgium,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+FC Metz,Bartholomew Ogbeche,20.0,Centre-Forward,Paris SG,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+AC Ajaccio,Nicolas Bonnal,28.0,Left Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+AC Ajaccio,Olivier Fauconnier,28.0,Centre-Forward,OGC Nice,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+AC Ajaccio,Laurent Merlin,20.0,Attacking Midfield,Marseille,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+SC Bastia,Stéphane Ziani,33.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+SC Bastia,Bernt Haas,26.0,Right-Back,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+SC Bastia,Christian Karembeu,34.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+SC Bastia,Abdelmalek Cherrad,23.0,Centre-Forward,OGC Nice,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Alaeddine Yahia,23.0,Centre-Back,Southampton,loan transfer,in,Winter,0.01,Ligue 1,2004,2004/2005
+Saint-Étienne,Lamine Sakho,27.0,Left Winger,Marseille,?,in,Winter,0.01,Ligue 1,2004,2004/2005
+SM Caen,Igor Matic,23.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+SM Caen,Mohamadou Idrissou,24.0,Centre-Forward,Hannover 96,Loan fee:30Th.,in,Winter,"0,03",Ligue 1,2004,2004/2005
+FC Istres,Ibrahima Bakayoko,28.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+FC Istres,Leandro Amaral,27.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,2004,2004/2005
+Werder Bremen,Miroslav Klose,26.0,Centre-Forward,1.FC K'lautern,5.00m,in,Summer,5,1 Bundesliga,2004,2004/2005
+Werder Bremen,Daniel Jensen,25.0,Central Midfield,Spain,1.00m,in,Summer,1,1 Bundesliga,2004,2004/2005
+Werder Bremen,Petri Pasanen,23.0,Centre-Back,Ajax,750Th.,in,Summer,"0,75",1 Bundesliga,2004,2004/2005
+Werder Bremen,Valérien Ismaël,28.0,Centre-Back,R. Strasbourg,750Th.,in,Summer,"0,75",1 Bundesliga,2004,2004/2005
+Werder Bremen,Gustavo Nery,26.0,Left-Back,South America,500Th.,in,Summer,"0,5",1 Bundesliga,2004,2004/2005
+Werder Bremen,Ümit Davala,30.0,Right Midfield,Inter,500Th.,in,Summer,"0,5",1 Bundesliga,2004,2004/2005
+Werder Bremen,Frank Fahrenhorst,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bayern Munich,Lúcio,26.0,Centre-Back,Bay. Leverkusen,12.00m,in,Summer,12,1 Bundesliga,2004,2004/2005
+Bayern Munich,Torsten Frings,27.0,Defensive Midfield,Bor. Dortmund,9.25m,in,Summer,"9,25",1 Bundesliga,2004,2004/2005
+Bayern Munich,Andreas Görlitz,22.0,Right-Back,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,2004,2004/2005
+Bayern Munich,Vahid Hashemian,27.0,Centre-Forward,VfL Bochum,2.00m,in,Summer,2,1 Bundesliga,2004,2004/2005
+Bay. Leverkusen,Paul Freier,24.0,Right Midfield,VfL Bochum,3.50m,in,Summer,"3,5",1 Bundesliga,2004,2004/2005
+Bay. Leverkusen,Tranquillo Barnetta,19.0,Attacking Midfield,Uk,250Th.,in,Summer,"0,25",1 Bundesliga,2004,2004/2005
+Bay. Leverkusen,Jacek Krzynowek,28.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bay. Leverkusen,Roque Júnior,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bay. Leverkusen,Andriy Voronin,24.0,Second Striker,Germany,?,in,Summer,0.01,1 Bundesliga,2004,2004/2005
+VfB Stuttgart,Martin Stranzl,24.0,Centre-Back,Germany,650Th.,in,Summer,"0,65",1 Bundesliga,2004,2004/2005
+VfB Stuttgart,Matthieu Delpierre,23.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfB Stuttgart,Markus Babbel,31.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Bochum,Tommy Bechmann,22.0,Centre-Forward,North_EU,1.50m,in,Summer,"1,5",1 Bundesliga,2004,2004/2005
+VfL Bochum,Christoph Preuß,22.0,Defensive Midfield,Bay. Leverkusen,1.00m,in,Summer,1,1 Bundesliga,2004,2004/2005
+VfL Bochum,Zvjezdan Misimovic,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Bochum,Filip Trojan,21.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Bochum,Aleksander Knavs,28.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Bochum,Vratislav Lokvenc,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Bochum,Marcel Maltritz,25.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Bochum,Moharram Navidkia,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+FC Schalke 04,Marcelo Bordon,28.0,Centre-Back,VfB Stuttgart,4.00m,in,Summer,4,1 Bundesliga,2004,2004/2005
+FC Schalke 04,Aílton,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+FC Schalke 04,Lincoln,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+FC Schalke 04,Mladen Krstajic,30.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hamburger SV,Benjamin Lauth,22.0,Centre-Forward,Germany,4.10m,in,Summer,"4,1",1 Bundesliga,2004,2004/2005
+Hamburger SV,Daniel Van Buyten,26.0,Centre-Back,Marseille,3.80m,in,Summer,"3,8",1 Bundesliga,2004,2004/2005
+Hamburger SV,Emile Mpenza,25.0,Centre-Forward,Belgium,2.50m,in,Summer,"2,5",1 Bundesliga,2004,2004/2005
+Hamburger SV,Khalid Boulahrouz,22.0,Centre-Back,RKC Waalwijk,1.50m,in,Summer,"1,5",1 Bundesliga,2004,2004/2005
+Hamburger SV,Almami Moreira,26.0,Attacking Midfield,Belgium,Loan fee:250Th.,in,Summer,"0,25",1 Bundesliga,2004,2004/2005
+Hamburger SV,Mustafa Kucukovic,17.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hamburger SV,Besart Berisha,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hamburger SV,Sascha Kirschstein,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hamburger SV,Miso Brecko,20.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hamburger SV,Jean Carlos,20.0,Left-Back,Feyenoord,loan transfer,in,Summer,0.01,1 Bundesliga,2004,2004/2005
+Hansa Rostock,David Rasmussen,27.0,Right Midfield,North_EU,200Th.,in,Summer,"0,2",1 Bundesliga,2004,2004/2005
+Hansa Rostock,Marcus Allbäck,30.0,Centre-Forward,Aston Villa,200Th.,in,Summer,"0,2",1 Bundesliga,2004,2004/2005
+Hansa Rostock,Denis Lapaczinski,22.0,Defensive Midfield,Hertha BSC,150Th.,in,Summer,"0,15",1 Bundesliga,2004,2004/2005
+Hansa Rostock,Axel Keller,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Juan Carlos Menseguez,20.0,Right Winger,South America,3.00m,in,Summer,3,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Kevin Hofland,25.0,Centre-Back,PSV Eindhoven,2.00m,in,Summer,2,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Facundo Quiroga,26.0,Centre-Back,Sporting CP,1.50m,in,Summer,"1,5",1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Marian Hristov,30.0,Defensive Midfield,1.FC K'lautern,1.00m,in,Summer,1,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Thomas Brdaric,29.0,Centre-Forward,Bay. Leverkusen,1.00m,in,Summer,1,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,André Lenz,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Nderim Nedzipi,20.0,Attacking Midfield,FK Sloga,loan transfer,in,Summer,0.01,1 Bundesliga,2004,2004/2005
+VfL Wolfsburg,Óscar Ahumada,21.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Marek Heinz,26.0,Centre-Forward,Central_EU,2.30m,in,Summer,"2,3",1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Milan Fukal,29.0,Centre-Back,Hamburger SV,350Th.,in,Summer,"0,35",1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Nico Van Kerckhoven,33.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Oliver Neuville,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Christian Ziege,32.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Vladimir Ivic,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Darius Kampa,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Sead Ramovic,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hertha BSC,Gilberto,28.0,Left Midfield,South America,2.50m,in,Summer,"2,5",1 Bundesliga,2004,2004/2005
+Hertha BSC,Lukasz Piszczek,19.0,Right-Back,Gwarek,50Th.,in,Summer,"0,05",1 Bundesliga,2004,2004/2005
+Hertha BSC,Yildiray Bastürk,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hertha BSC,Gerhard Tremmel,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+SC Freiburg,Youssef Mohamad,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+SC Freiburg,Roda Antar,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+SC Freiburg,Jonathan Pitroipa,18.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+SC Freiburg,Régis Dorn,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hannover 96,Ricardo Sousa,25.0,Attacking Midfield,Boavista,750Th.,in,Summer,"0,75",1 Bundesliga,2004,2004/2005
+Hannover 96,Leandro,29.0,Centre-Forward,Uk,450Th.,in,Summer,"0,45",1 Bundesliga,2004,2004/2005
+Hannover 96,Roman Wallner,22.0,Centre-Forward,Central_EU,430Th.,in,Summer,"0,43",1 Bundesliga,2004,2004/2005
+Hannover 96,Tranquillo Barnetta,19.0,Attacking Midfield,Bay. Leverkusen,Loan fee:250Th.,in,Summer,"0,25",1 Bundesliga,2004,2004/2005
+Hannover 96,Frank Juric,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hannover 96,Robert Enke,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Hannover 96,Michael Tarnat,34.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Jürgen Gjasula,18.0,Defensive Midfield,SC Freiburg,50Th.,in,Summer,"0,05",1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Ferydoon Zandi,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Ingo Hertzsch,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Jochen Seitz,27.0,Left Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Ioannis Amanatidis,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Carsten Jancker,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Mihael Mikic,24.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Christian Nerlinger,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Marco Engelhardt,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Robert Vittek,22.0,Centre-Forward,Central_EU,1.30m,in,Summer,"1,3",1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Mario Cantaluppi,30.0,Defensive Midfield,Uk,650Th.,in,Summer,"0,65",1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Bartosz Bosacki,28.0,Centre-Back,Central_EU,150Th.,in,Summer,"0,15",1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Ivica Banovic,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Markus Schroth,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Markus Daun,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Tigrao,21.0,defence,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Tomasz Hajto,31.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Daniel Klewer,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Maik Wagefeld,23.0,Defensive Midfield,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Isaac Boakye,22.0,Centre-Forward,Africa Sports,300Th.,in,Summer,"0,3",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Delron Buckley,26.0,Left Winger,VfL Bochum,250Th.,in,Summer,"0,25",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Claudiu Raducanu,27.0,Centre-Forward,Espanyol,Loan fee:190Th.,in,Summer,"0,19",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Marijo Maric,27.0,Centre-Forward,Central_EU,150Th.,in,Summer,"0,15",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Vanco Trajanov,25.0,Defensive Midfield,Central_EU,150Th.,in,Summer,"0,15",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Ervin Skela,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Michael Fink,22.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Markus Schuler,26.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Manuel Friedrich,24.0,Centre-Back,Werder Bremen,1.30m,in,Summer,"1,3",1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Conor Casey,23.0,Centre-Forward,Bor. Dortmund,500Th.,in,Summer,"0,5",1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Benjamin Weigelt,21.0,Left-Back,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Nikolce Noveski,25.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Marco Rose,27.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Ranisav Jovanovic,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2004,2004/2005
+Werder Bremen,Mohamed Zidan,23.0,Second Striker,North_EU,Loan fee:500Th.,in,Winter,"0,5",1 Bundesliga,2004,2004/2005
+Bayern Munich,Bixente Lizarazu,35.0,Left-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+VfB Stuttgart,Élson,23.0,Attacking Midfield,South America,1.50m,in,Winter,"1,5",1 Bundesliga,2004,2004/2005
+VfL Bochum,Peter Skov-Jensen,33.0,Goalkeeper,North_EU,235Th.,in,Winter,"0,235",1 Bundesliga,2004,2004/2005
+VfL Bochum,Fatih Akyel,26.0,Right-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Bor. Dortmund,Ebi Smolarek,23.0,Centre-Forward,Feyenoord,loan transfer,in,Winter,0.01,1 Bundesliga,2004,2004/2005
+FC Schalke 04,Mimoun Azaouagh,22.0,Attacking Midfield,1.FSV Mainz 05,650Th.,in,Winter,"0,65",1 Bundesliga,2004,2004/2005
+Hamburger SV,Piotr Trochowski,20.0,Attacking Midfield,Bayern Munich,1.00m,in,Winter,1,1 Bundesliga,2004,2004/2005
+Hansa Rostock,Jari Litmanen,33.0,Attacking Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Hansa Rostock,Michael Hartmann,30.0,Left Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Bernd Thijs,26.0,Defensive Midfield,Turkey,600Th.,in,Winter,"0,6",1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Filip Daems,26.0,Left-Back,Turkey,300Th.,in,Winter,"0,3",1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Wesley Sonck,26.0,Centre-Forward,Ajax,Loan fee:280Th.,in,Winter,"0,28",1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Jörg Böhme,30.0,Left Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Craig Moore,29.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Kasey Keller,35.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Bor. M'gladbach,Giovane Elber,32.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+SC Freiburg,Otar Khizaneishvili,23.0,Centre-Back,Russia,800Th.,in,Winter,"0,8",1 Bundesliga,2004,2004/2005
+SC Freiburg,Andreas Ibertsberger,22.0,Left-Back,Central_EU,300Th.,in,Winter,"0,3",1 Bundesliga,2004,2004/2005
+SC Freiburg,Samuel Koejoe,30.0,Centre-Forward,Central_EU,300Th.,in,Winter,"0,3",1 Bundesliga,2004,2004/2005
+Hannover 96,Veljko Paunovic,27.0,Centre-Forward,Atlético Madrid,loan transfer,in,Winter,0.01,1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Stefan Blank,27.0,Left-Back,Germany,500Th.,in,Winter,"0,5",1 Bundesliga,2004,2004/2005
+1.FC K'lautern,Jürgen Macho,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Pekka Lagerblom,22.0,Defensive Midfield,Werder Bremen,Loan fee:100Th.,in,Winter,"0,1",1 Bundesliga,2004,2004/2005
+1.FC Nuremberg,Dirk Langerbein,33.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Klodian Duro,27.0,Attacking Midfield,Central_EU,175Th.,in,Winter,"0,175",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Radomir Djalovic,22.0,Centre-Forward,Est_EU,Loan fee:165Th.,in,Winter,"0,165",1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Renato Bernardi Bauer,26.0,midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Diego León,20.0,Attacking Midfield,Real Madrid,loan transfer,in,Winter,0.01,1 Bundesliga,2004,2004/2005
+Arm. Bielefeld,Tomasz Wisio,23.0,Centre-Back,Central_EU,Loan fee:40Th.,in,Winter,"0,04",1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Hanno Balitsch,23.0,Defensive Midfield,Bay. Leverkusen,500Th.,in,Winter,"0,5",1 Bundesliga,2004,2004/2005
+1.FSV Mainz 05,Michael Thurk,28.0,Centre-Forward,Germany,200Th.,in,Winter,"0,2",1 Bundesliga,2004,2004/2005
+Arsenal,Manuel Almunia,27.0,Goalkeeper,Spain,5.00m,in,Summer,5,Premier League,2004,2004/2005
+Arsenal,Robin van Persie,20.0,Centre-Forward,Feyenoord,4.50m,in,Summer,"4,5",Premier League,2004,2004/2005
+Arsenal,Mathieu Flamini,20.0,Defensive Midfield,Marseille,480Th.,in,Summer,"0,48",Premier League,2004,2004/2005
+Arsenal,Arturo Lupoli,17.0,Centre-Forward,Parma FC Youth,300Th.,in,Summer,"0,3",Premier League,2004,2004/2005
+Chelsea,Didier Drogba,26.0,Centre-Forward,Marseille,38.50m,in,Summer,"38,5",Premier League,2004,2004/2005
+Chelsea,Ricardo Carvalho,26.0,Centre-Back,FC Porto,30.00m,in,Summer,30,Premier League,2004,2004/2005
+Chelsea,Paulo Ferreira,25.0,Right-Back,FC Porto,20.00m,in,Summer,20,Premier League,2004,2004/2005
+Chelsea,Arjen Robben,20.0,Right Winger,PSV Eindhoven,18.00m,in,Summer,18,Premier League,2004,2004/2005
+Chelsea,Tiago Mendes,23.0,Central Midfield,Benfica,15.00m,in,Summer,15,Premier League,2004,2004/2005
+Chelsea,Petr Cech,22.0,Goalkeeper,Stade Rennais,13.00m,in,Summer,13,Premier League,2004,2004/2005
+Chelsea,Alex,22.0,Centre-Back,South America,11.50m,in,Summer,"11,5",Premier League,2004,2004/2005
+Chelsea,Mateja Kezman,25.0,Centre-Forward,PSV Eindhoven,7.50m,in,Summer,"7,5",Premier League,2004,2004/2005
+Chelsea,Alcides,19.0,Centre-Back,South America,900Th.,in,Summer,"0,9",Premier League,2004,2004/2005
+Chelsea,Nuno Morais,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Man Utd,Wayne Rooney,18.0,Centre-Forward,Everton,37.00m,in,Summer,37,Premier League,2004,2004/2005
+Man Utd,Gabriel Heinze,26.0,Centre-Back,Paris SG,10.00m,in,Summer,10,Premier League,2004,2004/2005
+Man Utd,Alan Smith,23.0,Central Midfield,Uk,9.00m,in,Summer,9,Premier League,2004,2004/2005
+Man Utd,Gerard Piqué,17.0,Centre-Back,Barça,5.25m,in,Summer,"5,25",Premier League,2004,2004/2005
+Man Utd,Liam Miller,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Liverpool FC,Djibril Cissé,22.0,Centre-Forward,AJ Auxerre,20.00m,in,Summer,20,Premier League,2004,2004/2005
+Liverpool FC,Xabi Alonso,22.0,Defensive Midfield,Real Sociedad,16.00m,in,Summer,16,Premier League,2004,2004/2005
+Liverpool FC,Luis García,26.0,Right Winger,Barcelona,8.75m,in,Summer,"8,75",Premier League,2004,2004/2005
+Liverpool FC,Josemi,24.0,Centre-Back,Málaga CF,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Liverpool FC,Antonio Núñez,25.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Newcastle,James Milner,18.0,Central Midfield,Uk,7.40m,in,Summer,"7,4",Premier League,2004,2004/2005
+Newcastle,Nicky Butt,29.0,Central Midfield,Man Utd,3.75m,in,Summer,"3,75",Premier League,2004,2004/2005
+Newcastle,Stephen Carr,27.0,Right-Back,Spurs,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Newcastle,Charles N'Zogbia,18.0,Right Winger,France,1.00m,in,Summer,1,Premier League,2004,2004/2005
+Newcastle,Patrick Kluivert,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Newcastle,Ronny Johnsen,35.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Aston Villa,Martin Laursen,26.0,Centre-Back,AC Milan,5.30m,in,Summer,"5,3",Premier League,2004,2004/2005
+Aston Villa,Mathieu Berson,24.0,Defensive Midfield,FC Nantes,2.30m,in,Summer,"2,3",Premier League,2004,2004/2005
+Aston Villa,Carlton Cole,20.0,Centre-Forward,Chelsea,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Aston Villa,Vaclav Drobny,23.0,Centre-Back,R. Strasbourg,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Charlton,Francis Jeffers,23.0,Centre-Forward,Arsenal,3.90m,in,Summer,"3,9",Premier League,2004,2004/2005
+Charlton,Dennis Rommedahl,25.0,Right Winger,PSV Eindhoven,3.50m,in,Summer,"3,5",Premier League,2004,2004/2005
+Charlton,Danny Murphy,27.0,Central Midfield,Uk,3.25m,in,Summer,"3,25",Premier League,2004,2004/2005
+Charlton,Talal El Karkouri,27.0,Centre-Back,Paris SG,1.50m,in,Summer,"1,5",Premier League,2004,2004/2005
+Charlton,Stephan Andersen,22.0,Goalkeeper,North_EU,1.10m,in,Summer,"1,1",Premier League,2004,2004/2005
+Charlton,Bryan Hughes,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Gary Speed,34.0,Left Midfield,Newcastle,1.13m,in,Summer,"1,13",Premier League,2004,2004/2005
+Bolton,Tal Ben Haim,22.0,Centre-Back,Est_EU,225Th.,in,Summer,"0,225",Premier League,2004,2004/2005
+Bolton,Blessing Kaku,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Johann Smith,17.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Michael Bridges,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Júlio César,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Fernando Hierro,36.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Les Ferdinand,37.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,Radhi Jaidi,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Bolton,El-Hadji Diouf,23.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Bolton,Andy Oakes,27.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Bolton,Jaroslaw Fojut,16.0,Centre-Back,MSP Szamotuly,25Th.,in,Summer,"0,025",Premier League,2004,2004/2005
+Fulham,Papa Bouba Diop,26.0,Defensive Midfield,Lens,9.00m,in,Summer,9,Premier League,2004,2004/2005
+Fulham,Tomasz Radzinski,30.0,Centre-Forward,Everton,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Fulham,Claus Jensen,27.0,Attacking Midfield,Charlton,1.90m,in,Summer,"1,9",Premier League,2004,2004/2005
+Fulham,Ricardo Batista,17.0,Goalkeeper,Setúbal,50Th.,in,Summer,"0,05",Premier League,2004,2004/2005
+Fulham,Andy Cole,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Fulham,Billy McKinlay,35.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Fulham,Neale McDermott,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Birmingham,Emile Heskey,26.0,Centre-Forward,Uk,9.32m,in,Summer,"9,32",Premier League,2004,2004/2005
+Birmingham,Jesper Grönkjaer,26.0,Left Winger,Chelsea,3.30m,in,Summer,"3,3",Premier League,2004,2004/2005
+Birmingham,Dwight Yorke,32.0,Centre-Forward,Blackburn,400Th.,in,Summer,"0,4",Premier League,2004,2004/2005
+Birmingham,Muzzy Izzet,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Birmingham,Julian Gray,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Birmingham,Mario Melchiot,27.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Birmingham,Darren Anderton,32.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Birmingham,Sam Oji,18.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,2004,2004/2005
+Middlesbrough,Mark Viduka,28.0,Centre-Forward,Uk,6.75m,in,Summer,"6,75",Premier League,2004,2004/2005
+Middlesbrough,Boudewijn Zenden,27.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Middlesbrough,Gaizka Mendieta,30.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Middlesbrough,Ray Parlour,31.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Middlesbrough,Jimmy Floyd Hasselbaink,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Middlesbrough,Michael Reiziger,31.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Southampton,Peter Crouch,23.0,Centre-Forward,Aston Villa,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Southampton,Jelle Van Damme,20.0,Centre-Back,Ajax,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Southampton,Mikael Nilsson,26.0,Right-Back,North_EU,600Th.,in,Summer,"0,6",Premier League,2004,2004/2005
+Southampton,Alaeddine Yahia,22.0,Centre-Back,France,525Th.,in,Summer,"0,525",Premier League,2004,2004/2005
+Southampton,Kenwyne Jones,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Portsmouth,Diomansy Kamara,23.0,Right Winger,Italy,Loan fee:3.50m,in,Summer,"3,5",Premier League,2004,2004/2005
+Portsmouth,Ricardo Fuller,24.0,Centre-Forward,Uk,2.50m,in,Summer,"2,5",Premier League,2004,2004/2005
+Portsmouth,Lomana LuaLua,23.0,Centre-Forward,Newcastle,2.25m,in,Summer,"2,25",Premier League,2004,2004/2005
+Portsmouth,Valéry Mézague,20.0,Attacking Midfield,France,Loan fee:500Th.,in,Summer,"0,5",Premier League,2004,2004/2005
+Portsmouth,Aliou Cissé,28.0,Defensive Midfield,Birmingham,450Th.,in,Summer,"0,45",Premier League,2004,2004/2005
+Portsmouth,David Unsworth,30.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Portsmouth,Jamie Ashdown,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Portsmouth,Andy Griffin,25.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Spurs,Sean Davis,24.0,Defensive Midfield,Fulham,5.20m,in,Summer,"5,2",Premier League,2004,2004/2005
+Spurs,Thimothée Atouba,22.0,Left-Back,Uk,4.50m,in,Summer,"4,5",Premier League,2004,2004/2005
+Spurs,Michael Carrick,23.0,Defensive Midfield,Uk,4.10m,in,Summer,"4,1",Premier League,2004,2004/2005
+Spurs,Pedro Mendes,25.0,Defensive Midfield,FC Porto,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Spurs,Paul Robinson,24.0,Goalkeeper,Uk,3.00m,in,Summer,3,Premier League,2004,2004/2005
+Spurs,Noé Pamarot,25.0,Centre-Back,OGC Nice,2.40m,in,Summer,"2,4",Premier League,2004,2004/2005
+Spurs,Erik Edman,25.0,Left-Back,Heerenveen,2.00m,in,Summer,2,Premier League,2004,2004/2005
+Spurs,Calum Davenport,21.0,defence,Uk,1.80m,in,Summer,"1,8",Premier League,2004,2004/2005
+Spurs,Reto Ziegler,18.0,Centre-Back,Uk,1.00m,in,Summer,1,Premier League,2004,2004/2005
+Spurs,Noureddine Naybet,34.0,Centre-Back,Dep. La Coruña,1.00m,in,Summer,1,Premier League,2004,2004/2005
+Spurs,Márton Fülöp,21.0,Goalkeeper,Central_EU,750Th.,in,Summer,"0,75",Premier League,2004,2004/2005
+Spurs,Leigh Mills,16.0,Centre-Back,Swindon,225Th.,in,Summer,"0,225",Premier League,2004,2004/2005
+Spurs,Edson,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Blackburn,Morten Gamst Pedersen,22.0,Central Midfield,North_EU,2.25m,in,Summer,"2,25",Premier League,2004,2004/2005
+Blackburn,Paul Dickov,31.0,Centre-Forward,Uk,225Th.,in,Summer,"0,225",Premier League,2004,2004/2005
+Blackburn,Javi de Pedro,30.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Blackburn,Dominic Matteo,30.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Blackburn,Jay Bothroyd,22.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Man City,Ben Thatcher,28.0,Left-Back,Uk,1.50m,in,Summer,"1,5",Premier League,2004,2004/2005
+Man City,Geert De Vlieger,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Man City,Ronald Waterreus,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Man City,Danny Mills,27.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Everton,Tim Cahill,24.0,Attacking Midfield,Uk,2.20m,in,Summer,"2,2",Premier League,2004,2004/2005
+Everton,Marcus Bent,26.0,Centre-Forward,Uk,675Th.,in,Summer,"0,675",Premier League,2004,2004/2005
+Everton,Eddy Bosnar,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Norwich,Mattias Jonson,30.0,Centre-Forward,North_EU,1.35m,in,Summer,"1,35",Premier League,2004,2004/2005
+Norwich,Youssef Safri,27.0,Defensive Midfield,Uk,750Th.,in,Summer,"0,75",Premier League,2004,2004/2005
+Norwich,Simon Charlton,32.0,Left-Back,Bolton,375Th.,in,Summer,"0,375",Premier League,2004,2004/2005
+Norwich,Gary Doherty,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Norwich,Darren Ward,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Norwich,Thomas Helveg,33.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Norwich,Paul Gallacher,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Norwich,David Bentley,19.0,Right Midfield,Arsenal,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Norwich,Mathias Svensson,29.0,Centre-Forward,Charlton,50Th.,in,Summer,"0,05",Premier League,2004,2004/2005
+West Brom,Robert Earnshaw,23.0,Centre-Forward,Uk,4.50m,in,Summer,"4,5",Premier League,2004,2004/2005
+West Brom,Martin Albrechtsen,24.0,Centre-Back,North_EU,3.75m,in,Summer,"3,75",Premier League,2004,2004/2005
+West Brom,Zoltán Gera,25.0,Central Midfield,Central_EU,2.25m,in,Summer,"2,25",Premier League,2004,2004/2005
+West Brom,Jonathan Greening,25.0,Central Midfield,Middlesbrough,1.75m,in,Summer,"1,75",Premier League,2004,2004/2005
+West Brom,Darren Purse,27.0,Centre-Back,Birmingham,900Th.,in,Summer,"0,9",Premier League,2004,2004/2005
+West Brom,Junichi Inamoto,24.0,Defensive Midfield,Asia,300Th.,in,Summer,"0,3",Premier League,2004,2004/2005
+West Brom,Riccardo Scimeca,29.0,Centre-Back,Uk,150Th.,in,Summer,"0,15",Premier League,2004,2004/2005
+West Brom,Tomasz Kuszczak,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+West Brom,Nwankwo Kanu,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+West Brom,Cosmin Contra,28.0,Right-Back,Atlético Madrid,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Crystal Palace,Fitz Hall,23.0,Centre-Back,Southampton,2.25m,in,Summer,"2,25",Premier League,2004,2004/2005
+Crystal Palace,Sándor Torghelle,22.0,Centre-Forward,Central_EU,1.10m,in,Summer,"1,1",Premier League,2004,2004/2005
+Crystal Palace,Julián Speroni,25.0,Goalkeeper,Uk,1.00m,in,Summer,1,Premier League,2004,2004/2005
+Crystal Palace,Joonas Kolkka,29.0,Right Winger,Bor. M'gladbach,700Th.,in,Summer,"0,7",Premier League,2004,2004/2005
+Crystal Palace,Wayne Andrews,26.0,attack,Uk,100Th.,in,Summer,"0,1",Premier League,2004,2004/2005
+Crystal Palace,Emmerson Boyce,24.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Crystal Palace,Mark Hudson,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Crystal Palace,Gábor Király,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2004,2004/2005
+Crystal Palace,Gonzalo Sorondo,24.0,Centre-Back,Inter,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Crystal Palace,Anthony Danze,20.0,midfield,Asia,?,in,Summer,0.01,Premier League,2004,2004/2005
+Crystal Palace,Iván Kaviedes,26.0,Centre-Forward,South America,?,in,Summer,0.01,Premier League,2004,2004/2005
+Crystal Palace,Nicola Ventola,26.0,Centre-Forward,Inter,loan transfer,in,Summer,0.01,Premier League,2004,2004/2005
+Arsenal,Emmanuel Eboué,21.0,Right-Back,Belgium,2.20m,in,Winter,"2,2",Premier League,2004,2004/2005
+Chelsea,Jiri Jarosik,27.0,Centre-Back,Russia,12.00m,in,Winter,12,Premier League,2004,2004/2005
+Liverpool FC,Fernando Morientes,28.0,Centre-Forward,Real Madrid,9.25m,in,Winter,"9,25",Premier League,2004,2004/2005
+Liverpool FC,Scott Carson,19.0,Goalkeeper,Uk,1.40m,in,Winter,"1,4",Premier League,2004,2004/2005
+Liverpool FC,Mauricio Pellegrino,33.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Newcastle,Jean-Alain Boumsong,25.0,Centre-Back,Uk,11.30m,in,Winter,"11,3",Premier League,2004,2004/2005
+Newcastle,Amdy Faye,27.0,Defensive Midfield,Portsmouth,3.00m,in,Winter,3,Premier League,2004,2004/2005
+Newcastle,Celestine Babayaro,26.0,Left-Back,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Aston Villa,Eric Djemba Djemba,23.0,Defensive Midfield,Man Utd,2.54m,in,Winter,"2,54",Premier League,2004,2004/2005
+Bolton,Vincent Candela,31.0,Left-Back,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Birmingham,Robbie Blake,28.0,Second Striker,Uk,2.25m,in,Winter,"2,25",Premier League,2004,2004/2005
+Birmingham,Njazi Kuqi,21.0,Centre-Forward,North_EU,500Th.,in,Winter,"0,5",Premier League,2004,2004/2005
+Birmingham,Jermaine Pennant,22.0,Right Winger,Arsenal,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Birmingham,Mehdi Nafti,26.0,Defensive Midfield,Racing,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Birmingham,Salif Diao,27.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Birmingham,Walter Pandiani,28.0,Centre-Forward,Dep. La Coruña,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Southampton,Nigel Quashie,26.0,Central Midfield,Portsmouth,3.15m,in,Winter,"3,15",Premier League,2004,2004/2005
+Southampton,Andreas Jakobsson,32.0,Centre-Back,North_EU,1.80m,in,Winter,"1,8",Premier League,2004,2004/2005
+Southampton,Olivier Bernard,25.0,Left-Back,Newcastle,600Th.,in,Winter,"0,6",Premier League,2004,2004/2005
+Southampton,Jamie Redknapp,31.0,Central Midfield,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Southampton,Henri Camara,27.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Southampton,Kasey Keller,34.0,Goalkeeper,Spurs,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Southampton,Calum Davenport,22.0,defence,Spurs,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Portsmouth,Giannis Skopelitis,26.0,Defensive Midfield,Central_EU,1.50m,in,Winter,"1,5",Premier League,2004,2004/2005
+Portsmouth,Konstantinos Chalkias,30.0,Goalkeeper,Central_EU,150Th.,in,Winter,"0,15",Premier League,2004,2004/2005
+Portsmouth,Aleksandar Rodic,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Portsmouth,Andrea Guatelli,20.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Spurs,Andy Reid,22.0,Left Midfield,Uk,8.00m,in,Winter,8,Premier League,2004,2004/2005
+Spurs,Michael Dawson,21.0,Centre-Back,Uk,7.00m,in,Winter,7,Premier League,2004,2004/2005
+Spurs,Mido,21.0,Centre-Forward,AS Roma,Loan fee:2.00m,in,Winter,2,Premier League,2004,2004/2005
+Spurs,Mounir El Hamdaoui,20.0,Centre-Forward,Netherlands,750Th.,in,Winter,"0,75",Premier League,2004,2004/2005
+Spurs,Radek Cerny,30.0,Goalkeeper,Central_EU,Loan fee:400Th.,in,Winter,"0,4",Premier League,2004,2004/2005
+Spurs,Spase Dilevski,19.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Spurs,David Limbersky,21.0,Left-Back,Central_EU,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Blackburn,Robbie Savage,30.0,Central Midfield,Birmingham,4.50m,in,Winter,"4,5",Premier League,2004,2004/2005
+Blackburn,Aaron Mokoena,24.0,Centre-Back,Belgium,900Th.,in,Winter,"0,9",Premier League,2004,2004/2005
+Blackburn,Ryan Nelsen,27.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Man City,Andy Cole,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Man City,Kiki Musampa,27.0,Left Winger,Atlético Madrid,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Everton,James Beattie,26.0,Centre-Forward,Southampton,9.00m,in,Winter,9,Premier League,2004,2004/2005
+Everton,Guillaume Plessis,19.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+Everton,Mikel Arteta,22.0,Central Midfield,Real Sociedad,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Norwich,Dean Ashton,21.0,Centre-Forward,Uk,6.00m,in,Winter,6,Premier League,2004,2004/2005
+Norwich,Graham Stuart,34.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+West Brom,Richard Chaplow,19.0,Central Midfield,Uk,2.25m,in,Winter,"2,25",Premier League,2004,2004/2005
+West Brom,Kevin Campbell,34.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2004,2004/2005
+West Brom,Kieran Richardson,20.0,Left-Back,Man Utd,loan transfer,in,Winter,0.01,Premier League,2004,2004/2005
+Real Sociedad,Mikel Arteta,22.0,Central Midfield,Uk,4.00m,in,Summer,4,Primera Division,2004,2004/2005
+Real Sociedad,Jérémie Bréchet,24.0,Centre-Back,Inter,1.50m,in,Summer,"1,5",Primera Division,2004,2004/2005
+Real Sociedad,Rossato,26.0,Left-Back,FC Porto,1.00m,in,Summer,1,Primera Division,2004,2004/2005
+Real Sociedad,Gari Uranga,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Real Sociedad,Mikel Labaka,23.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Javier Sanchez Broto,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Getafe,Diego Rivas,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Getafe,David Belenguer,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Getafe,Rubén Pulido,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Getafe,Mariano Pernía,27.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Getafe,Riki,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Getafe,Raúl Albiol,18.0,Centre-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Gabi,20.0,Central Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Martín Ariel Vitali,28.0,Right-Back,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Daniel Komé,24.0,Right Winger,CD Numancia,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Yordi,29.0,Centre-Forward,Real Zaragoza,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Sergio Sánchez,27.0,Goalkeeper,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Getafe,Paco Gallardo,24.0,Right Midfield,Sevilla FC,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Levante,Vladimir Manchev,26.0,Centre-Forward,LOSC Lille,2.20m,in,Summer,"2,2",Primera Division,2004,2004/2005
+Levante,Diego Camacho,27.0,Defensive Midfield,Spain,600Th.,in,Summer,"0,6",Primera Division,2004,2004/2005
+Levante,Juanma,23.0,Right Winger,Spain,600Th.,in,Summer,"0,6",Primera Division,2004,2004/2005
+Levante,Johan Mjällby,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Levante,Nacho,24.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Levante,Ian Harte,26.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Levante,Sergio García,21.0,Centre-Forward,Barcelona,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Levante,Fabio Celestini,28.0,Defensive Midfield,Marseille,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Levante,José Antonio Culebras,25.0,Centre-Back,CD Numancia,?,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Aldo Osorio,30.0,Centre-Forward,Lecce,500Th.,in,Summer,"0,5",Primera Division,2004,2004/2005
+CD Numancia,Miguel Ángel López,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,Konstantinos Kiassos,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,Juanlu,24.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,Stéphane Pignol,27.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,Juan Ochoa,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,Juanma Barrero,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,César Palacios,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CD Numancia,Chun-soo Lee,22.0,Second Striker,Real Sociedad,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Ramón Ros,23.0,Defensive Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Toché,21.0,Centre-Forward,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Juanpa,25.0,Right-Back,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Pablo Sanz,30.0,Defensive Midfield,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Julio Pineda,31.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Luis Tevenet,30.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Patricio Graff,28.0,Left-Back,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+CD Numancia,Francisco Tarantino,20.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Mark González,19.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Albacete,Alberto Cano,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Albacete,Jaime,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Albacete,Jordi Ferrón,25.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Albacete,Luismi,20.0,Second Striker,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Albacete,Momo,22.0,Left Winger,Dep. La Coruña,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Rubén Castro,23.0,Centre-Forward,Dep. La Coruña,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Francisco Rodríguez,26.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Antonio Pacheco,28.0,Second Striker,Inter,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Rubén Reyes,25.0,Central Midfield,Villarreal,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Javi Jiménez,28.0,Defensive Midfield,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Ronny Gaspercic,35.0,Goalkeeper,Real Betis,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Mingo,27.0,Left-Back,Real Betis,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Albacete,Rubén González,22.0,Centre-Back,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Villarreal,Diego Forlán,25.0,Centre-Forward,Man Utd,3.20m,in,Summer,"3,2",Primera Division,2004,2004/2005
+Villarreal,Gonzalo Rodríguez,20.0,Centre-Back,South America,2.50m,in,Summer,"2,5",Primera Division,2004,2004/2005
+Villarreal,Juan Manuel Peña,31.0,Centre-Back,Spain,1.40m,in,Summer,"1,4",Primera Division,2004,2004/2005
+Villarreal,Armando Sá,28.0,Right-Back,Benfica,1.00m,in,Summer,1,Primera Division,2004,2004/2005
+Valencia,Stefano Fiore,29.0,Attacking Midfield,Lazio,17.00m,in,Summer,17,Primera Division,2004,2004/2005
+Valencia,Marco Di Vaio,27.0,Centre-Forward,Juventus,11.00m,in,Summer,11,Primera Division,2004,2004/2005
+Valencia,Bernardo Corradi,28.0,Centre-Forward,Lazio,10.00m,in,Summer,10,Primera Division,2004,2004/2005
+Valencia,Marco Caneira,25.0,Centre-Back,G. Bordeaux,2.00m,in,Summer,2,Primera Division,2004,2004/2005
+Valencia,Ludovic Butelle,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Valencia,Emiliano Moretti,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Dep. La Coruña,Momo,21.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Dep. La Coruña,Rubén Castro,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Espanyol,Didier Domi,26.0,Left-Back,Paris SG,1.50m,in,Summer,"1,5",Primera Division,2004,2004/2005
+Espanyol,José Amavisca,33.0,Left Midfield,Dep. La Coruña,1.00m,in,Summer,1,Primera Division,2004,2004/2005
+Espanyol,Carlos Kameni,20.0,Goalkeeper,France,550Th.,in,Summer,"0,55",Primera Division,2004,2004/2005
+Espanyol,Dani García,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Espanyol,Óscar Serrano,22.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Espanyol,Hugo Ibarra,30.0,Right-Back,FC Porto,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Espanyol,Óscar Miñambres,23.0,Right-Back,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Espanyol,Mauricio Pochettino,32.0,Centre-Back,G. Bordeaux,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Espanyol,Ito,29.0,Central Midfield,Real Betis,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Atlético Madrid,Peter Luccin,25.0,Defensive Midfield,Spain,5.00m,in,Summer,5,Primera Division,2004,2004/2005
+Atlético Madrid,Juan Velasco,27.0,Right-Back,Spain,4.00m,in,Summer,4,Primera Division,2004,2004/2005
+Atlético Madrid,Luis Amaranto Perea,25.0,Centre-Back,South America,3.30m,in,Summer,"3,3",Primera Division,2004,2004/2005
+Atlético Madrid,Pablo Ibáñez,22.0,Centre-Back,Albacete,3.00m,in,Summer,3,Primera Division,2004,2004/2005
+Atlético Madrid,Marcelo Sosa,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Atlético Madrid,Antonio López,22.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Atlético Madrid,Leo Franco,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Atlético Madrid,Salva Ballesta,29.0,Centre-Forward,Valencia,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Racing,Walid Regragui,28.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Racing,David Aganzo,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Racing,Fernando Marqués,19.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Racing,Líbero Parri,22.0,Attacking Midfield,Valencia,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Racing,Javier Arizmendi,20.0,Centre-Forward,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Racing,Icham Mouissi,21.0,Right Winger,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Racing,Alessandro Pierini,31.0,Centre-Back,Italy,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Racing,Mauricio Nanni,24.0,Goalkeeper,South America,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Racing,Pedro López,20.0,Right-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Real Madrid,Wálter Samuel,26.0,Centre-Back,AS Roma,25.00m,in,Summer,25,Primera Division,2004,2004/2005
+Real Madrid,Jonathan Woodgate,24.0,Centre-Back,Newcastle,18.30m,in,Summer,"18,3",Primera Division,2004,2004/2005
+Real Madrid,Michael Owen,24.0,Centre-Forward,Uk,12.00m,in,Summer,12,Primera Division,2004,2004/2005
+Sevilla FC,Jesuli,26.0,Attacking Midfield,Spain,4.00m,in,Summer,4,Primera Division,2004,2004/2005
+Sevilla FC,Ariza Makukula,23.0,Centre-Forward,FC Nantes,3.50m,in,Summer,"3,5",Primera Division,2004,2004/2005
+Sevilla FC,Fernando Sales,24.0,Right Winger,Spain,1.20m,in,Summer,"1,2",Primera Division,2004,2004/2005
+Sevilla FC,Carlos Aranda,23.0,Centre-Forward,Albacete,725Th.,in,Summer,"0,725",Primera Division,2004,2004/2005
+Sevilla FC,Renato,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Sevilla FC,Jordi López,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CA Osasuna,Rafael Clavero,27.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CA Osasuna,Ludovic Delporte,24.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CA Osasuna,Sérvulo,25.0,attack,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CA Osasuna,Savo Milosevic,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CA Osasuna,Enrique Corrales,22.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+CA Osasuna,Juanma Ortiz,22.0,Right-Back,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+RCD Mallorca,Javier Farinós,26.0,Defensive Midfield,Inter,Loan fee:2.50m,in,Summer,"2,5",Primera Division,2004,2004/2005
+RCD Mallorca,Juan Arango,24.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+RCD Mallorca,Marcos Vales,29.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+RCD Mallorca,Patrick Müller,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+RCD Mallorca,Sander Westerveld,29.0,Goalkeeper,Real Sociedad,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+RCD Mallorca,Luis García,23.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,2004,2004/2005
+RCD Mallorca,Sergio Ballesteros,28.0,Centre-Back,Villarreal,?,in,Summer,0.01,Primera Division,2004,2004/2005
+RCD Mallorca,Jorge López,25.0,Right Winger,Valencia,loan transfer,in,Summer,0.01,Primera Division,2004,2004/2005
+Real Betis,Edú,25.0,Second Striker,Spain,5.50m,in,Summer,"5,5",Primera Division,2004,2004/2005
+Real Betis,Ricardo Oliveira,24.0,Centre-Forward,Valencia,4.50m,in,Summer,"4,5",Primera Division,2004,2004/2005
+Real Betis,Paolo Castellini,25.0,Left-Back,Italy,950Th.,in,Summer,"0,95",Primera Division,2004,2004/2005
+Real Zaragoza,Óscar González,21.0,Attacking Midfield,Spain,2.60m,in,Summer,"2,6",Primera Division,2004,2004/2005
+Real Zaragoza,Agustín Aranzabal,31.0,Left-Back,Real Sociedad,800Th.,in,Summer,"0,8",Primera Division,2004,2004/2005
+Real Zaragoza,Luis García,25.0,Goalkeeper,CD Numancia,450Th.,in,Summer,"0,45",Primera Division,2004,2004/2005
+Real Zaragoza,García Granero,23.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Real Zaragoza,Javi Moreno,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Real Zaragoza,José María Movilla,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Real Zaragoza,Jorge Zaparaín,20.0,Goalkeeper,Uni. Saragossa,?,in,Summer,0.01,Primera Division,2004,2004/2005
+Barcelona,Samuel Eto'o,23.0,Centre-Forward,RCD Mallorca,27.00m,in,Summer,27,Primera Division,2004,2004/2005
+Barcelona,Deco,26.0,Attacking Midfield,FC Porto,21.00m,in,Summer,21,Primera Division,2004,2004/2005
+Barcelona,Ludovic Giuly,27.0,Right Winger,Monaco,8.50m,in,Summer,"8,5",Primera Division,2004,2004/2005
+Barcelona,Edmílson,27.0,Defensive Midfield,Olympique Lyon,8.00m,in,Summer,8,Primera Division,2004,2004/2005
+Barcelona,Juliano Belletti,28.0,Right-Back,Villarreal,6.00m,in,Summer,6,Primera Division,2004,2004/2005
+Barcelona,Sylvinho,30.0,Left-Back,Spain,1.50m,in,Summer,"1,5",Primera Division,2004,2004/2005
+Barcelona,Giovanni van Bronckhorst,29.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Barcelona,Henrik Larsson,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2004,2004/2005
+Real Sociedad,Dragan Mladenovic,28.0,Defensive Midfield,Uk,Loan fee:250Th.,in,Winter,"0,25",Primera Division,2004,2004/2005
+Getafe,Sergio Aragoneses,28.0,Goalkeeper,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+Getafe,Jaime Asen,26.0,Centre-Forward,Spain,?,in,Winter,0.01,Primera Division,2004,2004/2005
+Levante,Pablo Cavallero,30.0,Goalkeeper,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+CD Numancia,Nelson San Martín,23.0,Central Midfield,South America,220Th.,in,Winter,"0,22",Primera Division,2004,2004/2005
+CD Numancia,Silvio González,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+Albacete,Pinda,28.0,Goalkeeper,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+Albacete,Horacio Peralta,22.0,Centre-Forward,Inter,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+Albacete,Nicolás Olivera,26.0,Second Striker,South America,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+Málaga CF,Paulo Wanchope,28.0,Centre-Forward,Man City,750Th.,in,Winter,"0,75",Primera Division,2004,2004/2005
+Málaga CF,Fernando Baiano,25.0,Centre-Forward,South America,?,in,Winter,0.01,Primera Division,2004,2004/2005
+Málaga CF,Tote,26.0,Attacking Midfield,Real Betis,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+Málaga CF,Míchel,29.0,Attacking Midfield,Spain,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+Villarreal,Luciano Figueroa,23.0,Centre-Forward,North America,6.20m,in,Winter,"6,2",Primera Division,2004,2004/2005
+Villarreal,Juan Pablo Sorín,28.0,Left-Back,South America,1.50m,in,Winter,"1,5",Primera Division,2004,2004/2005
+Dep. La Coruña,Fabricio Coloccini,23.0,Centre-Back,AC Milan,5.00m,in,Winter,5,Primera Division,2004,2004/2005
+Atlético Madrid,Jesper Grönkjaer,27.0,Left Winger,Birmingham,2.00m,in,Winter,2,Primera Division,2004,2004/2005
+Atlético Madrid,Richard Núñez,28.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+Racing,Toño,25.0,Goalkeeper,Spain,1.14m,in,Winter,"1,14",Primera Division,2004,2004/2005
+Racing,Gerardo Torrado,25.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+Racing,Argel Fuchs,30.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+Real Madrid,Thomas Gravesen,28.0,Defensive Midfield,Everton,3.40m,in,Winter,"3,4",Primera Division,2004,2004/2005
+Sevilla FC,Adriano,20.0,Left-Back,South America,2.10m,in,Winter,"2,1",Primera Division,2004,2004/2005
+CA Osasuna,Francisco Jusué,25.0,Centre-Back,Spain,?,in,Winter,0.01,Primera Division,2004,2004/2005
+CA Osasuna,Fernando Porto,30.0,Centre-Back,CD Ourense,?,in,Winter,0.01,Primera Division,2004,2004/2005
+RCD Mallorca,Bernardo Romeo,27.0,Centre-Forward,Hamburger SV,Loan fee:400Th.,in,Winter,"0,4",Primera Division,2004,2004/2005
+RCD Mallorca,Mark Iuliano,31.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+RCD Mallorca,Felipe Melo,21.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+RCD Mallorca,Gonzalo de los Santos,28.0,Defensive Midfield,Valencia,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+RCD Mallorca,Yoshito Okubo,22.0,Centre-Forward,Asia,loan transfer,in,Winter,0.01,Primera Division,2004,2004/2005
+Barcelona,Maxi López,20.0,Centre-Forward,South America,6.50m,in,Winter,"6,5",Primera Division,2004,2004/2005
+Barcelona,Demetrio Albertini,33.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Primera Division,2004,2004/2005
+Sporting CP,Mauricio Pinilla,20.0,Centre-Forward,Inter,1.50m,in,Summer,"1,5",Liga Nos,2004,2004/2005
+Sporting CP,Roudolphe Douala,25.0,Left Winger,Boavista,1.00m,in,Summer,1,Liga Nos,2004,2004/2005
+Sporting CP,Joseph Enakarhire,21.0,Centre-Back,Belgium,750Th.,in,Summer,"0,75",Liga Nos,2004,2004/2005
+Sporting CP,Rogério,28.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Sporting CP,Hugo Viana,21.0,Central Midfield,Newcastle,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Benfica,Azar Karadas,22.0,Centre-Back,North_EU,1.75m,in,Summer,"1,75",Liga Nos,2004,2004/2005
+Benfica,Quim,28.0,Goalkeeper,SC Braga,1.40m,in,Summer,"1,4",Liga Nos,2004,2004/2005
+Benfica,Everson,28.0,Defensive Midfield,OGC Nice,1.20m,in,Summer,"1,2",Liga Nos,2004,2004/2005
+Benfica,Carlitos,21.0,Left Midfield,Estoril Praia,500Th.,in,Summer,"0,5",Liga Nos,2004,2004/2005
+Benfica,Manuel dos Santos,30.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Benfica,Yannick Quesnel,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Benfica,Amoreirinha,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Benfica,Paulo Almeida,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Benfica,Alcides,19.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Benfica,Rodolfo Lima,24.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Benfica,Manú,21.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Benfica,Zé Rui,21.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Coimbra,Bruno Leite,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Coimbra,Luciano Fonseca,25.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Coimbra,Ricardo Fernandes,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Coimbra,Clément Beaud,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Coimbra,Rafael Ledesma,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Coimbra,Vasco Faísca,23.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Coimbra,Dani,30.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Coimbra,Danilo Moreira,23.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Coimbra,William,19.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Coimbra,Dário,27.0,Centre-Forward,Asia,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+FC Porto,Hélder Postiga,21.0,Centre-Forward,Spurs,7.50m,in,Summer,"7,5",Liga Nos,2004,2004/2005
+FC Porto,Diego,19.0,Central Midfield,South America,7.00m,in,Summer,7,Liga Nos,2004,2004/2005
+FC Porto,Ricardo Quaresma,20.0,Right Winger,Barcelona,6.00m,in,Summer,6,Liga Nos,2004,2004/2005
+FC Porto,Luís Fabiano,23.0,Centre-Forward,South America,3.50m,in,Summer,"3,5",Liga Nos,2004,2004/2005
+FC Porto,Georgios Seitaridis,23.0,Right-Back,Central_EU,3.00m,in,Summer,3,Liga Nos,2004,2004/2005
+FC Porto,Rossato,26.0,Left-Back,Nacional,2.00m,in,Summer,2,Liga Nos,2004,2004/2005
+FC Porto,Paulo Assunção,24.0,Defensive Midfield,Nacional,2.00m,in,Summer,2,Liga Nos,2004,2004/2005
+FC Porto,Pepe,21.0,Centre-Back,Marítimo,2.00m,in,Summer,2,Liga Nos,2004,2004/2005
+FC Porto,Areias,27.0,Left-Back,Beira-Mar,500Th.,in,Summer,"0,5",Liga Nos,2004,2004/2005
+FC Porto,Cláudio Pitbull,22.0,Centre-Forward,South America,300Th.,in,Summer,"0,3",Liga Nos,2004,2004/2005
+FC Porto,Raúl Meireles,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+FC Porto,Hugo Leal,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vit. Guimarães,William Kwabena Tiero,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vit. Guimarães,Sanibal Orahovac,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vit. Guimarães,Turra,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vit. Guimarães,Zé Nando,28.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vit. Guimarães,Alex,24.0,Right-Back,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,Elpídio Silva,28.0,Centre-Forward,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,Marco Ferreira,26.0,Right Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,Jaílton,22.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,Attila Dragóner,29.0,Centre-Back,Central_EU,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,Luís Mário,27.0,Second Striker,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,Braulio Leal,22.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Nacional,Geufer,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Nacional,Bruno,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Nacional,Wendel,22.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Nacional,Ferreira,25.0,Centre-Forward,Gil Vicente,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Nacional,Fábio Santos,23.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Nacional,Julio Marchant,24.0,Right Midfield,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Nacional,Marcelo Costa,23.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Belenenses,Juninho Petrolina,29.0,Attacking Midfield,Beira-Mar,120Th.,in,Summer,"0,12",Liga Nos,2004,2004/2005
+Belenenses,Renato Silva,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Belenenses,Cabral,32.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Belenenses,José Pedro,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Belenenses,Cristiano,27.0,defence,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Belenenses,Jorginho,29.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Belenenses,Amaral,26.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Belenenses,Sandro,30.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Belenenses,Lourenço,21.0,Centre-Forward,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Belenenses,Rodolfo Lima,24.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Modou Sougou,19.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Leiria,Hugo Faria,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Leiria,Fangueiro,27.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Leiria,Bernardo Vasconcelos,25.0,Centre-Forward,RKC Waalwijk,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Fábio Felicio,22.0,Central Midfield,Coimbra,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Petar Krpan,30.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Mário Carlos,21.0,Right Winger,Nacional,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Hugo Cunha,,Attacking Midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Renato Queirós,26.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Vargas,25.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Torrão,27.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Leiria,Silvestre,20.0,Central Midfield,Caçadores,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Moreirense ,Afonso Martins,31.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Moreirense ,Fernando,23.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Moreirense ,João Manuel,,Central Midfield,Leiria,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Moreirense ,Filipe Anunciacão,25.0,Defensive Midfield,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Marítimo,Tonel,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Marítimo,Rui Marques,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Marítimo,Ferreira,20.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Marítimo,Gustavo Manduca,24.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Marítimo,Krum Bibishkov,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Marítimo,Pena,30.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Marítimo,Nélson Sousa,23.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Marítimo,Zumbi,23.0,Centre-Forward,Vila Aurora,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Marítimo,Evaldo,22.0,Left-Back,FC Porto,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Marítimo,Luís Filipe,25.0,Right-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Marítimo,Silas,27.0,Attacking Midfield,Uk,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+SC Braga,Lima,22.0,Centre-Forward,South America,1.50m,in,Summer,"1,5",Liga Nos,2004,2004/2005
+SC Braga,Nabil Baha,22.0,Centre-Forward,Portugal,750Th.,in,Summer,"0,75",Liga Nos,2004,2004/2005
+SC Braga,Césinha,24.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,Jaime Júnior,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,Nelsinho,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,João Alves,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,Abel Ferreira,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,Luís Loureiro,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,Vandinho,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,José Nunes,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+SC Braga,Paulo Santos,31.0,Goalkeeper,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+SC Braga,Toni,37.0,Centre-Forward,Rio Ave FC,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+SC Braga,João Tomás,29.0,Centre-Forward,Real Betis,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Rio Ave FC,Delson,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Gaúcho,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Saulo,22.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Marquinhos,21.0,Central Midfield,Oliveira Bairro,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Rio Ave FC,Ricardo Nascimento,30.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Rio Ave FC,Adriano,21.0,Goalkeeper,Valenciano,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Rio Ave FC,Amaobi,22.0,attack,Asia,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Boavista,Carlos Fernandes,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Cadú,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,João Pinto,32.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Tiago,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Milhazes,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Guga,27.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Toñito,27.0,Right Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Hélder Rosário,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Nélson,21.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Lucas,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,Zé Manuel,29.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Boavista,André Barreto,24.0,Central Midfield,Estoril Praia,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Boavista,Felipe Flores,27.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Boavista,Carlos Fernandes,26.0,Left-Back,Belenenses,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Rolf Landerl,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Sidney Moraes,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Fernando Aguiar,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Américo,23.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Pascal,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Artur Jorge,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Ljubinko Drulovic,35.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Penafiel,Edgar Marcelino,19.0,Right Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Carlos Oliveira,24.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Jean Batista,22.0,Left-Back,Uberaba,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Nílton,25.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Nuno Silva,28.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Nuno Diogo,23.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Marquinhos,29.0,midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Clayton,28.0,Left Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Penafiel,Pedro Santos,28.0,Central Midfield,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Ednilson,21.0,Defensive Midfield,Benfica,Loan fee:100Th.,in,Summer,"0,1",Liga Nos,2004,2004/2005
+Gil Vicente,Sidraílson,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Gil Vicente,Grégory Arnolin,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Gil Vicente,Rovérsio,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Gil Vicente,Fábio Hempel,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Gil Vicente,Júlio César,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Gil Vicente,Carlitos,27.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Gil Vicente,Jorge Ribeiro,22.0,Left-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Paulo Costa,24.0,Attacking Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Tonanha,24.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Rui Baião,23.0,Attacking Midfield,CF Estrela,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Bruno Tiago,23.0,Central Midfield,Dragões,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Edson Mendes,26.0,Right-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Ousmane N'Doye,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Raphael Roncen,24.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Bruno Jorge,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Luís Torres,24.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Jorge Baptista,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Kalifa Cissé,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Elias,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Estoril Praia,Dejan Ognjanovic,26.0,Right-Back,Central_EU,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Ali El Omari,26.0,Left Midfield,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Yuri,21.0,Centre-Forward,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,João Paulo,24.0,Centre-Forward,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Milton,26.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Ibón Arrieta,27.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Filipe,18.0,midfield,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Luciano Rosa,29.0,attack,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Edmar,23.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Stéphane Maurel,23.0,Right-Back,AC Ajaccio,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Yannick Quesnel,30.0,Goalkeeper,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Éder Bonfim,23.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vitória Setúbal,João Paulo Brito,30.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vitória Setúbal,Binho,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vitória Setúbal,Dione,24.0,defence,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Vitória Setúbal,Igor,24.0,Centre-Forward,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Pedro Oliveira,22.0,Right Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Nélson Veríssimo,27.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Ricardo Chaves,26.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Nandinho,28.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Bruno Moraes,19.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Zé Rui,21.0,Left Winger,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2004,2004/2005
+Beira-Mar,Beto,27.0,Central Midfield,Portugal,55Th.,in,Summer,"0,055",Liga Nos,2004,2004/2005
+Beira-Mar,Heitor,26.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Pablo Rodríguez,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Santiago Silva,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Rui Óscar,28.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Paul Murray,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Ricardo Silva,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Mário Loja,26.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Stephen McPhee,23.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Tininho,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Beira-Mar,Pavel Srnicek,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2004,2004/2005
+Sporting CP,Mota,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Benfica,Nuno Assis,27.0,Attacking Midfield,Vit. Guimarães,600Th.,in,Winter,"0,6",Liga Nos,2004,2004/2005
+Benfica,André Luis,25.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Benfica,Andrija Delibasic,23.0,Centre-Forward,RCD Mallorca,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Coimbra,Marcel,23.0,Centre-Forward,Asia,1.80m,in,Winter,"1,8",Liga Nos,2004,2004/2005
+Coimbra,Roberto Brum,26.0,Defensive Midfield,South America,800Th.,in,Winter,"0,8",Liga Nos,2004,2004/2005
+Coimbra,Kenedy,30.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Coimbra,Lira,21.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Coimbra,Kenny Cooper Jr.,20.0,Centre-Forward,Man Utd,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Coimbra,Hugo Leal,24.0,Central Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+FC Porto,Anderson,16.0,Central Midfield,South America,8.00m,in,Winter,8,Liga Nos,2004,2004/2005
+FC Porto,Thiago Silva,20.0,Centre-Back,South America,2.50m,in,Winter,"2,5",Liga Nos,2004,2004/2005
+FC Porto,Leandro,25.0,Left-Back,South America,2.00m,in,Winter,2,Liga Nos,2004,2004/2005
+FC Porto,Léo Lima,22.0,Attacking Midfield,Marítimo,2.00m,in,Winter,2,Liga Nos,2004,2004/2005
+FC Porto,Ibson,21.0,Central Midfield,South America,1.80m,in,Winter,"1,8",Liga Nos,2004,2004/2005
+FC Porto,Leandro Bonfim,20.0,Attacking Midfield,PSV Eindhoven,?,in,Winter,0.01,Liga Nos,2004,2004/2005
+Vit. Guimarães,César Peixoto,24.0,Left Midfield,FC Porto,Loan fee:100Th.,in,Winter,"0,1",Liga Nos,2004,2004/2005
+Nacional,Alonso,24.0,Left-Back,South America,?,in,Winter,0.01,Liga Nos,2004,2004/2005
+Belenenses,Catanha,32.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Belenenses,Rui Ferreira,31.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Belenenses,Paulo Sérgio,20.0,Attacking Midfield,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Leiria,Ferreira,25.0,Centre-Forward,Nacional,?,in,Winter,0.01,Liga Nos,2004,2004/2005
+Leiria,Geufer,24.0,Centre-Forward,Nacional,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Moreirense ,Nei,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Moreirense ,Eriverton,26.0,Central Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Moreirense ,Maurice Mendy,22.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Moreirense ,Delfim,27.0,Defensive Midfield,Marseille,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Marítimo,Abel Lobatón,27.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Marítimo,Marcinho,23.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Marítimo,Damir Pekic,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+SC Braga,Candido Costa,23.0,Right Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+SC Braga,Andrés Madrid,23.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+SC Braga,Léo Moura,26.0,defence,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+SC Braga,Ilan Bakhar,29.0,Right-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Boavista,Ambassa,23.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Boavista,Hugo Almeida,20.0,Centre-Forward,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Penafiel,Ousmane N'Doye,26.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Penafiel,Kelly Berville,26.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Penafiel,Cassiano,29.0,Right Winger,South America,?,in,Winter,0.01,Liga Nos,2004,2004/2005
+Gil Vicente,Carlos Carneiro,30.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Gil Vicente,Ezequias,23.0,Left-Back,Marítimo,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Moses Sakyi,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Estoril Praia,Amoreirinha,20.0,Centre-Back,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Estoril Praia,Vargas,26.0,Right Winger,Leiria,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Vitória Setúbal,Moretto,26.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Vitória Setúbal,Fabien Farnolle,19.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Vitória Setúbal,Diogo,21.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Beira-Mar,Ali El Omari,26.0,Left Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2004,2004/2005
+Beira-Mar,Hassan Ahamada,23.0,Attacking Midfield,FC Nantes,loan transfer,in,Winter,0.01,Liga Nos,2004,2004/2005
+Beira-Mar,Eugene Galekovic,23.0,Goalkeeper,Asia,?,in,Winter,0.01,Liga Nos,2004,2004/2005
+Beira-Mar,Jorge Silva,29.0,Defensive Midfield,Boavista,?,in,Winter,0.01,Liga Nos,2004,2004/2005
+Ajax,Mauro Rosales,23.0,Right Midfield,South America,2.50m,in,Summer,"2,5",Eredivisie,2004,2004/2005
+Ajax,Hans Vonk,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Ajax,Gastón Sangoy,19.0,Right Winger,South America,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+Ajax,Filipe Luís,19.0,Left-Back,South America,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+PSV Eindhoven,Jefferson Farfán,19.0,Centre-Forward,South America,3.50m,in,Summer,"3,5",Eredivisie,2004,2004/2005
+PSV Eindhoven,DaMarcus Beasley,22.0,Left-Back,North America,2.00m,in,Summer,2,Eredivisie,2004,2004/2005
+PSV Eindhoven,Heurelho Gomes,23.0,Goalkeeper,South America,1.00m,in,Summer,1,Eredivisie,2004,2004/2005
+PSV Eindhoven,Csaba Fehér,28.0,Defensive Midfield,NAC Breda,765Th.,in,Summer,"0,765",Eredivisie,2004,2004/2005
+PSV Eindhoven,Gerald Sibon,30.0,Centre-Forward,Heerenveen,750Th.,in,Summer,"0,75",Eredivisie,2004,2004/2005
+PSV Eindhoven,Phillip Cocu,33.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+PSV Eindhoven,Edwin Zoetebier,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+PSV Eindhoven,Nathan Coe,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+PSV Eindhoven,Arvid Smit,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+PSV Eindhoven,Lasse Qvist,17.0,Centre-Forward,North_EU,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+PSV Eindhoven,Alex,22.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+PSV Eindhoven,Osmar Ferreyra,21.0,Attacking Midfield,Russia,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+Feyenoord,Bart Goor,31.0,Left Midfield,Hertha BSC,1.00m,in,Summer,1,Eredivisie,2004,2004/2005
+Feyenoord,Gerson Magrão,19.0,Left Midfield,South America,800Th.,in,Summer,"0,8",Eredivisie,2004,2004/2005
+Feyenoord,Karim Saïdi,21.0,Centre-Back,Africa Sports,210Th.,in,Summer,"0,21",Eredivisie,2004,2004/2005
+Feyenoord,Gábor Babos,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Feyenoord,Mark Otten,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Feyenoord,Maikel Aerts,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Feyenoord,Bruno Basto,26.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Feyenoord,Alex Brosque,20.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Feyenoord,Romeo Castelen,21.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Feyenoord,Pascal Bosschaart,24.0,Centre-Back,FC Utrecht,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Feyenoord,Edwin de Graaf,24.0,Central Midfield,RBC Roosendaal,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Feyenoord,Santi Kolk,22.0,Right Winger,Heerenveen,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Klaas-Jan Huntelaar,20.0,Centre-Forward,PSV Eindhoven,900Th.,in,Summer,"0,9",Eredivisie,2004,2004/2005
+Heerenveen,Arnold Bruggink,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Heerenveen,Sven Taberima,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Heerenveen,Yuri Rose,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Heerenveen,Tomasz Rzasa,31.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Heerenveen,André Hanssen,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Heerenveen,Ugur Yildirim,22.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Heerenveen,Denis Calincov,18.0,Left Winger,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Michel Breuer,24.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Romano Denneboom,23.0,Right Winger,Willem II,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Youssouf Hersi,21.0,Right Winger,Ajax,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Brian Vandenbussche,22.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Victor Sikora,26.0,Right Winger,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+AZ Alkmaar,Tarik Sektioui,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+AZ Alkmaar,Joris Mathijsen,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+AZ Alkmaar,Kew Jaliens,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+AZ Alkmaar,Adil Ramzi,27.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Roda JC,Boldizsár Bodor,22.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Roda JC,Guido Budziak,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Roda JC,László Bodnár,25.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Roda JC,Sekou Cissé,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Michel Kreek,33.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Martijn Reuser,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Rob Oomens,23.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Oscar Moens,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Marko Kolsi,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Iwan Redan,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Willem II,Kevin Bobson,23.0,Left Winger,Espanyol,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Willem II,Albert van der Haar,28.0,Defensive Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Twente FC,Blaise Nkufo,29.0,Centre-Forward,Hannover 96,600Th.,in,Summer,"0,6",Eredivisie,2004,2004/2005
+Twente FC,Jason Culina,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Raymond Fafiani,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Sander Boschker,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Dmitri Shukov,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Guilherme Afonso,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Karim Touzani,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Niels Wellenberg,21.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Twente FC,Elbekay Bouchiba,25.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Twente FC,Resit Schuurman,25.0,Defensive Midfield,NEC Nijmegen,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+NAC Breda,David Mendes da Silva,21.0,Defensive Midfield,Netherlands,75Th.,in,Summer,"0,075",Eredivisie,2004,2004/2005
+NAC Breda,Mehmet Ali Yeral,20.0,Attacking Midfield,RBC Roosendaal,70Th.,in,Summer,"0,07",Eredivisie,2004,2004/2005
+NAC Breda,Mike Zonneveld,23.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NAC Breda,Yuri Cornelisse,29.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NAC Breda,Omar Boukhari,18.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NAC Breda,Davy Schollen,26.0,Goalkeeper,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+NAC Breda,Anthony Lurling,27.0,Attacking Midfield,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+NAC Breda,Jürgen Colin,23.0,Centre-Back,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+NAC Breda,Raphael Maitimo,20.0,Central Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+NAC Breda,Robert Braber,21.0,Attacking Midfield,Excelsior U21,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+NAC Breda,Pieter Collen,24.0,Centre-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Utrecht,David di Tommaso,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Utrecht,Darl Douglas,24.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Utrecht,Sven Post,18.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Utrecht,Prince Rajcomar,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Utrecht,Samir El Gaaouiri,20.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Utrecht,Hans Somers,26.0,Left Midfield,Turkey,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Utrecht,Tim Cornelisse,26.0,Right-Back,Vitesse,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+RKC Waalwijk,Didi Longuet,23.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Randy Rustenberg,20.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Jurgen Wevers,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Michael Krohn-Dehli,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Mattheus Hoop,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Tieme Klompe,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Jerold Promes,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Jasar Takak,22.0,Central Midfield,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+RKC Waalwijk,Thomas Vermaelen,18.0,Centre-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+RKC Waalwijk,Alfred Schreuder,31.0,Defensive Midfield,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+RKC Waalwijk,Maarten Martens,19.0,Attacking Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+RBC Roosendaal,Tim Smolders,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RBC Roosendaal,Adam Farouk,18.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+RBC Roosendaal,Birger Van de Ven,22.0,Centre-Back,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+RBC Roosendaal,Jesper Haakansson,22.0,Attacking Midfield,Heerenveen,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+RBC Roosendaal,Danny Guijt,23.0,Attacking Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+RBC Roosendaal,Maikel Aerts,28.0,Goalkeeper,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Groningen,Jack Tuyp,20.0,Centre-Forward,Netherlands,800Th.,in,Summer,"0,8",Eredivisie,2004,2004/2005
+FC Groningen,Danny Buijs,22.0,Central Midfield,Netherlands,750Th.,in,Summer,"0,75",Eredivisie,2004,2004/2005
+FC Groningen,Gijs Luirink,20.0,Centre-Back,Netherlands,500Th.,in,Summer,"0,5",Eredivisie,2004,2004/2005
+FC Groningen,Luizinho,21.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Groningen,Stefano Seedorf,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Groningen,Mark-Jan Fledderus,21.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Groningen,Bas Roorda,31.0,Goalkeeper,Roda JC,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+NEC Nijmegen,José Valencia,22.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NEC Nijmegen,Romano Denneboom,23.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NEC Nijmegen,Saïd Boutahar,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NEC Nijmegen,Björn van der Doelen,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NEC Nijmegen,Raymon van Emmerik,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+NEC Nijmegen,Arjan Ebbinge,29.0,Centre-Back,Heerenveen,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+NEC Nijmegen,Patrick Pothuizen,32.0,Centre-Back,Twente FC,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+ADO Den Haag,Jimmy van Fessem,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+ADO Den Haag,Spira Grujic,32.0,Sweeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+ADO Den Haag,Sjaak Polak,28.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+ADO Den Haag,Jamie Smith,23.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+ADO Den Haag,Jamie Coyne,23.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+ADO Den Haag,Geert den Ouden,27.0,Centre-Forward,North_EU,50Th.,in,Summer,"0,05",Eredivisie,2004,2004/2005
+ADO Den Haag,Arjan van der Kaay,21.0,Goalkeeper,SVVSMC,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+ADO Den Haag,Raymond Jansz,21.0,Goalkeeper,Unknown,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+ADO Den Haag,Gill Swerts,21.0,Right-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+Vitesse,Gino Coutinho,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Vitesse,Igor Gluscevic,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Vitesse,Peter van den Berg,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Vitesse,Richard Knopper,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Vitesse,Stijn Vreven,30.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+Vitesse,Bas Wijnen,23.0,Goalkeeper,Netherlands,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+Vitesse,Abubakari Yakubu,22.0,Defensive Midfield,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+De Graafschap,Mirano Carrilho,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+De Graafschap,Jhonny van Beukering,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+De Graafschap,Rob van Dijk,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+De Graafschap,Darije Kalezic,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+De Graafschap,Dave Bus,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+De Graafschap,Mamadou Zongo,23.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+De Graafschap,Patrick Ax,24.0,attack,NEC Nijmegen,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Thijs van der Meulen,23.0,defence,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Den Bosch,Paul Verhaegh,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Den Bosch,Joost Volmer,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Den Bosch,Dennis Schulp,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Den Bosch,Gijs Cales,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Den Bosch,Mourad Mghizrat,29.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,2004,2004/2005
+FC Den Bosch,Ferne Snoyl,19.0,Left-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Marcel Cas,32.0,Right-Back,RBC Roosendaal,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Vincent Euvrard,22.0,Centre-Back,Belgium,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Emile van de Meerakker,23.0,defence,Willem II,?,in,Summer,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Robbie Haemhouts,20.0,Central Midfield,NAC Breda,loan transfer,in,Summer,0.01,Eredivisie,2004,2004/2005
+Ajax,Angelos Charisteas,24.0,Centre-Forward,Werder Bremen,4.90m,in,Winter,"4,9",Eredivisie,2004,2004/2005
+PSV Eindhoven,Robert,23.0,Centre-Forward,North America,4.00m,in,Winter,4,Eredivisie,2004,2004/2005
+Feyenoord,Cory Gibbs,25.0,Centre-Back,North America,770Th.,in,Winter,"0,77",Eredivisie,2004,2004/2005
+Feyenoord,Nicky Hofs,21.0,Attacking Midfield,Vitesse,200Th.,in,Winter,"0,2",Eredivisie,2004,2004/2005
+Feyenoord,Alexander Arnold Mezan,26.0,Right-Back,North_EU,200Th.,in,Winter,"0,2",Eredivisie,2004,2004/2005
+Feyenoord,André Bahia,21.0,Centre-Back,South America,?,in,Winter,0.01,Eredivisie,2004,2004/2005
+Feyenoord,Jajá,18.0,Centre-Forward,South America,?,in,Winter,0.01,Eredivisie,2004,2004/2005
+Heerenveen,Lasse Nilsson,22.0,Centre-Forward,North_EU,625Th.,in,Winter,"0,625",Eredivisie,2004,2004/2005
+Roda JC,Pa-Modou Kah,24.0,Centre-Back,North_EU,?,in,Winter,0.01,Eredivisie,2004,2004/2005
+Roda JC,Youssef Sofiane,20.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+Willem II,Christophe Lepoint,20.0,Central Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+Willem II,Jatto Ceesay,30.0,Right Winger,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+Willem II,Arvid Smit,24.0,Central Midfield,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+Twente FC,Daniel Majstorovic,27.0,Centre-Back,North_EU,800Th.,in,Winter,"0,8",Eredivisie,2004,2004/2005
+Twente FC,Sharbel Touma,25.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+NAC Breda,Maceo Rigters,20.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+FC Utrecht,Michael Mols,34.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+RKC Waalwijk,Cerezo Fung a Wing,21.0,Defensive Midfield,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+RBC Roosendaal,Paul de Lange,23.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+RBC Roosendaal,José Fortes Rodriguez,32.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+RBC Roosendaal,Tyrone Loran,23.0,Right-Back,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+RBC Roosendaal,Edwin de Graaf,24.0,Central Midfield,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+RBC Roosendaal,Elvis Hammond,24.0,Centre-Forward,Fulham,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+FC Groningen,Erik Nevland,26.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+FC Groningen,Kiran Bechan,22.0,Right Winger,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+FC Groningen,Gibril Sankoh,21.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+NEC Nijmegen,Bart Van den Eede,27.0,Centre-Forward,NAC Breda,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+ADO Den Haag,Cees Paauwe,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+ADO Den Haag,John O'Brien,27.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+ADO Den Haag,Edson,21.0,Centre-Forward,Spurs,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+Vitesse,Youssouf Hersi,22.0,Right Winger,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+Vitesse,Harald Wapenaar,34.0,Goalkeeper,Portsmouth,?,in,Winter,0.01,Eredivisie,2004,2004/2005
+De Graafschap,Reinier Robbemond,32.0,Right Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+De Graafschap,Richard Roelofsen,35.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2004,2004/2005
+De Graafschap,Glenn Loovens,21.0,Centre-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+De Graafschap,Ricardo Sousa,25.0,Attacking Midfield,Hannover 96,Loan fee:20Th.,in,Winter,"0,02",Eredivisie,2004,2004/2005
+De Graafschap,Jimmy van Fessem,29.0,Goalkeeper,ADO Den Haag,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Jochen Janssen,28.0,Centre-Forward,RKC Waalwijk,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Steve Olfers,22.0,Centre-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005
+FC Den Bosch,Otman Bakkal,19.0,Attacking Midfield,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2004,2004/2005

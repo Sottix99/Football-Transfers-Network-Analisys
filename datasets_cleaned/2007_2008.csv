@@ -1,0 +1,1525 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Inter,Cristian Chivu,26.0,Centre-Back,AS Roma,16.00m,in,Summer,16,Serie A,2007,2007/2008
+Inter,David Suazo,27.0,Centre-Forward,Cagliari Calcio,13.00m,in,Summer,13,Serie A,2007,2007/2008
+Inter,Nelson Rivas,24.0,Centre-Back,South America,7.50m,in,Summer,"7,5",Serie A,2007,2007/2008
+Inter,Pelé,19.0,Central Midfield,Vit. Guimarães,2.00m,in,Summer,2,Serie A,2007,2007/2008
+Inter,Enrico Alfonso,19.0,Goalkeeper,Italy,1.30m,in,Summer,"1,3",Serie A,2007,2007/2008
+Inter,Luis Jiménez,23.0,Attacking Midfield,Italy,Loan fee:1.00m,in,Summer,1,Serie A,2007,2007/2008
+Inter,Robert Acquafresca,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+AS Roma,Mirko Vucinic,23.0,Centre-Forward,Italy,15.75m,in,Summer,"15,75",Serie A,2007,2007/2008
+AS Roma,Cicinho,27.0,Right-Back,Real Madrid,11.00m,in,Summer,11,Serie A,2007,2007/2008
+AS Roma,Juan,28.0,Centre-Back,Bay. Leverkusen,6.30m,in,Summer,"6,3",Serie A,2007,2007/2008
+AS Roma,Marco Andreolli,21.0,Centre-Back,Inter,5.50m,in,Summer,"5,5",Serie A,2007,2007/2008
+AS Roma,Ludovic Giuly,30.0,Right Winger,Barcelona,4.50m,in,Summer,"4,5",Serie A,2007,2007/2008
+AS Roma,Mauro Esposito,28.0,Right Winger,Cagliari Calcio,4.00m,in,Summer,4,Serie A,2007,2007/2008
+AS Roma,Ahmed Barusso,22.0,Defensive Midfield,Italy,3.50m,in,Summer,"3,5",Serie A,2007,2007/2008
+AS Roma,Vitorino Antunes,20.0,Left-Back,Paços Ferreira,Loan fee:300Th.,in,Summer,"0,3",Serie A,2007,2007/2008
+AS Roma,Adrian Pit,23.0,Left Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+AS Roma,Keivan Zarineh,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+AC Milan,Alexandre Pato,17.0,Centre-Forward,South America,24.00m,in,Summer,24,Serie A,2007,2007/2008
+AC Milan,Émerson,31.0,Defensive Midfield,Real Madrid,5.00m,in,Summer,5,Serie A,2007,2007/2008
+Sampdoria,Andrea Caracciolo,25.0,Centre-Forward,US Palermo,4.25m,in,Summer,"4,25",Serie A,2007,2007/2008
+Sampdoria,Christian Maggio,25.0,Right-Back,Fiorentina,3.45m,in,Summer,"3,45",Serie A,2007,2007/2008
+Sampdoria,Reto Ziegler,21.0,Centre-Back,Spurs,2.00m,in,Summer,2,Serie A,2007,2007/2008
+Sampdoria,Hugo Campagnaro,27.0,Centre-Back,Italy,1.55m,in,Summer,"1,55",Serie A,2007,2007/2008
+Sampdoria,Daniele Gastaldello,24.0,Centre-Back,Juventus,1.25m,in,Summer,"1,25",Serie A,2007,2007/2008
+Sampdoria,Stefano Lucchini,26.0,Centre-Back,Empoli,500Th.,in,Summer,"0,5",Serie A,2007,2007/2008
+Sampdoria,Claudio Bellucci,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Sampdoria,Ikechukwu Kalu,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Sampdoria,Antonio Mirante,23.0,Goalkeeper,Juventus,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Sampdoria,Antonio Cassano,25.0,Second Striker,Real Madrid,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Sampdoria,Massimo Volta,20.0,Centre-Back,AC Carpenedolo,?,in,Summer,0.01,Serie A,2007,2007/2008
+Sampdoria,Vincenzo Montella,33.0,Centre-Forward,AS Roma,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Sampdoria,Paolo Sammarco,24.0,Central Midfield,AC Milan,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+US Palermo,Boko Jankovic,23.0,Right Winger,RCD Mallorca,8.00m,in,Summer,8,Serie A,2007,2007/2008
+US Palermo,Giulio Migliaccio,26.0,Central Midfield,Atalanta BC,5.00m,in,Summer,5,Serie A,2007,2007/2008
+US Palermo,Fabrizio Miccoli,28.0,Centre-Forward,Juventus,4.30m,in,Summer,"4,3",Serie A,2007,2007/2008
+US Palermo,Fabio Caserta,28.0,Central Midfield,Italy,3.60m,in,Summer,"3,6",Serie A,2007,2007/2008
+US Palermo,Samir Ujkani,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+SSC Napoli,Ezequiel Lavezzi,22.0,Second Striker,South America,5.60m,in,Summer,"5,6",Serie A,2007,2007/2008
+SSC Napoli,Marek Hamsik,19.0,Central Midfield,Italy,5.50m,in,Summer,"5,5",Serie A,2007,2007/2008
+SSC Napoli,Manuele Blasi,26.0,Central Midfield,Juventus,5.05m,in,Summer,"5,05",Serie A,2007,2007/2008
+SSC Napoli,Walter Gargano,23.0,Defensive Midfield,South America,3.20m,in,Summer,"3,2",Serie A,2007,2007/2008
+SSC Napoli,Matteo Contini,27.0,Centre-Back,Parma,3.20m,in,Summer,"3,2",Serie A,2007,2007/2008
+SSC Napoli,Marcelo Zalayeta,28.0,Centre-Forward,Juventus,1.40m,in,Summer,"1,4",Serie A,2007,2007/2008
+SSC Napoli,Giuseppe Feola,18.0,midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Juventus,Tiago Mendes,26.0,Central Midfield,Olympique Lyon,13.00m,in,Summer,13,Serie A,2007,2007/2008
+Juventus,Vincenzo Iaquinta,27.0,Centre-Forward,Italy,11.30m,in,Summer,"11,3",Serie A,2007,2007/2008
+Juventus,Jorge Andrade,29.0,Centre-Back,Dep. La Coruña,10.00m,in,Summer,10,Serie A,2007,2007/2008
+Juventus,Sergio Almirón,26.0,Central Midfield,Empoli,9.00m,in,Summer,9,Serie A,2007,2007/2008
+Juventus,Domenico Criscito,20.0,Centre-Back,Genoa,7.50m,in,Summer,"7,5",Serie A,2007,2007/2008
+Juventus,Antonio Nocerino,22.0,Central Midfield,Italy,3.70m,in,Summer,"3,7",Serie A,2007,2007/2008
+Juventus,Cristian Molinaro,23.0,Left-Back,Siena,2.50m,in,Summer,"2,5",Serie A,2007,2007/2008
+Juventus,Daniele Gastaldello,24.0,Centre-Back,Siena,650Th.,in,Summer,"0,65",Serie A,2007,2007/2008
+Juventus,Rey Volpato,21.0,Centre-Forward,Empoli,400Th.,in,Summer,"0,4",Serie A,2007,2007/2008
+Juventus,Zdenek Grygera,27.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Juventus,Hasan Salihamidzic,30.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Juventus,Jess Kedwell Vanstrattan,24.0,Goalkeeper,Italy,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Juventus,Stefano Di Berardino,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Juventus,Emanuele Belardi,29.0,Goalkeeper,Reggina,?,in,Summer,0.01,Serie A,2007,2007/2008
+Juventus,Cristiano Novembre,20.0,Goalkeeper,Fano,?,in,Summer,0.01,Serie A,2007,2007/2008
+Empoli,Luca Antonini,24.0,Left-Back,Sampdoria,1.00m,in,Summer,1,Serie A,2007,2007/2008
+Empoli,Felice Piccolo,23.0,Centre-Back,Juventus,400Th.,in,Summer,"0,4",Serie A,2007,2007/2008
+Empoli,Claudio Marchisio,21.0,Central Midfield,Juventus,Loan fee:75Th.,in,Summer,"0,075",Serie A,2007,2007/2008
+Empoli,Felice Prevete,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Empoli,Rey Volpato,20.0,Centre-Forward,Juventus,?,in,Summer,0.01,Serie A,2007,2007/2008
+Empoli,Guillermo Giacomazzi,29.0,Defensive Midfield,US Palermo,?,in,Summer,0.01,Serie A,2007,2007/2008
+Empoli,Sebastian Giovinco,20.0,Second Striker,Juventus,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Empoli,Ignazio Abate,20.0,Right-Back,AC Milan,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Genoa,Matteo Paro,24.0,Central Midfield,Juventus,3.50m,in,Summer,"3,5",Serie A,2007,2007/2008
+Genoa,Abdelkader Ghezzal,23.0,Centre-Forward,Italy,3.00m,in,Summer,3,Serie A,2007,2007/2008
+Genoa,Cesare Bovo,24.0,Centre-Back,US Palermo,2.85m,in,Summer,"2,85",Serie A,2007,2007/2008
+Genoa,Marco Borriello,25.0,Centre-Forward,AC Milan,1.80m,in,Summer,"1,8",Serie A,2007,2007/2008
+Genoa,Santos,25.0,Centre-Back,Italy,1.40m,in,Summer,"1,4",Serie A,2007,2007/2008
+Genoa,Tommaso Ghinassi,20.0,Centre-Back,Italy,Loan fee:700Th.,in,Summer,"0,7",Serie A,2007,2007/2008
+Genoa,Giuseppe Sculli,26.0,Left Winger,Juventus,300Th.,in,Summer,"0,3",Serie A,2007,2007/2008
+Genoa,Danilo Sacramento,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Genoa,Abdoulay Konko,23.0,Right-Back,Siena,?,in,Summer,0.01,Serie A,2007,2007/2008
+Genoa,Mariano Stendardo,25.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Genoa,N'Diaye Papa Waigo,23.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Genoa,Alessandro Lucarelli,30.0,Centre-Back,Reggina,?,in,Summer,0.01,Serie A,2007,2007/2008
+Genoa,Gianluca Pegolo,26.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Fiorentina,Franco Semioli,27.0,Right Winger,Italy,6.00m,in,Summer,6,Serie A,2007,2007/2008
+Fiorentina,Anthony Vanden Borre,19.0,Right-Back,Belgium,3.80m,in,Summer,"3,8",Serie A,2007,2007/2008
+Fiorentina,Federico Balzaretti,25.0,Left-Back,Juventus,3.80m,in,Summer,"3,8",Serie A,2007,2007/2008
+Fiorentina,Michele Pazienza,24.0,Defensive Midfield,Italy,3.15m,in,Summer,"3,15",Serie A,2007,2007/2008
+Fiorentina,Daniel Osvaldo,21.0,Centre-Forward,Atalanta BC,3.00m,in,Summer,3,Serie A,2007,2007/2008
+Fiorentina,Nikola Gulan,18.0,Defensive Midfield,Central_EU,2.80m,in,Summer,"2,8",Serie A,2007,2007/2008
+Fiorentina,Ondrej Mazuch,18.0,Centre-Back,Central_EU,2.80m,in,Summer,"2,8",Serie A,2007,2007/2008
+Fiorentina,Jan Hable,18.0,Central Midfield,Central_EU,800Th.,in,Summer,"0,8",Serie A,2007,2007/2008
+Fiorentina,Arturo Lupoli,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Fiorentina,Christian Vieri,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Atalanta BC,Maximiliano Pellegrino,27.0,Centre-Back,South America,1.30m,in,Summer,"1,3",Serie A,2007,2007/2008
+Atalanta BC,Michael Cia,18.0,Central Midfield,Italy,750Th.,in,Summer,"0,75",Serie A,2007,2007/2008
+Atalanta BC,Davide Brivio,19.0,Left-Back,Fiorentina,516Th.,in,Summer,"0,516",Serie A,2007,2007/2008
+Atalanta BC,Zlatan Muslimovic,26.0,Centre-Forward,Italy,500Th.,in,Summer,"0,5",Serie A,2007,2007/2008
+Atalanta BC,Costinha,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Atalanta BC,George Forsyth,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Atalanta BC,Antonio Langella,30.0,Second Striker,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Atalanta BC,Tiberio Guarente,21.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Simone Padoin,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Diego De Ascentis,30.0,Defensive Midfield,Torino,?,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Leonardo Talamonti,25.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Sergio Floccari,25.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Simone Inzaghi,31.0,Centre-Forward,Lazio,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Manuel Belleri,29.0,Right-Back,Lazio,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Atalanta BC,Ferdinando Coppola,29.0,Goalkeeper,AC Milan,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+AS Livorno,Francesco Tavano,28.0,Centre-Forward,Valencia,6.00m,in,Summer,6,Serie A,2007,2007/2008
+AS Livorno,Francesco Volpe,21.0,Right Winger,Juventus,2.05m,in,Summer,"2,05",Serie A,2007,2007/2008
+AS Livorno,Nico Pulzetti,23.0,Central Midfield,Italy,1.50m,in,Summer,"1,5",Serie A,2007,2007/2008
+AS Livorno,Diego Tristán,31.0,Centre-Forward,RCD Mallorca,470Th.,in,Summer,"0,47",Serie A,2007,2007/2008
+AS Livorno,Alessandro Diamanti,24.0,Attacking Midfield,Italy,400Th.,in,Summer,"0,4",Serie A,2007,2007/2008
+AS Livorno,Massimo Loviso,23.0,Defensive Midfield,Italy,201Th.,in,Summer,"0,201",Serie A,2007,2007/2008
+AS Livorno,Erjon Bogdani,30.0,Centre-Forward,Italy,Loan fee:100Th.,in,Summer,"0,1",Serie A,2007,2007/2008
+AS Livorno,Fausto Rossini,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+AS Livorno,Giuliano Giannichedda,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+AS Livorno,Daniele De Vezze,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+AS Livorno,Alfonso De Lucia,23.0,Goalkeeper,Parma,?,in,Summer,0.01,Serie A,2007,2007/2008
+AS Livorno,Emanuele Filippini,33.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+AS Livorno,Édgar Álvarez,27.0,Right Midfield,AS Roma,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Lazio,Fernando Muslera,21.0,Goalkeeper,South America,3.00m,in,Summer,3,Serie A,2007,2007/2008
+Lazio,Mourad Meghni,23.0,Attacking Midfield,Italy,1.50m,in,Summer,"1,5",Serie A,2007,2007/2008
+Lazio,Aleksandar Kolarov,21.0,Left-Back,Central_EU,925Th.,in,Summer,"0,925",Serie A,2007,2007/2008
+Lazio,Fabio Vignaroli,31.0,Centre-Forward,Italy,250Th.,in,Summer,"0,25",Serie A,2007,2007/2008
+Lazio,Lionel Scaloni,29.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Lazio,Simone Del Nero,25.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Daniele Galloppa,22.0,Central Midfield,AS Roma,3.95m,in,Summer,"3,95",Serie A,2007,2007/2008
+Siena,Paolo De Ceglie,20.0,Left-Back,Juventus,3.50m,in,Summer,"3,5",Serie A,2007,2007/2008
+Siena,Simone Loria,30.0,Centre-Back,Atalanta BC,750Th.,in,Summer,"0,75",Serie A,2007,2007/2008
+Siena,Mirko Guadalupi,20.0,Central Midfield,Italy,200Th.,in,Summer,"0,2",Serie A,2007,2007/2008
+Siena,Douglas Packer,20.0,Central Midfield,Juventus,150Th.,in,Summer,"0,15",Serie A,2007,2007/2008
+Siena,Lukas Jarolim,30.0,midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Siena,Dimitrios Eleftheropoulos,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Siena,Rosario Pepe,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Siena,Vanderson,22.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Siena,Alessandro Rigoli,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Siena,Leandro Grimi,22.0,Left-Back,AC Milan,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Caetano Calil,23.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Luca Rossettini,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Maximiliano Re,20.0,Attacking Midfield,South America,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Rodrigo Lazzari,26.0,Centre-Back,Paranavaí,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Ricardo Verón,26.0,Central Midfield,Reggina,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Daniele Ficagna,26.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Cristian Bucchi,30.0,Centre-Forward,SSC Napoli,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Siena,Fernando Forestieri,17.0,Second Striker,Genoa,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Parma,Reginaldo,23.0,Second Striker,Fiorentina,4.50m,in,Summer,"4,5",Serie A,2007,2007/2008
+Parma,Stefano Morrone,28.0,Central Midfield,AS Livorno,2.00m,in,Summer,2,Serie A,2007,2007/2008
+Parma,Francesco Parravicini,25.0,Defensive Midfield,US Palermo,1.50m,in,Summer,"1,5",Serie A,2007,2007/2008
+Parma,Igor Budan,27.0,Centre-Forward,US Palermo,1.10m,in,Summer,"1,1",Serie A,2007,2007/2008
+Parma,Davide Matteini,25.0,Left Winger,US Palermo,900Th.,in,Summer,"0,9",Serie A,2007,2007/2008
+Parma,Bernardo Corradi,31.0,Centre-Forward,Man City,Loan fee:200Th.,in,Summer,"0,2",Serie A,2007,2007/2008
+Parma,Marcelo Silva,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Parma,Manuel Pascali,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Parma,Nicola Pavarini,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Parma,Manuel Pascali,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Parma,Giulio Falcone,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Parma,Damiano Zenoni,30.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Parma,Alessio Tombesi,25.0,Left-Back,AC Carpenedolo,?,in,Summer,0.01,Serie A,2007,2007/2008
+Parma,Radek Petr,20.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Serie A,2007,2007/2008
+Parma,Giordano Vanin,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Parma,McDonald Mariga,20.0,Defensive Midfield,Helsingborg,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Catania SSD,Jorge Martínez,24.0,Right Winger,Nacional,2.00m,in,Summer,2,Serie A,2007,2007/2008
+Catania SSD,Cristian Llama,21.0,Attacking Midfield,South America,1.80m,in,Summer,"1,8",Serie A,2007,2007/2008
+Catania SSD,Mirco Antenucci,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Catania SSD,Albano Bizzarri,29.0,Goalkeeper,Spain,?,in,Summer,0.01,Serie A,2007,2007/2008
+Catania SSD,Takayuki Morimoto,19.0,Centre-Forward,Asia,?,in,Summer,0.01,Serie A,2007,2007/2008
+Catania SSD,Marcello Gazzola,22.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Catania SSD,Babù,26.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Catania SSD,Christian Terlizzi,27.0,Centre-Back,Sampdoria,?,in,Summer,0.01,Serie A,2007,2007/2008
+Catania SSD,Giacomo Tedesco,31.0,Central Midfield,Reggina,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Édgar Barreto,23.0,Central Midfield,NEC Nijmegen,2.00m,in,Summer,2,Serie A,2007,2007/2008
+Reggina,Kris Stadsgaard,22.0,Centre-Back,North_EU,1.50m,in,Summer,"1,5",Serie A,2007,2007/2008
+Reggina,Mike Tullberg,21.0,Centre-Forward,North_EU,1.30m,in,Summer,"1,3",Serie A,2007,2007/2008
+Reggina,Pablo Álvarez,22.0,Right-Back,Nacional,1.20m,in,Summer,"1,2",Serie A,2007,2007/2008
+Reggina,Emil Hallfreðsson,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Reggina,José Montiel,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Reggina,Miguel Garcia,24.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Reggina,Nicolò Cherubin,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Daniele Cerretti,33.0,Goalkeeper,Sandonà,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Francesco Cosenza,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Carlos Valdez,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Leonardo Pettinari,20.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Francesco Cozza,33.0,Attacking Midfield,Siena,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Joelson,23.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Emmanuel Cascione,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Reggina,Daniele Degano,24.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Udinese Calcio,Fabio Quagliarella,24.0,Centre-Forward,Sampdoria,7.30m,in,Summer,"7,3",Serie A,2007,2007/2008
+Udinese Calcio,Giandomenico Mesto,25.0,Right-Back,Reggina,4.50m,in,Summer,"4,5",Serie A,2007,2007/2008
+Udinese Calcio,Antonio Floro Flores,24.0,Centre-Forward,Italy,4.00m,in,Summer,4,Serie A,2007,2007/2008
+Udinese Calcio,Viktor Budyanskiy,23.0,Central Midfield,Italy,3.00m,in,Summer,3,Serie A,2007,2007/2008
+Udinese Calcio,Michele Paolucci,21.0,Centre-Forward,Juventus,1.36m,in,Summer,"1,36",Serie A,2007,2007/2008
+Udinese Calcio,Gökhan Inler,23.0,Defensive Midfield,Uk,1.00m,in,Summer,1,Serie A,2007,2007/2008
+Udinese Calcio,Antonio Candreva,20.0,Right Midfield,Italy,500Th.,in,Summer,"0,5",Serie A,2007,2007/2008
+Udinese Calcio,Antonio Chimenti,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Udinese Calcio,Damiano Ferronetti,22.0,Centre-Back,Parma,?,in,Summer,0.01,Serie A,2007,2007/2008
+Torino,David Di Michele,31.0,Centre-Forward,US Palermo,3.80m,in,Summer,"3,8",Serie A,2007,2007/2008
+Torino,Cesare Natali,28.0,Centre-Back,Italy,3.50m,in,Summer,"3,5",Serie A,2007,2007/2008
+Torino,Paolo Zanetti,24.0,Defensive Midfield,Italy,1.50m,in,Summer,"1,5",Serie A,2007,2007/2008
+Torino,Sasa Bjelanovic,28.0,Centre-Forward,Italy,1.06m,in,Summer,"1,06",Serie A,2007,2007/2008
+Torino,Salvatore Lanna,30.0,Left-Back,Italy,1.00m,in,Summer,1,Serie A,2007,2007/2008
+Torino,Matteo Rubin,19.0,Left-Back,Italy,550Th.,in,Summer,"0,55",Serie A,2007,2007/2008
+Torino,Paolo Dellafiore,22.0,Centre-Back,US Palermo,Loan fee:100Th.,in,Summer,"0,1",Serie A,2007,2007/2008
+Torino,Matteo Sereni,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Torino,Nicola Ventola,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Torino,Vince Grella,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Torino,Eugenio Corini,36.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Torino,Dominique Malonga,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2007,2007/2008
+Torino,Marco Motta,21.0,Right-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Torino,Álvaro Recoba,31.0,Second Striker,Inter,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Pasquale Foggia,24.0,Attacking Midfield,Lazio,Loan fee:2.50m,in,Summer,"2,5",Serie A,2007,2007/2008
+Cagliari Calcio,Alessandro Matri,22.0,Centre-Forward,AC Milan,2.30m,in,Summer,"2,3",Serie A,2007,2007/2008
+Cagliari Calcio,Paolo Bianco,29.0,Centre-Back,Italy,1.30m,in,Summer,"1,3",Serie A,2007,2007/2008
+Cagliari Calcio,Andrea Parola,28.0,Defensive Midfield,Sampdoria,1.20m,in,Summer,"1,2",Serie A,2007,2007/2008
+Cagliari Calcio,Joaquín Larrivey,23.0,Centre-Forward,South America,980Th.,in,Summer,"0,98",Serie A,2007,2007/2008
+Cagliari Calcio,Andrea Cossu,27.0,Attacking Midfield,Italy,500Th.,in,Summer,"0,5",Serie A,2007,2007/2008
+Cagliari Calcio,Vincenzo Marruocco,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Jan Koprivec,19.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Abdoulaye Diarra,20.0,Left Midfield,Inter,?,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Michele Fini,33.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Davide Biondini,24.0,Central Midfield,Reggina,?,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Rijat Shala,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Daniele Magliocchetti,21.0,Centre-Back,AS Roma,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Robert Acquafresca,19.0,Centre-Forward,Inter,loan transfer,in,Summer,0.01,Serie A,2007,2007/2008
+Inter,Maniche,30.0,Central Midfield,Atlético Madrid,Loan fee:1.00m,in,Winter,1,Serie A,2007,2007/2008
+Sampdoria,Nikola Gulan,18.0,Defensive Midfield,Fiorentina,Loan fee:1.50m,in,Winter,"1,5",Serie A,2007,2007/2008
+Sampdoria,Leonardo Migliónico,27.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2007,2007/2008
+US Palermo,Federico Balzaretti,26.0,Left-Back,Fiorentina,3.80m,in,Winter,"3,8",Serie A,2007,2007/2008
+US Palermo,Edgar Cani,18.0,Centre-Forward,Italy,1.20m,in,Winter,"1,2",Serie A,2007,2007/2008
+US Palermo,Luca Di Matteo,19.0,Left-Back,Italy,950Th.,in,Winter,"0,95",Serie A,2007,2007/2008
+SSC Napoli,Daniele Mannini,24.0,Right Midfield,Italy,7.00m,in,Winter,7,Serie A,2007,2007/2008
+SSC Napoli,Fabiano Santacroce,21.0,Centre-Back,Italy,5.50m,in,Winter,"5,5",Serie A,2007,2007/2008
+SSC Napoli,Michele Pazienza,25.0,Defensive Midfield,Fiorentina,4.25m,in,Winter,"4,25",Serie A,2007,2007/2008
+SSC Napoli,Nicolás Navarro,22.0,Goalkeeper,South America,3.36m,in,Winter,"3,36",Serie A,2007,2007/2008
+Juventus,Mohamed Sissoko,23.0,Defensive Midfield,Uk,11.00m,in,Winter,11,Serie A,2007,2007/2008
+Juventus,Guglielmo Stendardo,26.0,Centre-Back,Lazio,Loan fee:400Th.,in,Winter,"0,4",Serie A,2007,2007/2008
+Genoa,Domenico Criscito,21.0,Centre-Back,Juventus,Loan fee:1.00m,in,Winter,1,Serie A,2007,2007/2008
+Genoa,Matías Masiero,19.0,Second Striker,South America,?,in,Winter,0.01,Serie A,2007,2007/2008
+Genoa,Wilson,22.0,Centre-Forward,South America,?,in,Winter,0.01,Serie A,2007,2007/2008
+Genoa,Anthony Vanden Borre,20.0,Right-Back,Fiorentina,?,in,Winter,0.01,Serie A,2007,2007/2008
+Fiorentina,Manuel da Costa,21.0,Centre-Back,PSV Eindhoven,4.50m,in,Winter,"4,5",Serie A,2007,2007/2008
+Fiorentina,Daniele Cacia,24.0,Centre-Forward,Italy,4.00m,in,Winter,4,Serie A,2007,2007/2008
+Fiorentina,N'Diaye Papa Waigo,23.0,Right Winger,Genoa,?,in,Winter,0.01,Serie A,2007,2007/2008
+Atalanta BC,Ivan Radovanovic,19.0,Defensive Midfield,Central_EU,1.50m,in,Winter,"1,5",Serie A,2007,2007/2008
+Atalanta BC,Michele Paolucci,21.0,Centre-Forward,Italy,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Atalanta BC,Riccardo Fissore,27.0,Centre-Back,Italy,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+AS Livorno,Filip Krstic,19.0,Centre-Back,Valencia,350Th.,in,Winter,"0,35",Serie A,2007,2007/2008
+AS Livorno,Sidny,26.0,Right-Back,South America,200Th.,in,Winter,"0,2",Serie A,2007,2007/2008
+AS Livorno,Tommaso Vailatti,22.0,Right Midfield,Torino,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+AS Livorno,Matteo Melara,28.0,Right-Back,Torino,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Lazio,David Rozehnal,27.0,Centre-Back,Newcastle,Loan fee:1.00m,in,Winter,1,Serie A,2007,2007/2008
+Lazio,Ousmane Dabo,30.0,Defensive Midfield,Man City,263Th.,in,Winter,"0,263",Serie A,2007,2007/2008
+Lazio,Stefan Radu,21.0,Centre-Back,Est_EU,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Lazio,Ivan Artipoli,21.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2007,2007/2008
+Lazio,Rolando Bianchi,24.0,Centre-Forward,Man City,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Siena,Richard Porta,24.0,Centre-Forward,South America,3.50m,in,Winter,"3,5",Serie A,2007,2007/2008
+Siena,Artur Moraes,26.0,Goalkeeper,South America,800Th.,in,Winter,"0,8",Serie A,2007,2007/2008
+Siena,Christian Riganó,33.0,Centre-Forward,Levante,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Siena,Houssine Kharja,25.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Parma,Cristiano Lucarelli,32.0,Centre-Forward,Est_EU,5.70m,in,Winter,"5,7",Serie A,2007,2007/2008
+Parma,Cristian Anelli,18.0,Centre-Back,AC Montichiari,?,in,Winter,0.01,Serie A,2007,2007/2008
+Parma,Luca Antonelli,20.0,Left-Back,AC Milan,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Catania SSD,Matías Silvestre,23.0,Centre-Back,South America,1.50m,in,Winter,"1,5",Serie A,2007,2007/2008
+Catania SSD,Pablo Álvarez,23.0,Right-Back,South America,1.03m,in,Winter,"1,03",Serie A,2007,2007/2008
+Catania SSD,Piá,25.0,Left Winger,SSC Napoli,Loan fee:65Th.,in,Winter,"0,065",Serie A,2007,2007/2008
+Catania SSD,Generoso Rossi,28.0,Goalkeeper,Italy,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Reggina,Franco Brienza,28.0,Attacking Midfield,US Palermo,Loan fee:300Th.,in,Winter,"0,3",Serie A,2007,2007/2008
+Reggina,Andrea Costa,21.0,Centre-Back,Italy,Loan fee:100Th.,in,Winter,"0,1",Serie A,2007,2007/2008
+Reggina,Bruno Cirillo,30.0,Centre-Back,Levante,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Reggina,Cristhian Stuani,21.0,Centre-Forward,South America,?,in,Winter,0.01,Serie A,2007,2007/2008
+Reggina,Stephen Makinwa,24.0,Centre-Forward,Lazio,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Udinese Calcio,Moreno,24.0,Left-Back,free agents,free transfer,in,Winter,0,Serie A,2007,2007/2008
+Udinese Calcio,Abdul-Aziz Tetteh,17.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Serie A,2007,2007/2008
+Udinese Calcio,Riccardo Colombo,25.0,Right Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Torino,Aimo Diana,30.0,Right Midfield,US Palermo,1.20m,in,Winter,"1,2",Serie A,2007,2007/2008
+Torino,Marco Pisano,26.0,Left-Back,US Palermo,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Torino,Kwadwo Asamoah,19.0,Left Midfield,Uk,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Jeda,28.0,Second Striker,Italy,2.50m,in,Winter,"2,5",Serie A,2007,2007/2008
+Cagliari Calcio,Vítor Gomes,20.0,Defensive Midfield,Portugal,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Luca Capecchi,33.0,Goalkeeper,Italy,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Cagliari Calcio,Marco Storari,31.0,Goalkeeper,AC Milan,Loan fee:10Th.,in,Winter,"0,01",Serie A,2007,2007/2008
+Cagliari Calcio,Sebastián Rosano,20.0,Right Midfield,South America,loan transfer,in,Winter,0.01,Serie A,2007,2007/2008
+Olympique Lyon,Abdul Kader Keita,25.0,Right Winger,LOSC Lille,16.80m,in,Summer,"16,8",Ligue 1,2007,2007/2008
+Olympique Lyon,Fabio Grosso,29.0,Left-Back,Inter,8.70m,in,Summer,"8,7",Ligue 1,2007,2007/2008
+Olympique Lyon,Miralem Pjanic,18.0,Central Midfield,FC Metz,7.50m,in,Summer,"7,5",Ligue 1,2007,2007/2008
+Olympique Lyon,Mathieu Bodmer,24.0,Defensive Midfield,LOSC Lille,6.80m,in,Summer,"6,8",Ligue 1,2007,2007/2008
+Olympique Lyon,Anderson,27.0,Centre-Back,Benfica,4.30m,in,Summer,"4,3",Ligue 1,2007,2007/2008
+Olympique Lyon,Nadir Belhadj,25.0,Left-Back,France,3.30m,in,Summer,"3,3",Ligue 1,2007,2007/2008
+Olympique Lyon,Frédéric Roux,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Marseille,Djibril Cissé,25.0,Centre-Forward,Uk,9.00m,in,Summer,9,Ligue 1,2007,2007/2008
+Marseille,Karim Ziani,24.0,Attacking Midfield,FC Sochaux,8.00m,in,Summer,8,Ligue 1,2007,2007/2008
+Marseille,Gaël Givet,25.0,Centre-Back,Monaco,5.00m,in,Summer,5,Ligue 1,2007,2007/2008
+Marseille,Benoît Cheyrou,26.0,Defensive Midfield,AJ Auxerre,5.00m,in,Summer,5,Ligue 1,2007,2007/2008
+Marseille,Vincent Gragnic,24.0,Attacking Midfield,France,800Th.,in,Summer,"0,8",Ligue 1,2007,2007/2008
+Marseille,Laurent Bonnart,27.0,Right-Back,Le Mans UC 72,500Th.,in,Summer,"0,5",Ligue 1,2007,2007/2008
+Marseille,Steve Mandanda,22.0,Goalkeeper,France,Loan fee:400Th.,in,Summer,"0,4",Ligue 1,2007,2007/2008
+Marseille,Jacques Faty,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Marseille,Boudewijn Zenden,30.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Marseille,Milos Krstic,20.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Marseille,Matt Moussilou,25.0,Centre-Forward,OGC Nice,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+Toulouse,André-Pierre Gignac,21.0,Centre-Forward,FC Lorient,4.50m,in,Summer,"4,5",Ligue 1,2007,2007/2008
+Toulouse,Hérita Ilunga,25.0,Left-Back,Saint-Étienne,2.00m,in,Summer,2,Ligue 1,2007,2007/2008
+Toulouse,Jon Jönsson,23.0,Centre-Back,North_EU,1.60m,in,Summer,"1,6",Ligue 1,2007,2007/2008
+Toulouse,Alan Mermillod,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Toulouse,Rudy Riou,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Toulouse,Mauro Cetto,25.0,Centre-Back,France,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+Rennes,Emerson,28.0,Left Winger,Asia,5.00m,in,Summer,5,Ligue 1,2007,2007/2008
+Rennes,Rod Fanni,25.0,Right-Back,OGC Nice,3.50m,in,Summer,"3,5",Ligue 1,2007,2007/2008
+Rennes,Sylvain Wiltord,33.0,Second Striker,Olympique Lyon,1.60m,in,Summer,"1,6",Ligue 1,2007,2007/2008
+Rennes,Mickaël Pagis,33.0,Second Striker,Marseille,1.20m,in,Summer,"1,2",Ligue 1,2007,2007/2008
+Rennes,Patrice Luzi,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Rennes,Jérôme Leroy,32.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Rennes,Fabrice Catherine,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Rennes,Petter Hansson,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Lens,Kanga Akalé,26.0,Left Winger,AJ Auxerre,5.00m,in,Summer,5,Ligue 1,2007,2007/2008
+Lens,Kader Mangane,24.0,Centre-Back,Uk,3.30m,in,Summer,"3,3",Ligue 1,2007,2007/2008
+Lens,Julien Sablé,26.0,Defensive Midfield,Saint-Étienne,2.40m,in,Summer,"2,4",Ligue 1,2007,2007/2008
+Lens,Lucien Aubey,23.0,Centre-Back,Toulouse,2.00m,in,Summer,2,Ligue 1,2007,2007/2008
+Lens,Bonaventure Kalou,29.0,Right Winger,Paris SG,1.50m,in,Summer,"1,5",Ligue 1,2007,2007/2008
+Lens,Fabien Laurenti,24.0,Right-Back,France,1.50m,in,Summer,"1,5",Ligue 1,2007,2007/2008
+Lens,Vedran Runje,31.0,Goalkeeper,Turkey,1.00m,in,Summer,1,Ligue 1,2007,2007/2008
+Lens,Ronan Le Crom,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Lens,Luigi Pieroni,26.0,Centre-Forward,France,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+G. Bordeaux,Alou Diarra,25.0,Defensive Midfield,Olympique Lyon,7.40m,in,Summer,"7,4",Ligue 1,2007,2007/2008
+G. Bordeaux,Jussiê,23.0,Attacking Midfield,Lens,6.00m,in,Summer,6,Ligue 1,2007,2007/2008
+G. Bordeaux,Souleymane Diawara,28.0,Centre-Back,Uk,3.90m,in,Summer,"3,9",Ligue 1,2007,2007/2008
+G. Bordeaux,David Bellion,24.0,Centre-Forward,OGC Nice,2.00m,in,Summer,2,Ligue 1,2007,2007/2008
+G. Bordeaux,Matthieu Chalmé,26.0,Right-Back,LOSC Lille,1.50m,in,Summer,"1,5",Ligue 1,2007,2007/2008
+FC Sochaux,Bojan Jokic,21.0,Left-Back,Central_EU,1.60m,in,Summer,"1,6",Ligue 1,2007,2007/2008
+FC Sochaux,Sébastien Grax,23.0,Centre-Forward,Monaco,1.50m,in,Summer,"1,5",Ligue 1,2007,2007/2008
+FC Sochaux,Nicolas Maurice-Belay,22.0,Left Midfield,Monaco,1.50m,in,Summer,"1,5",Ligue 1,2007,2007/2008
+FC Sochaux,Boukary Dramé,21.0,Left-Back,Paris SG,1.20m,in,Summer,"1,2",Ligue 1,2007,2007/2008
+FC Sochaux,Damien Perquis,23.0,Centre-Back,Saint-Étienne,Loan fee:200Th.,in,Summer,"0,2",Ligue 1,2007,2007/2008
+FC Sochaux,Stéphane Dalmat,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Sochaux,Lionel Mathis,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Sochaux,Gonzalo Vargas,25.0,Centre-Forward,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+FC Sochaux,Fabrice Pancrate,27.0,Right Winger,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+AJ Auxerre,Toifilou Maoulida,28.0,Centre-Forward,Marseille,3.00m,in,Summer,3,Ligue 1,2007,2007/2008
+AJ Auxerre,Gabriel Tamas,23.0,Centre-Back,Russia,3.00m,in,Summer,3,Ligue 1,2007,2007/2008
+AJ Auxerre,Jean-Michel Lesage,30.0,Attacking Midfield,France,2.00m,in,Summer,2,Ligue 1,2007,2007/2008
+AJ Auxerre,Marcos António,24.0,Centre-Back,Portugal,1.40m,in,Summer,"1,4",Ligue 1,2007,2007/2008
+AJ Auxerre,Kamel Chafni,25.0,Attacking Midfield,France,1.20m,in,Summer,"1,2",Ligue 1,2007,2007/2008
+AJ Auxerre,Rémy Riou,19.0,Goalkeeper,Olympique Lyon,800Th.,in,Summer,"0,8",Ligue 1,2007,2007/2008
+AJ Auxerre,Steeven Langil,19.0,Left Winger,France,350Th.,in,Summer,"0,35",Ligue 1,2007,2007/2008
+AJ Auxerre,Dennis Oliech,22.0,Right Winger,France,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+AJ Auxerre,Sammy Traoré,31.0,Centre-Back,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+Monaco,Frédéric Piquionne,28.0,Centre-Forward,Saint-Étienne,6.00m,in,Summer,6,Ligue 1,2007,2007/2008
+Monaco,Nenê,26.0,Attacking Midfield,Spain,6.00m,in,Summer,6,Ligue 1,2007,2007/2008
+Monaco,Adriano,25.0,Right-Back,Atalanta BC,2.50m,in,Summer,"2,5",Ligue 1,2007,2007/2008
+Monaco,Jérémy Berthod,23.0,Left-Back,Olympique Lyon,2.40m,in,Summer,"2,4",Ligue 1,2007,2007/2008
+LOSC Lille,Emra Tahirovic,19.0,Centre-Forward,North_EU,1.60m,in,Summer,"1,6",Ligue 1,2007,2007/2008
+LOSC Lille,Luis Yanes,24.0,Centre-Forward,South America,1.20m,in,Summer,"1,2",Ligue 1,2007,2007/2008
+LOSC Lille,Marko Maric,24.0,Defensive Midfield,Central_EU,500Th.,in,Summer,"0,5",Ligue 1,2007,2007/2008
+LOSC Lille,Franck Béria,24.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+LOSC Lille,Patrick Kluivert,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Saint-Étienne,Blaise Matuidi,20.0,Central Midfield,France,5.00m,in,Summer,5,Ligue 1,2007,2007/2008
+Saint-Étienne,Dimitri Payet,20.0,Attacking Midfield,France,4.00m,in,Summer,4,Ligue 1,2007,2007/2008
+Saint-Étienne,Nivaldo,27.0,Centre-Back,Belenenses,3.00m,in,Summer,3,Ligue 1,2007,2007/2008
+Saint-Étienne,Lasse Nilsson,25.0,Centre-Forward,Heerenveen,3.00m,in,Summer,3,Ligue 1,2007,2007/2008
+Saint-Étienne,Stathis Tavlaridis,27.0,Centre-Back,LOSC Lille,2.50m,in,Summer,"2,5",Ligue 1,2007,2007/2008
+Saint-Étienne,David Gigliotti,22.0,Centre-Forward,Monaco,1.50m,in,Summer,"1,5",Ligue 1,2007,2007/2008
+Saint-Étienne,Cédric Varrault,27.0,Centre-Back,OGC Nice,800Th.,in,Summer,"0,8",Ligue 1,2007,2007/2008
+Saint-Étienne,Fredy Guarín,21.0,Central Midfield,South America,500Th.,in,Summer,"0,5",Ligue 1,2007,2007/2008
+Saint-Étienne,Roudolphe Douala,28.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Le Mans UC 72,Ibrahima Camara,22.0,Left-Back,Parma,1.00m,in,Summer,1,Ligue 1,2007,2007/2008
+Le Mans UC 72,Brahim El Bahri,21.0,Left Winger,Africa Sports,800Th.,in,Summer,"0,8",Ligue 1,2007,2007/2008
+Le Mans UC 72,Gervinho,20.0,Left Winger,Belgium,650Th.,in,Summer,"0,65",Ligue 1,2007,2007/2008
+Le Mans UC 72,Alphousseyni Keita,21.0,Defensive Midfield,Djoliba AC,350Th.,in,Summer,"0,35",Ligue 1,2007,2007/2008
+Le Mans UC 72,Modibo Maïga,19.0,Centre-Forward,Africa Sports,100Th.,in,Summer,"0,1",Ligue 1,2007,2007/2008
+Le Mans UC 72,Mouhamed Alassani,18.0,attack,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Le Mans UC 72,Anthony Le Tallec,22.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+Le Mans UC 72,Sekou Ouattara,21.0,Right-Back,Belgium,?,in,Summer,0.01,Ligue 1,2007,2007/2008
+FC Lorient,Marama Vahirua,27.0,Centre-Forward,OGC Nice,1.20m,in,Summer,"1,2",Ligue 1,2007,2007/2008
+FC Lorient,Michaël Ciani,23.0,Centre-Back,AJ Auxerre,700Th.,in,Summer,"0,7",Ligue 1,2007,2007/2008
+FC Lorient,Alain Cantareil,23.0,Left-Back,Marseille,500Th.,in,Summer,"0,5",Ligue 1,2007,2007/2008
+FC Lorient,Yohan Hautcoeur,25.0,Central Midfield,Saint-Étienne,Loan fee:250Th.,in,Summer,"0,25",Ligue 1,2007,2007/2008
+FC Lorient,Frédéric Nimani,18.0,Centre-Forward,Monaco,Loan fee:100Th.,in,Summer,"0,1",Ligue 1,2007,2007/2008
+FC Lorient,Medhi Benatia,20.0,Centre-Back,Marseille,Loan fee:100Th.,in,Summer,"0,1",Ligue 1,2007,2007/2008
+FC Lorient,Rafael Moura,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Lorient,Bertrand Robert,23.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Lorient,Nicolas Marin,26.0,Right Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Paris SG,Zoumana Camara,28.0,Centre-Back,Saint-Étienne,6.00m,in,Summer,6,Ligue 1,2007,2007/2008
+Paris SG,Grégory Bourillon,23.0,Centre-Back,Stade Rennais,3.50m,in,Summer,"3,5",Ligue 1,2007,2007/2008
+Paris SG,Didier Digard,20.0,Defensive Midfield,France,2.50m,in,Summer,"2,5",Ligue 1,2007,2007/2008
+Paris SG,Ceará,27.0,Right-Back,South America,2.00m,in,Summer,2,Ligue 1,2007,2007/2008
+Paris SG,Apoula Edel,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+OGC Nice,Onyekachi Apam,20.0,Centre-Back,Africa Sports,850Th.,in,Summer,"0,85",Ligue 1,2007,2007/2008
+OGC Nice,David Hellebuyck,28.0,Central Midfield,Paris SG,800Th.,in,Summer,"0,8",Ligue 1,2007,2007/2008
+OGC Nice,Joseph-Désiré Job,29.0,Centre-Forward,France,500Th.,in,Summer,"0,5",Ligue 1,2007,2007/2008
+OGC Nice,Derek Asamoah,26.0,Second Striker,Uk,50Th.,in,Summer,"0,05",Ligue 1,2007,2007/2008
+OGC Nice,Nduka Ozokwo,18.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+OGC Nice,Patrick Barul,29.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+OGC Nice,Vincent Hognon,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+OGC Nice,Habib Bamogo,25.0,Second Striker,Marseille,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+OGC Nice,Mohammed Yahaya,19.0,Centre-Forward,Africa Sports,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+Valenciennes FC,Carlos Sánchez,21.0,Defensive Midfield,South America,1.20m,in,Summer,"1,2",Ligue 1,2007,2007/2008
+Valenciennes FC,Grégory Pujol,27.0,Centre-Forward,France,1.00m,in,Summer,1,Ligue 1,2007,2007/2008
+Valenciennes FC,Johan Audel,23.0,Left Winger,LOSC Lille,900Th.,in,Summer,"0,9",Ligue 1,2007,2007/2008
+Valenciennes FC,David Ducourtioux,29.0,Right-Back,France,200Th.,in,Summer,"0,2",Ligue 1,2007,2007/2008
+Valenciennes FC,Djamel Belmadi,31.0,Right Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Valenciennes FC,David Sommeil,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+Valenciennes FC,Filip Sebo,23.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+FC Metz,Daniel Gygax,25.0,Attacking Midfield,LOSC Lille,500Th.,in,Summer,"0,5",Ligue 1,2007,2007/2008
+FC Metz,Abdoulaye Baldé,20.0,Centre-Forward,France,Loan fee:100Th.,in,Summer,"0,1",Ligue 1,2007,2007/2008
+FC Metz,Vivian,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Pierre Ebéde,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Richard Trivino,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Cédric Barbosa,31.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Victor Mendy,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Vincent Bessat,21.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Jean-Emmanuel Effa-Owona,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Jeff Strasser,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+FC Metz,Éric Cubilier,27.0,Right-Back,France,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+SM Caen,Benjamin Nivet,30.0,Attacking Midfield,France,1.00m,in,Summer,1,Ligue 1,2007,2007/2008
+SM Caen,Karl Svensson,23.0,Centre-Back,Uk,1.00m,in,Summer,1,Ligue 1,2007,2007/2008
+SM Caen,Juan Eluchans,27.0,Left-Back,South America,750Th.,in,Summer,"0,75",Ligue 1,2007,2007/2008
+SM Caen,Issam Jemâa,23.0,Centre-Forward,Lens,Loan fee:350Th.,in,Summer,"0,35",Ligue 1,2007,2007/2008
+SM Caen,Alexis Thébaux,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+SM Caen,Florian Boucansaud,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+SM Caen,Oumar N'Diaye,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+SM Caen,Rémi Gomis,23.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,2007,2007/2008
+SM Caen,Youssef Adnane,21.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,2007,2007/2008
+R. Strasbourg,Grégory Paisley,30.0,Left-Back,France,900Th.,in,Summer,"0,9",Ligue 1,2007,2007/2008
+R. Strasbourg,Zoltán Szélesi,25.0,Right-Back,Energie Cottbus,450Th.,in,Summer,"0,45",Ligue 1,2007,2007/2008
+R. Strasbourg,James Fanchone,27.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+R. Strasbourg,Manuel dos Santos,33.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+R. Strasbourg,Pierre Ducrocq,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2007,2007/2008
+R. Strasbourg,Jacob Mulenga,23.0,Centre-Forward,France,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+R. Strasbourg,Álvaro Santos,27.0,Centre-Forward,FC Sochaux,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+R. Strasbourg,Ferrugem,26.0,Defensive Midfield,France,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+R. Strasbourg,Wason Rentería,21.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Ligue 1,2007,2007/2008
+Olympique Lyon,César Delgado,26.0,Right Winger,North America,6.30m,in,Winter,"6,3",Ligue 1,2007,2007/2008
+Olympique Lyon,Jean-Alain Boumsong,28.0,Centre-Back,Juventus,3.20m,in,Winter,"3,2",Ligue 1,2007,2007/2008
+Olympique Lyon,Marc Crosas,19.0,Defensive Midfield,Barcelona,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+Marseille,Charles Kaboré,19.0,Defensive Midfield,France,600Th.,in,Winter,"0,6",Ligue 1,2007,2007/2008
+Marseille,Elliot Grandin,20.0,Attacking Midfield,SM Caen,400Th.,in,Winter,"0,4",Ligue 1,2007,2007/2008
+Marseille,Juan Krupoviesa,28.0,Left-Back,South America,Loan fee:300Th.,in,Winter,"0,3",Ligue 1,2007,2007/2008
+Marseille,Kanga Akalé,26.0,Left Winger,Lens,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+Toulouse,Eduardo Ratinho,20.0,Right-Back,South America,Loan fee:100Th.,in,Winter,"0,1",Ligue 1,2007,2007/2008
+Toulouse,Salim Arrache,25.0,Left Winger,Marseille,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+Rennes,Felix Katongo,23.0,Attacking Midfield,1º de Agosto,250Th.,in,Winter,"0,25",Ligue 1,2007,2007/2008
+Rennes,Djimi Traoré,27.0,Centre-Back,Portsmouth,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+Lens,Toifilou Maoulida,28.0,Centre-Forward,AJ Auxerre,3.50m,in,Winter,"3,5",Ligue 1,2007,2007/2008
+Lens,Nadir Belhadj,25.0,Left-Back,Olympique Lyon,3.50m,in,Winter,"3,5",Ligue 1,2007,2007/2008
+Lens,Loïc Rémy,21.0,Centre-Forward,Olympique Lyon,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+FC Sochaux,Kandia Traoré,27.0,Centre-Forward,Asia,1.00m,in,Winter,1,Ligue 1,2007,2007/2008
+AJ Auxerre,Robert Popov,25.0,Right-Back,Central_EU,1.00m,in,Winter,1,Ligue 1,2007,2007/2008
+AJ Auxerre,Julien Quercia,21.0,Centre-Forward,FC Sochaux,1.00m,in,Winter,1,Ligue 1,2007,2007/2008
+AJ Auxerre,Vlad Munteanu,26.0,Left Midfield,VfL Wolfsburg,Loan fee:150Th.,in,Winter,"0,15",Ligue 1,2007,2007/2008
+Monaco,Nikola Pokrivac,22.0,Defensive Midfield,Est_EU,3.50m,in,Winter,"3,5",Ligue 1,2007,2007/2008
+Monaco,Fábio Santos,22.0,Left-Back,South America,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+Monaco,Ignacio González,25.0,Attacking Midfield,South America,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+Monaco,Sergio Almirón,27.0,Central Midfield,Juventus,loan transfer,in,Winter,0.01,Ligue 1,2007,2007/2008
+LOSC Lille,Pierre-Alain Frau,27.0,Centre-Forward,Paris SG,3.00m,in,Winter,3,Ligue 1,2007,2007/2008
+LOSC Lille,Rio Mavuba,23.0,Defensive Midfield,Villarreal,Loan fee:500Th.,in,Winter,"0,5",Ligue 1,2007,2007/2008
+Le Mans UC 72,Antônio Géder,29.0,Centre-Back,Russia,3.80m,in,Winter,"3,8",Ligue 1,2007,2007/2008
+Le Mans UC 72,Saber Ben Frej,28.0,Right-Back,Africa Sports,800Th.,in,Winter,"0,8",Ligue 1,2007,2007/2008
+Le Mans UC 72,Khaled Adénon,22.0,Centre-Back,ASEC Mimosas,?,in,Winter,0.01,Ligue 1,2007,2007/2008
+FC Lorient,Yann Jouffre,23.0,Right Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2007,2007/2008
+FC Lorient,Andrew Jacobson,22.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2007,2007/2008
+Paris SG,Souza,28.0,Attacking Midfield,South America,4.00m,in,Winter,4,Ligue 1,2007,2007/2008
+Paris SG,Éverton Santos,21.0,Centre-Forward,South America,2.00m,in,Winter,2,Ligue 1,2007,2007/2008
+Paris SG,Guillaume Hoarau,23.0,Centre-Forward,France,500Th.,in,Winter,"0,5",Ligue 1,2007,2007/2008
+OGC Nice,Cyril Jeunechamp,31.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2007,2007/2008
+OGC Nice,Alaeddine Yahia,26.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2007,2007/2008
+OGC Nice,Gérald Cid,24.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2007,2007/2008
+Valenciennes FC,Williams Martínez,25.0,Centre-Back,South America,1.20m,in,Winter,"1,2",Ligue 1,2007,2007/2008
+Bor. Dortmund,Mladen Petric,26.0,Centre-Forward,Uk,3.50m,in,Summer,"3,5",1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Jakub Blaszczykowski,21.0,Right Winger,Central_EU,3.05m,in,Summer,"3,05",1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Diego Klimowicz,32.0,Centre-Forward,VfL Wolfsburg,1.50m,in,Summer,"1,5",1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Marc Ziegler,31.0,Goalkeeper,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Giovanni Federico,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Robert Kovac,33.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Arturo Vidal,20.0,Central Midfield,South America,5.20m,in,Summer,"5,2",1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Theofanis Gekas,27.0,Centre-Forward,VfL Bochum,4.70m,in,Summer,"4,7",1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Manuel Friedrich,27.0,Centre-Back,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Lukas Sinkiewicz,21.0,Defensive Midfield,Germany,1.60m,in,Summer,"1,6",1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Ricardo Faty,20.0,Defensive Midfield,AS Roma,Loan fee:600Th.,in,Summer,"0,6",1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Hans Sarpei,31.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Dmitri Bulykin,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Bay. Leverkusen,Vratislav Gresko,29.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Bayern Munich,Franck Ribéry,24.0,Left Winger,Marseille,30.00m,in,Summer,30,1 Bundesliga,2007,2007/2008
+Bayern Munich,Miroslav Klose,29.0,Centre-Forward,Werder Bremen,15.00m,in,Summer,15,1 Bundesliga,2007,2007/2008
+Bayern Munich,Marcell Jansen,21.0,Centre-Forward,Germany,14.00m,in,Summer,14,1 Bundesliga,2007,2007/2008
+Bayern Munich,Luca Toni,30.0,Centre-Forward,Fiorentina,11.00m,in,Summer,11,1 Bundesliga,2007,2007/2008
+Bayern Munich,José Sosa,22.0,Central Midfield,South America,9.00m,in,Summer,9,1 Bundesliga,2007,2007/2008
+Bayern Munich,Jan Schlaudraff,23.0,Second Striker,Germany,1.20m,in,Summer,"1,2",1 Bundesliga,2007,2007/2008
+Bayern Munich,Zé Roberto,32.0,Left Midfield,Nacional,Loan fee:1.00m,in,Summer,1,1 Bundesliga,2007,2007/2008
+Bayern Munich,Hamit Altintop,24.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hannover 96,Mike Hanke,23.0,Centre-Forward,VfL Wolfsburg,4.50m,in,Summer,"4,5",1 Bundesliga,2007,2007/2008
+Hannover 96,Christian Schulz,24.0,Centre-Back,Werder Bremen,2.50m,in,Summer,"2,5",1 Bundesliga,2007,2007/2008
+Hannover 96,Chavdar Yankov,23.0,Central Midfield,Central_EU,1.10m,in,Summer,"1,1",1 Bundesliga,2007,2007/2008
+Hannover 96,Benjamin Lauth,25.0,Centre-Forward,Hamburger SV,800Th.,in,Summer,"0,8",1 Bundesliga,2007,2007/2008
+Hannover 96,Gaetan Krebs,21.0,Central Midfield,R. Strasbourg,500Th.,in,Summer,"0,5",1 Bundesliga,2007,2007/2008
+Hannover 96,Sergio da Silva Pinto,26.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hannover 96,Thomas Kleine,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hannover 96,Sal Zizzo,20.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Angelos Charisteas,27.0,Centre-Forward,Feyenoord,2.50m,in,Summer,"2,5",1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Javier Pinola,24.0,Centre-Back,Atlético Madrid,1.20m,in,Summer,"1,2",1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Jaromir Blazek,34.0,Goalkeeper,Central_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Zvjezdan Misimovic,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Nicky Adler,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Peer Kluge,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Lars Jacobsen,27.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Michael Beauchamp,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Dario Vidosic,20.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+VfL Bochum,Anthar Yahia,25.0,Centre-Back,OGC Nice,800Th.,in,Summer,"0,8",1 Bundesliga,2007,2007/2008
+VfL Bochum,Stanislav Sestak,24.0,Centre-Forward,Central_EU,750Th.,in,Summer,"0,75",1 Bundesliga,2007,2007/2008
+VfL Bochum,Theofanis Gekas,27.0,Centre-Forward,Central_EU,700Th.,in,Summer,"0,7",1 Bundesliga,2007,2007/2008
+VfL Bochum,Marc Pfertzel,26.0,Right-Back,AS Livorno,500Th.,in,Summer,"0,5",1 Bundesliga,2007,2007/2008
+VfL Bochum,Mergim Mavraj,21.0,Centre-Back,Germany,350Th.,in,Summer,"0,35",1 Bundesliga,2007,2007/2008
+VfL Bochum,Jan Lastuvka,24.0,Goalkeeper,Est_EU,Loan fee:300Th.,in,Summer,"0,3",1 Bundesliga,2007,2007/2008
+VfL Bochum,Marcin Mieciel,31.0,Centre-Forward,Central_EU,250Th.,in,Summer,"0,25",1 Bundesliga,2007,2007/2008
+VfL Bochum,Marc Sand,19.0,Centre-Forward,Central_EU,200Th.,in,Summer,"0,2",1 Bundesliga,2007,2007/2008
+VfL Bochum,Matías Concha,27.0,Right-Back,North_EU,150Th.,in,Summer,"0,15",1 Bundesliga,2007,2007/2008
+VfL Bochum,Heinrich Schmidtgal,21.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+VfL Bochum,Philipp Heerwagen,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+VfL Bochum,Danny Fuchs,31.0,Left Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hamburger SV,Mohamed Zidan,25.0,Second Striker,Germany,6.50m,in,Summer,"6,5",1 Bundesliga,2007,2007/2008
+Hamburger SV,Romeo Castelen,24.0,Right Winger,Feyenoord,2.50m,in,Summer,"2,5",1 Bundesliga,2007,2007/2008
+Hamburger SV,Jérôme Boateng,18.0,Centre-Back,Hertha BSC,1.10m,in,Summer,"1,1",1 Bundesliga,2007,2007/2008
+Hamburger SV,Timo Kunert,20.0,Defensive Midfield,FC Schalke 04,150Th.,in,Summer,"0,15",1 Bundesliga,2007,2007/2008
+Hamburger SV,Sebastian Langkamp,19.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+E. Frankfurt,Aarón Galindo,25.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+E. Frankfurt,Mehdi Mahdavikia,29.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+E. Frankfurt,Junichi Inamoto,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Daniel Halfar,19.0,Attacking Midfield,Germany,800Th.,in,Summer,"0,8",1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Andre Mijatovic,27.0,Centre-Back,Germany,700Th.,in,Summer,"0,7",1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Siyabonga Nkosi,25.0,Attacking Midfield,Africa Sports,350Th.,in,Summer,"0,35",1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Oliver Kirch,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Leonidas Kampantais,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Rowen Fernández,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Arm. Bielefeld,Matthias Langkamp,23.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Ciprian Marica,21.0,Centre-Forward,Est_EU,7.00m,in,Summer,7,1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Raphael Schäfer,28.0,Goalkeeper,1.FC Nuremberg,2.00m,in,Summer,2,1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Ewerthon,26.0,Centre-Forward,Real Zaragoza,Loan fee:1.20m,in,Summer,"1,2",1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Georges Mandjeck,18.0,Defensive Midfield,Kadji Sports,200Th.,in,Summer,"0,2",1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Gledson,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Yildiray Bastürk,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Energie Cottbus,Dennis Sörensen,26.0,Centre-Forward,North_EU,1.10m,in,Summer,"1,1",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Kristijan Ipsa,21.0,Centre-Back,Est_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Christian Bassila,29.0,Centre-Back,Central_EU,250Th.,in,Summer,"0,25",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Ovidiu Burca,27.0,Centre-Back,Progresul,200Th.,in,Summer,"0,2",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Dimitar Rangelov,24.0,Second Striker,R. Strasbourg,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Stanislav Angelov,29.0,Defensive Midfield,Central_EU,180Th.,in,Summer,"0,18",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Toni Wachsmuth,20.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Energie Cottbus,Stathis Aloneftis,24.0,Left Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Energie Cottbus,Michael Lerchl,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Werder Bremen,Carlos Alberto,22.0,Attacking Midfield,South America,7.80m,in,Summer,"7,8",1 Bundesliga,2007,2007/2008
+Werder Bremen,Boubacar Sanogo,24.0,Centre-Forward,Hamburger SV,4.50m,in,Summer,"4,5",1 Bundesliga,2007,2007/2008
+Werder Bremen,Sebastian Boenisch,20.0,Left-Back,FC Schalke 04,3.50m,in,Summer,"3,5",1 Bundesliga,2007,2007/2008
+Werder Bremen,Hugo Almeida,23.0,Centre-Forward,FC Porto,3.50m,in,Summer,"3,5",1 Bundesliga,2007,2007/2008
+Werder Bremen,Dusko Tosic,22.0,Centre-Back,FC Sochaux,1.80m,in,Summer,"1,8",1 Bundesliga,2007,2007/2008
+Werder Bremen,Nico Pellatz,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+FC Schalke 04,Ivan Rakitic,19.0,Central Midfield,Uk,5.00m,in,Summer,5,1 Bundesliga,2007,2007/2008
+FC Schalke 04,Carlos Grossmüller,24.0,Central Midfield,South America,3.50m,in,Summer,"3,5",1 Bundesliga,2007,2007/2008
+FC Schalke 04,Heiko Westermann,23.0,Centre-Back,Arm. Bielefeld,2.80m,in,Summer,"2,8",1 Bundesliga,2007,2007/2008
+FC Schalke 04,Jermaine Jones,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+FC Schalke 04,Mathias Schober,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Grafite,28.0,Centre-Forward,Le Mans UC 72,7.50m,in,Summer,"7,5",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Ricardo Costa,26.0,Centre-Back,FC Porto,4.00m,in,Summer,4,1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Edin Dzeko,21.0,Centre-Forward,Central_EU,4.00m,in,Summer,4,1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Jan Simunek,20.0,Centre-Back,Central_EU,3.50m,in,Summer,"3,5",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Sergiu Radu,29.0,Centre-Forward,Energie Cottbus,2.25m,in,Summer,"2,25",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Vlad Munteanu,26.0,Left Midfield,Energie Cottbus,2.25m,in,Summer,"2,25",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Alexander Laas,23.0,Left Midfield,Hamburger SV,1.50m,in,Summer,"1,5",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Josué,28.0,Defensive Midfield,South America,1.46m,in,Summer,"1,46",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Marcel Schäfer,23.0,Left-Back,Germany,1.20m,in,Summer,"1,2",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Sascha Riether,24.0,Right-Back,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Daniel Baier,23.0,Defensive Midfield,Germany,450Th.,in,Summer,"0,45",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Christian Gentner,21.0,Central Midfield,VfB Stuttgart,Loan fee:400Th.,in,Summer,"0,4",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Mame Niang,23.0,Centre-Forward,Africa Sports,200Th.,in,Summer,"0,2",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Ashkan Dejagah,20.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Karlsruher SC,Tamás Hajnal,26.0,Attacking Midfield,Germany,450Th.,in,Summer,"0,45",1 Bundesliga,2007,2007/2008
+Karlsruher SC,Stefan Buck,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Karlsruher SC,Christopher Reinhard,22.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Karlsruher SC,Christian Timm,28.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Karlsruher SC,Alexander Iashvili,29.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Karlsruher SC,Andreas Görlitz,25.0,Right-Back,Bayern Munich,loan transfer,in,Summer,0.01,1 Bundesliga,2007,2007/2008
+Hertha BSC,André Lima,22.0,Centre-Forward,South America,3.50m,in,Summer,"3,5",1 Bundesliga,2007,2007/2008
+Hertha BSC,Lúcio,28.0,Left-Back,South America,1.75m,in,Summer,"1,75",1 Bundesliga,2007,2007/2008
+Hertha BSC,Steve von Bergen,24.0,Centre-Back,Uk,1.50m,in,Summer,"1,5",1 Bundesliga,2007,2007/2008
+Hertha BSC,Fabian Lustenberger,19.0,Centre-Back,Uk,1.50m,in,Summer,"1,5",1 Bundesliga,2007,2007/2008
+Hertha BSC,Christian Giménez,32.0,Centre-Forward,Marseille,1.00m,in,Summer,1,1 Bundesliga,2007,2007/2008
+Hertha BSC,Tobias Grahn,27.0,Central Midfield,Spain,Loan fee:150Th.,in,Summer,"0,15",1 Bundesliga,2007,2007/2008
+Hertha BSC,Christopher Gäng,19.0,Goalkeeper,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,2007,2007/2008
+Hertha BSC,Jaroslav Drobny,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hansa Rostock,Orestes,26.0,Centre-Back,Naval,250Th.,in,Summer,"0,25",1 Bundesliga,2007,2007/2008
+Hansa Rostock,Addy-Waku Menga,23.0,Centre-Forward,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,2007,2007/2008
+Hansa Rostock,Heath Pearce,22.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hansa Rostock,Benjamin Lense,28.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hansa Rostock,Fin Bartels,20.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hansa Rostock,Ryan Gyaki,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hansa Rostock,Simon Tüting,20.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+Hansa Rostock,Stefan Wächter,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Manasseh Ishiaku,24.0,Centre-Forward,Belgium,1.00m,in,Summer,1,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Christian Tiffert,25.0,Defensive Midfield,Central_EU,600Th.,in,Summer,"0,6",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Tom Starke,26.0,Goalkeeper,Germany,450Th.,in,Summer,"0,45",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Blagoy Georgiev,25.0,Central Midfield,Central_EU,Loan fee:250Th.,in,Summer,"0,25",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Alexander Meyer,23.0,Left-Back,Bay. Leverkusen,150Th.,in,Summer,"0,15",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Aílton,33.0,Centre-Forward,Central_EU,100Th.,in,Summer,"0,1",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Jonathan Moeller,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Michael Lamey,27.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Marcel Herzog,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Maicon,21.0,Central Midfield,South America,loan transfer,in,Summer,0.01,1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Antonio Rukavina,23.0,Right-Back,Central_EU,2.30m,in,Winter,"2,3",1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Alexander Bade,37.0,Goalkeeper,Germany,100Th.,in,Winter,"0,1",1 Bundesliga,2007,2007/2008
+Bor. Dortmund,Mats Hummels,19.0,Centre-Back,Bayern Munich,loan transfer,in,Winter,0.01,1 Bundesliga,2007,2007/2008
+Bayern Munich,Breno,18.0,Centre-Back,South America,12.00m,in,Winter,12,1 Bundesliga,2007,2007/2008
+Hannover 96,Valérien Ismaël,32.0,Centre-Back,Bayern Munich,200Th.,in,Winter,"0,2",1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Jacques Abardonado,29.0,Centre-Back,OGC Nice,1.50m,in,Winter,"1,5",1 Bundesliga,2007,2007/2008
+1.FC Nuremberg,Jan Koller,34.0,Centre-Forward,Monaco,1.00m,in,Winter,1,1 Bundesliga,2007,2007/2008
+VfL Bochum,Shinji Ono,28.0,Attacking Midfield,Asia,500Th.,in,Winter,"0,5",1 Bundesliga,2007,2007/2008
+VfL Bochum,Mimoun Azaouagh,25.0,Attacking Midfield,FC Schalke 04,Loan fee:300Th.,in,Winter,"0,3",1 Bundesliga,2007,2007/2008
+VfL Bochum,Oleksiy Belik,26.0,Centre-Forward,Est_EU,loan transfer,in,Winter,0.01,1 Bundesliga,2007,2007/2008
+Hamburger SV,Macauley Chrisantus,17.0,Centre-Forward,Hearts of Abuja,1.00m,in,Winter,1,1 Bundesliga,2007,2007/2008
+Hamburger SV,Anton Putilo,20.0,Attacking Midfield,Est_EU,Loan fee:600Th.,in,Winter,"0,6",1 Bundesliga,2007,2007/2008
+Hamburger SV,Vadis Odjidja-Ofoe,18.0,Central Midfield,Belgium,400Th.,in,Winter,"0,4",1 Bundesliga,2007,2007/2008
+E. Frankfurt,Caio,21.0,Attacking Midfield,Barueri,3.80m,in,Winter,"3,8",1 Bundesliga,2007,2007/2008
+E. Frankfurt,Martin Fenin,20.0,Centre-Forward,Central_EU,3.50m,in,Winter,"3,5",1 Bundesliga,2007,2007/2008
+E. Frankfurt,Vangelis Mantzios,24.0,Centre-Forward,Central_EU,Loan fee:300Th.,in,Winter,"0,3",1 Bundesliga,2007,2007/2008
+VfB Stuttgart,Sergiu Radu,30.0,Centre-Forward,VfL Wolfsburg,Loan fee:300Th.,in,Winter,"0,3",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Ivan Radeljic,27.0,Centre-Back,Est_EU,400Th.,in,Winter,"0,4",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Dusan Vasiljevic,25.0,Attacking Midfield,Central_EU,250Th.,in,Winter,"0,25",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Michal Papadopulos,22.0,Centre-Forward,Bay. Leverkusen,Loan fee:170Th.,in,Winter,"0,17",1 Bundesliga,2007,2007/2008
+Energie Cottbus,Branko Jelic,30.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+Energie Cottbus,Christian Müller,23.0,Attacking Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+Werder Bremen,Mesut Özil,19.0,Attacking Midfield,FC Schalke 04,5.00m,in,Winter,5,1 Bundesliga,2007,2007/2008
+FC Schalke 04,Zé Roberto,27.0,Attacking Midfield,South America,3.00m,in,Winter,3,1 Bundesliga,2007,2007/2008
+FC Schalke 04,Albert Streit,27.0,Right Winger,E. Frankfurt,2.50m,in,Winter,"2,5",1 Bundesliga,2007,2007/2008
+FC Schalke 04,Vicente Sánchez,28.0,Left Winger,North America,1.00m,in,Winter,1,1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Diego Benaglio,24.0,Goalkeeper,Nacional,1.50m,in,Winter,"1,5",1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Makoto Hasebe,23.0,Defensive Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+VfL Wolfsburg,Danijel Ljuboja,29.0,Centre-Forward,VfB Stuttgart,loan transfer,in,Winter,0.01,1 Bundesliga,2007,2007/2008
+Karlsruher SC,Joshua Kennedy,25.0,Centre-Forward,1.FC Nuremberg,450Th.,in,Winter,"0,45",1 Bundesliga,2007,2007/2008
+Karlsruher SC,Sebastian Langkamp,20.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+Hertha BSC,Raffael,22.0,Second Striker,Uk,4.30m,in,Winter,"4,3",1 Bundesliga,2007,2007/2008
+Hertha BSC,Gojko Kacar,20.0,Defensive Midfield,Central_EU,3.00m,in,Winter,3,1 Bundesliga,2007,2007/2008
+Hertha BSC,Bryan Arguez,19.0,Defensive Midfield,North America,200Th.,in,Winter,"0,2",1 Bundesliga,2007,2007/2008
+Hertha BSC,Rudi Skacel,28.0,Left Midfield,Uk,Loan fee:200Th.,in,Winter,"0,2",1 Bundesliga,2007,2007/2008
+Hertha BSC,Valeri Domovchiyski,21.0,Centre-Forward,Central_EU,Loan fee:150Th.,in,Winter,"0,15",1 Bundesliga,2007,2007/2008
+Hansa Rostock,Gledson,28.0,Centre-Back,VfB Stuttgart,200Th.,in,Winter,"0,2",1 Bundesliga,2007,2007/2008
+Hansa Rostock,Kenneth Kronholm,22.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Bojan Vrucina,23.0,Centre-Forward,Est_EU,Loan fee:350Th.,in,Winter,"0,35",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Claudiu Niculescu,31.0,Centre-Forward,Est_EU,300Th.,in,Winter,"0,3",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Fernando Ávalos,29.0,Centre-Back,Nacional,200Th.,in,Winter,"0,2",1 Bundesliga,2007,2007/2008
+MSV Duisburg,Olivier Veigneau,22.0,Left-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+MSV Duisburg,Silvio Schröter,28.0,Right Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2007,2007/2008
+Man Utd,Anderson,19.0,Central Midfield,FC Porto,31.50m,in,Summer,"31,5",Premier League,2007,2007/2008
+Man Utd,Nani,20.0,Left Winger,Sporting CP,25.50m,in,Summer,"25,5",Premier League,2007,2007/2008
+Man Utd,Owen Hargreaves,26.0,Defensive Midfield,Bayern Munich,25.00m,in,Summer,25,Premier League,2007,2007/2008
+Man Utd,Carlos Tévez,23.0,Second Striker,West Ham,Loan fee:12.70m,in,Summer,"12,7",Premier League,2007,2007/2008
+Man Utd,Tomasz Kuszczak,25.0,Goalkeeper,Uk,4.30m,in,Summer,"4,3",Premier League,2007,2007/2008
+Chelsea,Florent Malouda,27.0,Left Winger,Olympique Lyon,19.00m,in,Summer,19,Premier League,2007,2007/2008
+Chelsea,Juliano Belletti,31.0,Right-Back,Barcelona,5.50m,in,Summer,"5,5",Premier League,2007,2007/2008
+Chelsea,Claudio Pizarro,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Chelsea,Steve Sidwell,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Chelsea,Tal Ben Haim,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Liverpool FC,Fernando Torres,23.0,Centre-Forward,Atlético Madrid,38.00m,in,Summer,38,Premier League,2007,2007/2008
+Liverpool FC,Ryan Babel,20.0,Left Winger,Ajax,17.25m,in,Summer,"17,25",Premier League,2007,2007/2008
+Liverpool FC,Lucas Leiva,21.0,Defensive Midfield,South America,10.00m,in,Summer,10,Premier League,2007,2007/2008
+Liverpool FC,Yossi Benayoun,27.0,Right Winger,West Ham,7.30m,in,Summer,"7,3",Premier League,2007,2007/2008
+Liverpool FC,Krisztián Németh,18.0,Centre-Forward,Central_EU,3.00m,in,Summer,3,Premier League,2007,2007/2008
+Liverpool FC,Sebastián Leto,20.0,Left Winger,South America,3.00m,in,Summer,3,Premier League,2007,2007/2008
+Liverpool FC,Charles Itandje,24.0,Goalkeeper,Lens,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Liverpool FC,Damien Plessis,19.0,Defensive Midfield,France,500Th.,in,Summer,"0,5",Premier League,2007,2007/2008
+Liverpool FC,Nikolay Mihaylov,19.0,Goalkeeper,Central_EU,150Th.,in,Summer,"0,15",Premier League,2007,2007/2008
+Liverpool FC,Ryan Crowther,18.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Liverpool FC,Andriy Voronin,27.0,Second Striker,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Liverpool FC,András Simon,17.0,Centre-Forward,MTK,?,in,Summer,0.01,Premier League,2007,2007/2008
+Arsenal,Eduardo,24.0,Centre-Forward,Est_EU,13.50m,in,Summer,"13,5",Premier League,2007,2007/2008
+Arsenal,Bacary Sagna,24.0,Right-Back,AJ Auxerre,9.00m,in,Summer,9,Premier League,2007,2007/2008
+Arsenal,Lukasz Fabianski,22.0,Goalkeeper,Central_EU,4.35m,in,Summer,"4,35",Premier League,2007,2007/2008
+Arsenal,Lassana Diarra,22.0,Defensive Midfield,Chelsea,2.90m,in,Summer,"2,9",Premier League,2007,2007/2008
+Arsenal,Pedro Botelho,17.0,Left-Back,Figueirense,1.20m,in,Summer,"1,2",Premier League,2007,2007/2008
+Spurs,Darren Bent,23.0,Centre-Forward,Uk,24.75m,in,Summer,"24,75",Premier League,2007,2007/2008
+Spurs,Gareth Bale,17.0,Right Winger,Uk,14.70m,in,Summer,"14,7",Premier League,2007,2007/2008
+Spurs,Younès Kaboul,21.0,Centre-Back,AJ Auxerre,12.00m,in,Summer,12,Premier League,2007,2007/2008
+Spurs,Kevin-Prince Boateng,20.0,Attacking Midfield,Hertha BSC,7.90m,in,Summer,"7,9",Premier League,2007,2007/2008
+Spurs,Adel Taarabt,18.0,Central Midfield,Lens,4.00m,in,Summer,4,Premier League,2007,2007/2008
+Spurs,Danny Rose,17.0,Left-Back,Uk,1.00m,in,Summer,1,Premier League,2007,2007/2008
+Everton,Yakubu Aiyegbeni,24.0,Centre-Forward,Middlesbrough,16.50m,in,Summer,"16,5",Premier League,2007,2007/2008
+Everton,Leighton Baines,22.0,Left-Back,Wigan,7.50m,in,Summer,"7,5",Premier League,2007,2007/2008
+Everton,Phil Jagielka,24.0,Centre-Back,Uk,6.00m,in,Summer,6,Premier League,2007,2007/2008
+Everton,Tim Howard,28.0,Goalkeeper,Man Utd,4.20m,in,Summer,"4,2",Premier League,2007,2007/2008
+Everton,Lukas Jutkiewicz,18.0,Centre-Forward,Uk,600Th.,in,Summer,"0,6",Premier League,2007,2007/2008
+Everton,Steven Pienaar,25.0,Left Winger,Bor. Dortmund,Loan fee:500Th.,in,Summer,"0,5",Premier League,2007,2007/2008
+Everton,Stefan Wessels,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Everton,Thomas Gravesen,31.0,Defensive Midfield,Uk,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Bolton,Heidar Helguson,29.0,Centre-Forward,Fulham,2.85m,in,Summer,"2,85",Premier League,2007,2007/2008
+Bolton,Gavin McCann,29.0,Central Midfield,Aston Villa,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Bolton,Daniel Braaten,25.0,Right Winger,North_EU,750Th.,in,Summer,"0,75",Premier League,2007,2007/2008
+Bolton,Christian Wilhelmsson,27.0,Right Winger,France,Loan fee:500Th.,in,Summer,"0,5",Premier League,2007,2007/2008
+Bolton,Gérald Cid,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Bolton,Jlloyd Samuel,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Bolton,Danny Guthrie,20.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Bolton,Andrew O'Brien,28.0,Centre-Back,Portsmouth,?,in,Summer,0.01,Premier League,2007,2007/2008
+Bolton,Blerim Dzemaili,21.0,Central Midfield,Uk,?,in,Summer,0.01,Premier League,2007,2007/2008
+Bolton,Mikel Alonso,27.0,Central Midfield,Spain,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Reading,Emerse Faé,23.0,Central Midfield,France,3.50m,in,Summer,"3,5",Premier League,2007,2007/2008
+Reading,Liam Rosenior,23.0,Right-Back,Fulham,1.90m,in,Summer,"1,9",Premier League,2007,2007/2008
+Reading,André Bikey,22.0,defence,Russia,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Reading,Kalifa Cissé,23.0,Centre-Back,Boavista,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Portsmouth,Sulley Muntari,22.0,Central Midfield,Italy,10.51m,in,Summer,"10,51",Premier League,2007,2007/2008
+Portsmouth,John Utaka,25.0,Left Winger,Stade Rennais,10.00m,in,Summer,10,Premier League,2007,2007/2008
+Portsmouth,David Nugent,22.0,Centre-Forward,Uk,9.00m,in,Summer,9,Premier League,2007,2007/2008
+Portsmouth,Glen Johnson,23.0,Right-Back,Chelsea,5.50m,in,Summer,"5,5",Premier League,2007,2007/2008
+Portsmouth,Papa Bouba Diop,29.0,Defensive Midfield,Fulham,5.00m,in,Summer,5,Premier League,2007,2007/2008
+Portsmouth,Arnold Mvuemba,22.0,Defensive Midfield,Stade Rennais,1.90m,in,Summer,"1,9",Premier League,2007,2007/2008
+Portsmouth,Martin Cranie,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Portsmouth,Hermann Hreidarsson,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Portsmouth,Sylvain Distin,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Portsmouth,Jean-François Christophe,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Blackburn,Roque Santa Cruz,25.0,Centre-Forward,Bayern Munich,5.00m,in,Summer,5,Premier League,2007,2007/2008
+Blackburn,Maceo Rigters,23.0,Centre-Forward,NAC Breda,1.20m,in,Summer,"1,2",Premier League,2007,2007/2008
+Blackburn,Zak Jones,18.0,Goalkeeper,Uk,?,in,Summer,0.01,Premier League,2007,2007/2008
+Blackburn,Gunnar Nielsen,20.0,Goalkeeper,North_EU,?,in,Summer,0.01,Premier League,2007,2007/2008
+Aston Villa,Nigel Reo-Coker,23.0,Defensive Midfield,West Ham,12.50m,in,Summer,"12,5",Premier League,2007,2007/2008
+Aston Villa,Marlon Harewood,27.0,Centre-Forward,West Ham,5.50m,in,Summer,"5,5",Premier League,2007,2007/2008
+Aston Villa,Zat Knight,27.0,Centre-Back,Fulham,4.70m,in,Summer,"4,7",Premier League,2007,2007/2008
+Aston Villa,Moustapha Salifou,24.0,Attacking Midfield,Uk,500Th.,in,Summer,"0,5",Premier League,2007,2007/2008
+Aston Villa,Eric Lichaj,18.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Aston Villa,Scott Carson,21.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Aston Villa,Curtis Davies,22.0,Centre-Back,Uk,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Middlesbrough,Jonathan Woodgate,27.0,Centre-Back,Real Madrid,9.60m,in,Summer,"9,6",Premier League,2007,2007/2008
+Middlesbrough,Mido,24.0,Centre-Forward,Spurs,8.80m,in,Summer,"8,8",Premier League,2007,2007/2008
+Middlesbrough,Gary O'Neil,24.0,Central Midfield,Portsmouth,7.50m,in,Summer,"7,5",Premier League,2007,2007/2008
+Middlesbrough,Luke Young,28.0,Right-Back,Uk,3.75m,in,Summer,"3,75",Premier League,2007,2007/2008
+Middlesbrough,Jérémie Aliadière,24.0,Centre-Forward,Arsenal,3.00m,in,Summer,3,Premier League,2007,2007/2008
+Middlesbrough,Mohamed Shawky,25.0,Defensive Midfield,Africa Sports,950Th.,in,Summer,"0,95",Premier League,2007,2007/2008
+Middlesbrough,Tuncay Sanli,25.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Newcastle,Alan Smith,26.0,Central Midfield,Man Utd,9.00m,in,Summer,9,Premier League,2007,2007/2008
+Newcastle,José Enrique,21.0,Left-Back,Villarreal,8.70m,in,Summer,"8,7",Premier League,2007,2007/2008
+Newcastle,Joey Barton,24.0,Central Midfield,Man City,8.60m,in,Summer,"8,6",Premier League,2007,2007/2008
+Newcastle,David Rozehnal,26.0,Centre-Back,Paris SG,4.30m,in,Summer,"4,3",Premier League,2007,2007/2008
+Newcastle,Habib Bèye,29.0,Right-Back,Marseille,2.80m,in,Summer,"2,8",Premier League,2007,2007/2008
+Newcastle,Abdoulaye Faye,29.0,Centre-Back,Bolton,2.80m,in,Summer,"2,8",Premier League,2007,2007/2008
+Newcastle,Njitap Geremi,28.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Newcastle,Mark Viduka,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Newcastle,Caçapa,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Man City,Vedran Corluka,21.0,Centre-Back,Est_EU,13.00m,in,Summer,13,Premier League,2007,2007/2008
+Man City,Rolando Bianchi,24.0,Centre-Forward,Reggina,13.00m,in,Summer,13,Premier League,2007,2007/2008
+Man City,Elano,26.0,Attacking Midfield,Est_EU,12.00m,in,Summer,12,Premier League,2007,2007/2008
+Man City,Valeri Bozhinov,21.0,Centre-Forward,Fiorentina,8.00m,in,Summer,8,Premier League,2007,2007/2008
+Man City,Martin Petrov,28.0,Left Winger,Atlético Madrid,7.00m,in,Summer,7,Premier League,2007,2007/2008
+Man City,Gelson Fernandes,20.0,Defensive Midfield,Uk,5.50m,in,Summer,"5,5",Premier League,2007,2007/2008
+Man City,Javier Garrido,22.0,Left-Back,Spain,2.25m,in,Summer,"2,25",Premier League,2007,2007/2008
+Man City,Richard Martin,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Man City,Geovanni,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+West Ham,Kieron Dyer,28.0,Right Midfield,Newcastle,12.00m,in,Summer,12,Premier League,2007,2007/2008
+West Ham,Craig Bellamy,27.0,Left Winger,Uk,11.25m,in,Summer,"11,25",Premier League,2007,2007/2008
+West Ham,Scott Parker,26.0,Central Midfield,Newcastle,10.25m,in,Summer,"10,25",Premier League,2007,2007/2008
+West Ham,Julien Faubert,24.0,Right-Back,G. Bordeaux,9.15m,in,Summer,"9,15",Premier League,2007,2007/2008
+West Ham,Freddie Ljungberg,30.0,Right Midfield,Arsenal,4.50m,in,Summer,"4,5",Premier League,2007,2007/2008
+West Ham,Nolberto Solano,32.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+West Ham,Richard Wright,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+West Ham,Henri Camara,30.0,Centre-Forward,Wigan,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+West Ham,Zavon Hines,19.0,Right Winger,Uk,?,in,Summer,0.01,Premier League,2007,2007/2008
+Fulham,Diomansy Kamara,26.0,Right Winger,Uk,9.00m,in,Summer,9,Premier League,2007,2007/2008
+Fulham,Steven Davis,22.0,Central Midfield,Aston Villa,5.90m,in,Summer,"5,9",Premier League,2007,2007/2008
+Fulham,Hameur Bouazza,22.0,Right Winger,Uk,4.50m,in,Summer,"4,5",Premier League,2007,2007/2008
+Fulham,Chris Baird,25.0,Defensive Midfield,Uk,4.50m,in,Summer,"4,5",Premier League,2007,2007/2008
+Fulham,Paul Konchesky,26.0,Left-Back,West Ham,4.00m,in,Summer,4,Premier League,2007,2007/2008
+Fulham,Lee Cook,24.0,Left Winger,Uk,3.75m,in,Summer,"3,75",Premier League,2007,2007/2008
+Fulham,David Healy,27.0,Centre-Forward,Uk,2.25m,in,Summer,"2,25",Premier League,2007,2007/2008
+Fulham,Dejan Stefanovic,32.0,Centre-Back,Portsmouth,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Fulham,Aaron Hughes,27.0,Centre-Back,Aston Villa,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Fulham,Bruno Luz,18.0,Right Winger,Setúbal,100Th.,in,Summer,"0,1",Premier League,2007,2007/2008
+Fulham,Danny Murphy,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Fulham,Kasey Keller,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Fulham,Nathan Ashton,20.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Fulham,Shefki Kuqi,30.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Fulham,Ki-hyeon Seol,28.0,Right Winger,Reading,?,in,Summer,0.01,Premier League,2007,2007/2008
+Fulham,Adrian Leijer,21.0,Centre-Back,Asia,?,in,Summer,0.01,Premier League,2007,2007/2008
+Wigan,Jason Koumas,27.0,Attacking Midfield,Uk,6.90m,in,Summer,"6,9",Premier League,2007,2007/2008
+Wigan,Michael Brown,30.0,Central Midfield,Fulham,1.30m,in,Summer,"1,3",Premier League,2007,2007/2008
+Wigan,Andreas Granqvist,22.0,Centre-Back,Helsingborg,1.00m,in,Summer,1,Premier League,2007,2007/2008
+Wigan,Rachid Bouaouzan,23.0,Left Midfield,Sparta R.,450Th.,in,Summer,"0,45",Premier League,2007,2007/2008
+Wigan,Titus Bramble,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Wigan,Salomon Olembé,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Wigan,Mario Melchiot,30.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Wigan,Antoine Sibierski,32.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Wigan,Marcus Bent,29.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Derby,Robert Earnshaw,26.0,Centre-Forward,Uk,5.20m,in,Summer,"5,2",Premier League,2007,2007/2008
+Derby,Kenny Miller,27.0,Centre-Forward,Uk,4.50m,in,Summer,"4,5",Premier League,2007,2007/2008
+Derby,Claude Davis,28.0,Centre-Back,Uk,4.50m,in,Summer,"4,5",Premier League,2007,2007/2008
+Derby,Benny Feilhaber,22.0,Central Midfield,Hamburger SV,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Derby,Andy Todd,32.0,Centre-Back,Blackburn,675Th.,in,Summer,"0,675",Premier League,2007,2007/2008
+Derby,Lewis Price,22.0,Goalkeeper,Uk,350Th.,in,Summer,"0,35",Premier League,2007,2007/2008
+Derby,Eddie Lewis,33.0,Left Midfield,Uk,300Th.,in,Summer,"0,3",Premier League,2007,2007/2008
+Derby,Andy Griffin,28.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Derby,Ben Hinchliffe,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Sunderland,Craig Gordon,24.0,Goalkeeper,Uk,10.82m,in,Summer,"10,82",Premier League,2007,2007/2008
+Sunderland,Kenwyne Jones,22.0,Centre-Forward,Uk,9.00m,in,Summer,9,Premier League,2007,2007/2008
+Sunderland,Kieran Richardson,22.0,Left-Back,Man Utd,8.20m,in,Summer,"8,2",Premier League,2007,2007/2008
+Sunderland,Michael Chopra,23.0,Centre-Forward,Uk,7.50m,in,Summer,"7,5",Premier League,2007,2007/2008
+Sunderland,Greg Halford,22.0,Centre-Back,Reading,5.20m,in,Summer,"5,2",Premier League,2007,2007/2008
+Sunderland,Danny Higginbotham,28.0,Centre-Back,Uk,3.75m,in,Summer,"3,75",Premier League,2007,2007/2008
+Sunderland,Paul McShane,21.0,Centre-Back,Uk,3.75m,in,Summer,"3,75",Premier League,2007,2007/2008
+Sunderland,Dickson Etuhu,25.0,Defensive Midfield,Uk,2.00m,in,Summer,2,Premier League,2007,2007/2008
+Sunderland,Russell Anderson,28.0,Centre-Back,Uk,1.50m,in,Summer,"1,5",Premier League,2007,2007/2008
+Sunderland,Roy O'Donovan,21.0,Centre-Forward,Uk,500Th.,in,Summer,"0,5",Premier League,2007,2007/2008
+Sunderland,Andy Cole,35.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Sunderland,Ian Harte,29.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Sunderland,Robbie Weir,18.0,Central Midfield,Uk,?,in,Summer,0.01,Premier League,2007,2007/2008
+Birmingham,Fabrice Muamba,19.0,Central Midfield,Arsenal,6.00m,in,Summer,6,Premier League,2007,2007/2008
+Birmingham,Garry O'Connor,24.0,Centre-Forward,Russia,4.00m,in,Summer,4,Premier League,2007,2007/2008
+Birmingham,Franck Queudrue,28.0,Left-Back,Fulham,3.75m,in,Summer,"3,75",Premier League,2007,2007/2008
+Birmingham,Liam Ridgewell,23.0,Centre-Back,Aston Villa,3.00m,in,Summer,3,Premier League,2007,2007/2008
+Birmingham,Olivier Kapo,26.0,Attacking Midfield,Juventus,2.30m,in,Summer,"2,3",Premier League,2007,2007/2008
+Birmingham,Rafael,26.0,Centre-Back,LOSC Lille,Loan fee:500Th.,in,Summer,"0,5",Premier League,2007,2007/2008
+Birmingham,Daniël de Ridder,23.0,Left Winger,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Birmingham,Richard Kingson,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Birmingham,Stuart Parnaby,24.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2007,2007/2008
+Birmingham,Johan Djourou,20.0,Centre-Back,Arsenal,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Birmingham,Wilson Palacios,22.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Birmingham,Borja Oubiña,25.0,Defensive Midfield,Spain,loan transfer,in,Summer,0.01,Premier League,2007,2007/2008
+Man Utd,Rodrigo Possebon,18.0,Central Midfield,South America,3.50m,in,Winter,"3,5",Premier League,2007,2007/2008
+Man Utd,Rafael,17.0,Right-Back,South America,3.00m,in,Winter,3,Premier League,2007,2007/2008
+Man Utd,Manucho,24.0,Centre-Forward,Petro Luanda,1.00m,in,Winter,1,Premier League,2007,2007/2008
+Chelsea,Nicolas Anelka,28.0,Centre-Forward,Bolton,18.00m,in,Winter,18,Premier League,2007,2007/2008
+Chelsea,Branislav Ivanovic,23.0,Centre-Back,Russia,12.00m,in,Winter,12,Premier League,2007,2007/2008
+Chelsea,Franco Di Santo,18.0,Centre-Forward,South America,4.50m,in,Winter,"4,5",Premier League,2007,2007/2008
+Liverpool FC,Martin Skrtel,23.0,Centre-Back,Russia,10.00m,in,Winter,10,Premier League,2007,2007/2008
+Spurs,Alan Hutton,23.0,Right-Back,Uk,13.00m,in,Winter,13,Premier League,2007,2007/2008
+Spurs,Jonathan Woodgate,28.0,Centre-Back,Middlesbrough,10.80m,in,Winter,"10,8",Premier League,2007,2007/2008
+Spurs,Chris Gunter,18.0,Right-Back,Uk,3.20m,in,Winter,"3,2",Premier League,2007,2007/2008
+Spurs,Gilberto,31.0,Left Midfield,Hertha BSC,2.80m,in,Winter,"2,8",Premier League,2007,2007/2008
+Everton,Dan Gosling,17.0,Central Midfield,Uk,1.50m,in,Winter,"1,5",Premier League,2007,2007/2008
+Everton,Manuel Fernandes,21.0,Attacking Midfield,Valencia,Loan fee:750Th.,in,Winter,"0,75",Premier League,2007,2007/2008
+Everton,Anthony Gardner,27.0,Centre-Back,Spurs,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Bolton,Gary Cahill,22.0,Centre-Back,Aston Villa,6.00m,in,Winter,6,Premier League,2007,2007/2008
+Bolton,Grétar Steinsson,25.0,Right-Back,AZ Alkmaar,5.25m,in,Winter,"5,25",Premier League,2007,2007/2008
+Bolton,Matthew Taylor,26.0,Left Midfield,Portsmouth,4.70m,in,Winter,"4,7",Premier League,2007,2007/2008
+Bolton,Tamir Cohen,23.0,Central Midfield,Est_EU,800Th.,in,Winter,"0,8",Premier League,2007,2007/2008
+Bolton,Grzegorz Rasiak,28.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Reading,Marek Matejovsky,26.0,Central Midfield,Central_EU,1.90m,in,Winter,"1,9",Premier League,2007,2007/2008
+Reading,Jimmy Kébé,24.0,Right Winger,France,1.80m,in,Winter,"1,8",Premier League,2007,2007/2008
+Portsmouth,Jermain Defoe,25.0,Centre-Forward,Spurs,9.30m,in,Winter,"9,3",Premier League,2007,2007/2008
+Portsmouth,Lassana Diarra,22.0,Defensive Midfield,Arsenal,7.00m,in,Winter,7,Premier League,2007,2007/2008
+Portsmouth,Danijel Subotic,18.0,Centre-Forward,Central_EU,400Th.,in,Winter,"0,4",Premier League,2007,2007/2008
+Portsmouth,Adda Djeziri,19.0,Second Striker,North_EU,30Th.,in,Winter,"0,03",Premier League,2007,2007/2008
+Portsmouth,Milan Baros,26.0,Centre-Forward,Olympique Lyon,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Portsmouth,Lucien Aubey,23.0,Centre-Back,Lens,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Aston Villa,Wayne Routledge,23.0,Left Winger,Spurs,1.70m,in,Winter,"1,7",Premier League,2007,2007/2008
+Middlesbrough,Afonso Alves,26.0,Centre-Forward,Heerenveen,17.00m,in,Winter,17,Premier League,2007,2007/2008
+Newcastle,Tamás Kádár,17.0,Centre-Back,Central_EU,1.35m,in,Winter,"1,35",Premier League,2007,2007/2008
+Newcastle,Ben Tozer,17.0,Centre-Back,Uk,300Th.,in,Winter,"0,3",Premier League,2007,2007/2008
+Newcastle,Lamine Diatta,32.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2007,2007/2008
+Newcastle,Fabio Zamblera,17.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2007,2007/2008
+Man City,Felipe Caicedo,19.0,Centre-Forward,Uk,7.00m,in,Winter,7,Premier League,2007,2007/2008
+Man City,Benjani,29.0,Centre-Forward,Portsmouth,5.20m,in,Winter,"5,2",Premier League,2007,2007/2008
+Man City,Nery Castillo,23.0,Right Winger,Est_EU,Loan fee:5.00m,in,Winter,5,Premier League,2007,2007/2008
+Fulham,Leon Andreasen,24.0,Central Midfield,Werder Bremen,4.30m,in,Winter,"4,3",Premier League,2007,2007/2008
+Fulham,Brede Hangeland,26.0,Centre-Back,North_EU,3.30m,in,Winter,"3,3",Premier League,2007,2007/2008
+Fulham,Erik Nevland,30.0,Centre-Forward,FC Groningen,3.00m,in,Winter,3,Premier League,2007,2007/2008
+Fulham,Eddie Johnson,23.0,Centre-Forward,North America,2.50m,in,Winter,"2,5",Premier League,2007,2007/2008
+Fulham,Toni Kallio,29.0,Centre-Back,Uk,330Th.,in,Winter,"0,33",Premier League,2007,2007/2008
+Fulham,Jari Litmanen,36.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Premier League,2007,2007/2008
+Fulham,Paul Stalteri,30.0,Right-Back,Spurs,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Wigan,Marlon King,27.0,Centre-Forward,Uk,4.00m,in,Winter,4,Premier League,2007,2007/2008
+Wigan,Antonio Valencia,22.0,Right-Back,Villarreal,2.00m,in,Winter,2,Premier League,2007,2007/2008
+Wigan,Wilson Palacios,23.0,Defensive Midfield,South America,1.30m,in,Winter,"1,3",Premier League,2007,2007/2008
+Wigan,Erik Edman,29.0,Left-Back,Stade Rennais,700Th.,in,Winter,"0,7",Premier League,2007,2007/2008
+Wigan,Erik Hagen,32.0,Centre-Back,Russia,Loan fee:250Th.,in,Winter,"0,25",Premier League,2007,2007/2008
+Wigan,Maynor Figueroa,24.0,Centre-Back,South America,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Derby,Emanuel Villa,25.0,Centre-Forward,North America,3.00m,in,Winter,3,Premier League,2007,2007/2008
+Derby,Robbie Savage,33.0,Central Midfield,Blackburn,2.25m,in,Winter,"2,25",Premier League,2007,2007/2008
+Derby,Mile Sterjovski,28.0,Left Midfield,Turkey,400Th.,in,Winter,"0,4",Premier League,2007,2007/2008
+Derby,Alan Stubbs,36.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2007,2007/2008
+Derby,Roy Carroll,30.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,2007,2007/2008
+Derby,Hossam Ghaly,26.0,Central Midfield,Spurs,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Derby,Danny Mills,30.0,Right-Back,Man City,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Sunderland,Andy Reid,25.0,Left Midfield,Uk,6.00m,in,Winter,6,Premier League,2007,2007/2008
+Sunderland,Phil Bardsley,22.0,Right-Back,Man Utd,3.00m,in,Winter,3,Premier League,2007,2007/2008
+Sunderland,Rade Prica,27.0,Centre-Forward,North_EU,2.70m,in,Winter,"2,7",Premier League,2007,2007/2008
+Sunderland,Jean-Yves M'voto,19.0,Centre-Back,Paris SG,400Th.,in,Winter,"0,4",Premier League,2007,2007/2008
+Sunderland,Jonny Evans,20.0,Centre-Back,Man Utd,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Birmingham,James McFadden,24.0,Second Striker,Everton,7.50m,in,Winter,"7,5",Premier League,2007,2007/2008
+Birmingham,David Murphy,23.0,Left-Back,Uk,2.25m,in,Winter,"2,25",Premier League,2007,2007/2008
+Birmingham,Mauro Zárate,20.0,Second Striker,Asia,loan transfer,in,Winter,0.01,Premier League,2007,2007/2008
+Athletic,David López,24.0,Central Midfield,CA Osasuna,5.80m,in,Summer,"5,8",Primera Division,2007,2007/2008
+Athletic,Gorka Iraizoz,26.0,Goalkeeper,Espanyol,4.00m,in,Summer,4,Primera Division,2007,2007/2008
+Athletic,Aitor Ocio,30.0,Centre-Back,Sevilla FC,3.50m,in,Summer,"3,5",Primera Division,2007,2007/2008
+Athletic,Koikili,26.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Athletic,David Cuéllar,27.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Athletic,Iñaki Muñoz,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Athletic,Asier del Horno,26.0,Left-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Getafe,Óscar Ustari,21.0,Goalkeeper,South America,6.00m,in,Summer,6,Primera Division,2007,2007/2008
+Getafe,Cata Díaz,27.0,Centre-Back,South America,4.00m,in,Summer,4,Primera Division,2007,2007/2008
+Getafe,Kepa Blanco,23.0,Centre-Forward,Sevilla FC,3.50m,in,Summer,"3,5",Primera Division,2007,2007/2008
+Getafe,Rubén de la Red,22.0,Central Midfield,Real Madrid,3.00m,in,Summer,3,Primera Division,2007,2007/2008
+Getafe,Franck Signorino,25.0,Left-Back,France,1.50m,in,Summer,"1,5",Primera Division,2007,2007/2008
+Getafe,Mario Abrante,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Getafe,Ikechukwu Uche,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Getafe,Miguel Pallardó,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Getafe,Pablo Hernández,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Getafe,Braulio Nóbrega,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Getafe,Esteban Granero,20.0,Central Midfield,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Levante,Pedro León,20.0,Right Winger,Real Murcia,2.20m,in,Summer,"2,2",Primera Division,2007,2007/2008
+Levante,Sávio,33.0,Left Winger,Spain,1.00m,in,Summer,1,Primera Division,2007,2007/2008
+Levante,Christian Riganó,33.0,Centre-Forward,Italy,800Th.,in,Summer,"0,8",Primera Division,2007,2007/2008
+Levante,Javi Fuego,23.0,Defensive Midfield,Spain,550Th.,in,Summer,"0,55",Primera Division,2007,2007/2008
+Levante,Miquel Robusté,22.0,Centre-Back,Spain,400Th.,in,Summer,"0,4",Primera Division,2007,2007/2008
+Levante,Álex Geijo,25.0,Centre-Forward,Spain,350Th.,in,Summer,"0,35",Primera Division,2007,2007/2008
+Levante,David Castedo,33.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Levante,Bruno Cirillo,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Levante,Emilio Viqueira,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Levante,Shota Arveladze,34.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Levante,Vladan Kujovic,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Levante,Marco Storari,30.0,Goalkeeper,AC Milan,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Levante,Miguel Ángel,28.0,Defensive Midfield,Real Betis,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+UD Almería,Álvaro Negredo,21.0,Centre-Forward,Spain,3.00m,in,Summer,3,Primera Division,2007,2007/2008
+UD Almería,Diego Alves,22.0,Goalkeeper,South America,2.50m,in,Summer,"2,5",Primera Division,2007,2007/2008
+UD Almería,Felipe Melo,24.0,Defensive Midfield,Racing,1.80m,in,Summer,"1,8",Primera Division,2007,2007/2008
+UD Almería,Julio dos Santos,24.0,Central Midfield,Bayern Munich,Loan fee:950Th.,in,Summer,"0,95",Primera Division,2007,2007/2008
+UD Almería,Natalio,22.0,Centre-Forward,CD Castellón,500Th.,in,Summer,"0,5",Primera Division,2007,2007/2008
+UD Almería,Juanito,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+UD Almería,Iriney,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+UD Almería,Juanma Ortiz,25.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+UD Almería,Rubén Pulido,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+UD Almería,Aitor López Rekarte,31.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+UD Almería,David Cobeño,25.0,Goalkeeper,Sevilla FC,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+UD Almería,Mathías Vidangossy,20.0,Attacking Midfield,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Recr. Huelva,Florent Sinama-Pongolle,22.0,Second Striker,Uk,4.00m,in,Summer,4,Primera Division,2007,2007/2008
+Recr. Huelva,Carlos Martins,25.0,Attacking Midfield,Sporting CP,2.20m,in,Summer,"2,2",Primera Division,2007,2007/2008
+Recr. Huelva,Ersen Martin,28.0,Centre-Forward,Turkey,1.10m,in,Summer,"1,1",Primera Division,2007,2007/2008
+Recr. Huelva,Beto,31.0,Centre-Back,G. Bordeaux,750Th.,in,Summer,"0,75",Primera Division,2007,2007/2008
+Recr. Huelva,Stefano Sorrentino,28.0,Goalkeeper,Central_EU,Loan fee:340Th.,in,Summer,"0,34",Primera Division,2007,2007/2008
+Recr. Huelva,Martín Cáceres,20.0,Centre-Back,Villarreal,Loan fee:150Th.,in,Summer,"0,15",Primera Division,2007,2007/2008
+Recr. Huelva,Javi Guerrero,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,José Ignacio Zahinos,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,Javier Camuñas,26.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,Quique Álvarez,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,Gerard López,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,Edwin Congo,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,Mariano Barbosa,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Recr. Huelva,José Calvo,26.0,Right-Back,South America,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Recr. Huelva,Marquitos,20.0,Attacking Midfield,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Recr. Huelva,Silvestre Varela,22.0,Left Winger,Sporting CP,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Villarreal,Giuseppe Rossi,20.0,Centre-Forward,Man Utd,10.00m,in,Summer,10,Primera Division,2007,2007/2008
+Villarreal,Rio Mavuba,23.0,Defensive Midfield,G. Bordeaux,8.00m,in,Summer,8,Primera Division,2007,2007/2008
+Villarreal,Diego López,25.0,Goalkeeper,Real Madrid,7.00m,in,Summer,7,Primera Division,2007,2007/2008
+Villarreal,Ángel López,26.0,Right-Back,Spain,6.00m,in,Summer,6,Primera Division,2007,2007/2008
+Villarreal,Santi Cazorla,22.0,Central Midfield,Recr. Huelva,1.20m,in,Summer,"1,2",Primera Division,2007,2007/2008
+Villarreal,Martín Cáceres,20.0,Centre-Back,South America,900Th.,in,Summer,"0,9",Primera Division,2007,2007/2008
+Villarreal,Mathías Vidangossy,20.0,Attacking Midfield,South America,800Th.,in,Summer,"0,8",Primera Division,2007,2007/2008
+Villarreal,Diego Godín,21.0,Centre-Back,Nacional,800Th.,in,Summer,"0,8",Primera Division,2007,2007/2008
+Villarreal,Jon Dahl Tomasson,30.0,Centre-Forward,VfB Stuttgart,500Th.,in,Summer,"0,5",Primera Division,2007,2007/2008
+Villarreal,Leonardo Sigali,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Villarreal,Joan Capdevila,29.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Valencia,Manuel Fernandes,21.0,Attacking Midfield,Benfica,18.00m,in,Summer,18,Primera Division,2007,2007/2008
+Valencia,Nikola Zigic,26.0,Centre-Forward,Racing,14.00m,in,Summer,14,Primera Division,2007,2007/2008
+Valencia,Javier Arizmendi,23.0,Centre-Forward,Dep. La Coruña,12.00m,in,Summer,12,Primera Division,2007,2007/2008
+Valencia,Alexis Ruano,21.0,Centre-Back,Getafe,6.00m,in,Summer,6,Primera Division,2007,2007/2008
+Valencia,Sunny,18.0,Defensive Midfield,Spain,1.80m,in,Summer,"1,8",Primera Division,2007,2007/2008
+Valencia,Filip Krstic,18.0,Centre-Back,Germany,350Th.,in,Summer,"0,35",Primera Division,2007,2007/2008
+Valencia,Juan Mata,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Valencia,Timo Hildebrand,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Valencia,Iván Helguera,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Valencia,Manu Micó,20.0,Left-Back,Benidorm,?,in,Summer,0.01,Primera Division,2007,2007/2008
+Dep. La Coruña,Andrés Guardado,20.0,Central Midfield,North America,7.00m,in,Summer,7,Primera Division,2007,2007/2008
+Dep. La Coruña,Aythami Artiles,21.0,Centre-Back,Spain,950Th.,in,Summer,"0,95",Primera Division,2007,2007/2008
+Dep. La Coruña,Ángel Lafita,22.0,Left Winger,Real Zaragoza,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Espanyol,Milan Smiljanic,20.0,Defensive Midfield,Central_EU,3.00m,in,Summer,3,Primera Division,2007,2007/2008
+Espanyol,Valdo,26.0,Right Winger,CA Osasuna,1.50m,in,Summer,"1,5",Primera Division,2007,2007/2008
+Espanyol,Clemente Rodríguez,25.0,Left-Back,Russia,Loan fee:600Th.,in,Summer,"0,6",Primera Division,2007,2007/2008
+Espanyol,Iñaki Lafuente,31.0,Goalkeeper,Athletic,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Racing,Mémé Tchité,23.0,Centre-Forward,Belgium,7.50m,in,Summer,"7,5",Primera Division,2007,2007/2008
+Racing,Ebi Smolarek,26.0,Centre-Forward,Bor. Dortmund,4.50m,in,Summer,"4,5",Primera Division,2007,2007/2008
+Racing,Fabio Coltorti,26.0,Goalkeeper,Uk,880Th.,in,Summer,"0,88",Primera Division,2007,2007/2008
+Racing,César Navas,27.0,Centre-Back,Spain,300Th.,in,Summer,"0,3",Primera Division,2007,2007/2008
+Racing,Daniel Szetela,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Racing,Brian Sarmiento,17.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Racing,Aldo Duscher,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Racing,Jorge López,28.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Racing,Jordi López,26.0,Central Midfield,RCD Mallorca,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Racing,Pablo Álvarez,27.0,Right Winger,Dep. La Coruña,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Racing,Sergio Sánchez,21.0,Centre-Back,Espanyol,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Atlético Madrid,Diego Forlán,28.0,Centre-Forward,Villarreal,21.00m,in,Summer,21,Primera Division,2007,2007/2008
+Atlético Madrid,Simão,27.0,Left Winger,Benfica,20.00m,in,Summer,20,Primera Division,2007,2007/2008
+Atlético Madrid,Raúl García,20.0,Centre-Forward,CA Osasuna,13.00m,in,Summer,13,Primera Division,2007,2007/2008
+Atlético Madrid,José Antonio Reyes,23.0,Right Winger,Arsenal,12.00m,in,Summer,12,Primera Division,2007,2007/2008
+Atlético Madrid,Cléber Santana,26.0,Central Midfield,South America,8.00m,in,Summer,8,Primera Division,2007,2007/2008
+Atlético Madrid,Luis García,29.0,Right Winger,Uk,4.00m,in,Summer,4,Primera Division,2007,2007/2008
+Atlético Madrid,Thiago Motta,24.0,Defensive Midfield,Barcelona,2.00m,in,Summer,2,Primera Division,2007,2007/2008
+Atlético Madrid,Christian Abbiati,29.0,Goalkeeper,AC Milan,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2007,2007/2008
+Real Madrid,Arjen Robben,23.0,Right Winger,Chelsea,35.00m,in,Summer,35,Primera Division,2007,2007/2008
+Real Madrid,Pepe,24.0,Centre-Back,FC Porto,30.00m,in,Summer,30,Primera Division,2007,2007/2008
+Real Madrid,Wesley Sneijder,23.0,Attacking Midfield,Ajax,27.00m,in,Summer,27,Primera Division,2007,2007/2008
+Real Madrid,Royston Drenthe,20.0,Left Winger,Feyenoord,14.00m,in,Summer,14,Primera Division,2007,2007/2008
+Real Madrid,Gabriel Heinze,29.0,Centre-Back,Man Utd,12.00m,in,Summer,12,Primera Division,2007,2007/2008
+Real Madrid,Christoph Metzelder,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Madrid,Javier Saviola,25.0,Second Striker,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Madrid,Jerzy Dudek,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Sevilla FC,Arouna Koné,23.0,Centre-Forward,PSV Eindhoven,12.00m,in,Summer,12,Primera Division,2007,2007/2008
+Sevilla FC,Aquivaldo Mosquera,26.0,Centre-Back,North America,8.00m,in,Summer,8,Primera Division,2007,2007/2008
+Sevilla FC,Tom De Mul,21.0,Right Midfield,Ajax,5.00m,in,Summer,5,Primera Division,2007,2007/2008
+Sevilla FC,Seydou Keita,27.0,Central Midfield,Lens,4.00m,in,Summer,4,Primera Division,2007,2007/2008
+Sevilla FC,Morgan De Sanctis,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Sevilla FC,Khalid Boulahrouz,25.0,Centre-Back,Chelsea,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Valladolid,Jonathan Sesma,28.0,Left Winger,Spain,1.30m,in,Summer,"1,3",Primera Division,2007,2007/2008
+Real Valladolid,Fabián Estoyanoff,24.0,Right Midfield,Valencia,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2007,2007/2008
+Real Valladolid,Daniel Cifuentes,26.0,Centre-Back,Spain,100Th.,in,Summer,"0,1",Primera Division,2007,2007/2008
+Real Valladolid,Ángel Vivar Dorado,33.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Valladolid,Alexis,33.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Valladolid,Bartholomew Ogbeche,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Valladolid,Diego Camacho,30.0,Defensive Midfield,Levante,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Valladolid,Ludovic Butelle,24.0,Goalkeeper,Valencia,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+CA Osasuna,Dady,25.0,Centre-Forward,Belenenses,3.50m,in,Summer,"3,5",Primera Division,2007,2007/2008
+CA Osasuna,Javi García,20.0,Defensive Midfield,Spain,2.50m,in,Summer,"2,5",Primera Division,2007,2007/2008
+CA Osasuna,Jaroslav Plasil,25.0,Central Midfield,Monaco,2.20m,in,Summer,"2,2",Primera Division,2007,2007/2008
+CA Osasuna,Walter Pandiani,31.0,Centre-Forward,Espanyol,1.85m,in,Summer,"1,85",Primera Division,2007,2007/2008
+CA Osasuna,Javier Portillo,25.0,Centre-Forward,Spain,750Th.,in,Summer,"0,75",Primera Division,2007,2007/2008
+CA Osasuna,Nicolás Medina,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+CA Osasuna,Andrés Fernández,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+CA Osasuna,Xavier Margairaz,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+CA Osasuna,Carlos Vela,18.0,Right Winger,Arsenal,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+CA Osasuna,Hugo Viana,24.0,Central Midfield,Valencia,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+RCD Mallorca,Dani Güiza,26.0,Centre-Forward,Getafe,5.00m,in,Summer,5,Primera Division,2007,2007/2008
+RCD Mallorca,Chory Castro,22.0,Left Winger,Nacional,2.50m,in,Summer,"2,5",Primera Division,2007,2007/2008
+RCD Mallorca,Germán Lux,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+RCD Mallorca,Francisco Molinero,21.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+RCD Mallorca,Pierre Webó,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+RCD Mallorca,Borja Valero,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+RCD Mallorca,David Navarro,27.0,Centre-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Murcia,Fernando Baiano,28.0,Centre-Forward,Spain,5.00m,in,Summer,5,Primera Division,2007,2007/2008
+Real Murcia,Henok Goitom,22.0,Centre-Forward,Spain,3.00m,in,Summer,3,Primera Division,2007,2007/2008
+Real Murcia,José María Movilla,32.0,Defensive Midfield,Real Zaragoza,600Th.,in,Summer,"0,6",Primera Division,2007,2007/2008
+Real Murcia,Paco Gallardo,27.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Murcia,Iñigo Vélez,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Murcia,Álvaro Mejía,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Murcia,Fabián Carini,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Murcia,Rosinei,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Murcia,Quique de Lucas,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Murcia,Pablo García,30.0,Defensive Midfield,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Murcia,Mario Regueiro,28.0,Left Winger,Valencia,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Murcia,Curro Torres,30.0,Right-Back,Valencia,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Murcia,César Arzo,21.0,Centre-Back,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Betis,Mariano Pavone,25.0,Centre-Forward,South America,6.80m,in,Summer,"6,8",Primera Division,2007,2007/2008
+Real Betis,Mark González,23.0,Left Winger,Uk,6.00m,in,Summer,6,Primera Division,2007,2007/2008
+Real Betis,Ricardo,31.0,Goalkeeper,Sporting CP,4.00m,in,Summer,4,Primera Division,2007,2007/2008
+Real Betis,Robert,26.0,Centre-Forward,PSV Eindhoven,3.50m,in,Summer,"3,5",Primera Division,2007,2007/2008
+Real Betis,Lima,22.0,Centre-Back,South America,2.50m,in,Summer,"2,5",Primera Division,2007,2007/2008
+Real Betis,Branko Ilic,24.0,Centre-Back,Central_EU,1.50m,in,Summer,"1,5",Primera Division,2007,2007/2008
+Real Betis,Marko Babic,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Betis,José Mari,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Betis,Leandro Somoza,26.0,Defensive Midfield,Villarreal,loan transfer,in,Summer,0.01,Primera Division,2007,2007/2008
+Real Zaragoza,Matuzalém,27.0,Defensive Midfield,Est_EU,6.80m,in,Summer,"6,8",Primera Division,2007,2007/2008
+Real Zaragoza,Carlos Diogo,23.0,Right-Back,Real Madrid,4.50m,in,Summer,"4,5",Primera Division,2007,2007/2008
+Real Zaragoza,Andrés D'Alessandro,26.0,Attacking Midfield,VfL Wolfsburg,3.50m,in,Summer,"3,5",Primera Division,2007,2007/2008
+Real Zaragoza,Peter Luccin,28.0,Defensive Midfield,Atlético Madrid,2.80m,in,Summer,"2,8",Primera Division,2007,2007/2008
+Real Zaragoza,Ricardo Oliveira,27.0,Centre-Forward,AC Milan,Loan fee:2.00m,in,Summer,2,Primera Division,2007,2007/2008
+Real Zaragoza,Javier Paredes,24.0,Left-Back,Getafe,1.50m,in,Summer,"1,5",Primera Division,2007,2007/2008
+Real Zaragoza,Gabi,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Zaragoza,Roberto Ayala,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Zaragoza,Francisco Pavón,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Zaragoza,Javier López Vallejo,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2007,2007/2008
+Real Zaragoza,Djaid Kasri,20.0,Central Midfield,France,?,in,Summer,0.01,Primera Division,2007,2007/2008
+Barcelona,Thierry Henry,29.0,Centre-Forward,Arsenal,24.00m,in,Summer,24,Primera Division,2007,2007/2008
+Barcelona,Gabriel Milito,26.0,Centre-Back,Real Zaragoza,20.00m,in,Summer,20,Primera Division,2007,2007/2008
+Barcelona,Éric Abidal,27.0,Left-Back,Olympique Lyon,15.00m,in,Summer,15,Primera Division,2007,2007/2008
+Barcelona,Yaya Touré,24.0,Central Midfield,Monaco,9.00m,in,Summer,9,Primera Division,2007,2007/2008
+Athletic,Armando Ribeiro,36.0,Goalkeeper,Spain,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Getafe,Jaime Gavilán,22.0,Left Winger,Valencia,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+UD Almería,Guilherme Santos,19.0,Left-Back,Portugal,1.50m,in,Winter,"1,5",Primera Division,2007,2007/2008
+UD Almería,Veljko Paunovic,30.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2007,2007/2008
+Recr. Huelva,Marco Ruben,21.0,Centre-Forward,Villarreal,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Villarreal,Marco Ruben,21.0,Centre-Forward,South America,4.80m,in,Winter,"4,8",Primera Division,2007,2007/2008
+Villarreal,Sebastián Eguren,27.0,Defensive Midfield,North_EU,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Valencia,Éver Banega,19.0,Central Midfield,South America,18.00m,in,Winter,18,Primera Division,2007,2007/2008
+Valencia,Hedwiges Maduro,22.0,Defensive Midfield,Ajax,2.00m,in,Winter,2,Primera Division,2007,2007/2008
+Dep. La Coruña,Christian Wilhelmsson,28.0,Right Winger,France,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Espanyol,Javi Ruiz,27.0,Goalkeeper,CD Adra,?,in,Winter,0.01,Primera Division,2007,2007/2008
+Espanyol,Ewerthon,26.0,Centre-Forward,Real Zaragoza,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Racing,Damián Ísmodes,18.0,Left Winger,South America,350Th.,in,Winter,"0,35",Primera Division,2007,2007/2008
+Racing,Sergio Ortemán,29.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Real Valladolid,Vladimir Manchev,30.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2007,2007/2008
+Real Valladolid,Marcos Aguirre,23.0,Right Midfield,South America,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+CA Osasuna,Martín Astudillo,30.0,Central Midfield,Spain,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+RCD Mallorca,Lionel Scaloni,29.0,Right-Back,Lazio,loan transfer,in,Winter,0.01,Primera Division,2007,2007/2008
+Real Murcia,Abderrahman Kabous,24.0,Defensive Midfield,Central_EU,900Th.,in,Winter,"0,9",Primera Division,2007,2007/2008
+Real Murcia,David de Coz,27.0,Right-Back,Spain,230Th.,in,Winter,"0,23",Primera Division,2007,2007/2008
+Barcelona,José Manuel Pinto,32.0,Goalkeeper,Spain,Loan fee:500Th.,in,Winter,"0,5",Primera Division,2007,2007/2008
+Vit. Guimarães,Sinisa Radanovic,27.0,Centre-Back,Central_EU,220Th.,in,Summer,"0,22",Liga Nos,2007,2007/2008
+Vit. Guimarães,Fajardo,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vit. Guimarães,Márcio Martins,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vit. Guimarães,Andrézinho,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vit. Guimarães,Miljan Mrdakovic,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vit. Guimarães,João Alves,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vit. Guimarães,Carlitos,30.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vit. Guimarães,Alan,27.0,Right Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vit. Guimarães,Rabiola,18.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vit. Guimarães,Felipe Conceição,27.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vit. Guimarães,Paulo Henrique,20.0,Defensive Midfield,JMalucelli,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vit. Guimarães,Luciano Amaral,24.0,Left-Back,Villa Rio,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+FC Porto,Ernesto Farías,27.0,Centre-Forward,South America,4.00m,in,Summer,4,Liga Nos,2007,2007/2008
+FC Porto,Milan Stepanov,24.0,Centre-Back,Turkey,3.50m,in,Summer,"3,5",Liga Nos,2007,2007/2008
+FC Porto,Mario Bolatti,22.0,Defensive Midfield,South America,2.00m,in,Summer,2,Liga Nos,2007,2007/2008
+FC Porto,Edgar Silva,20.0,Centre-Forward,Portugal,2.00m,in,Summer,2,Liga Nos,2007,2007/2008
+FC Porto,Leandro Lima,21.0,Attacking Midfield,South America,1.50m,in,Summer,"1,5",Liga Nos,2007,2007/2008
+FC Porto,Przemyslaw Kazmierczak,25.0,Defensive Midfield,Central_EU,1.40m,in,Summer,"1,4",Liga Nos,2007,2007/2008
+FC Porto,Mariano González,26.0,midfield,US Palermo,Loan fee:1.20m,in,Summer,"1,2",Liga Nos,2007,2007/2008
+FC Porto,Luis Aguiar,21.0,Central Midfield,Liverpool FC,900Th.,in,Summer,"0,9",Liga Nos,2007,2007/2008
+FC Porto,Fernando,19.0,Defensive Midfield,South America,720Th.,in,Summer,"0,72",Liga Nos,2007,2007/2008
+FC Porto,Rabiola,17.0,Centre-Forward,Vit. Guimarães,650Th.,in,Summer,"0,65",Liga Nos,2007,2007/2008
+FC Porto,Jorge Fucile,22.0,Right-Back,Liverpool FC,400Th.,in,Summer,"0,4",Liga Nos,2007,2007/2008
+FC Porto,Nuno Espírito Santo,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+FC Porto,Lino,30.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Sporting CP,Milan Purovic,22.0,Centre-Forward,Central_EU,2.15m,in,Summer,"2,15",Liga Nos,2007,2007/2008
+Sporting CP,Vladimir Stojkovic,23.0,Goalkeeper,France,2.00m,in,Summer,2,Liga Nos,2007,2007/2008
+Sporting CP,Simon Vukcevic,21.0,Right Winger,Russia,2.00m,in,Summer,2,Liga Nos,2007,2007/2008
+Sporting CP,Celsinho,18.0,Attacking Midfield,Russia,2.00m,in,Summer,2,Liga Nos,2007,2007/2008
+Sporting CP,Leandro Romagnoli,26.0,Attacking Midfield,North America,1.50m,in,Summer,"1,5",Liga Nos,2007,2007/2008
+Sporting CP,Marat Izmailov,24.0,Central Midfield,Russia,Loan fee:250Th.,in,Summer,"0,25",Liga Nos,2007,2007/2008
+Sporting CP,Gladstone,22.0,Centre-Back,South America,Loan fee:250Th.,in,Summer,"0,25",Liga Nos,2007,2007/2008
+Sporting CP,Pedro Silva,26.0,Right-Back,South America,200Th.,in,Summer,"0,2",Liga Nos,2007,2007/2008
+Sporting CP,Marián Had,24.0,Centre-Back,Russia,Loan fee:100Th.,in,Summer,"0,1",Liga Nos,2007,2007/2008
+Sporting CP,Derlei,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Sporting CP,Luis Páez,17.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Benfica,Óscar Cardozo,24.0,Centre-Forward,South America,11.67m,in,Summer,"11,67",Liga Nos,2007,2007/2008
+Benfica,Ángel Di María,19.0,Right Winger,South America,8.00m,in,Summer,8,Liga Nos,2007,2007/2008
+Benfica,Maximiliano Pereira,23.0,Right-Back,South America,5.70m,in,Summer,"5,7",Liga Nos,2007,2007/2008
+Benfica,Gonzalo Bergessio,22.0,Centre-Forward,South America,2.50m,in,Summer,"2,5",Liga Nos,2007,2007/2008
+Benfica,Edcarlos,22.0,Centre-Back,South America,1.80m,in,Summer,"1,8",Liga Nos,2007,2007/2008
+Benfica,Freddy Adu,18.0,Attacking Midfield,North America,1.50m,in,Summer,"1,5",Liga Nos,2007,2007/2008
+Benfica,Fábio Coentrão,19.0,Left-Back,Portugal,900Th.,in,Summer,"0,9",Liga Nos,2007,2007/2008
+Benfica,Luís Filipe,28.0,Right-Back,SC Braga,500Th.,in,Summer,"0,5",Liga Nos,2007,2007/2008
+Benfica,David Luiz,20.0,Centre-Back,South America,500Th.,in,Summer,"0,5",Liga Nos,2007,2007/2008
+Benfica,Andrés Díaz,24.0,Right Midfield,South America,500Th.,in,Summer,"0,5",Liga Nos,2007,2007/2008
+Benfica,Gilles Binya,22.0,Centre-Back,Africa Sports,300Th.,in,Summer,"0,3",Liga Nos,2007,2007/2008
+Benfica,Marco Zoro,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Benfica,Hans Jörg Butt,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Benfica,Sreten Sretenovic,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Benfica,Cristian Rodríguez,21.0,Central Midfield,Paris SG,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Benfica,Jaílson,26.0,Centre-Forward,Russia,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Roland Linz,26.0,Centre-Forward,Boavista,2.00m,in,Summer,2,Liga Nos,2007,2007/2008
+SC Braga,João Pereira,23.0,Right-Back,Portugal,400Th.,in,Summer,"0,4",Liga Nos,2007,2007/2008
+SC Braga,Philco,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+SC Braga,Hussein Yasser,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+SC Braga,Bruno Tiago,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+SC Braga,Pawel Kieszek,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+SC Braga,Zé Manuel,32.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+SC Braga,César Peixoto,27.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+SC Braga,Jahirsino Baylón,18.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Jorginho,30.0,Attacking Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Anilton Júnior,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Wender,32.0,Left Winger,Sporting CP,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Roberto Brum,28.0,Defensive Midfield,Coimbra,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Jaílson,26.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+SC Braga,Lenny,19.0,Right Winger,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Belenenses,Weldon,27.0,Centre-Forward,South America,Loan fee:200Th.,in,Summer,"0,2",Liga Nos,2007,2007/2008
+Belenenses,Sandro Moreira,20.0,Central Midfield,Odivelas,100Th.,in,Summer,"0,1",Liga Nos,2007,2007/2008
+Belenenses,Evandro Paulista,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Belenenses,Evandro Roncatto,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Belenenses,Hugo Alcântara,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Belenenses,Nicolás Muñoz,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Belenenses,Mendonça,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Belenenses,Areias,30.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Belenenses,Thiago Schmidt,23.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Belenenses,João Paulo,22.0,Centre-Forward,Gloria,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Belenenses,Vukasin Devic,23.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Belenenses,Rafael Bastos,22.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Belenenses,Weverson,19.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Belenenses,Gabriel Gómez,23.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,Dédé,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Fernando Pilar,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Chico Silva,29.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Rovérsio,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Valdir,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Paulo Gomes,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Furtado,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Filipe Anunciacão,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Wesley,26.0,Second Striker,Spain,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,Édson Di,27.0,attack,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,Márcio Carioca,24.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,Kiko,28.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Filipe Oliveira,23.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leixões,Jorge Baptista,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leixões,António Livramento,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leixões,Paulo Machado,21.0,Central Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Vieirinha,21.0,Left-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Diogo Valente,22.0,Left Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Udo Nwoko,22.0,Attacking Midfield,Italy,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Nuno Diogo,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Paulo Vinícius,22.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Tales Schütz,25.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leixões,Ezequias,26.0,Left-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,Dani,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leiria,Filipe Machado,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leiria,Maciel,28.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leiria,Toñito,30.0,Right Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leiria,João Paulo,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leiria,Tiago,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Leiria,Éder Gaúcho,29.0,Centre-Back,Sertãozinho,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,Rafael Fava,24.0,Goalkeeper,CA Juventus,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,Bruno Miguel,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,Patrick,26.0,Left-Back,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,Ousséni Zongo,22.0,Defensive Midfield,Italy,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,Antoni Lukasiewicz,24.0,Defensive Midfield,Spain,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Leiria,André Marques,20.0,Left-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Nacional,Felipe Lopes,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Nacional,Juninho Arcanjo,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Nacional,Marcelo Lipatín,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Nacional,João Coimbra,21.0,Attacking Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Nacional,João Moreira,21.0,Centre-Forward,Valencia,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Nacional,Edu Sales,29.0,Centre-Forward,France,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Nacional,Fellype Gabriel,21.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Cardoso,22.0,Centre-Back,Comercial-SP,150Th.,in,Summer,"0,15",Liga Nos,2007,2007/2008
+CF Estrela ,Vítor Moreno,26.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+CF Estrela ,Fábio Nunes,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+CF Estrela ,Jeremiah Ani,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+CF Estrela ,Wagnão,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+CF Estrela ,Maurício,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+CF Estrela ,Hélder Cabral,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+CF Estrela ,Fernando,20.0,Defensive Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Marcelo Goianira,26.0,Defensive Midfield,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Pedro Pereira,23.0,Right Winger,SC Braga,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Mossoró,22.0,Centre-Forward,Friburguense-RJ,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Luis Aguiar,21.0,Central Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Mateus Borges,24.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Sambégou Bangoura,25.0,Centre-Forward,Uk,405Th.,in,Summer,"0,405",Liga Nos,2007,2007/2008
+Boavista,Rafal Grzelak,25.0,Attacking Midfield,Central_EU,350Th.,in,Summer,"0,35",Liga Nos,2007,2007/2008
+Boavista,Mateus,23.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,Rissutt,30.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,David Fleurival,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,Jorge Ribeiro,25.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,Marcelão,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,Olufemi Oluyi Oladapo,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,Edgar,29.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Boavista,Mourtala Diakité,26.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Ikechukwu Obi,22.0,Centre-Forward,Asia,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Milan Gajic,20.0,Central Midfield,Central_EU,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Laionel,21.0,Right Winger,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Zé Kalanga,23.0,Right Winger,Est_EU,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Moisés Moura,28.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Boavista,Milos Bosancic,19.0,Attacking Midfield,Central_EU,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Bruno Fogaça,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Marítimo,Antoine van der Linden,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Marítimo,Bruno,33.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Marítimo,Ariza Makukula,26.0,Centre-Forward,Sevilla FC,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Marcelo Boeck,22.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Edder Pérez,23.0,Left-Back,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Ricardo Esteves,27.0,Right-Back,Reggina,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Márcio Mossoró,24.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Fábio Felicio,25.0,Central Midfield,Russia,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Marítimo,Ediglê,29.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Naval,Marcelinho,22.0,Centre-Forward,South America,380Th.,in,Summer,"0,38",Liga Nos,2007,2007/2008
+Naval,Bruno Cazarine,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Fabricio Lopes,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Diego Ângelo,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Nicolas Godemeche,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Davide Dias,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Eanes,26.0,midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Tiago Freitas,26.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Wandeir,27.0,Second Striker,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Dani,33.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Naval,Bruno Lazaroni,26.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Naval,Igor Rocha,23.0,Left-Back,Boavista,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Naval,Felipe,22.0,Central Midfield,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Naval,Café,22.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Naval,Hugo Santos,24.0,Left Winger,Operário Lagoa,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Licá,18.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Coimbra,Markus Berger,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Coimbra,Lito,32.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Coimbra,Pedro Costa,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Coimbra,Orlando,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Coimbra,Aguinaldo,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Coimbra,William Kwabena Tiero,26.0,Attacking Midfield,Africa Sports,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Gaoussou Fofana,23.0,Right Winger,Sabé,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Patrick Vouho,20.0,Centre-Forward,Sabé,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Pedrinho,22.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Horacio Peralta,25.0,Centre-Forward,Nacional,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Ricardo Nunes,24.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Rui Nereu,21.0,Goalkeeper,Benfica,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Cris,23.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Milos Pavlovic,23.0,Defensive Midfield,Central_EU,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Pablo Castro,21.0,Left-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Coimbra,Ivanildo,21.0,Right Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Léo Bonfim,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Leandro Branco,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Léo Macaé,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Edinho,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Ricardo Chaves,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Elias,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Jorginho,29.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2007,2007/2008
+Vitória Setúbal,Eduardo,24.0,Goalkeeper,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Steve Antunes,16.0,Central Midfield,Central_EU,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Paulinho Teles,23.0,Right-Back,South America,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Robson,23.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Cláudio Pitbull,25.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Filipe Gonçalves,22.0,Defensive Midfield,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Bruno Gama,19.0,Left Winger,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Matheus,24.0,Right Winger,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2007,2007/2008
+Vit. Guimarães,Roberto,29.0,Centre-Forward,Portugal,170Th.,in,Winter,"0,17",Liga Nos,2007,2007/2008
+Vit. Guimarães,Marco Aurélio,21.0,Left Winger,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+FC Porto,Edson Henrique,20.0,Centre-Back,South America,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Sporting CP,Rodrigo Tiuí,22.0,Centre-Forward,South America,?,in,Winter,0.01,Liga Nos,2007,2007/2008
+Sporting CP,Leandro Grimi,22.0,Left-Back,AC Milan,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Benfica,Ariza Makukula,26.0,Centre-Forward,Sevilla FC,3.50m,in,Winter,"3,5",Liga Nos,2007,2007/2008
+Benfica,Laszlo Sepsi,20.0,Left-Back,Est_EU,1.50m,in,Winter,"1,5",Liga Nos,2007,2007/2008
+Benfica,Rafik Halliche,21.0,Centre-Back,Africa Sports,300Th.,in,Winter,"0,3",Liga Nos,2007,2007/2008
+SC Braga,Miguelito,26.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+SC Braga,Pablo Contreras,29.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+SC Braga,Breno,21.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Belenenses,Edgaras Jankauskas,32.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Belenenses,Júlio César,21.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Belenenses,Marco Ferreira,29.0,Right Winger,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Belenenses,Edson Henrique,20.0,Centre-Back,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Belenenses,Albert Meyong,27.0,Centre-Forward,Levante,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,Carlos Carneiro,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Paços Ferreira,Paulo Sousa,32.0,Defensive Midfield,Est_EU,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,William,25.0,Centre-Forward,Cabofriense,?,in,Winter,0.01,Liga Nos,2007,2007/2008
+Paços Ferreira,Fábio Paim,19.0,Right Midfield,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Leixões,Jaime Júnior,28.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Leixões,Castanheira,30.0,Central Midfield,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Leixões,João Moreira,21.0,Centre-Forward,Valencia,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Leixões,Marques,22.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Leiria,Arvid Smit,27.0,Central Midfield,Marítimo,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Leiria,Marcelinho,29.0,Centre-Forward,Cabofriense,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Nacional,Edson Sitta,24.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Nacional,Fábio Coentrão,19.0,Left-Back,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Nacional,Rafik Halliche,21.0,Centre-Back,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Nacional,Reinaldo,23.0,Attacking Midfield,South America,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Nacional,Fabiano Oliveira,20.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Rui Pedro,19.0,Attacking Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Celestino,20.0,Defensive Midfield,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Giancarlo,25.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+CF Estrela ,Mendonça,25.0,Right Winger,Belenenses,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Boavista,Luís Loureiro,31.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Boavista,Araújo,19.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Boavista,Brayan Angulo,18.0,Left-Back,South America,?,in,Winter,0.01,Liga Nos,2007,2007/2008
+Boavista,Hussein Yasser,25.0,Attacking Midfield,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Marítimo,João Guilherme,21.0,Centre-Back,South America,140Th.,in,Winter,"0,14",Liga Nos,2007,2007/2008
+Marítimo,Anderson Gomes,22.0,Right Winger,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Marítimo,André Pinto,29.0,Centre-Forward,Asia,?,in,Winter,0.01,Liga Nos,2007,2007/2008
+Marítimo,Adriano,28.0,Defensive Midfield,South America,?,in,Winter,0.01,Liga Nos,2007,2007/2008
+Naval,Marinho,24.0,Right Winger,Portugal,100Th.,in,Winter,"0,1",Liga Nos,2007,2007/2008
+Coimbra,Cléber,25.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2007,2007/2008
+Coimbra,Edgar Silva,20.0,Centre-Forward,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Coimbra,Irineu,24.0,Centre-Back,South America,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Coimbra,Luis Aguiar,22.0,Central Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2007,2007/2008
+Vitória Setúbal,Bruno Severino,21.0,Right Winger,Portugal,?,in,Winter,0.01,Liga Nos,2007,2007/2008
+PSV Eindhoven,Danny Koevermans,28.0,Centre-Forward,AZ Alkmaar,6.90m,in,Summer,"6,9",Eredivisie,2007,2007/2008
+PSV Eindhoven,Danko Lazovic,24.0,Second Striker,Vitesse,6.00m,in,Summer,6,Eredivisie,2007,2007/2008
+PSV Eindhoven,Cássio,20.0,Goalkeeper,South America,1.00m,in,Summer,1,Eredivisie,2007,2007/2008
+PSV Eindhoven,Kenneth Pérez,32.0,Centre-Forward,Ajax,1.00m,in,Summer,1,Eredivisie,2007,2007/2008
+PSV Eindhoven,Tom van der Leegte,30.0,Defensive Midfield,VfL Wolfsburg,500Th.,in,Summer,"0,5",Eredivisie,2007,2007/2008
+PSV Eindhoven,Mike Zonneveld,26.0,Left-Back,NAC Breda,450Th.,in,Summer,"0,45",Eredivisie,2007,2007/2008
+PSV Eindhoven,Slobodan Rajkovic,18.0,Centre-Back,Chelsea,Loan fee:250Th.,in,Summer,"0,25",Eredivisie,2007,2007/2008
+PSV Eindhoven,Jonathan Reis,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+PSV Eindhoven,Bas Roorda,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Ajax,Albert Luque,29.0,Left Winger,Newcastle,8.00m,in,Summer,8,Eredivisie,2007,2007/2008
+Ajax,Luis Suárez,20.0,Centre-Forward,FC Groningen,7.50m,in,Summer,"7,5",Eredivisie,2007,2007/2008
+Ajax,Kennedy,26.0,Right Midfield,Twente FC,1.30m,in,Summer,"1,3",Eredivisie,2007,2007/2008
+Ajax,Dennis Rommedahl,28.0,Right Winger,Uk,1.02m,in,Summer,"1,02",Eredivisie,2007,2007/2008
+Ajax,Jürgen Colin,26.0,Centre-Back,Uk,150Th.,in,Summer,"0,15",Eredivisie,2007,2007/2008
+Ajax,Ismael Urzaiz,35.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Ajax,Erik Heijblok,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Ajax,Laurent Delorge,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+AZ Alkmaar,Mounir El Hamdaoui,23.0,Centre-Forward,Willem II,7.00m,in,Summer,7,Eredivisie,2007,2007/2008
+AZ Alkmaar,Graziano Pellè,21.0,Centre-Forward,Italy,6.00m,in,Summer,6,Eredivisie,2007,2007/2008
+AZ Alkmaar,Ari,21.0,Centre-Forward,North_EU,5.00m,in,Summer,5,Eredivisie,2007,2007/2008
+AZ Alkmaar,Boy Waterman,23.0,Goalkeeper,Heerenveen,3.00m,in,Summer,3,Eredivisie,2007,2007/2008
+AZ Alkmaar,Sébastien Pocognoli,19.0,Left-Back,Belgium,2.75m,in,Summer,"2,75",Eredivisie,2007,2007/2008
+AZ Alkmaar,Milano Koenders,20.0,Centre-Back,Netherlands,2.25m,in,Summer,"2,25",Eredivisie,2007,2007/2008
+AZ Alkmaar,Sergio Romero,20.0,Goalkeeper,South America,1.45m,in,Summer,"1,45",Eredivisie,2007,2007/2008
+AZ Alkmaar,Kiki Musampa,30.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Twente FC,Eljero Elia,20.0,Left Winger,Netherlands,200Th.,in,Summer,"0,2",Eredivisie,2007,2007/2008
+Twente FC,Romano Denneboom,26.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Twente FC,Douglas,19.0,Centre-Back,South America,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Twente FC,Alfred Schreuder,34.0,Defensive Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Twente FC,Stein Huysegems,25.0,Centre-Forward,Feyenoord,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Twente FC,Nikolay Mihaylov,19.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Heerenveen,Radoslaw Matusiak,25.0,Centre-Forward,US Palermo,2.70m,in,Summer,"2,7",Eredivisie,2007,2007/2008
+Heerenveen,Kristian Bach Bak,24.0,Right-Back,North_EU,1.50m,in,Summer,"1,5",Eredivisie,2007,2007/2008
+Heerenveen,Niek Loohuis,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Heerenveen,Paulo Henrique,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Heerenveen,Gerald Sibon,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Heerenveen,Roy Beerens,19.0,Right Winger,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Heerenveen,Mark Bloemendaal,19.0,Defensive Midfield,De Graafschap,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Roda JC,Anouar Hadouir,24.0,Attacking Midfield,Willem II,700Th.,in,Summer,"0,7",Eredivisie,2007,2007/2008
+Roda JC,Willem Janssen,20.0,Centre-Back,VVV-Venlo,230Th.,in,Summer,"0,23",Eredivisie,2007,2007/2008
+Roda JC,Cliff Mardulier,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Roda JC,Frank van Kouwen,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Roda JC,Przemyslaw Tyton,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Roda JC,Jeanvion Yulu-Matondo,21.0,Centre-Forward,Belgium,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Roda JC,Roland Lamah,19.0,Left Winger,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Roda JC,Cheik Tioté,21.0,Defensive Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Roda JC,Fatih Sonkaya,26.0,Right-Back,FC Porto,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Feyenoord,Roy Makaay,32.0,Centre-Forward,Bayern Munich,5.00m,in,Summer,5,Eredivisie,2007,2007/2008
+Feyenoord,Tim de Cler,28.0,Left-Back,AZ Alkmaar,2.80m,in,Summer,"2,8",Eredivisie,2007,2007/2008
+Feyenoord,Kevin Hofland,28.0,Centre-Back,VfL Wolfsburg,2.60m,in,Summer,"2,6",Eredivisie,2007,2007/2008
+Feyenoord,Chun-soo Lee,26.0,Second Striker,Asia,2.00m,in,Summer,2,Eredivisie,2007,2007/2008
+Feyenoord,Nuri Sahin,18.0,Defensive Midfield,Bor. Dortmund,Loan fee:100Th.,in,Summer,"0,1",Eredivisie,2007,2007/2008
+Feyenoord,Andwelé Slory,24.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Feyenoord,Giovanni van Bronckhorst,32.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Feyenoord,Michael Mols,36.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Feyenoord,Luigi Bruins,20.0,Central Midfield,Excelsior,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+FC Groningen,Marcus Berg,20.0,Centre-Forward,North_EU,4.00m,in,Summer,4,Eredivisie,2007,2007/2008
+FC Groningen,Tim Matavz,18.0,Centre-Forward,Central_EU,1.10m,in,Summer,"1,1",Eredivisie,2007,2007/2008
+FC Groningen,Fredrik Stenman,24.0,Centre-Back,Bay. Leverkusen,800Th.,in,Summer,"0,8",Eredivisie,2007,2007/2008
+FC Groningen,Luciano,27.0,Goalkeeper,Belgium,400Th.,in,Summer,"0,4",Eredivisie,2007,2007/2008
+FC Utrecht,Kevin Vandenbergh,24.0,Centre-Forward,Belgium,1.60m,in,Summer,"1,6",Eredivisie,2007,2007/2008
+FC Utrecht,Mustapha El Aamrani,21.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NEC Nijmegen,Rein Baart,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NEC Nijmegen,Mark van den Boogaart,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NEC Nijmegen,Ádám Hrepka,20.0,Centre-Forward,Central_EU,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Mark Otten,21.0,Centre-Back,Feyenoord,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Jhonny van Beukering,23.0,Centre-Forward,De Graafschap,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Krisztián Vadócz,22.0,Central Midfield,AJ Auxerre,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Tim Janssen,21.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Jeremain Lens,19.0,Right Winger,AZ Alkmaar,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+NAC Breda,Tim Gilissen,25.0,Defensive Midfield,Netherlands,400Th.,in,Summer,"0,4",Eredivisie,2007,2007/2008
+NAC Breda,Matthew Amoah,26.0,attack,Bor. Dortmund,180Th.,in,Summer,"0,18",Eredivisie,2007,2007/2008
+NAC Breda,Csaba Fehér,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NAC Breda,Jelle ten Rouwelaar,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NAC Breda,Joonas Kolkka,32.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NAC Breda,Tyrone Loran,26.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NAC Breda,Ahmed Ammi,26.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+NAC Breda,Anthony Lurling,30.0,Attacking Midfield,Germany,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+NAC Breda,Rogier Molhoek,26.0,Defensive Midfield,AZ Alkmaar,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+NAC Breda,Donny Gorter,19.0,Left-Back,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Vitesse,Haim Megrelashvili,25.0,Left-Back,Est_EU,200Th.,in,Summer,"0,2",Eredivisie,2007,2007/2008
+Vitesse,Juan Gonzalo Lorca,22.0,Centre-Forward,South America,Loan fee:150Th.,in,Summer,"0,15",Eredivisie,2007,2007/2008
+Vitesse,Harrie Gommans,24.0,Centre-Forward,Netherlands,75Th.,in,Summer,"0,075",Eredivisie,2007,2007/2008
+Vitesse,Cees Keizer,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Vitesse,Robin Faber,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Vitesse,Stephan Veenboer,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Vitesse,Santi Kolk,25.0,Right Winger,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Vitesse,Balázs Rabóczki,29.0,Goalkeeper,Central_EU,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Sparta R.,Jerold Promes,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Olaf Lindenbergh,33.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Sander Westerveld,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Nourdin Boukhari,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Kim Jaggy,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Cor Varkevisser,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Charles Jr. Dissels,22.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Harald Wapenaar,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Jeffrey Schenk,18.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Sparta R.,Arne Slot,28.0,Attacking Midfield,NAC Breda,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Sparta R.,Édouard Duplan,24.0,Left Winger,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Heracles Almelo,Ricky van den Bergh,26.0,Attacking Midfield,Netherlands,800Th.,in,Summer,"0,8",Eredivisie,2007,2007/2008
+Heracles Almelo,Rahim Ouédraogo,26.0,defence,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Heracles Almelo,Emmanuel Boakye,22.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Heracles Almelo,Srdjan Lakic,23.0,Centre-Forward,Hertha BSC,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Heracles Almelo,Tim Breukers,19.0,Right-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Willem II,Maikel Aerts,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Willem II,Darl Douglas,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Willem II,Saïd Boutahar,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Willem II,Angelo Martha,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Willem II,Kenneth Vermeer,21.0,Goalkeeper,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Willem II,Danny Mathijssen,24.0,Defensive Midfield,AZ Alkmaar,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Willem II,Frank Demouge,25.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Willem II,Cristiano,26.0,Centre-Forward,Uk,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Excelsior,Lex van Haeften,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Excelsior,Geert den Ouden,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Excelsior,Tjeerd Korf,24.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+Excelsior,Koen Stam,20.0,Centre-Back,AZ Alkmaar,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Excelsior,Sebastián Pardo,25.0,Central Midfield,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+Excelsior,Adnan Alisic,23.0,Central Midfield,FC Utrecht,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+Excelsior,Leen van Steensel,23.0,Centre-Back,FC Utrecht,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Roy Terschegget,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+De Graafschap,Resit Schuurman,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+De Graafschap,Marcel van der Sloot,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+De Graafschap,Donny de Groot,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+De Graafschap,Will Johnson,20.0,Central Midfield,Heerenveen,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Niklas Tarvajärvi,24.0,Centre-Forward,Heerenveen,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Cerezo Fung a Wing,23.0,Defensive Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Nicolás Cinalli,28.0,Goalkeeper,Italy,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Stephan Keller,28.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Purrel Fränkel,30.0,Left-Back,Vitesse,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Arnar Vidarsson,29.0,Defensive Midfield,Twente FC,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+VVV-Venlo,Nordin Amrabat,20.0,Right Winger,Netherlands,75Th.,in,Summer,"0,075",Eredivisie,2007,2007/2008
+VVV-Venlo,Mike Mampuya,24.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Jason Oost,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Raymond van Driel,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Danny Wintjens,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Ken Leemans,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Michael Timisela,21.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Sandro Calabro,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Kevin Begois,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2007,2007/2008
+VVV-Venlo,Siebe Blondelle,21.0,Centre-Back,Vitesse,loan transfer,in,Summer,0.01,Eredivisie,2007,2007/2008
+VVV-Venlo,Samir El Gaaouiri,23.0,Left Winger,FC Utrecht,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+VVV-Venlo,Adil Auassar,20.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2007,2007/2008
+PSV Eindhoven,Balázs Dzsudzsák,21.0,Central Midfield,Central_EU,2.50m,in,Winter,"2,5",Eredivisie,2007,2007/2008
+Ajax,Bruno Silva,27.0,Right-Back,FC Groningen,3.75m,in,Winter,"3,75",Eredivisie,2007,2007/2008
+Ajax,Rasmus Lindgren,23.0,Centre-Back,FC Groningen,2.50m,in,Winter,"2,5",Eredivisie,2007,2007/2008
+Ajax,Kenneth Pérez,33.0,Centre-Forward,PSV Eindhoven,1.80m,in,Winter,"1,8",Eredivisie,2007,2007/2008
+Ajax,Samuel Kuffour,31.0,Centre-Back,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008
+AZ Alkmaar,Héctor Moreno,19.0,Centre-Back,North America,4.00m,in,Winter,4,Eredivisie,2007,2007/2008
+AZ Alkmaar,Simon Poulsen,23.0,Left-Back,North_EU,3.60m,in,Winter,"3,6",Eredivisie,2007,2007/2008
+Twente FC,Youssouf Hersi,25.0,Right Winger,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008
+Twente FC,Ibrahim Maaroufi,18.0,Defensive Midfield,Inter,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Twente FC,Bjarni Vidarsson,19.0,Central Midfield,Everton,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Heerenveen,Michal Svec,20.0,Centre-Back,Central_EU,2.45m,in,Winter,"2,45",Eredivisie,2007,2007/2008
+Heerenveen,Christian Grindheim,24.0,Central Midfield,North_EU,2.20m,in,Winter,"2,2",Eredivisie,2007,2007/2008
+Heerenveen,Harmen Kuperus,30.0,Goalkeeper,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Roda JC,Nuelson Wau,27.0,Right-Back,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008
+Feyenoord,Denny Landzaat,31.0,Central Midfield,Wigan,1.50m,in,Winter,"1,5",Eredivisie,2007,2007/2008
+Feyenoord,Michael Jansen,23.0,Left-Back,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008
+FC Groningen,Sepp De Roover,23.0,Right-Back,Sparta R.,600Th.,in,Winter,"0,6",Eredivisie,2007,2007/2008
+FC Groningen,Berry Powel,27.0,Centre-Forward,De Graafschap,600Th.,in,Winter,"0,6",Eredivisie,2007,2007/2008
+FC Groningen,Matías Cahais,20.0,Centre-Back,South America,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+FC Groningen,Anco Jansen,18.0,attack,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Dani Fernández,24.0,Right-Back,Est_EU,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Bas Sibum,25.0,Central Midfield,Roda JC,?,in,Winter,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Jeroen Drost,20.0,Left-Back,Heerenveen,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+NEC Nijmegen,Kevin Bobson,27.0,Left Winger,Willem II,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Vitesse,Claudemir,19.0,Defensive Midfield,São Carlos,?,in,Winter,0.01,Eredivisie,2007,2007/2008
+Sparta R.,Dwight Tiendalli,22.0,Right-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Heracles Almelo,Martin Christensen,20.0,Right Midfield,Uk,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Heracles Almelo,Robbert Schilder,21.0,Centre-Back,Ajax,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Heracles Almelo,Gonzalo García,24.0,Second Striker,Heerenveen,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Willem II,Léo Veloso,20.0,Left-Back,South America,500Th.,in,Winter,"0,5",Eredivisie,2007,2007/2008
+Willem II,Mehmet Akgün,20.0,Central Midfield,Germany,150Th.,in,Winter,"0,15",Eredivisie,2007,2007/2008
+Willem II,George Mourad,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008
+Willem II,Sergio Zijler,20.0,Right Winger,Twente FC,?,in,Winter,0.01,Eredivisie,2007,2007/2008
+Willem II,Christophe Grégoire,27.0,Left Winger,Belgium,?,in,Winter,0.01,Eredivisie,2007,2007/2008
+Excelsior,Aykut Demir,19.0,Centre-Back,NAC Breda,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+Excelsior,Ard van Peppen,22.0,Left-Back,De Graafschap,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Girts Karlsons,26.0,Centre-Forward,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008
+De Graafschap,Jordy Buijs,19.0,Centre-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Diego Biseswar,19.0,Attacking Midfield,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+De Graafschap,Michael Jansen,23.0,Left-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2007,2007/2008
+VVV-Venlo,Peter Jungschläger,23.0,Central Midfield,Netherlands,100Th.,in,Winter,"0,1",Eredivisie,2007,2007/2008
+VVV-Venlo,Keisuke Honda,21.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2007,2007/2008

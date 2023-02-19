@@ -1,0 +1,1178 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Piacenza,Enzo Maresca,22.0,Central Midfield,Juventus,Loan fee:3.00m,in,Summer,3,Serie A,2002,2002/2003
+Piacenza,Marco Stella,21.0,midfield,Italy,700Th.,in,Summer,"0,7",Serie A,2002,2002/2003
+Piacenza,Dario Marcolin,30.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Simone Paoletti,18.0,Goalkeeper,Cagliese,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Johnnier Montaño,19.0,Attacking Midfield,AC Parma,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Luigi Riccio,24.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Hugo Campagnaro,22.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Amedeo Mangone,33.0,Centre-Back,Brescia,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Ibrahim Babatunde,17.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Sergey Gurenko,29.0,Right-Back,AC Parma,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Mauro Óbolo,20.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Federico Magallanes,26.0,Centre-Forward,Italy,Loan fee:250Th.,in,Summer,"0,25",Serie A,2002,2002/2003
+Torino,Luca Mezzano,24.0,Centre-Back,Inter,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Alessandro Campo,18.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Gennaro Scarlato,25.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Andrea Soncin,18.0,Centre-Back,Perugia,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Alessandro Conticchio,28.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Vincenzo Sommese,26.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Alberto Maria Fontana,27.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Torino,Giammarco Frezza,26.0,Left Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Manuele Blasi,21.0,Central Midfield,Perugia,17.70m,in,Summer,"17,7",Serie A,2002,2002/2003
+Juventus,Mauro Camoranesi,25.0,Right Midfield,Italy,8.50m,in,Summer,"8,5",Serie A,2002,2002/2003
+Juventus,Fabrizio Miccoli,23.0,Centre-Forward,Italy,7.50m,in,Summer,"7,5",Serie A,2002,2002/2003
+Juventus,Marco Di Vaio,26.0,Centre-Forward,AC Parma,Loan fee:7.00m,in,Summer,7,Serie A,2002,2002/2003
+Juventus,Abdoulay Konko,18.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Juventus,Antonio Chimenti,32.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Salvatore Fresi,29.0,Centre-Back,Bologna,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Mattia Cassani,18.0,Right-Back,Canavese Youth,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Daniele Gastaldello,19.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Davide Baiocco,27.0,Defensive Midfield,Perugia,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Emiliano Moretti,21.0,Centre-Back,Florentia,?,in,Summer,0.01,Serie A,2002,2002/2003
+Juventus,Rubén Olivera,19.0,Central Midfield,South America,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Sasa Bjelanovic,23.0,Centre-Forward,Est_EU,2.50m,in,Summer,"2,5",Serie A,2002,2002/2003
+Como,Fabrizio Ferron,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Como,Nikola Lazetic,24.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Como,Vincenzo Chianese,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Como,Pasquale Padalino,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Como,Marco Rossi,24.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Como,Giuseppe Greco,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Jean-Paul van Gastel,30.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Ciro De Cesare,30.0,Second Striker,Chievo Verona,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Niccolò Guzzo,19.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Massimo Tarantino,31.0,Left-Back,Bologna,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Milan Zahalka,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Benny Carbone,30.0,Second Striker,Middlesbrough,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Jorge Serna,22.0,Centre-Forward,South America,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Mirko Benin,24.0,Attacking Midfield,Florentia,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Luca Belingheri,19.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Juarez,28.0,Right-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Denis Godeas,27.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Benoît Cauet,33.0,Central Midfield,Torino,?,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Stjepan Tomas,26.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Fabio Pecchia,28.0,Right Midfield,Bologna,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Como,Jonatan Binotto,27.0,Right Winger,Inter,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Atalanta BC,Apostolos Liolidis,24.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Atalanta BC,Carmine Gautieri,31.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Atalanta BC,Danilo Zini,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Atalanta BC,Ivan Javorcic,23.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Atalanta BC,Santos,20.0,Centre-Back,Comercial-SP,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Inter,Hernán Crespo,27.0,Centre-Forward,Lazio,40.00m,in,Summer,40,Serie A,2002,2002/2003
+Inter,Fabio Cannavaro,28.0,Centre-Back,AC Parma,23.00m,in,Summer,23,Serie A,2002,2002/2003
+Inter,Francesco Coco,25.0,Left-Back,Milan,22.50m,in,Summer,"22,5",Serie A,2002,2002/2003
+Inter,Matías Almeyda,28.0,Defensive Midfield,AC Parma,22.10m,in,Summer,"22,1",Serie A,2002,2002/2003
+Inter,Bernardo Corradi,26.0,Centre-Forward,Chievo Verona,4.00m,in,Summer,4,Serie A,2002,2002/2003
+Inter,Luca Ceccarelli,19.0,Centre-Back,Florentia,2.58m,in,Summer,"2,58",Serie A,2002,2002/2003
+Inter,Ümit Davala,28.0,Right Midfield,Milan,2.00m,in,Summer,2,Serie A,2002,2002/2003
+Inter,Alessio Scarpi,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Inter,Domenico Morfeo,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Inter,Carlos Gamarra,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Inter,Daniele Adani,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Inter,Giuseppe Ticli,23.0,Left Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Milan,Alessandro Nesta,26.0,Centre-Back,Lazio,31.00m,in,Summer,31,Serie A,2002,2002/2003
+Milan,Clarence Seedorf,26.0,Central Midfield,Inter,22.50m,in,Summer,"22,5",Serie A,2002,2002/2003
+Milan,Martin Laursen,24.0,Centre-Back,AC Parma,11.00m,in,Summer,11,Serie A,2002,2002/2003
+Milan,Dario Simic,26.0,Right-Back,Inter,5.00m,in,Summer,5,Serie A,2002,2002/2003
+Milan,Samuele Dalla Bona,21.0,Central Midfield,Chelsea,1.60m,in,Summer,"1,6",Serie A,2002,2002/2003
+Milan,Rivaldo,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Milan,Leonardo,33.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Milan,Jon Dahl Tomasson,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Lazio,Bernardo Corradi,26.0,Centre-Forward,Inter,10.00m,in,Summer,10,Serie A,2002,2002/2003
+Lazio,Massimo Oddo,26.0,Right-Back,Italy,1.50m,in,Summer,"1,5",Serie A,2002,2002/2003
+Lazio,Enrico Chiesa,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Lazio,Juan Pablo Sorín,26.0,Left-Back,South America,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Lazio,Christian Manfredini,27.0,Left Winger,Chievo Verona,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Adriano,20.0,Centre-Forward,Inter,14.50m,in,Summer,"14,5",Serie A,2002,2002/2003
+AC Parma,Alberto Gilardino,19.0,Centre-Forward,Italy,12.00m,in,Summer,12,Serie A,2002,2002/2003
+AC Parma,Adrian Mutu,23.0,Centre-Forward,Italy,10.00m,in,Summer,10,Serie A,2002,2002/2003
+AC Parma,Mark Bresciano,22.0,Central Midfield,Empoli,7.00m,in,Summer,7,Serie A,2002,2002/2003
+AC Parma,Matteo Brighi,21.0,Central Midfield,Juventus,5.00m,in,Summer,5,Serie A,2002,2002/2003
+AC Parma,Florian Myrtaj,26.0,Centre-Forward,Italy,800Th.,in,Summer,"0,8",Serie A,2002,2002/2003
+AC Parma,Christian Terlizzi,22.0,Centre-Back,Italy,550Th.,in,Summer,"0,55",Serie A,2002,2002/2003
+AC Parma,Vratislav Gresko,24.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+AC Parma,Gabriel Oyola,19.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Sebastiano Siviglia,29.0,Centre-Back,AS Roma,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Aimo Diana,24.0,Right Midfield,Brescia,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Roberto Massaro,18.0,Centre-Forward,Florentia,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Daniele Bonera,21.0,Centre-Back,Brescia,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Alex Gibbs,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Emanuele Filippini,29.0,Central Midfield,Brescia,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Matuzalém,22.0,Defensive Midfield,Piacenza,?,in,Summer,0.01,Serie A,2002,2002/2003
+AC Parma,Massimo Donati,21.0,Defensive Midfield,Milan,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Udinese Calcio,Marek Jankulovski,25.0,Left-Back,Italy,3.50m,in,Summer,"3,5",Serie A,2002,2002/2003
+Udinese Calcio,Carsten Jancker,27.0,Centre-Forward,Bayern Munich,2.50m,in,Summer,"2,5",Serie A,2002,2002/2003
+Udinese Calcio,Thomas Thorninger,29.0,Centre-Forward,North_EU,1.00m,in,Summer,1,Serie A,2002,2002/2003
+Udinese Calcio,Néstor Sensini,35.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Udinese Calcio,Giuseppe Gemiti,21.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Udinese Calcio,Fabio Rossitto,30.0,Right Midfield,Florentia,?,in,Summer,0.01,Serie A,2002,2002/2003
+Udinese Calcio,Pavel Grznar,23.0,Left-Back,Central_EU,?,in,Summer,0.01,Serie A,2002,2002/2003
+Udinese Calcio,Patrick Beneforti,21.0,Attacking Midfield,SC Bastia,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Björn Runström,18.0,Centre-Forward,Bologna,500Th.,in,Summer,"0,5",Serie A,2002,2002/2003
+Chievo Verona,Francesco Magnanelli,17.0,Defensive Midfield,Italy,50Th.,in,Summer,"0,05",Serie A,2002,2002/2003
+Chievo Verona,Lilian Nalis,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Chievo Verona,John Mensah,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Chievo Verona,Oliver Bierhoff,34.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Chievo Verona,Mattia Passarini,21.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Michael Zago,21.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Marco Veronese,26.0,Centre-Forward,Modena,?,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Ivone De Franceschi,28.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Emanuele Pesaresi,25.0,Left-Back,Lazio,?,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Nikola Lazetic,24.0,Right Midfield,Como,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Daniel Andersson,24.0,Defensive Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Chievo Verona,Ivano Della Morte,27.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+AS Roma,Christian Panucci,29.0,Right-Back,Monaco,9.81m,in,Summer,"9,81",Serie A,2002,2002/2003
+AS Roma,Cristian Ranalli,23.0,attack,Italy,250Th.,in,Summer,"0,25",Serie A,2002,2002/2003
+AS Roma,Pep Guardiola,31.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+AS Roma,Traianos Dellas,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+AS Roma,Davide Bombardini,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+AS Roma,Luigi Sartor,27.0,Right-Back,AC Parma,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Stephen Appiah,21.0,Defensive Midfield,AC Parma,4.55m,in,Summer,"4,55",Serie A,2002,2002/2003
+Brescia,Anthony Seric,23.0,Left-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Matuzalém,22.0,Defensive Midfield,AC Parma,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Jonathan Bachini,27.0,Left Midfield,AC Parma,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Marius Stankevicius,20.0,Centre-Back,Est_EU,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Davide Micillo,31.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Gilberto Martínez,22.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Marco Pisano,20.0,Left-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Brescia,Matteo Sereni,27.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Konstantinos Louboutis,23.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Perugia,Massimo Demartis,27.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Tiago Calvano,21.0,Centre-Back,South America,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Giovanni Sulcis,27.0,midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Antonio Criniti,31.0,attack,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Lorenzo Crocetti,18.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Giorgio Cini,23.0,midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Paolo Zaccagnini,25.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Giuseppe Aprea,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Emanuele Berrettoni,21.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Zeljko Kalac,29.0,Goalkeeper,Roda JC,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Nicola Amoruso,27.0,Centre-Forward,Juventus,?,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Manuele Blasi,21.0,Central Midfield,Juventus,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Fabrizio Miccoli,23.0,Centre-Forward,Juventus,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Luigi Pagliuca,23.0,Right Winger,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Roberto Baronio,24.0,Defensive Midfield,Lazio,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Cyril Gona,17.0,Defensive Midfield,Brescia,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,William Viali,27.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Perugia,Andrea Caracciolo,20.0,Centre-Forward,Brescia,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Christian Amoroso,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Bologna,Michele Paramatti,34.0,Left-Back,Juventus,?,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Leonardo Colucci,29.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Marco Zanchi,25.0,Centre-Back,Juventus,?,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Andrea Pansera,22.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Andrea Ardito,25.0,Defensive Midfield,Como,?,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Alessandro Frara,19.0,Defensive Midfield,Juventus,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Bologna,Emiliano Salvetti,28.0,Attacking Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Empoli,Luca Saudati,23.0,Centre-Forward,Atalanta BC,Loan fee:1.00m,in,Summer,1,Serie A,2002,2002/2003
+Empoli,Amauri,22.0,Centre-Forward,Piacenza,150Th.,in,Summer,"0,15",Serie A,2002,2002/2003
+Empoli,Mario Cassano,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Empoli,Alessandro Agostini,23.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Empoli,Frank Lagana,17.0,Central Midfield,A.I.S.,?,in,Summer,0.01,Serie A,2002,2002/2003
+Empoli,Antonio Buscè,26.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Empoli,Ighli Vannucchi,24.0,Attacking Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Empoli,Stefano Lucchini,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Empoli,David Bret,18.0,Goalkeeper,Montpellier,?,in,Summer,0.01,Serie A,2002,2002/2003
+Empoli,Gaetano Grieco,19.0,Centre-Forward,AC Parma,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Giuseppe Sculli,21.0,Left Winger,Juventus,Loan fee:400Th.,in,Summer,"0,4",Serie A,2002,2002/2003
+Modena,Alessandro Zamperini,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Modena,Nicola Campedelli,23.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Diomansy Kamara,21.0,Right Winger,Chievo Verona,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Marco Zamboni,24.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Sofiane Zaaboub,19.0,Left Midfield,France,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Alessio Sestu,18.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Nicola Corrent,22.0,Central Midfield,Milan,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Marcello Albino,30.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Simone Pavan,28.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Modena,Giuseppe Colucci,22.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Carlos Paredes,25.0,Defensive Midfield,FC Porto,4.80m,in,Summer,"4,8",Serie A,2002,2002/2003
+Reggina,Shunsuke Nakamura,24.0,Attacking Midfield,Asia,2.00m,in,Summer,2,Serie A,2002,2002/2003
+Reggina,Alessandro Pierini,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2002,2002/2003
+Reggina,Nassim Mendil,23.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Roberto Mafucci,17.0,attack,Unknown,?,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Riccardo Alderuccio,18.0,Centre-Back,Unknown,?,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Massimo Rastelli,33.0,Right Winger,Italy,?,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Roberto Cardinale,21.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Luca Castellazzi,27.0,Goalkeeper,Brescia,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,David Di Michele,26.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Reggina,Gianluca Falsini,26.0,Left-Back,AC Parma,loan transfer,in,Summer,0.01,Serie A,2002,2002/2003
+Piacenza,Ciro De Cesare,31.0,Second Striker,Como,?,in,Winter,0.01,Serie A,2002,2002/2003
+Piacenza,Marco Marchionni,22.0,Right Midfield,AC Parma,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Piacenza,Claudio Ferrarese,24.0,Right Winger,Italy,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Piacenza,Davide Baiocco,27.0,Defensive Midfield,Juventus,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Piacenza,Alessandro Rinaldi,28.0,Right-Back,Atalanta BC,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Piacenza,Sandro Cois,30.0,Defensive Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Torino,Carlos Marinelli,20.0,Attacking Midfield,Middlesbrough,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Torino,Massimo Donati,21.0,Defensive Midfield,Milan,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Como,Nicola Caccia,32.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2002,2002/2003
+Como,Nicola Amoruso,28.0,Centre-Forward,Perugia,?,in,Winter,0.01,Serie A,2002,2002/2003
+Como,Daniel Fonseca,33.0,Centre-Forward,Nacional,?,in,Winter,0.01,Serie A,2002,2002/2003
+Como,Luigi Anaclerio,21.0,attack,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Como,Anderson,19.0,Left-Back,Pordenone,?,in,Winter,0.01,Serie A,2002,2002/2003
+Atalanta BC,Davor Vugrinec,27.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Atalanta BC,Natale Gonnella,26.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Atalanta BC,Paolo Tramezzani,32.0,Left-Back,Piacenza,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Atalanta BC,Sebastiano Siviglia,29.0,Centre-Back,AC Parma,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Inter,Gabriel Batistuta,33.0,Centre-Forward,AS Roma,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Inter,Alberto Quadri,19.0,Defensive Midfield,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Lazio,Nikola Lazetic,24.0,Right Midfield,Como,?,in,Winter,0.01,Serie A,2002,2002/2003
+AC Parma,Alessandro Pierini,29.0,Centre-Back,Reggina,?,in,Winter,0.01,Serie A,2002,2002/2003
+AC Parma,Giuseppe Cardone,28.0,Right-Back,Piacenza,?,in,Winter,0.01,Serie A,2002,2002/2003
+AC Parma,Johnnier Montaño,19.0,Attacking Midfield,Piacenza,?,in,Winter,0.01,Serie A,2002,2002/2003
+Chievo Verona,Gianluca Grassadonia,30.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2002,2002/2003
+Chievo Verona,Fredrik Risp,22.0,Centre-Back,North_EU,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Chievo Verona,Sasa Bjelanovic,23.0,Centre-Forward,Como,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+AS Roma,Mancini,22.0,Left Winger,free agents,free transfer,in,Winter,0,Serie A,2002,2002/2003
+AS Roma,Olivier Dacourt,28.0,Defensive Midfield,Leeds,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+AS Roma,Massimo Marazzina,28.0,Centre-Forward,Chievo Verona,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Brescia,Pep Guardiola,31.0,Defensive Midfield,AS Roma,650Th.,in,Winter,"0,65",Serie A,2002,2002/2003
+Brescia,Fábio Bilica,23.0,Centre-Back,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Bologna,Steve Gohouri,21.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Empoli,Marco Borriello,20.0,Centre-Forward,Milan,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Empoli,Marco Carparelli,26.0,Second Striker,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Empoli,Nicola Padoin,23.0,Defensive Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Modena,Rune Pedersen,23.0,Goalkeeper,free agents,free transfer,in,Winter,0,Serie A,2002,2002/2003
+Modena,Fabio Vignaroli,26.0,Centre-Forward,Italy,?,in,Winter,0.01,Serie A,2002,2002/2003
+Modena,Emiliano Moretti,21.0,Centre-Back,Juventus,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Modena,Antonio Marasco,32.0,Defensive Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Reggina,Bruno Cirillo,25.0,Centre-Back,Italy,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Reggina,Aimo Diana,25.0,Right Midfield,AC Parma,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Reggina,Stefano Torrisi,31.0,Centre-Back,AC Parma,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Reggina,Emiliano Bonazzoli,24.0,Centre-Forward,AC Parma,loan transfer,in,Winter,0.01,Serie A,2002,2002/2003
+Olympique Lyon,Mahamadou Diarra,21.0,Defensive Midfield,Vitesse,3.90m,in,Summer,"3,9",Ligue 1,2002,2002/2003
+Olympique Lyon,Rémy Vercoutre,22.0,Goalkeeper,Montpellier,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Olympique Lyon,Tony Vairelles,29.0,Centre-Forward,SC Bastia,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Monaco,Patrice Evra,21.0,Left-Back,OGC Nice,4.10m,in,Summer,"4,1",Ligue 1,2002,2002/2003
+Monaco,Mazhar Abdelrahman,25.0,attack,Africa Sports,2.00m,in,Summer,2,Ligue 1,2002,2002/2003
+Monaco,Akis Zikos,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Marseille,Fabio Celestini,26.0,Defensive Midfield,Troyes,3.00m,in,Summer,3,Ligue 1,2002,2002/2003
+Marseille,Salomon Olembé,21.0,Left Midfield,FC Nantes,2.00m,in,Summer,2,Ligue 1,2002,2002/2003
+Marseille,Pascal Johansen,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Marseille,Johnny Ecker,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+G. Bordeaux,Jean-Claude Darcheville,26.0,Centre-Forward,France,9.00m,in,Summer,9,Ligue 1,2002,2002/2003
+G. Bordeaux,Marco Caneira,23.0,Centre-Back,Benfica,1.50m,in,Summer,"1,5",Ligue 1,2002,2002/2003
+G. Bordeaux,Daniel Deves,18.0,Goalkeeper,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+G. Bordeaux,Sávio,28.0,Left Winger,Real Madrid,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+FC Sochaux,Basile de Carvalho,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+FC Sochaux,Ibrahim Tall,21.0,defence,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+FC Sochaux,Gérard Gnanhouan,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+FC Sochaux,Johann Lonfat,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+FC Sochaux,Teddy Richert,27.0,Goalkeeper,G. Bordeaux,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+FC Sochaux,Wilson Oruma,25.0,Attacking Midfield,Uk,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+FC Sochaux,Jean-Léon Bart,19.0,Central Midfield,Uk,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AJ Auxerre,Stéphane Grichting,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AJ Auxerre,Sébastien Hamel,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AJ Auxerre,Romain Poyet,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AJ Auxerre,Benjani,23.0,Centre-Forward,Africa Sports,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Guingamp,Trésor Luntala,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Jean-Louis Montero,31.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Christophe Le Roux,33.0,Right Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Jawad El Hajri,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Ronan Le Crom,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Régis Dorn,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Milovan Sikimic,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Guingamp,Gaël Danic,20.0,Left Winger,Stade Rennais,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+Guingamp,Fabrice Colleau,25.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Guingamp,Wagneau Eloi,28.0,Centre-Forward,Monaco,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Guingamp,Néstor Fabbri,34.0,Centre-Back,FC Nantes,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Lens,Dagui Bakari,27.0,Centre-Forward,LOSC Lille,3.50m,in,Summer,"3,5",Ligue 1,2002,2002/2003
+Lens,Olivier Thomert,22.0,Left Midfield,France,2.00m,in,Summer,2,Ligue 1,2002,2002/2003
+Lens,Rigobert Song,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Lens,John Utaka,20.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Lens,Rod Fanni,20.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Lens,Martin Ekani,18.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Lens,Abdoulaye Faye,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Lens,Furtado,19.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Lens,Seydou Keita,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+FC Nantes,Ariza Makukula,21.0,Centre-Forward,Spain,5.50m,in,Summer,"5,5",Ligue 1,2002,2002/2003
+OGC Nice,Everson,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+OGC Nice,Jacques Abardonado,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+OGC Nice,Serge Dié,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+OGC Nice,Éric Roy,34.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+OGC Nice,Yoann Bigné,24.0,Central Midfield,Stade Rennais,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+OGC Nice,Sammy Traoré,26.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+OGC Nice,Damien Grégorini,23.0,Goalkeeper,Marseille,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+OGC Nice,Adékambi Olufadé,22.0,Right Winger,LOSC Lille,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+OGC Nice,Patrick Barul,24.0,Right-Back,Lens,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+OGC Nice,Kaba Diawara,26.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,André Luiz,27.0,Attacking Midfield,Spain,11.00m,in,Summer,11,Ligue 1,2002,2002/2003
+Paris SG,Filipe Teixeira,21.0,Right Winger,France,1.00m,in,Summer,1,Ligue 1,2002,2002/2003
+Paris SG,Paulo César,23.0,Right Midfield,South America,750Th.,in,Summer,"0,75",Ligue 1,2002,2002/2003
+Paris SG,Bernard Mendy,21.0,Right-Back,Bolton,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,Martín Cardetti,26.0,Centre-Forward,South America,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,Romain Rocchi,20.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,Jérôme Leroy,27.0,Attacking Midfield,Marseille,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,Alioune Touré,23.0,Right Winger,Man City,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,Rabiu Baita,17.0,attack,Africa Sports,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Paris SG,Alex Nyarko,28.0,Central Midfield,Everton,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+SC Bastia,Florian Maurice,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+SC Bastia,Samir Beloufa,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+SC Bastia,Cédric Uras,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+SC Bastia,Greg Vanney,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+SC Bastia,Anthar Yahia,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+SC Bastia,Lilian Laslandes,30.0,Centre-Forward,Sunderland,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+SC Bastia,Jocelyn Gourvennec,30.0,Attacking Midfield,Stade Rennais,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+SC Bastia,Hassan Ahamada,21.0,Attacking Midfield,FC Nantes,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+R. Strasbourg,Cédric Moukouri,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+R. Strasbourg,Yves Deroff,23.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+R. Strasbourg,Vaclav Drobny,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+R. Strasbourg,Ulrich Le Pen,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+R. Strasbourg,Valérien Ismaël,26.0,Centre-Back,Lens,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+R. Strasbourg,Yannick Kamanan,20.0,Centre-Forward,Spurs,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+R. Strasbourg,Vincent Fernandez,27.0,Goalkeeper,FC Sochaux,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+R. Strasbourg,Pena,28.0,Centre-Forward,FC Porto,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+LOSC Lille,Vladimir Manchev,24.0,Centre-Forward,Central_EU,2.50m,in,Summer,"2,5",Ligue 1,2002,2002/2003
+LOSC Lille,Philippe Brunel,29.0,Left Midfield,Marseille,1.00m,in,Summer,1,Ligue 1,2002,2002/2003
+LOSC Lille,Éric Abidal,22.0,Left-Back,Monaco,300Th.,in,Summer,"0,3",Ligue 1,2002,2002/2003
+LOSC Lille,Grégory Campi,26.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+LOSC Lille,Matthieu Chalmé,21.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+LOSC Lille,Marius Baciu,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+LOSC Lille,Nicolas Bonnal,25.0,Left Midfield,Troyes,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+LOSC Lille,Marc-Antoine Fortuné,20.0,Centre-Forward,AS Angoulême 92,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+LOSC Lille,Grégory Malicki,28.0,Goalkeeper,Stade Rennais,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Rennes,Petr Cech,20.0,Goalkeeper,Central_EU,5.00m,in,Summer,5,Ligue 1,2002,2002/2003
+Rennes,Georgi Ivanov,25.0,Centre-Forward,Central_EU,4.10m,in,Summer,"4,1",Ligue 1,2002,2002/2003
+Rennes,Gabriel Loeschbor,25.0,Centre-Back,South America,2.61m,in,Summer,"2,61",Ligue 1,2002,2002/2003
+Rennes,Andrés Fleurquín,27.0,Defensive Midfield,Central_EU,2.00m,in,Summer,2,Ligue 1,2002,2002/2003
+Rennes,François Grenet,27.0,Right-Back,Uk,1.12m,in,Summer,"1,12",Ligue 1,2002,2002/2003
+Rennes,Frédéric Jay,25.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Rennes,Benoît Le Bris,25.0,attack,AC Le Havre,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Rennes,Christian Yulu,17.0,midfield,Unknown,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Rennes,Arnaud Le Lan,24.0,Left-Back,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Montpellier,Marc-Éric Gueï,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Montpellier,Pierre Laigle,31.0,Left Midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Montpellier,Víctor Bonilla,31.0,Centre-Forward,FC Nantes,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Ousman Nyan,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Abdelnasser Ouadah,26.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Yacine Bezzaz,20.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Thomas Sowunmi,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Mickaël Marquet,20.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Yohan Demont,24.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Laurent Wuillot,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Hervé Sekli,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Laurent Moracchini,34.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Xavier Collin,27.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Stéphane Grégoire,34.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Florian Lucchini,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Mamadou Seck,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Ajaccio,Bruno Rodriguez,29.0,Centre-Forward,Lens,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Wálter Guglielmone,24.0,Centre-Forward,Nacional,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Xavier Gravelaine,33.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Dmitri Ananko,28.0,Centre-Back,Russia,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Jean-Michel Luciani,27.0,defence,Unknown,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Grégory Lacombe,20.0,Right Winger,Monaco,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Hervé Alicarte,27.0,Sweeper,G. Bordeaux,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Le Havre,Olivier Fauconnier,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Le Havre,Pierre Ducrocq,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+AC Le Havre,Anthony Le Tallec,17.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Le Havre,Alou Diarra,21.0,Defensive Midfield,Uk,loan transfer,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Le Havre,Milan Osterc,26.0,Centre-Forward,Est_EU,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+AC Le Havre,Grégory Paisley,25.0,Left-Back,Stade Rennais,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Troyes,Nassim Akrour,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Troyes,Nicolas Florentin,24.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Troyes,Gaël Sanz,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+Troyes,David Linarès,26.0,Defensive Midfield,Olympique Lyon,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Troyes,David Régis,33.0,Centre-Back,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Troyes,Gérald Baticle,32.0,Centre-Forward,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+CS Sedan,Johann Charpenet,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+CS Sedan,Randriana,18.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+CS Sedan,Patrick Vaz,23.0,midfield,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+CS Sedan,David Ducourtioux,24.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+CS Sedan,Fabrice Catherine,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2002,2002/2003
+CS Sedan,Sophiane Baghdad,21.0,Defensive Midfield,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+CS Sedan,Tarik Oulida,28.0,Left Midfield,Asia,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+CS Sedan,Serge Alain Liri,23.0,attack,France,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+CS Sedan,Philippe Azevedo,27.0,Centre-Forward,Portugal,?,in,Summer,0.01,Ligue 1,2002,2002/2003
+Monaco,Cédric Stoll,20.0,attack,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+Marseille,Dmitri Sychev,19.0,Centre-Forward,Russia,3.00m,in,Winter,3,Ligue 1,2002,2002/2003
+FC Sochaux,Laurent Charvet,29.0,Right-Back,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+FC Sochaux,Abderrahman Kabous,19.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+AJ Auxerre,Kanga Akalé,21.0,Left Winger,Uk,1.00m,in,Winter,1,Ligue 1,2002,2002/2003
+Lens,Joe Cannon,28.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+Lens,Tony Vairelles,29.0,Centre-Forward,Olympique Lyon,?,in,Winter,0.01,Ligue 1,2002,2002/2003
+OGC Nice,Oumar Bakari,22.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+OGC Nice,Cedric Mionnet,28.0,Right Winger,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+Paris SG,Stéphane Pédron,31.0,Left Midfield,Lens,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+SC Bastia,Laurent Batlles,27.0,Central Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+SC Bastia,Philippe Billy,20.0,Right-Back,Italy,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+SC Bastia,Franck Silvestre,35.0,Centre-Back,Montpellier,?,in,Winter,0.01,Ligue 1,2002,2002/2003
+SC Bastia,Grégory Vignal,21.0,Left-Back,Uk,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+R. Strasbourg,Éric Mouloungui,18.0,Centre-Forward,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+R. Strasbourg,David Kobylik,21.0,Central Midfield,Central_EU,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+Rennes,Alex Frei,23.0,Centre-Forward,Uk,1.50m,in,Winter,"1,5",Ligue 1,2002,2002/2003
+Rennes,Cyril Jeunechamp,27.0,Defensive Midfield,SC Bastia,1.50m,in,Winter,"1,5",Ligue 1,2002,2002/2003
+AC Ajaccio,Bernard Diomède,28.0,Left Winger,Uk,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+AC Ajaccio,Juan Esnáider,29.0,Centre-Forward,South America,?,in,Winter,0.01,Ligue 1,2002,2002/2003
+Troyes,Selim Benachour,21.0,Attacking Midfield,Paris SG,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+Troyes,Laurent Leroy,26.0,Centre-Forward,Paris SG,loan transfer,in,Winter,0.01,Ligue 1,2002,2002/2003
+CS Sedan,Nicolas Alnoudji,23.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2002,2002/2003
+CS Sedan,Lukas Jarolim,26.0,midfield,Central_EU,?,in,Winter,0.01,Ligue 1,2002,2002/2003
+CS Sedan,Ludovic Jeannel,27.0,Centre-Back,France,?,in,Winter,0.01,Ligue 1,2002,2002/2003
+Bayern Munich,Zé Roberto,27.0,Left Midfield,Bay. Leverkusen,9.50m,in,Summer,"9,5",1 Bundesliga,2002,2002/2003
+Bayern Munich,Sebastian Deisler,22.0,Right Midfield,Hertha BSC,9.00m,in,Summer,9,1 Bundesliga,2002,2002/2003
+Bayern Munich,Michael Ballack,25.0,Central Midfield,Bay. Leverkusen,6.00m,in,Summer,6,1 Bundesliga,2002,2002/2003
+Bor. Dortmund,Torsten Frings,25.0,Defensive Midfield,Werder Bremen,8.50m,in,Summer,"8,5",1 Bundesliga,2002,2002/2003
+Bor. Dortmund,Juan Fernández,22.0,Right-Back,South America,1.65m,in,Summer,"1,65",1 Bundesliga,2002,2002/2003
+Bor. Dortmund,Roman Weidenfeller,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,França,26.0,Centre-Forward,South America,8.50m,in,Summer,"8,5",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Jan Simak,23.0,Attacking Midfield,Hannover 96,6.50m,in,Summer,"6,5",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Daniel Bierofka,23.0,Left Midfield,1860 Munich,4.20m,in,Summer,"4,2",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Juan,23.0,Centre-Back,South America,3.50m,in,Summer,"3,5",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Christoph Preuß,20.0,Defensive Midfield,Germany,2.20m,in,Summer,"2,2",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Hanno Balitsch,21.0,Defensive Midfield,Germany,2.00m,in,Summer,2,1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Clemens Fritz,21.0,Right-Back,Germany,1.50m,in,Summer,"1,5",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Du-ri Cha,22.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Christian Poulsen,22.0,Defensive Midfield,North_EU,7.00m,in,Summer,7,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Frank Rost,29.0,Goalkeeper,Werder Bremen,6.25m,in,Summer,"6,25",1 Bundesliga,2002,2002/2003
+FC Schalke 04,Darío Rodríguez,27.0,Left-Back,South America,4.00m,in,Summer,4,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Gustavo Varela,24.0,Right Midfield,Nacional,2.00m,in,Summer,2,1 Bundesliga,2002,2002/2003
+1.FC K'lautern,Hervé Nzelo-Lembi,26.0,Centre-Back,Belgium,2.50m,in,Summer,"2,5",1 Bundesliga,2002,2002/2003
+1.FC K'lautern,Christian Timm,23.0,Right Winger,Germany,1.00m,in,Summer,1,1 Bundesliga,2002,2002/2003
+1.FC K'lautern,Selim Teber,21.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC K'lautern,Markus Anfang,28.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC K'lautern,Ciriaco Sforza,32.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Cristian Ledesma,23.0,Central Midfield,South America,4.00m,in,Summer,4,1 Bundesliga,2002,2002/2003
+Hamburger SV,Stephan Kling,21.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Christian Rahn,23.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Richard Kitzbichler,28.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Michael Baur,33.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bor. M'gladbach,Morten Skoubo,22.0,Centre-Forward,North_EU,2.70m,in,Summer,"2,7",1 Bundesliga,2002,2002/2003
+Bor. M'gladbach,Joris Van Hout,25.0,Centre-Back,Belgium,500Th.,in,Summer,"0,5",1 Bundesliga,2002,2002/2003
+Bor. M'gladbach,Marcel Ketelaer,24.0,Left Midfield,Hamburger SV,Loan fee:250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Bor. M'gladbach,Jeff Strasser,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bor. M'gladbach,Jan Schlaudraff,18.0,Second Striker,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1860 Munich,Remo Meyer,21.0,Centre-Back,Uk,825Th.,in,Summer,"0,825",1 Bundesliga,2002,2002/2003
+1860 Munich,Sandro Cescutti,20.0,Left Midfield,Germany,100Th.,in,Summer,"0,1",1 Bundesliga,2002,2002/2003
+1860 Munich,Danny Schwarz,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1860 Munich,Rafael,23.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1860 Munich,Rodrigo Costa,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Jiri Stajner,26.0,Second Striker,Central_EU,3.10m,in,Summer,"3,1",1 Bundesliga,2002,2002/2003
+Hannover 96,Blaise Nkufo,27.0,Centre-Forward,Germany,1.40m,in,Summer,"1,4",1 Bundesliga,2002,2002/2003
+Hannover 96,Fredi Bobic,30.0,Centre-Forward,Bor. Dortmund,500Th.,in,Summer,"0,5",1 Bundesliga,2002,2002/2003
+Hannover 96,Mohamadou Idrissou,22.0,Centre-Forward,SV Wehen,300Th.,in,Summer,"0,3",1 Bundesliga,2002,2002/2003
+Hannover 96,Gerhard Tremmel,23.0,Goalkeeper,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,2002,2002/2003
+Hannover 96,Konstantinos Konstantinidis,29.0,Centre-Back,Hertha BSC,200Th.,in,Summer,"0,2",1 Bundesliga,2002,2002/2003
+Hannover 96,Kosta Rodrigues,22.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Kai Oswald,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Daniel Haas,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Julian de Guzmán,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Markus Schuler,24.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Fernando,30.0,Left Midfield,Dep. La Coruña,loan transfer,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+Hannover 96,Jaime,29.0,Defensive Midfield,Dep. La Coruña,loan transfer,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+Hannover 96,José Manuel,28.0,Right Midfield,Dep. La Coruña,loan transfer,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Rade Todorovic,28.0,Right Winger,Central_EU,100Th.,in,Summer,"0,1",1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Milan Belic,24.0,Centre-Forward,Central_EU,Loan fee:50Th.,in,Summer,"0,05",1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Milorad Popovic,23.0,Left-Back,Central_EU,Loan fee:50Th.,in,Summer,"0,05",1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Sasa Ciric,34.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Michael Kügler,20.0,Right Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Dusan Petkovic,28.0,Centre-Back,VfL Wolfsburg,loan transfer,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Kim Madsen,24.0,Centre-Back,North_EU,800Th.,in,Summer,"0,8",1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Roy Präger,30.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Stefan Effenberg,33.0,Central Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Jesper Christiansen,24.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Diego Benaglio,18.0,Goalkeeper,Uk,150Th.,in,Summer,"0,15",1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Michael Mutzel,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Energie Cottbus,Zsolt Löw,23.0,Left-Back,Central_EU,250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Energie Cottbus,Andrzej Juskowiak,31.0,Centre-Forward,VfL Wolfsburg,250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Energie Cottbus,Robert Vagner,28.0,attack,Central_EU,250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Energie Cottbus,Marcel Rozgonyi,26.0,Centre-Back,FC Schalke 04,150Th.,in,Summer,"0,15",1 Bundesliga,2002,2002/2003
+Energie Cottbus,Gregg Berhalter,28.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Energie Cottbus,Marco Gebhardt,29.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Energie Cottbus,Rayk Schröder,27.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hansa Rostock,Rade Prica,22.0,Centre-Forward,Helsingborg,2.20m,in,Summer,"2,2",1 Bundesliga,2002,2002/2003
+Hansa Rostock,Thomas Meggle,27.0,Attacking Midfield,Germany,475Th.,in,Summer,"0,475",1 Bundesliga,2002,2002/2003
+Hansa Rostock,Michal Kovar,28.0,Centre-Back,Germany,50Th.,in,Summer,"0,05",1 Bundesliga,2002,2002/2003
+Hansa Rostock,Godfried Aduobe,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hansa Rostock,Martin Neubert,21.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hansa Rostock,Jochen Kientz,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hansa Rostock,Uwe Möhrle,22.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hansa Rostock,Joakim Persson,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hansa Rostock,Gerd Wimmer,25.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Werder Bremen,Angelos Charisteas,22.0,Centre-Forward,Central_EU,3.00m,in,Summer,3,1 Bundesliga,2002,2002/2003
+Werder Bremen,Manuel Friedrich,22.0,Centre-Back,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,2002,2002/2003
+Werder Bremen,Marco Reich,24.0,Left Midfield,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Werder Bremen,Markus Daun,21.0,Centre-Forward,Bay. Leverkusen,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2002,2002/2003
+Werder Bremen,Michael Jürgen,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Werder Bremen,Johan Micoud,29.0,Attacking Midfield,AC Parma,?,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+Hertha BSC,Arne Friedrich,23.0,Centre-Back,Arm. Bielefeld,1.80m,in,Summer,"1,8",1 Bundesliga,2002,2002/2003
+Hertha BSC,Bartosz Karwan,26.0,Right Midfield,Central_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2002,2002/2003
+Hertha BSC,Nando Rafael,18.0,Centre-Forward,Netherlands,250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Hertha BSC,Luizão,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Bernd Rauw,22.0,Centre-Back,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Jesús Sinisterra,26.0,Left-Back,South America,250Th.,in,Summer,"0,25",1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Benjamin Lense,23.0,Right-Back,Germany,200Th.,in,Summer,"0,2",1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Torjus Hansén,28.0,Right-Back,North_EU,150Th.,in,Summer,"0,15",1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Sasa Janic,27.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Mirnel Sadovic,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Maciej Murawski,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Rade Bogdanovic,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Du-ri Cha,22.0,Right-Back,Bay. Leverkusen,loan transfer,in,Summer,0.01,1 Bundesliga,2002,2002/2003
+VfL Bochum,Anton Vriesde,33.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Filip Tapalovic,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Raymond Kalla,27.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Thórdur Gudjónsson,28.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Toni Tapalovic,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Radoslaw Kaluzny,28.0,Defensive Midfield,Energie Cottbus,1.20m,in,Winter,"1,2",1 Bundesliga,2002,2002/2003
+Bay. Leverkusen,Cris,25.0,Centre-Back,South America,Loan fee:800Th.,in,Winter,"0,8",1 Bundesliga,2002,2002/2003
+1.FC K'lautern,Bill Tchato,27.0,Left-Back,Montpellier,1.40m,in,Winter,"1,4",1 Bundesliga,2002,2002/2003
+Hamburger SV,Naohiro Takahara,23.0,Centre-Forward,Asia,200Th.,in,Winter,"0,2",1 Bundesliga,2002,2002/2003
+Bor. M'gladbach,Mikael Forssell,21.0,Centre-Forward,Chelsea,Loan fee:500Th.,in,Winter,"0,5",1 Bundesliga,2002,2002/2003
+1860 Munich,Jiayi Shao,22.0,Left Midfield,Asia,1.30m,in,Winter,"1,3",1 Bundesliga,2002,2002/2003
+Hannover 96,Gheorghe Popescu,35.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Vinícius,22.0,Centre-Back,South America,loan transfer,in,Winter,0.01,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Pablo Thiam,28.0,Defensive Midfield,Bayern Munich,1.00m,in,Winter,1,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Peter Madsen,24.0,Centre-Forward,North_EU,Loan fee:340Th.,in,Winter,"0,34",1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Pablo Quattrocchi,28.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Horst Heldt,33.0,Attacking Midfield,free agents,free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Nené,27.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Marek Heinz,25.0,Centre-Forward,Hamburger SV,loan transfer,in,Winter,0.01,1 Bundesliga,2002,2002/2003
+Arm. Bielefeld,Simon Henzler,26.0,Goalkeeper,Germany,?,in,Winter,0.01,1 Bundesliga,2002,2002/2003
+VfL Bochum,Sunday Oliseh,28.0,Defensive Midfield,Bor. Dortmund,loan transfer,in,Winter,0.01,1 Bundesliga,2002,2002/2003
+VfL Bochum,Cristian Fiél,22.0,Central Midfield,Germany,?,in,Winter,0.01,1 Bundesliga,2002,2002/2003
+Arsenal,Gilberto Silva,25.0,Defensive Midfield,South America,9.00m,in,Summer,9,Premier League,2002,2002/2003
+Arsenal,Pascal Cygan,28.0,Centre-Back,LOSC Lille,3.83m,in,Summer,"3,83",Premier League,2002,2002/2003
+Arsenal,Rami Shaaban,27.0,Goalkeeper,North_EU,?,in,Summer,0.01,Premier League,2002,2002/2003
+Liverpool FC,El-Hadji Diouf,21.0,Centre-Forward,Lens,15.00m,in,Summer,15,Premier League,2002,2002/2003
+Liverpool FC,Salif Diao,25.0,Defensive Midfield,CS Sedan,7.50m,in,Summer,"7,5",Premier League,2002,2002/2003
+Liverpool FC,Bruno Cheyrou,24.0,Central Midfield,LOSC Lille,6.50m,in,Summer,"6,5",Premier League,2002,2002/2003
+Liverpool FC,Anthony Le Tallec,17.0,Centre-Forward,Le Havre,2.50m,in,Summer,"2,5",Premier League,2002,2002/2003
+Liverpool FC,Alou Diarra,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Liverpool FC,Patrice Luzi,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Man Utd,Rio Ferdinand,23.0,Centre-Back,Leeds,46.00m,in,Summer,46,Premier League,2002,2002/2003
+Man Utd,Ricardo,30.0,Goalkeeper,Real Valladolid,2.23m,in,Summer,"2,23",Premier League,2002,2002/2003
+Man Utd,Hussein Yasser,19.0,Attacking Midfield,Asia,250Th.,in,Summer,"0,25",Premier League,2002,2002/2003
+Man Utd,Souleymane Mamam,17.0,Defensive Midfield,AC Merlan Lome,55Th.,in,Summer,"0,055",Premier League,2002,2002/2003
+Newcastle,Hugo Viana,19.0,Central Midfield,Sporting CP,12.75m,in,Summer,"12,75",Premier League,2002,2002/2003
+Newcastle,Titus Bramble,20.0,Centre-Back,Uk,6.80m,in,Summer,"6,8",Premier League,2002,2002/2003
+Newcastle,Tony Caig,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Leeds,Nick Barmby,28.0,Left Midfield,Uk,4.50m,in,Summer,"4,5",Premier League,2002,2002/2003
+Leeds,Paul Okon,30.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Chelsea,Quique de Lucas,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Chelsea,Jean-Yves Anis,21.0,Right-Back,Stade Rennais,?,in,Summer,0.01,Premier League,2002,2002/2003
+West Ham,Raimond van der Gouw,39.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+West Ham,Gary Breen,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+West Ham,Youssef Sofiane,17.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+West Ham,Édouard Cissé,24.0,Defensive Midfield,Paris SG,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Aston Villa,Marcus Allbäck,28.0,Centre-Forward,Heerenveen,3.00m,in,Summer,3,Premier League,2002,2002/2003
+Aston Villa,Ulises de la Cruz,28.0,Right-Back,Uk,2.70m,in,Summer,"2,7",Premier League,2002,2002/2003
+Aston Villa,Stefan Postma,25.0,Goalkeeper,De Graafschap,2.23m,in,Summer,"2,23",Premier League,2002,2002/2003
+Aston Villa,Mark Kinsella,29.0,Defensive Midfield,Charlton,1.15m,in,Summer,"1,15",Premier League,2002,2002/2003
+Aston Villa,Ronny Johnsen,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Aston Villa,Öyvind Leonhardsen,31.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Aston Villa,Michael Boulding,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Spurs,Robbie Keane,22.0,Centre-Forward,Leeds,10.50m,in,Summer,"10,5",Premier League,2002,2002/2003
+Spurs,Diego Bortolozzo,19.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Spurs,Milenko Acimovic,25.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Spurs,Rohan Ricketts,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Spurs,Jonathan Blondel,18.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Spurs,Jamie Redknapp,29.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Blackburn,Dwight Yorke,30.0,Centre-Forward,Man Utd,3.50m,in,Summer,"3,5",Premier League,2002,2002/2003
+Blackburn,David Thompson,24.0,Right Midfield,Uk,2.25m,in,Summer,"2,25",Premier League,2002,2002/2003
+Blackburn,Andy Todd,27.0,Centre-Back,Charlton,1.50m,in,Summer,"1,5",Premier League,2002,2002/2003
+Blackburn,Sebastian Pelzer,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Southampton,Michael Svensson,26.0,Centre-Back,Troyes,3.00m,in,Summer,3,Premier League,2002,2002/2003
+Southampton,Antti Niemi,30.0,Goalkeeper,Uk,3.00m,in,Summer,3,Premier League,2002,2002/2003
+Southampton,Andrey Kanchelskis,33.0,Right Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Southampton,Matt Crowell,17.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Middlesbrough,Massimo Maccarone,22.0,Centre-Forward,Empoli,9.05m,in,Summer,"9,05",Premier League,2002,2002/2003
+Middlesbrough,George Boateng,26.0,Defensive Midfield,Aston Villa,6.90m,in,Summer,"6,9",Premier League,2002,2002/2003
+Middlesbrough,Juninho Paulista,29.0,Attacking Midfield,Atlético Madrid,6.90m,in,Summer,"6,9",Premier League,2002,2002/2003
+Middlesbrough,Franck Queudrue,23.0,Left-Back,Lens,3.75m,in,Summer,"3,75",Premier League,2002,2002/2003
+Middlesbrough,Keith Gilroy,18.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Middlesbrough,Doriva,30.0,Right Midfield,Celta de Vigo,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Middlesbrough,Njitap Geremi,23.0,Right Midfield,Real Madrid,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Fulham,Facundo Sava,28.0,Centre-Forward,South America,3.00m,in,Summer,3,Premier League,2002,2002/2003
+Fulham,Martín Herrera,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Fulham,Pierre Womé,23.0,Left-Back,Bologna,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Fulham,Junichi Inamoto,22.0,Defensive Midfield,Asia,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Fulham,Martin Djetou,27.0,Centre-Back,AC Parma,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Charlton,Gary Rowett,28.0,Right-Back,Uk,5.25m,in,Summer,"5,25",Premier League,2002,2002/2003
+Charlton,Paul Rachubka,22.0,Goalkeeper,Man Utd,300Th.,in,Summer,"0,3",Premier League,2002,2002/2003
+Charlton,Jesper Blomqvist,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Charlton,Robbie Mustoe,33.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Everton,Richard Wright,24.0,Goalkeeper,Arsenal,5.50m,in,Summer,"5,5",Premier League,2002,2002/2003
+Everton,Rodrigo Beckham,25.0,Attacking Midfield,South America,Loan fee:2.00m,in,Summer,2,Premier League,2002,2002/2003
+Everton,Joseph Yobo,21.0,Centre-Back,Marseille,Loan fee:1.50m,in,Summer,"1,5",Premier League,2002,2002/2003
+Everton,Tie Li,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Everton,David Ginola,35.0,Left Winger,Aston Villa,?,in,Summer,0.01,Premier League,2002,2002/2003
+Everton,Weifeng Li,23.0,Centre-Back,SZ Jianlibao,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Bolton,David Holdsworth,33.0,defence,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Bolton,Chris Armstrong,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Bolton,Bülent Akin,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Bolton,Delroy Facey,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Bolton,Jay-Jay Okocha,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Bolton,Iván Campo,28.0,Defensive Midfield,Real Madrid,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Bolton,Bernard Mendy,20.0,Right-Back,Paris SG,?,in,Summer,0.01,Premier League,2002,2002/2003
+Bolton,Gérald Forschelet,20.0,Defensive Midfield,France,?,in,Summer,0.01,Premier League,2002,2002/2003
+Sunderland,Tore André Flo,29.0,Centre-Forward,Uk,11.00m,in,Summer,11,Premier League,2002,2002/2003
+Sunderland,Matt Piper,20.0,Right Midfield,Uk,5.25m,in,Summer,"5,25",Premier League,2002,2002/2003
+Sunderland,Marcus Stewart,29.0,Centre-Forward,Uk,4.88m,in,Summer,"4,88",Premier League,2002,2002/2003
+Sunderland,Stephen Wright,22.0,Right-Back,Uk,4.80m,in,Summer,"4,8",Premier League,2002,2002/2003
+Sunderland,Phil Babb,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Sunderland,Euan McLean,16.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Sunderland,Mart Poom,30.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+Man City,Nicolas Anelka,23.0,Centre-Forward,Paris SG,15.00m,in,Summer,15,Premier League,2002,2002/2003
+Man City,Matías Vuoso,20.0,Centre-Forward,South America,7.50m,in,Summer,"7,5",Premier League,2002,2002/2003
+Man City,Sylvain Distin,24.0,Centre-Back,Paris SG,6.00m,in,Summer,6,Premier League,2002,2002/2003
+Man City,David Sommeil,27.0,Centre-Back,G. Bordeaux,4.50m,in,Summer,"4,5",Premier League,2002,2002/2003
+Man City,Mikkel Bischoff,20.0,defence,North_EU,950Th.,in,Summer,"0,95",Premier League,2002,2002/2003
+Man City,Marc-Vivien Foé,,Defensive Midfield,Olympique Lyon,Loan fee:700Th.,in,Summer,"0,7",Premier League,2002,2002/2003
+Man City,Peter Schmeichel,38.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Man City,Karim Kerkar,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Man City,Tyrone Loran,21.0,Right-Back,Netherlands,?,in,Summer,0.01,Premier League,2002,2002/2003
+Man City,Tim Flowers,35.0,Goalkeeper,Uk,loan transfer,in,Summer,0.01,Premier League,2002,2002/2003
+West Brom,Lee Hughes,26.0,Centre-Forward,Uk,9.00m,in,Summer,9,Premier League,2002,2002/2003
+West Brom,Jason Koumas,22.0,Attacking Midfield,Uk,3.45m,in,Summer,"3,45",Premier League,2002,2002/2003
+West Brom,Sean Gregan,28.0,Centre-Back,Uk,2.50m,in,Summer,"2,5",Premier League,2002,2002/2003
+West Brom,Lee Marshall,23.0,Central Midfield,Uk,1.05m,in,Summer,"1,05",Premier League,2002,2002/2003
+West Brom,Joe Murphy,20.0,Goalkeeper,Uk,250Th.,in,Summer,"0,25",Premier League,2002,2002/2003
+West Brom,Ronnie Wallwork,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Birmingham,Clinton Morrison,23.0,Centre-Forward,Uk,6.38m,in,Summer,"6,38",Premier League,2002,2002/2003
+Birmingham,Aliou Cissé,26.0,Defensive Midfield,Paris SG,2.25m,in,Summer,"2,25",Premier League,2002,2002/2003
+Birmingham,Robbie Savage,27.0,Central Midfield,Uk,1.88m,in,Summer,"1,88",Premier League,2002,2002/2003
+Birmingham,Tom Williams,21.0,Left-Back,Uk,525Th.,in,Summer,"0,525",Premier League,2002,2002/2003
+Birmingham,Jovan Kirovski,26.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Birmingham,Darryl Powell,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Birmingham,Kenny Cunningham,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2002,2002/2003
+Arsenal,Guillaume Warmuz,32.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Newcastle,Jonathan Woodgate,23.0,Centre-Back,Leeds,13.50m,in,Winter,"13,5",Premier League,2002,2002/2003
+Newcastle,Darren Ambrose,19.0,Left Midfield,Uk,1.50m,in,Winter,"1,5",Premier League,2002,2002/2003
+Leeds,Paul Keegan,18.0,Central Midfield,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Leeds,Raúl Bravo,21.0,Centre-Back,Real Madrid,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Leeds,Teddy Lucic,29.0,Centre-Back,North_EU,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Chelsea,Boy-Boy Mosia,17.0,Attacking Midfield,Transnet School of Excellence,?,in,Winter,0.01,Premier League,2002,2002/2003
+West Ham,Lee Bowyer,25.0,Central Midfield,Leeds,300Th.,in,Winter,"0,3",Premier League,2002,2002/2003
+West Ham,David Noble,21.0,Central Midfield,Arsenal,100Th.,in,Winter,"0,1",Premier League,2002,2002/2003
+West Ham,Rufus Brevett,33.0,Left-Back,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+West Ham,Les Ferdinand,36.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+West Ham,Leonidas Vokolos,32.0,Centre-Back,Central_EU,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Aston Villa,Joey Gudjónsson,22.0,Central Midfield,Real Betis,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Spurs,Lars Hirschfeld,24.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Spurs,Kazuyuki Toda,25.0,Defensive Midfield,Asia,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Blackburn,Vratislav Gresko,25.0,Left-Back,AC Parma,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Southampton,David Prutton,21.0,Central Midfield,Uk,3.75m,in,Winter,"3,75",Premier League,2002,2002/2003
+Southampton,Danny Higginbotham,24.0,Centre-Back,Uk,2.25m,in,Winter,"2,25",Premier League,2002,2002/2003
+Southampton,Federicio Arias,23.0,attack,South America,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Southampton,Eric Hassli,21.0,Centre-Forward,France,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Middlesbrough,Michael Ricketts,24.0,Centre-Forward,Bolton,5.25m,in,Winter,"5,25",Premier League,2002,2002/2003
+Middlesbrough,Chris Riggott,22.0,Centre-Back,Uk,2.23m,in,Winter,"2,23",Premier League,2002,2002/2003
+Middlesbrough,John Eustace,23.0,Defensive Midfield,Uk,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Charlton,Hermann Hreidarsson,28.0,Centre-Back,Uk,1.20m,in,Winter,"1,2",Premier League,2002,2002/2003
+Charlton,Tahar El Khalej,34.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Everton,Lee Carsley,28.0,Defensive Midfield,Uk,2.85m,in,Winter,"2,85",Premier League,2002,2002/2003
+Everton,Espen Baardsen,25.0,Goalkeeper,Uk,1.88m,in,Winter,"1,88",Premier League,2002,2002/2003
+Everton,Brian McBride,30.0,Centre-Forward,North America,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Bolton,Kangana N'Diwa,19.0,Centre-Back,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Bolton,Salva Ballesta,27.0,Centre-Forward,Valencia,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Bolton,Pierre-Yves André,28.0,Centre-Forward,FC Nantes,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Sunderland,Mart Poom,30.0,Goalkeeper,Uk,3.75m,in,Winter,"3,75",Premier League,2002,2002/2003
+Sunderland,Thomas Myhre,29.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Sunderland,Talal El Karkouri,26.0,Centre-Back,Paris SG,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Man City,Robbie Fowler,27.0,Centre-Forward,Leeds,9.80m,in,Winter,"9,8",Premier League,2002,2002/2003
+Man City,Djamel Belmadi,26.0,Right Midfield,Marseille,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+West Brom,Ifeanyi Udeze,22.0,Left-Back,Central_EU,700Th.,in,Winter,"0,7",Premier League,2002,2002/2003
+Birmingham,Jamie Clapham,27.0,Left-Back,Uk,1.85m,in,Winter,"1,85",Premier League,2002,2002/2003
+Birmingham,Matthew Upson,23.0,Centre-Back,Arsenal,1.40m,in,Winter,"1,4",Premier League,2002,2002/2003
+Birmingham,Stephen Clemence,24.0,Right Midfield,Spurs,1.35m,in,Winter,"1,35",Premier League,2002,2002/2003
+Birmingham,Christophe Dugarry,30.0,Centre-Forward,free agents,free transfer,in,Winter,0,Premier League,2002,2002/2003
+Birmingham,Ferdinand Coly,29.0,Right-Back,Lens,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Birmingham,Andy Marriott,32.0,Goalkeeper,Uk,50Th.,in,Winter,"0,05",Premier League,2002,2002/2003
+Birmingham,Piotr Swierczewski,30.0,Defensive Midfield,Marseille,loan transfer,in,Winter,0.01,Premier League,2002,2002/2003
+Racing,Cristian Álvarez,24.0,Right-Back,South America,500Th.,in,Summer,"0,5",Primera Division,2002,2002/2003
+Racing,Yossi Benayoun,22.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Racing,Javi Guerrero,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Racing,Pedro Munitis,27.0,Second Striker,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Racing,Txiki,25.0,Left Winger,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Racing,Ilan Bakhar,27.0,Right-Back,Est_EU,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Racing,David Coromina,27.0,Right-Back,Palamós CF,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Racing,Pablo Lago,27.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Racing,Diego Alonso,27.0,Centre-Forward,Valencia,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Nelson Zelaya,28.0,Centre-Back,South America,400Th.,in,Summer,"0,4",Primera Division,2002,2002/2003
+Recr. Huelva,Diego Camacho,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Recr. Huelva,Dani Güiza,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Recr. Huelva,Emilio Viqueira,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Recr. Huelva,Xisco Muñoz,21.0,Second Striker,Spain,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Yago Yao,22.0,Centre-Back,Celta de Vigo,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Manuel Almunia,25.0,Goalkeeper,Celta de Vigo,Loan fee:50Th.,in,Summer,"0,05",Primera Division,2002,2002/2003
+Recr. Huelva,David Gallego,30.0,midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Sergio Tejero,23.0,Left-Back,Sevilla,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Álex Pereira,25.0,defence,Unknown,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Mario Bermejo,23.0,Second Striker,Athletic,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Moreno,22.0,attack,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,David Cubillo,24.0,Defensive Midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Óscar Arpón,27.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Alavés,Richard Dutruel,29.0,Goalkeeper,Barcelona,2.90m,in,Summer,"2,9",Primera Division,2002,2002/2003
+Alavés,Adrian Ilie,28.0,Centre-Forward,Valencia,1.50m,in,Summer,"1,5",Primera Division,2002,2002/2003
+Alavés,Abelardo,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Alavés,Edu Alonso,28.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Alavés,Mario Rosas,22.0,Attacking Midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Alavés,Luis Helguera,26.0,Defensive Midfield,Italy,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Málaga CF,Kiki Musampa,24.0,Left Winger,G. Bordeaux,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Villarreal,Rubén Reyes,23.0,Central Midfield,Spain,750Th.,in,Summer,"0,75",Primera Division,2002,2002/2003
+Villarreal,Pepe Reina,19.0,Goalkeeper,Barcelona,750Th.,in,Summer,"0,75",Primera Division,2002,2002/2003
+Villarreal,Marcos Senna,25.0,Defensive Midfield,South America,600Th.,in,Summer,"0,6",Primera Division,2002,2002/2003
+Villarreal,Juliano Belletti,26.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Villarreal,Josico,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Villarreal,Carlos Aranda,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Valencia,Jean Félix Dorothée,20.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Celta de Vigo,Peter Luccin,23.0,Defensive Midfield,Paris SG,9.00m,in,Summer,9,Primera Division,2002,2002/2003
+Celta de Vigo,Sebastián Méndez,24.0,Centre-Back,South America,1.30m,in,Summer,"1,3",Primera Division,2002,2002/2003
+Celta de Vigo,José Ignacio,28.0,Defensive Midfield,Spain,1.20m,in,Summer,"1,2",Primera Division,2002,2002/2003
+Celta de Vigo,Ángel López,21.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Celta de Vigo,Eduardo Coudet,27.0,Right Midfield,South America,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Celta de Vigo,Jandro,23.0,Attacking Midfield,Valencia,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Dep. La Coruña,Albert Luque,24.0,Left Winger,RCD Mallorca,15.00m,in,Summer,15,Primera Division,2002,2002/2003
+Dep. La Coruña,Jorge Andrade,24.0,Centre-Back,FC Porto,13.00m,in,Summer,13,Primera Division,2002,2002/2003
+Dep. La Coruña,Roberto Acuña,30.0,Central Midfield,Spain,11.00m,in,Summer,11,Primera Division,2002,2002/2003
+Dep. La Coruña,Jesús Muñoz,26.0,Central Midfield,Atlético Madrid,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Dep. La Coruña,Pablo Amo,24.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Dep. La Coruña,Juanmi,31.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Maxi Rodríguez,21.0,Left Winger,South America,6.00m,in,Summer,6,Primera Division,2002,2002/2003
+Espanyol,Savo Milosevic,28.0,Centre-Forward,AC Parma,Loan fee:3.00m,in,Summer,3,Primera Division,2002,2002/2003
+Espanyol,Alexander Manninger,25.0,Goalkeeper,Arsenal,1.32m,in,Summer,"1,32",Primera Division,2002,2002/2003
+Espanyol,Frédson,21.0,Defensive Midfield,South America,950Th.,in,Summer,"0,95",Primera Division,2002,2002/2003
+Espanyol,José Luque,24.0,Left Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Espanyol,Xavi Roca,28.0,Right-Back,Villarreal,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Alain Boghossian,31.0,Central Midfield,AC Parma,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Iván Amaya,23.0,Centre-Back,Atlético Madrid,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Moreno Torricelli,32.0,Right-Back,Florentia,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Toni Jiménez,31.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Cyril Domoraud,30.0,Centre-Back,Milan,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Espanyol,Sergio Sánchez,25.0,Goalkeeper,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Sociedad,Sergio Boris,22.0,Centre-Back,Spain,1.60m,in,Summer,"1,6",Primera Division,2002,2002/2003
+Real Sociedad,Valeriy Karpin,33.0,Right Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Real Sociedad,Gabriel Schürrer,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Real Sociedad,Galder Zubizarreta,22.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Atlético Madrid,Javi Moreno,27.0,Centre-Forward,Milan,13.00m,in,Summer,13,Primera Division,2002,2002/2003
+Atlético Madrid,Émerson,30.0,Defensive Midfield,Dep. La Coruña,6.50m,in,Summer,"6,5",Primera Division,2002,2002/2003
+Atlético Madrid,Jovan Stankovic,30.0,Left Midfield,Marseille,4.80m,in,Summer,"4,8",Primera Division,2002,2002/2003
+Atlético Madrid,Cosmin Contra,26.0,Right-Back,Milan,3.00m,in,Summer,3,Primera Division,2002,2002/2003
+Atlético Madrid,Javier Pinola,19.0,Centre-Back,South America,800Th.,in,Summer,"0,8",Primera Division,2002,2002/2003
+Atlético Madrid,Fabricio Coloccini,20.0,Centre-Back,Milan,Loan fee:100Th.,in,Summer,"0,1",Primera Division,2002,2002/2003
+Atlético Madrid,Sergi Barjuan,30.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Atlético Madrid,José Mari,23.0,Centre-Forward,Milan,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Atlético Madrid,Luis García,24.0,Right Winger,Barcelona,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Atlético Madrid,Esteban,27.0,Goalkeeper,Spain,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Atlético Madrid,Demetrio Albertini,30.0,Defensive Midfield,Milan,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Athletic,Aitor Karanka,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Athletic,Luis Prieto,23.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Athletic,César Caneda,24.0,Centre-Back,Racing,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Madrid,Ronaldo,25.0,Centre-Forward,Inter,45.00m,in,Summer,45,Primera Division,2002,2002/2003
+Sevilla FC,Zoran Njegus,29.0,Right-Back,Atlético Madrid,1.20m,in,Summer,"1,2",Primera Division,2002,2002/2003
+Sevilla FC,Dani Alves,19.0,Right-Back,South America,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2002,2002/2003
+Sevilla FC,Marcos Vales,27.0,Right Midfield,Spain,180Th.,in,Summer,"0,18",Primera Division,2002,2002/2003
+Sevilla FC,Juan Luis Redondo,25.0,Right-Back,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Sevilla FC,Juan Carlos Caballero,23.0,Goalkeeper,UE Figueres,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Sevilla FC,Vinny Samways,33.0,Central Midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Rayo Vallecano,Iriney,21.0,Central Midfield,South America,750Th.,in,Summer,"0,75",Primera Division,2002,2002/2003
+Rayo Vallecano,Idan Tal,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Rayo Vallecano,Javier Dorado,25.0,Left-Back,Real Madrid,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Rayo Vallecano,Míchel,24.0,Centre-Forward,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Rayo Vallecano,Viktor Onopko,32.0,Centre-Back,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Rayo Vallecano,Julio Álvarez,21.0,Attacking Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,David Aganzo,21.0,Centre-Forward,Real Madrid,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,David Sousa,22.0,Attacking Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,Nicolás Olivera,24.0,Second Striker,Sevilla FC,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,Julio Iglesias,29.0,Goalkeeper,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,Óscar Sánchez,22.0,Right-Back,Badajoz,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,Javier Muñoz Mustafá,22.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Valladolid,Gonzalo Colsa,23.0,Defensive Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+CA Osasuna,Antonio López,20.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+CA Osasuna,Pablo García,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+CA Osasuna,Richard Morales,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+CA Osasuna,Paqui,31.0,Left-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+CA Osasuna,Manuel Vidrio,29.0,Centre-Back,North America,?,in,Summer,0.01,Primera Division,2002,2002/2003
+CA Osasuna,Carlos Ochoa,24.0,Centre-Forward,North America,?,in,Summer,0.01,Primera Division,2002,2002/2003
+RCD Mallorca,Walter Pandiani,26.0,Centre-Forward,Dep. La Coruña,Loan fee:200Th.,in,Summer,"0,2",Primera Division,2002,2002/2003
+RCD Mallorca,David Cortés,22.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+RCD Mallorca,Poli,25.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+RCD Mallorca,Hárold Lozano,30.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+RCD Mallorca,Turu Flores,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+RCD Mallorca,Rogério Cannellini,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+RCD Mallorca,Finidi George,31.0,Right Winger,Uk,?,in,Summer,0.01,Primera Division,2002,2002/2003
+RCD Mallorca,Ángel Pérez,21.0,Right-Back,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+RCD Mallorca,Oussama Souaidy,20.0,Central Midfield,France,?,in,Summer,0.01,Primera Division,2002,2002/2003
+RCD Mallorca,Federico Lussenhoff,28.0,Centre-Back,Spain,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Betis,Marcos Assunção,25.0,Central Midfield,AS Roma,7.00m,in,Summer,7,Primera Division,2002,2002/2003
+Real Betis,Fernando,23.0,Attacking Midfield,Real Madrid,5.20m,in,Summer,"5,2",Primera Division,2002,2002/2003
+Real Betis,Pablo Niño,24.0,midfield,Spain,?,in,Summer,0.01,Primera Division,2002,2002/2003
+Real Betis,Alfonso,29.0,Centre-Forward,Barcelona,loan transfer,in,Summer,0.01,Primera Division,2002,2002/2003
+Barcelona,Juan Román Riquelme,24.0,Attacking Midfield,South America,10.00m,in,Summer,10,Primera Division,2002,2002/2003
+Barcelona,Gaizka Mendieta,28.0,Right Midfield,Lazio,Loan fee:9.00m,in,Summer,9,Primera Division,2002,2002/2003
+Barcelona,Robert Enke,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2002,2002/2003
+Racing,Messias Conceicao,25.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Recr. Huelva,Joãozinho,22.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Alavés,Ivan Tomic,27.0,Defensive Midfield,AS Roma,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Villarreal,Javier Farinós,24.0,Defensive Midfield,Inter,Loan fee:750Th.,in,Winter,"0,75",Primera Division,2002,2002/2003
+Villarreal,Antonio de Nigris,24.0,Centre-Forward,North America,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Valencia,Anthony Réveillère,23.0,Right-Back,Stade Rennais,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Celta de Vigo,Mido,19.0,Centre-Forward,Ajax,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Espanyol,Iván de la Peña,26.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Primera Division,2002,2002/2003
+Atlético Madrid,Rodrigo Fabri,26.0,Attacking Midfield,Real Madrid,3.00m,in,Winter,3,Primera Division,2002,2002/2003
+Sevilla FC,Dani Alves,19.0,Right-Back,South America,550Th.,in,Winter,"0,55",Primera Division,2002,2002/2003
+Sevilla FC,Nikolaos Machlas,29.0,Centre-Forward,Ajax,Loan fee:400Th.,in,Winter,"0,4",Primera Division,2002,2002/2003
+CA Osasuna,Pierre Webó,20.0,Centre-Forward,Nacional,?,in,Winter,0.01,Primera Division,2002,2002/2003
+CA Osasuna,Christian Manfredini,27.0,Left Winger,Lazio,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+Barcelona,Juan Pablo Sorín,26.0,Left-Back,South America,loan transfer,in,Winter,0.01,Primera Division,2002,2002/2003
+FC Porto,Nuno Espírito Santo,28.0,Goalkeeper,Dep. La Coruña,3.00m,in,Summer,3,Liga Nos,2002,2002/2003
+FC Porto,Edgaras Jankauskas,28.0,Centre-Forward,Real Sociedad,2.40m,in,Summer,"2,4",Liga Nos,2002,2002/2003
+FC Porto,Paulo Ferreira,23.0,Right-Back,Vitória Setúbal,2.00m,in,Summer,2,Liga Nos,2002,2002/2003
+FC Porto,César Peixoto,22.0,Left Midfield,Belenenses,1.00m,in,Summer,1,Liga Nos,2002,2002/2003
+FC Porto,Nuno Valente,27.0,Left-Back,Leiria,550Th.,in,Summer,"0,55",Liga Nos,2002,2002/2003
+FC Porto,Ákos Buzsáky,20.0,Central Midfield,Central_EU,525Th.,in,Summer,"0,525",Liga Nos,2002,2002/2003
+FC Porto,Derlei,26.0,Centre-Forward,Leiria,450Th.,in,Summer,"0,45",Liga Nos,2002,2002/2003
+FC Porto,Tiago,26.0,Defensive Midfield,Leiria,250Th.,in,Summer,"0,25",Liga Nos,2002,2002/2003
+FC Porto,Maniche,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+FC Porto,Bruno,28.0,Central Midfield,Marítimo,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+FC Porto,Pedro Emanuel,27.0,Centre-Back,Boavista,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+FC Porto,Zé Carlos,19.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Benfica,Petit,25.0,Defensive Midfield,Boavista,3.00m,in,Summer,3,Liga Nos,2002,2002/2003
+Benfica,Cristiano,25.0,defence,Beira-Mar,250Th.,in,Summer,"0,25",Liga Nos,2002,2002/2003
+Benfica,Nuno Gomes,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Benfica,Anderson,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Benfica,Emilio Peixe,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Benfica,Ricardo Rocha,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Benfica,Hélder Cristóvão,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Benfica,Miklós Fehér,22.0,Centre-Forward,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Benfica,Éder Bonfim,21.0,Right-Back,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Sporting CP,Danny,18.0,Attacking Midfield,Marítimo,2.00m,in,Summer,2,Liga Nos,2002,2002/2003
+Sporting CP,Ricardo Fernandes,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Sporting CP,Pablo Contreras,23.0,Centre-Back,Celta de Vigo,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Sporting CP,Marcos Paulo,25.0,Central Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Sporting CP,Vitali Kutuzov,22.0,Centre-Forward,Milan,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Gabriel,20.0,Centre-Back,South America,200Th.,in,Summer,"0,2",Liga Nos,2002,2002/2003
+Leiria,Edson Canhão,25.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Leiria,Yves Kibuey,32.0,Centre-Forward,Coimbra,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Diego Gustavo Bono,23.0,midfield,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Ferreira,35.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Paulo Gomes,27.0,Defensive Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Alhandra,23.0,Left-Back,Coimbra,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Márcio Santos,27.0,Centre-Forward,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Leiria,Fernando Aguiar,30.0,Defensive Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Ivan Djurdjevic,25.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Avely,22.0,attack,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Marcinho,21.0,Left-Back,Rio Branco-SP,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Ghislain Chauray,30.0,Goalkeeper,AS Angoulême 92,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Carlão,21.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Medeiros,25.0,Centre-Back,Varzim,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Jaime Júnior,23.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Ferreira,23.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Rafael,28.0,Attacking Midfield,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Rui Ferreira,29.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Ricardo Silva,26.0,Centre-Back,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,João Tomás,27.0,Centre-Forward,Real Betis,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Paços Ferreira,Renato Queirós,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Paços Ferreira,Júnior,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Paços Ferreira,Fernando Baptista,31.0,Goalkeeper,Leiria,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Paços Ferreira,Luís Miguel,30.0,Right-Back,SC Braga,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Paços Ferreira,José Puntas,25.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Paços Ferreira,Gerônimo,31.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Marítimo,Wênio,22.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Marítimo,Pepín,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Marítimo,Rafael Jaques,26.0,Centre-Forward,Leiria,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Marítimo,Júnior Bahia,25.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Marítimo,Rincón,25.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Larry,19.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Gil Vicente,Geraldo Alves,21.0,Centre-Back,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Braíma Injai,26.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Rodri,25.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Étienne Bito'o,22.0,Right Winger,FC 105 Libreville,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Nandinho,29.0,Right Winger,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Luís Coentrão,25.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Emmanuel Duah,25.0,Left Winger,Leiria,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Gaspar,27.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,José Nunes,25.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Henri Antchouet,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Belenenses,Byung-min Jung,19.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Belenenses,Orestes,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Belenenses,Eduardo Marques,26.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Ludemar,23.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Fábio Rosa,19.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Brian Waltrip,24.0,Right Midfield,Olivais,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Rogério,26.0,Defensive Midfield,Spain,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Rui Borges,28.0,Attacking Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Carlos Fernandes,24.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Belenenses,Sousa,24.0,Right-Back,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Éder Gaúcho,24.0,Centre-Back,Leiria,1.00m,in,Summer,1,Liga Nos,2002,2002/2003
+Boavista,Jocivalter,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Boavista,Sául,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Nuno Gomes,22.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Laurentino,24.0,Goalkeeper,Ferreirense,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Saná Fadeira,20.0,Centre-Forward,Lamego,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Marco Almeida,23.0,Right Winger,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Luiz Cláudio,24.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Ico,29.0,Defensive Midfield,Vitória Setúbal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,José Pedro,23.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Boavista,Cafú,24.0,Centre-Forward,Belenenses,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Ricardo Esteves,22.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Nacional,Adriano,23.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Marcelo Cruz,25.0,Goalkeeper,Marília,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Ricardinho,26.0,Attacking Midfield,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Arnaud Margueritte,29.0,Goalkeeper,France,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Hugo Carreira,23.0,Centre-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Adilson Soares Cassama,19.0,Defensive Midfield,União Lamas,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Rossato,24.0,Left-Back,Marília,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Filipe Gouveia,29.0,Left Midfield,Paços Ferreira,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Patacas,24.0,Right-Back,Sporting CP,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Idalécio,28.0,Centre-Back,SC Braga,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Tonanha,22.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Nacional,Maurício Cabedelo,30.0,Centre-Forward,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Sérgio Lomba,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Moreirense ,Roberto Volpato,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Moreirense ,Demétrios,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Moreirense ,Anderson,24.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Jorge Duarte,27.0,Defensive Midfield,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Mauro César,28.0,Right Winger,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Flávio Cordeiro,27.0,Centre-Forward,Clube Malutrom (PR),?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Afonso Martins,29.0,Left Midfield,Sporting CP,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Lima,29.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Cristiano Grotto,29.0,Centre-Back,Marília,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Rufino Lekué,27.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Vitor Pereira,23.0,Defensive Midfield,CF Extremadura,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Nuno Cavaleiro,26.0,Right Winger,CF Estrela,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Agostinho,26.0,Left Winger,Paris SG,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Kata,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Beira-Mar,Paulo Sérgio,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Beira-Mar,Ricardo Sousa,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Beira-Mar,Toni,22.0,Right-Back,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Carlinhos Bala,22.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Thomas Debenest,28.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Diogo Luís,21.0,Left-Back,Benfica,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,João Casal,22.0,Centre-Back,Gafanha,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Zezinho,27.0,Right Winger,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Mariano Fernández,23.0,Centre-Back,Central_EU,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,David Henríquez,24.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Sandro Gaúcho,28.0,Defensive Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Jorginho,26.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Coimbra,Binho,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Coimbra,Damian Tixier,22.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Coimbra,André Macanga,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Coimbra,Lucian Marinescu,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Coimbra,Marcelo,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Coimbra,Raul Oliveira,29.0,Centre-Back,CF Estrela,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Nuno Pedro,20.0,Attacking Midfield,GD Tourizense,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Fabien Valeri,28.0,Left Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Roberto,23.0,Centre-Forward,Moreirense,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Eduardo,23.0,Goalkeeper,União Coimbra,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Nuno Luís,27.0,Right-Back,Nacional,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Coimbra,Fredy,22.0,Left-Back,CA Felgueiras,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Zé António,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Varzim,Milhazes,21.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Varzim,Marcelo Pontiroli,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Varzim,Jorge Ribeiro,20.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Varzim,Quim Berto,30.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Varzim,Jorge Luís,26.0,Left-Back,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Paulo Ferreira,28.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Rodolfo Correia,25.0,midfield,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Marcão,33.0,Centre-Forward,Belenenses,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Rui Baião,21.0,Attacking Midfield,Benfica,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Fernando,21.0,Left Midfield,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,José Lemos,30.0,Centre-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Paulo Vida,30.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,Pêpa,21.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+Varzim,João Paulo,22.0,Centre-Forward,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Nuno Mendes,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+SC Braga,Glauber,27.0,midfield,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Nozomi Hiroyama,25.0,Left Winger,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Mikel Antía,29.0,Centre-Back,Spain,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Gabriel Miguel Bordi,27.0,attack,Spain,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Telmo,27.0,Left-Back,Santa Clara,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Pedro Costa,20.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Wender,27.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Bodunha,27.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Celso,25.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+SC Braga,Ibón Arrieta,25.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Moisés,24.0,defence,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Santa Clara,Peñaranda,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Santa Clara,João Pedro,27.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Aldo,25.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Fabrício Ceará,24.0,Centre-Forward,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Lito Vidigal,32.0,Right-Back,Belenenses,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Pedro Henriques,27.0,Left-Back,Belenenses,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Bruno Ribeiro,26.0,Left Midfield,Beira-Mar,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Luís Vouzela,28.0,Central Midfield,Leiria,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Joca,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2002,2002/2003
+Vitória Setúbal,Celino,19.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Nélson,30.0,Right-Back,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Pedro Espinha,36.0,Goalkeeper,FC Porto,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Vasco Matos,21.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Carlos,29.0,Centre-Back,Gil Vicente,?,in,Summer,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Rui Lima,24.0,Attacking Midfield,Boavista,loan transfer,in,Summer,0.01,Liga Nos,2002,2002/2003
+FC Porto,Marco Ferreira,24.0,Right Winger,Vitória Setúbal,1.23m,in,Winter,"1,23",Liga Nos,2002,2002/2003
+Benfica,Geovanni,22.0,Attacking Midfield,Barcelona,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Sporting CP,João Paulo,21.0,Centre-Back,Leiria,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Leiria,Hugo Almeida,18.0,Centre-Forward,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Leiria,Helton,24.0,Goalkeeper,Portugal,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Leiria,Peter,19.0,midfield,South America,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Fábio Júnior,25.0,Centre-Forward,AS Roma,800Th.,in,Winter,"0,8",Liga Nos,2002,2002/2003
+Vit. Guimarães,Rubens Júnior,27.0,Left-Back,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Vit. Guimarães,Jaílson,21.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Paços Ferreira,Serginho Baiano,24.0,Left Winger,Boavista,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Marítimo,Marcos,26.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Marítimo,Danny,19.0,Attacking Midfield,Sporting CP,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Marítimo,Bruno,28.0,Central Midfield,FC Porto,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Gil Vicente,Edinho,20.0,Centre-Forward,Cachoeira-RS,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Belenenses,Odair,29.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Belenenses,Mauro,29.0,Left Winger,Paços Ferreira,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Belenenses,Loló,21.0,Centre-Forward,1º de Agosto,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Boavista,Alexander Viveros,25.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Boavista,Yuri,20.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Boavista,Filipe Anunciacão,23.0,Defensive Midfield,Portugal,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Nacional,André Pinto,24.0,Centre-Forward,Portuguesa-SP,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Nacional,Paulo Assunção,22.0,Defensive Midfield,South America,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Nacional,Rogerinho,22.0,Attacking Midfield,South America,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Nuno Mendes,24.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Moreirense ,Ido,26.0,midfield,União Lamas,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Moreirense ,Víctor Quintana,26.0,Defensive Midfield,South America,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Moreirense ,César Marques,21.0,Defensive Midfield,Portugal,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Antolín Alcaraz,20.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Beira-Mar,Ferreira,23.0,Centre-Forward,Vit. Guimarães,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Carlão,22.0,Centre-Back,Vit. Guimarães,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Beira-Mar,Diego Galván,20.0,Right Midfield,South America,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Coimbra,Henrique Hilário,27.0,Goalkeeper,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Coimbra,Carlos Martins,20.0,Attacking Midfield,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Coimbra,Pedro Oliveira,21.0,Right Winger,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Coimbra,Esquerdinha,30.0,Left-Back,Spain,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Coimbra,Vítor Vieira,29.0,Right Winger,Santa Clara,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Coimbra,Marcos António,19.0,Centre-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Coimbra,Manuel José,21.0,Right Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Varzim,Paulo Santos,30.0,Goalkeeper,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+SC Braga,Mindaugas Kalonas,18.0,Attacking Midfield,Russia,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+SC Braga,Tailson,27.0,Centre-Forward,South America,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Cuco,20.0,Central Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2002,2002/2003
+Santa Clara,Tucho,22.0,Attacking Midfield,South America,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Leandro Machado,26.0,Centre-Forward,Est_EU,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Santa Clara,Emerson,25.0,Centre-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Pascal,22.0,Centre-Forward,Nacional,?,in,Winter,0.01,Liga Nos,2002,2002/2003
+Vitória Setúbal,Candido Costa,21.0,Right Midfield,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2002,2002/2003
+PSV Eindhoven,Arjen Robben,18.0,Right Winger,FC Groningen,4.30m,in,Summer,"4,3",Eredivisie,2002,2002/2003
+PSV Eindhoven,Michael Lamey,22.0,Right-Back,RKC Waalwijk,4.30m,in,Summer,"4,3",Eredivisie,2002,2002/2003
+PSV Eindhoven,Remco van der Schaaf,23.0,Centre-Back,Vitesse,3.00m,in,Summer,3,Eredivisie,2002,2002/2003
+PSV Eindhoven,Edson,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+PSV Eindhoven,Jelle ten Rouwelaar,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+PSV Eindhoven,Robert van Boxel,19.0,Centre-Back,Haarlem U19,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+PSV Eindhoven,Lindsay Wilson,23.0,Left Midfield,Sydney Olympic,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Ajax,Victor Sikora,24.0,Right Winger,Vitesse,4.35m,in,Summer,"4,35",Eredivisie,2002,2002/2003
+Ajax,Nourdin Boukhari,22.0,Attacking Midfield,Netherlands,680Th.,in,Summer,"0,68",Eredivisie,2002,2002/2003
+Ajax,Jari Litmanen,31.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Ajax,Henk Timmer,30.0,Goalkeeper,AZ Alkmaar,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+Feyenoord,Chong-gug Song,23.0,Right-Back,Asia,4.00m,in,Summer,4,Eredivisie,2002,2002/2003
+Feyenoord,Jorge Acuña,23.0,Defensive Midfield,South America,1.00m,in,Summer,1,Eredivisie,2002,2002/2003
+Feyenoord,Patrick Lodewijks,35.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Feyenoord,Jordan Opoku,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Feyenoord,Mariano Bombarda,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Feyenoord,Brett Holman,18.0,Attacking Midfield,Parra. Power,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Feyenoord,Alessandro,20.0,Centre-Forward,South America,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Feyenoord,Anthony Lurling,25.0,Attacking Midfield,Heerenveen,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Feyenoord,Meshal Mubarak Budawood,20.0,Left-Back,Asia,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+NAC Breda,Ali Boussaboun,23.0,Left Winger,FC Groningen,350Th.,in,Summer,"0,35",Eredivisie,2002,2002/2003
+NAC Breda,Marcel Koning,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NAC Breda,Igor Korneev,34.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NAC Breda,Ronnie Stam,18.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NAC Breda,Arne Slot,23.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NAC Breda,Adnan Barakat,19.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NAC Breda,Bart Van den Eede,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NAC Breda,Jürgen Colin,21.0,Centre-Back,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+NAC Breda,Pieter Collen,22.0,Centre-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+NEC Nijmegen,Henry Timmer,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NEC Nijmegen,Gary Spier,18.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NEC Nijmegen,Dennis de Nooijer,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+NEC Nijmegen,Dejan Govedarica,32.0,Central Midfield,RKC Waalwijk,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+NEC Nijmegen,Rob Wielaert,23.0,Centre-Back,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+NEC Nijmegen,Youssouf Hersi,19.0,Right Winger,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+Roda JC,Cristiano,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Roda JC,Sergio Pacheco,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Roda JC,Vladan Kujovic,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Roda JC,Taylan Aydogan,19.0,Goalkeeper,Fenerbahce Yth.,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Roda JC,Predrag Filipovic,27.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Roda JC,Alain Van Mieghem,20.0,Left Midfield,Belgium,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Heerenveen,Abgar Barsom,24.0,Central Midfield,North_EU,90Th.,in,Summer,"0,09",Eredivisie,2002,2002/2003
+Heerenveen,Petter Hansson,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Heerenveen,Hannu Haarala,20.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Heerenveen,Radoslav Samardzic,32.0,Centre-Forward,Feyenoord,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Heerenveen,Godfrey Nwankpa,23.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Heerenveen,John de Jong,25.0,Attacking Midfield,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+RKC Waalwijk,Kevin van der Geest,20.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Michael van der Heijden,20.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Jason Oost,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Yuriy Nikiforov,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Serginho Greene,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Tim Aelbrecht,20.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Peter van den Berg,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RKC Waalwijk,Kris Ottoy,17.0,Goalkeeper,Belgium,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+RKC Waalwijk,Yuri Petrov,27.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+RKC Waalwijk,Koen Van Der Heyden,19.0,Left-Back,Belgium,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+AZ Alkmaar,Martijn Meerdink,25.0,Right Winger,De Graafschap,950Th.,in,Summer,"0,95",Eredivisie,2002,2002/2003
+AZ Alkmaar,Juha Reini,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+AZ Alkmaar,Tim de Cler,23.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+AZ Alkmaar,Joost Volmer,28.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Willem II,James Quinn,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Willem II,Cedric van der Gun,23.0,Centre-Forward,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+Willem II,Regillio Simons,29.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Twente FC,Jurgen Cavens,24.0,Centre-Forward,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+RBC Roosendaal,Melvin Fleur,20.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RBC Roosendaal,Maikel Aerts,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RBC Roosendaal,Erwin Friebel,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RBC Roosendaal,David Nascimento,36.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RBC Roosendaal,Azubuike Oliseh,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RBC Roosendaal,Mitchell Piqué,22.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+RBC Roosendaal,Ebou Sillah,22.0,Left Winger,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+RBC Roosendaal,Sampo Koskinen,23.0,Left-Back,North_EU,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+RBC Roosendaal,Nordin Wooter,24.0,Right Winger,Uk,nan,in,Summer,0.01,Eredivisie,2002,2002/2003
+Vitesse,Aleksandar Rankovic,23.0,Right-Back,Central_EU,2.00m,in,Summer,2,Eredivisie,2002,2002/2003
+Vitesse,Jan van Halst,33.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Vitesse,Purrel Fränkel,25.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+FC Groningen,Glen Salmon,24.0,Centre-Forward,NAC Breda,500Th.,in,Summer,"0,5",Eredivisie,2002,2002/2003
+FC Groningen,Peter van der Slot,21.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+FC Groningen,Rolf Landerl,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+FC Groningen,Raymond Bronkhorst,23.0,Right Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+FC Groningen,Pius Ikedia,22.0,Right Winger,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+FC Groningen,Mile Krstev,23.0,Central Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+FC Groningen,Pedro Kamatà,20.0,Left Winger,AJ Auxerre,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+FC Zwolle,Ivan Tsvetkov,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+FC Zwolle,Maarten Schops,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+FC Zwolle,Morten Karlsen,23.0,Defensive Midfield,North_EU,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+FC Zwolle,Marino Promes,25.0,attack,De Graafschap,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+FC Zwolle,Jhonny van Beukering,18.0,Centre-Forward,Vitesse,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+FC Zwolle,Ruud Kras,20.0,Centre-Back,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+Excelsior,Shelton Martis,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Excelsior,Bart Latuheru,36.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Excelsior,Saïd Boutahar,19.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Excelsior,René van Dieren,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+Excelsior,Dick Tijdeman,18.0,midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Excelsior,Dries Boussatta,29.0,Right Winger,AZ Alkmaar,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+Excelsior,Nam-il Kim,25.0,Defensive Midfield,Asia,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+Excelsior,Michel Bastos,18.0,Left Midfield,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Dave Zafarin,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+De Graafschap,Wouter Jansen,21.0,midfield,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+De Graafschap,Sjoerd Ars,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+De Graafschap,Edwin Hermans,28.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2002,2002/2003
+De Graafschap,Yasin Karaca,18.0,Left Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Jason Culina,21.0,Central Midfield,Ajax,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Martijn Besselink,27.0,Goalkeeper,PSV Eindhoven,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Damiën Hertog,27.0,midfield,RBC Roosendaal,?,in,Summer,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Leonardo,25.0,Right-Back,Feyenoord,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Kevin Nicolay,21.0,defence,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2002,2002/2003
+PSV Eindhoven,Ji-sung Park,21.0,Attacking Midfield,Asia,5.00m,in,Winter,5,Eredivisie,2002,2002/2003
+PSV Eindhoven,Young-pyo Lee,25.0,Left-Back,Asia,1.55m,in,Winter,"1,55",Eredivisie,2002,2002/2003
+PSV Eindhoven,Frank Kooiman,32.0,Goalkeeper,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+Feyenoord,Sebastián Pardo,21.0,Central Midfield,South America,1.50m,in,Winter,"1,5",Eredivisie,2002,2002/2003
+Feyenoord,Salomon Kalou,17.0,Left Winger,free agents,free transfer,in,Winter,0,Eredivisie,2002,2002/2003
+Feyenoord,Gérard de Nooijer,33.0,Centre-Back,Heerenveen,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+NAC Breda,Yassine Abdellaoui,27.0,Left Midfield,Willem II,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+Roda JC,Ken Leemans,19.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2002,2002/2003
+Roda JC,Donovan Maury,21.0,Right-Back,free agents,free transfer,in,Winter,0,Eredivisie,2002,2002/2003
+Roda JC,Kevin Begois,20.0,Goalkeeper,Belgium,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+Heerenveen,Gerald Sibon,28.0,Centre-Forward,Uk,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+AZ Alkmaar,Kris Mampaey,32.0,Goalkeeper,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+AZ Alkmaar,Michael Lamey,23.0,Right-Back,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+Willem II,Mourad Mghizrat,28.0,midfield,free agents,free transfer,in,Winter,0,Eredivisie,2002,2002/2003
+Twente FC,Daniel Côrtes,23.0,Left Midfield,Central_EU,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+RBC Roosendaal,Wilko de Vogt,27.0,Goalkeeper,Uk,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+RBC Roosendaal,Carlos van Wanrooij,34.0,Left Midfield,RKC Waalwijk,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+FC Groningen,Jelle ten Rouwelaar,22.0,Goalkeeper,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+Excelsior,Ferry de Haan,30.0,Centre-Back,Feyenoord,?,in,Winter,0.01,Eredivisie,2002,2002/2003
+Excelsior,Civard Sprockel,19.0,Centre-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+Excelsior,Marc Nygaard,26.0,Centre-Forward,Roda JC,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Berthil ter Avest,32.0,Left Midfield,free agents,free transfer,in,Winter,0,Eredivisie,2002,2002/2003
+De Graafschap,Klaas-Jan Huntelaar,19.0,Centre-Forward,PSV Eindhoven,loan transfer,in,Winter,0.01,Eredivisie,2002,2002/2003
+De Graafschap,Jean-Paul van Gastel,30.0,Centre-Back,Como,?,in,Winter,0.01,Eredivisie,2002,2002/2003

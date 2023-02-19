@@ -1,0 +1,1484 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Juventus,Kwadwo Asamoah,23.0,Left Midfield,Udinese Calcio,18.00m,in,Summer,18,Serie A,2012,2012/2013
+Juventus,Mauricio Isla,24.0,Right-Back,Udinese Calcio,13.90m,in,Summer,"13,9",Serie A,2012,2012/2013
+Juventus,Manolo Gabbiadini,20.0,Centre-Forward,Atalanta BC,11.00m,in,Summer,11,Serie A,2012,2012/2013
+Juventus,Sebastian Giovinco,25.0,Second Striker,Parma,11.00m,in,Summer,11,Serie A,2012,2012/2013
+Juventus,Martín Cáceres,25.0,Centre-Back,Sevilla FC,8.00m,in,Summer,8,Serie A,2012,2012/2013
+Juventus,Richmond Boakye,19.0,Centre-Forward,Genoa,4.00m,in,Summer,4,Serie A,2012,2012/2013
+Juventus,Nicola Leali,19.0,Goalkeeper,Italy,3.80m,in,Summer,"3,8",Serie A,2012,2012/2013
+Juventus,Alberto Masi,19.0,Centre-Back,Italy,2.10m,in,Summer,"2,1",Serie A,2012,2012/2013
+Juventus,James Troisi,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Juventus,Paul Pogba,19.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Juventus,Lúcio,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Juventus,Nicklas Bendtner,24.0,Centre-Forward,Arsenal,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Juventus,Raffaele Bianco,24.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Juventus,Luca Castiglia,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Juventus,Raffaele Alcibiade,22.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+AC Milan,Giampaolo Pazzini,28.0,Centre-Forward,Inter,12.50m,in,Summer,"12,5",Serie A,2012,2012/2013
+AC Milan,Francesco Acerbi,24.0,Centre-Back,Chievo Verona,4.00m,in,Summer,4,Serie A,2012,2012/2013
+AC Milan,Nigel de Jong,27.0,Defensive Midfield,Man City,3.50m,in,Summer,"3,5",Serie A,2012,2012/2013
+AC Milan,M'Baye Niang,17.0,Centre-Forward,France,3.30m,in,Summer,"3,3",Serie A,2012,2012/2013
+AC Milan,Gabriel,19.0,Goalkeeper,South America,1.17m,in,Summer,"1,17",Serie A,2012,2012/2013
+AC Milan,Cristián Zapata,25.0,Centre-Back,Spain,Loan fee:400Th.,in,Summer,"0,4",Serie A,2012,2012/2013
+AC Milan,Bojan Krkic,22.0,Second Striker,AS Roma,Loan fee:250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+AC Milan,Edoardo Pazzagli,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+AC Milan,Sulley Muntari,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+AC Milan,Bakaye Traoré,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+AC Milan,Riccardo Montolivo,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+AC Milan,Kévin Constant,25.0,Central Midfield,Genoa,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Udinese Calcio,Davide Faraoni,20.0,Right-Back,Inter,8.00m,in,Summer,8,Serie A,2012,2012/2013
+Udinese Calcio,Maicosuel,26.0,Left Winger,South America,5.30m,in,Summer,"5,3",Serie A,2012,2012/2013
+Udinese Calcio,Gabriel Silva,21.0,Left-Back,Granada CF,4.00m,in,Summer,4,Serie A,2012,2012/2013
+Udinese Calcio,Willians,26.0,Defensive Midfield,South America,3.00m,in,Summer,3,Serie A,2012,2012/2013
+Udinese Calcio,Thomas Heurtaux,23.0,Centre-Back,France,2.10m,in,Summer,"2,1",Serie A,2012,2012/2013
+Udinese Calcio,Mathias Ranégie,28.0,Centre-Forward,North_EU,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Udinese Calcio,Cristian Pasquato,22.0,Attacking Midfield,Juventus,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Udinese Calcio,Andrea Lazzari,27.0,Central Midfield,Fiorentina,Loan fee:1.00m,in,Summer,1,Serie A,2012,2012/2013
+Udinese Calcio,Wojciech Pawlowski,19.0,Goalkeeper,Central_EU,500Th.,in,Summer,"0,5",Serie A,2012,2012/2013
+Udinese Calcio,Dioni,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Udinese Calcio,Marco Cassetti,35.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Udinese Calcio,Allan,21.0,Defensive Midfield,Granada CF,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Udinese Calcio,Daniele Padelli,26.0,Goalkeeper,Sampdoria,?,in,Summer,0.01,Serie A,2012,2012/2013
+Lazio,Michaël Ciani,28.0,Centre-Back,G. Bordeaux,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Lazio,Ederson,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Lazio,Antonio Cinelli,22.0,Central Midfield,Italy,30Th.,in,Summer,"0,03",Serie A,2012,2012/2013
+Lazio,Vittorio Salustri,18.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Lazio,Antonio Candreva,25.0,Right Midfield,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+SSC Napoli,Valon Behrami,27.0,Defensive Midfield,Fiorentina,8.00m,in,Summer,8,Serie A,2012,2012/2013
+SSC Napoli,Goran Pandev,28.0,Second Striker,Inter,7.50m,in,Summer,"7,5",Serie A,2012,2012/2013
+SSC Napoli,Omar El Kaddouri,22.0,Attacking Midfield,Italy,3.40m,in,Summer,"3,4",Serie A,2012,2012/2013
+SSC Napoli,Bruno Uvini,21.0,Centre-Back,South America,3.00m,in,Summer,3,Serie A,2012,2012/2013
+SSC Napoli,Alessandro Gamberini,30.0,Centre-Back,Fiorentina,1.75m,in,Summer,"1,75",Serie A,2012,2012/2013
+SSC Napoli,Davide Bariti,20.0,Right Winger,Italy,1.65m,in,Summer,"1,65",Serie A,2012,2012/2013
+SSC Napoli,Giandomenico Mesto,30.0,Right-Back,Genoa,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+SSC Napoli,Nicolao Dumitru,20.0,Left Winger,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Inter,Samir Handanovic,27.0,Goalkeeper,Udinese Calcio,15.00m,in,Summer,15,Serie A,2012,2012/2013
+Inter,Fredy Guarín,26.0,Central Midfield,FC Porto,11.00m,in,Summer,11,Serie A,2012,2012/2013
+Inter,Rodrigo Palacio,30.0,Centre-Forward,Genoa,10.50m,in,Summer,"10,5",Serie A,2012,2012/2013
+Inter,Álvaro Pereira,26.0,Left-Back,FC Porto,10.00m,in,Summer,10,Serie A,2012,2012/2013
+Inter,Antonio Cassano,30.0,Second Striker,AC Milan,5.50m,in,Summer,"5,5",Serie A,2012,2012/2013
+Inter,Matías Silvestre,27.0,Centre-Back,US Palermo,Loan fee:3.00m,in,Summer,3,Serie A,2012,2012/2013
+Inter,Francesco Bardi,20.0,Goalkeeper,Italy,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Inter,Walter Gargano,28.0,Defensive Midfield,SSC Napoli,Loan fee:1.25m,in,Summer,"1,25",Serie A,2012,2012/2013
+Inter,Gaby Mudingayi,30.0,Defensive Midfield,Bologna,Loan fee:750Th.,in,Summer,"0,75",Serie A,2012,2012/2013
+AS Roma,Mattia Destro,21.0,Centre-Forward,Genoa,Loan fee:11.50m,in,Summer,"11,5",Serie A,2012,2012/2013
+AS Roma,Leandro Castán,25.0,Centre-Back,South America,5.00m,in,Summer,5,Serie A,2012,2012/2013
+AS Roma,Federico Balzaretti,30.0,Left-Back,US Palermo,4.50m,in,Summer,"4,5",Serie A,2012,2012/2013
+AS Roma,Michael Bradley,24.0,Central Midfield,Chievo Verona,3.75m,in,Summer,"3,75",Serie A,2012,2012/2013
+AS Roma,Marquinho,25.0,Attacking Midfield,South America,3.50m,in,Summer,"3,5",Serie A,2012,2012/2013
+AS Roma,Panagiotis Tachtsidis,21.0,Defensive Midfield,Genoa,2.50m,in,Summer,"2,5",Serie A,2012,2012/2013
+AS Roma,Marquinhos,18.0,Centre-Back,South America,Loan fee:1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+AS Roma,Alessandro Florenzi,21.0,Right-Back,Italy,1.25m,in,Summer,"1,25",Serie A,2012,2012/2013
+AS Roma,Junior Tallo,19.0,Centre-Forward,Chievo Verona,1.22m,in,Summer,"1,22",Serie A,2012,2012/2013
+AS Roma,Adrian Stoian,21.0,Left Winger,Italy,1.00m,in,Summer,1,Serie A,2012,2012/2013
+AS Roma,Jonatan Lucca,18.0,Central Midfield,South America,700Th.,in,Summer,"0,7",Serie A,2012,2012/2013
+AS Roma,Iván Piris,23.0,Right-Back,South America,Loan fee:700Th.,in,Summer,"0,7",Serie A,2012,2012/2013
+AS Roma,Tomas Svedkauskas,18.0,Goalkeeper,Est_EU,250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+AS Roma,Alessandro Malomo,21.0,Centre-Back,Italy,250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+AS Roma,Mauro Goicoechea,24.0,Goalkeeper,South America,Loan fee:100Th.,in,Summer,"0,1",Serie A,2012,2012/2013
+AS Roma,Dodô,20.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Jonathan Biabiany,24.0,Right Winger,Sampdoria,4.50m,in,Summer,"4,5",Serie A,2012,2012/2013
+Parma,Dorlan Pabón,24.0,Right Winger,South America,4.00m,in,Summer,4,Serie A,2012,2012/2013
+Parma,Andrea Rossi,25.0,Left-Back,Siena,3.60m,in,Summer,"3,6",Serie A,2012,2012/2013
+Parma,Ishak Belfodil,20.0,Centre-Forward,Olympique Lyon,3.50m,in,Summer,"3,5",Serie A,2012,2012/2013
+Parma,Nicola Del Pivo,20.0,Central Midfield,Italy,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Parma,Jaime Valdés,31.0,midfield,Sporting CP,1.80m,in,Summer,"1,8",Serie A,2012,2012/2013
+Parma,Raman Chibsah,19.0,Central Midfield,Italy,1.75m,in,Summer,"1,75",Serie A,2012,2012/2013
+Parma,Gianluca Musacci,25.0,Central Midfield,Italy,1.10m,in,Summer,"1,1",Serie A,2012,2012/2013
+Parma,Riccardo Casini,20.0,Defensive Midfield,Italy,1.00m,in,Summer,1,Serie A,2012,2012/2013
+Parma,Marco Parolo,27.0,Central Midfield,Italy,Loan fee:1.00m,in,Summer,1,Serie A,2012,2012/2013
+Parma,Fabiano Santacroce,25.0,Centre-Back,SSC Napoli,900Th.,in,Summer,"0,9",Serie A,2012,2012/2013
+Parma,Emilio Mac Eachen,20.0,Centre-Back,South America,Loan fee:300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Parma,Paolo Dellafiore,27.0,Centre-Back,Italy,250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+Parma,Ignacio Fideleff,23.0,Centre-Back,SSC Napoli,Loan fee:200Th.,in,Summer,"0,2",Serie A,2012,2012/2013
+Parma,Manuel Arteaga,18.0,Centre-Forward,South America,Loan fee:150Th.,in,Summer,"0,15",Serie A,2012,2012/2013
+Parma,Afriyie Acquah,20.0,Central Midfield,US Palermo,Loan fee:100Th.,in,Summer,"0,1",Serie A,2012,2012/2013
+Parma,Sotiris Ninis,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Amauri,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Pavol Bajza,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Marco Marchionni,32.0,Right Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Mirko Pigliacelli,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Alessandro Vecchi,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Aleandro Rosi,25.0,Right-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Stefano Okaka,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Solomon Enow,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Nick Modaffari,20.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Bongoura Thiam,19.0,attack,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Federico Meacci,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Parma,Luca Tedeschi,25.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Giuseppe Pacini,19.0,Right-Back,Siena,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Gonçalo Brandão,25.0,Centre-Back,Siena,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Vittorio Fabris,19.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Manuel La Rosa,20.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Daniele Bazzoffia,24.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Simone Smacchia,17.0,Second Striker,Gubbio U19,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Filippo Cunsolo,23.0,attack,Central_EU,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Diego De Giorgi,19.0,midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Nicolò Stirati,20.0,attack,Pierantonio,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Cristiano Bussi,22.0,Centre-Forward,Isola Liri,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Gaetano Adamo,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Parma,Yohan Benalouane,25.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Bologna,Robert Acquafresca,24.0,Centre-Forward,Genoa,3.25m,in,Summer,"3,25",Serie A,2012,2012/2013
+Bologna,Panagiotis Kone,25.0,Central Midfield,Italy,2.70m,in,Summer,"2,7",Serie A,2012,2012/2013
+Bologna,Alberto Gilardino,30.0,Centre-Forward,Genoa,Loan fee:1.30m,in,Summer,"1,3",Serie A,2012,2012/2013
+Bologna,Mathías Abero,22.0,Left-Back,Nacional,1.28m,in,Summer,"1,28",Serie A,2012,2012/2013
+Bologna,Francesco Finocchio,20.0,Right Midfield,Parma,1.00m,in,Summer,1,Serie A,2012,2012/2013
+Bologna,Michele Pazienza,30.0,Defensive Midfield,Juventus,300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Bologna,Roger Carvalho,25.0,Centre-Back,South America,Loan fee:300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Bologna,Alessandro Marchi,22.0,Central Midfield,Lupa Piacenza,130Th.,in,Summer,"0,13",Serie A,2012,2012/2013
+Bologna,Kingsley Umunegbu,22.0,Second Striker,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Bologna,Martí Riverola,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Bologna,Cesare Natali,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Bologna,Manolo Gabbiadini,20.0,Centre-Forward,Juventus,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Bologna,Cristian Pasquato,22.0,Attacking Midfield,Udinese Calcio,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Bologna,Gianluca Curci,27.0,Goalkeeper,AS Roma,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Bologna,Uros Radakovic,18.0,Centre-Back,Central_EU,25Th.,in,Summer,"0,025",Serie A,2012,2012/2013
+Bologna,Tiberio Guarente,26.0,Central Midfield,Sevilla FC,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Bologna,Marco Motta,26.0,Right-Back,Juventus,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Paul Papp,22.0,Centre-Back,Est_EU,2.50m,in,Summer,"2,5",Serie A,2012,2012/2013
+Chievo Verona,Nicola Rigoni,21.0,Defensive Midfield,Italy,800Th.,in,Summer,"0,8",Serie A,2012,2012/2013
+Chievo Verona,Adrian Stoian,21.0,Left Winger,AS Roma,500Th.,in,Summer,"0,5",Serie A,2012,2012/2013
+Chievo Verona,Mamadou Samassa,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Chievo Verona,Dario Dainelli,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Chievo Verona,Francesco Bonato,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Chievo Verona,David Di Michele,36.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Chievo Verona,Pavol Farkas,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Chievo Verona,Antimo Iunco,28.0,Second Striker,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Filippo Tanaglia,22.0,Right Midfield,Giacomense,?,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Marcello Falzerano,21.0,Right Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Davide Tonani,20.0,Centre-Forward,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Roberto Guana,31.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Isaac Cofie,20.0,Defensive Midfield,Genoa,?,in,Summer,0.01,Serie A,2012,2012/2013
+Chievo Verona,Marco Rigoni,32.0,Central Midfield,Italy,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Catania SSD,Alexis Rolín,23.0,Centre-Back,Nacional,3.80m,in,Summer,"3,8",Serie A,2012,2012/2013
+Catania SSD,Lucas Castro,23.0,Attacking Midfield,South America,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Catania SSD,Alberto Frison,24.0,Goalkeeper,Italy,1.68m,in,Summer,"1,68",Serie A,2012,2012/2013
+Catania SSD,Mirco Antenucci,27.0,Centre-Forward,Torino,1.10m,in,Summer,"1,1",Serie A,2012,2012/2013
+Catania SSD,Marco Fiore,23.0,Defensive Midfield,SS Milazzo,250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+Catania SSD,Takayuki Morimoto,24.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Catania SSD,Ameth Fall,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Catania SSD,Jean Mbida,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Catania SSD,Francesco Fedato,19.0,Left Winger,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Catania SSD,Souleymane Doukara,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Catania SSD,Amidu Salifu,19.0,Central Midfield,Fiorentina,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Atalanta BC,Germán Denis,30.0,Centre-Forward,Udinese Calcio,5.00m,in,Summer,5,Serie A,2012,2012/2013
+Atalanta BC,Davide Brivio,24.0,Left-Back,Italy,2.70m,in,Summer,"2,7",Serie A,2012,2012/2013
+Atalanta BC,James Troisi,24.0,Attacking Midfield,Juventus,Loan fee:2.00m,in,Summer,2,Serie A,2012,2012/2013
+Atalanta BC,Riccardo Cazzola,26.0,Defensive Midfield,Italy,1.00m,in,Summer,1,Serie A,2012,2012/2013
+Atalanta BC,Davide Biondini,29.0,Central Midfield,Genoa,Loan fee:200Th.,in,Summer,"0,2",Serie A,2012,2012/2013
+Atalanta BC,Guglielmo Stendardo,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Atalanta BC,Carlos Matheu,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Atalanta BC,Facundo Parra,27.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Atalanta BC,Alessandro De Leidi,21.0,Centre-Back,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Atalanta BC,Giuseppe De Luca,20.0,Centre-Forward,Italy,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Fiorentina,Borja Valero,27.0,Central Midfield,Spain,7.00m,in,Summer,7,Serie A,2012,2012/2013
+Fiorentina,Nenad Tomovic,25.0,Centre-Back,Genoa,4.20m,in,Summer,"4,2",Serie A,2012,2012/2013
+Fiorentina,Matías Fernández,26.0,Attacking Midfield,Sporting CP,3.14m,in,Summer,"3,14",Serie A,2012,2012/2013
+Fiorentina,Mattia Cassani,28.0,Right-Back,US Palermo,2.75m,in,Summer,"2,75",Serie A,2012,2012/2013
+Fiorentina,Alberto Aquilani,28.0,Central Midfield,Uk,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Fiorentina,Ahmed Hegazy,21.0,Centre-Back,Africa Sports,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Fiorentina,Gonzalo Rodríguez,28.0,Centre-Back,Spain,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Fiorentina,Giulio Migliaccio,31.0,Central Midfield,US Palermo,Loan fee:1.00m,in,Summer,1,Serie A,2012,2012/2013
+Fiorentina,Juan Cuadrado,24.0,Right-Back,Udinese Calcio,Loan fee:1.00m,in,Summer,1,Serie A,2012,2012/2013
+Fiorentina,Mounir El Hamdaoui,27.0,Centre-Forward,Netherlands,800Th.,in,Summer,"0,8",Serie A,2012,2012/2013
+Fiorentina,Emiliano Viviano,26.0,Goalkeeper,US Palermo,Loan fee:500Th.,in,Summer,"0,5",Serie A,2012,2012/2013
+Fiorentina,Cristian Llama,26.0,Attacking Midfield,Italy,Loan fee:180Th.,in,Summer,"0,18",Serie A,2012,2012/2013
+Fiorentina,David Pizarro,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Fiorentina,Luca Toni,35.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Fiorentina,Facundo Roncaglia,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Fiorentina,Stefan Savic,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Fiorentina,Cristiano Lupatelli,34.0,Goalkeeper,Genoa,?,in,Summer,0.01,Serie A,2012,2012/2013
+Fiorentina,Francesco Della Rocca,24.0,Central Midfield,US Palermo,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Luís Neto,24.0,Centre-Back,Nacional,3.65m,in,Summer,"3,65",Serie A,2012,2012/2013
+Siena,Manuel Coppola,30.0,Central Midfield,Parma,3.25m,in,Summer,"3,25",Serie A,2012,2012/2013
+Siena,Matteo Contini,32.0,Centre-Back,Real Zaragoza,1.37m,in,Summer,"1,37",Serie A,2012,2012/2013
+Siena,Mattia Destro,21.0,Centre-Forward,Genoa,1.30m,in,Summer,"1,3",Serie A,2012,2012/2013
+Siena,Giulio Cavallari,20.0,Goalkeeper,Italy,750Th.,in,Summer,"0,75",Serie A,2012,2012/2013
+Siena,Massimo Paci,34.0,Centre-Back,Italy,500Th.,in,Summer,"0,5",Serie A,2012,2012/2013
+Siena,Matías Martínez,24.0,Centre-Back,South America,Loan fee:500Th.,in,Summer,"0,5",Serie A,2012,2012/2013
+Siena,Francesco Valiani,31.0,Central Midfield,Parma,100Th.,in,Summer,"0,1",Serie A,2012,2012/2013
+Siena,Andrea Scicchitano,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Ribair Rodríguez,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Matías Campos Toro,23.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Joelson,29.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Alessandro Rosina,28.0,Right Winger,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Pasquale Turi,19.0,Left Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Andrea Campagnolo,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Siena,Abdou Doumbia,22.0,Left Winger,Parma,?,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Alberto Galuppo,26.0,Centre-Back,Parma,?,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Paolo Dellafiore,27.0,Centre-Back,Parma,?,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Matteo Rubin,25.0,Left-Back,Torino,?,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Felipe,28.0,Centre-Back,Fiorentina,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Zé Love,24.0,Centre-Forward,Genoa,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Siena,Valerio Verre,18.0,Attacking Midfield,Genoa,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Cagliari Calcio,Mauricio Pinilla,28.0,Centre-Forward,US Palermo,3.20m,in,Summer,"3,2",Serie A,2012,2012/2013
+Cagliari Calcio,Thiago Ribeiro,26.0,Left Winger,South America,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Cagliari Calcio,Daniele Dessena,25.0,Central Midfield,Sampdoria,1.60m,in,Summer,"1,6",Serie A,2012,2012/2013
+Cagliari Calcio,Luca Rossettini,27.0,Centre-Back,Siena,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Cagliari Calcio,Sebastian Eriksson,23.0,Central Midfield,North_EU,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Cagliari Calcio,Danilo Avelar,23.0,Left-Back,Est_EU,Loan fee:300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Cagliari Calcio,Federico Casarini,22.0,Central Midfield,Bologna,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Cagliari Calcio,Vincenzo Camilleri,20.0,Centre-Back,Italy,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+US Palermo,Paulo Dybala,18.0,Second Striker,South America,11.90m,in,Summer,"11,9",Serie A,2012,2012/2013
+US Palermo,Egidio Arévalo Ríos,30.0,Defensive Midfield,North America,2.80m,in,Summer,"2,8",Serie A,2012,2012/2013
+US Palermo,Nicolas Viola,22.0,Central Midfield,Italy,1.80m,in,Summer,"1,8",Serie A,2012,2012/2013
+US Palermo,Samir Ujkani,23.0,Goalkeeper,Italy,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+US Palermo,Michel Morganella,23.0,Right-Back,Italy,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+US Palermo,Franco Brienza,33.0,Attacking Midfield,Siena,1.40m,in,Summer,"1,4",Serie A,2012,2012/2013
+US Palermo,Steve von Bergen,29.0,Centre-Back,Genoa,1.10m,in,Summer,"1,1",Serie A,2012,2012/2013
+US Palermo,Aljaz Struna,21.0,Centre-Back,Central_EU,300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+US Palermo,Luigi Giorgi,25.0,Central Midfield,Italy,Loan fee:200Th.,in,Summer,"0,2",Serie A,2012,2012/2013
+US Palermo,Jasmin Kurtic,23.0,Central Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Genoa,Mattia Destro,21.0,Centre-Forward,Siena,7.00m,in,Summer,7,Serie A,2012,2012/2013
+Genoa,Ciro Immobile,22.0,Centre-Forward,Juventus,4.00m,in,Summer,4,Serie A,2012,2012/2013
+Genoa,Michele Canini,27.0,Centre-Back,Cagliari Calcio,2.50m,in,Summer,"2,5",Serie A,2012,2012/2013
+Genoa,Giammario Piscitella,19.0,Left Winger,AS Roma,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Genoa,Valerio Verre,18.0,Attacking Midfield,AS Roma,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Genoa,Dejan Lazarevic,22.0,Right Winger,Italy,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Genoa,Massimo Bonanni,30.0,Left Midfield,Uk,1.45m,in,Summer,"1,45",Serie A,2012,2012/2013
+Genoa,Andrea Bertolacci,21.0,Central Midfield,AS Roma,1.20m,in,Summer,"1,2",Serie A,2012,2012/2013
+Genoa,Anselmo,23.0,Defensive Midfield,South America,900Th.,in,Summer,"0,9",Serie A,2012,2012/2013
+Genoa,Leonardo Melazzi,21.0,Right Winger,South America,Loan fee:380Th.,in,Summer,"0,38",Serie A,2012,2012/2013
+Genoa,Marco Borriello,30.0,Centre-Forward,AS Roma,Loan fee:250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+Genoa,Dániel Tozsér,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Genoa,Steve von Bergen,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Genoa,Damiano Ferronetti,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Genoa,Alexandros Tzorvas,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Genoa,Ahmed Barusso,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Genoa,Antonio Donnarumma,22.0,Goalkeeper,AC Milan,?,in,Summer,0.01,Serie A,2012,2012/2013
+Genoa,Antonino Ragusa,22.0,Left Winger,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Genoa,Giacomo Bindi,25.0,Goalkeeper,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Genoa,Luca Miracoli,20.0,Centre-Forward,Valenzana Mado,?,in,Summer,0.01,Serie A,2012,2012/2013
+Genoa,Juan Manuel Vargas,28.0,Left-Back,Fiorentina,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Pescara,Jonathas,23.0,Centre-Forward,Italy,3.70m,in,Summer,"3,7",Serie A,2012,2012/2013
+Pescara,Ante Vukusic,21.0,Centre-Forward,Est_EU,3.70m,in,Summer,"3,7",Serie A,2012,2012/2013
+Pescara,Vladimir Weiss,22.0,Left Winger,Man City,1.80m,in,Summer,"1,8",Serie A,2012,2012/2013
+Pescara,Antonino Ragusa,22.0,Left Winger,Genoa,1.50m,in,Summer,"1,5",Serie A,2012,2012/2013
+Pescara,Gianluca Caprari,18.0,Second Striker,AS Roma,1.20m,in,Summer,"1,2",Serie A,2012,2012/2013
+Pescara,Elvis Abbruscato,31.0,Centre-Forward,Italy,1.20m,in,Summer,"1,2",Serie A,2012,2012/2013
+Pescara,Giuseppe Colucci,31.0,Central Midfield,Italy,1.00m,in,Summer,1,Serie A,2012,2012/2013
+Pescara,Mervan Celik,22.0,Left Winger,North_EU,900Th.,in,Summer,"0,9",Serie A,2012,2012/2013
+Pescara,Uros Cosic,19.0,Centre-Back,Russia,Loan fee:300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Pescara,Birkir Bjarnason,24.0,Attacking Midfield,Belgium,Loan fee:300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Pescara,Christian Terlizzi,32.0,Centre-Back,Italy,250Th.,in,Summer,"0,25",Serie A,2012,2012/2013
+Pescara,Alessandro Crescenzi,20.0,Left-Back,AS Roma,Loan fee:200Th.,in,Summer,"0,2",Serie A,2012,2012/2013
+Pescara,Mattia Perin,19.0,Goalkeeper,Genoa,Loan fee:200Th.,in,Summer,"0,2",Serie A,2012,2012/2013
+Pescara,Lucas Chiaretti,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Pescara,Ivan Pelizzoli,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Pescara,Manuele Blasi,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Pescara,Juan Fernando Quintero,19.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Pescara,Luca Berardocco,21.0,Defensive Midfield,Italy,500,in,Summer,0.01,Serie A,2012,2012/2013
+Pescara,Gastón Brugman,19.0,Defensive Midfield,Italy,?,in,Summer,0.01,Serie A,2012,2012/2013
+Pescara,Francesco Modesto,30.0,Left-Back,Parma,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Torino,Alessio Cerci,25.0,Right Winger,Fiorentina,6.75m,in,Summer,"6,75",Serie A,2012,2012/2013
+Torino,Marko Bakic,18.0,Central Midfield,Central_EU,3.00m,in,Summer,3,Serie A,2012,2012/2013
+Torino,Alessandro Gazzi,29.0,Defensive Midfield,Siena,2.60m,in,Summer,"2,6",Serie A,2012,2012/2013
+Torino,Matteo Darmian,22.0,Right-Back,US Palermo,2.33m,in,Summer,"2,33",Serie A,2012,2012/2013
+Torino,Jean-François Gillet,33.0,Goalkeeper,Bologna,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Torino,Gianluca Sansone,25.0,Centre-Forward,Italy,1.60m,in,Summer,"1,6",Serie A,2012,2012/2013
+Torino,Migjen Basha,25.0,Defensive Midfield,Atalanta BC,1.15m,in,Summer,"1,15",Serie A,2012,2012/2013
+Torino,Guillermo Rodríguez,28.0,Centre-Back,Italy,1.00m,in,Summer,1,Serie A,2012,2012/2013
+Torino,Marco Migliorini,20.0,Centre-Back,Italy,300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Torino,Pablo Cáceres,27.0,Left-Back,South America,Loan fee:300Th.,in,Summer,"0,3",Serie A,2012,2012/2013
+Torino,Mario Santana,30.0,Second Striker,SSC Napoli,Loan fee:200Th.,in,Summer,"0,2",Serie A,2012,2012/2013
+Torino,Damiano Ferronetti,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Torino,Matteo Brighi,31.0,Central Midfield,AS Roma,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Torino,Valter Birsa,26.0,Attacking Midfield,Genoa,loan transfer,in,Summer,0.01,Serie A,2012,2012/2013
+Torino,Alessandro Agostini,33.0,Left-Back,Cagliari Calcio,?,in,Summer,0.01,Serie A,2012,2012/2013
+Sampdoria,Éder,25.0,Second Striker,Italy,3.50m,in,Summer,"3,5",Serie A,2012,2012/2013
+Sampdoria,Renan,26.0,Defensive Midfield,Est_EU,3.20m,in,Summer,"3,2",Serie A,2012,2012/2013
+Sampdoria,Maxi López,28.0,Centre-Forward,Italy,Loan fee:2.50m,in,Summer,"2,5",Serie A,2012,2012/2013
+Sampdoria,Andrea Magrassi,19.0,Centre-Forward,Italy,2.00m,in,Summer,2,Serie A,2012,2012/2013
+Sampdoria,Andrea Costa,26.0,Centre-Back,Italy,1.10m,in,Summer,"1,1",Serie A,2012,2012/2013
+Sampdoria,Marcelo Estigarribia,24.0,Central Midfield,South America,Loan fee:700Th.,in,Summer,"0,7",Serie A,2012,2012/2013
+Sampdoria,Lorenzo De Silvestri,24.0,Right-Back,Fiorentina,Loan fee:400Th.,in,Summer,"0,4",Serie A,2012,2012/2013
+Sampdoria,Simone Corazza,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Sampdoria,Tommaso Berni,29.0,Goalkeeper,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Sampdoria,Enzo Maresca,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Sampdoria,Simon Poulsen,27.0,Left-Back,free agents,free transfer,in,Summer,0,Serie A,2012,2012/2013
+Sampdoria,Paolo Castellini,33.0,Left-Back,Parma,?,in,Summer,0.01,Serie A,2012,2012/2013
+Juventus,Federico Peluso,28.0,Left-Back,Atalanta BC,Loan fee:1.00m,in,Winter,1,Serie A,2012,2012/2013
+Juventus,Nicolas Anelka,33.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+AC Milan,Mario Balotelli,22.0,Centre-Forward,Man City,20.00m,in,Winter,20,Serie A,2012,2012/2013
+AC Milan,Kévin Constant,25.0,Central Midfield,Genoa,8.00m,in,Winter,8,Serie A,2012,2012/2013
+AC Milan,Bartosz Salamon,21.0,Centre-Back,Italy,3.50m,in,Winter,"3,5",Serie A,2012,2012/2013
+AC Milan,Cristian Zaccardo,31.0,Centre-Back,Parma,3.00m,in,Winter,3,Serie A,2012,2012/2013
+AC Milan,Umberto Previti,22.0,Goalkeeper,SS Milazzo,?,in,Winter,0.01,Serie A,2012,2012/2013
+Udinese Calcio,Matías Campos Toro,23.0,Left-Back,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Udinese Calcio,Masahudu Alhassan,20.0,Left-Back,Genoa,?,in,Winter,0.01,Serie A,2012,2012/2013
+Udinese Calcio,Alexander Merkel,20.0,Central Midfield,Genoa,?,in,Winter,0.01,Serie A,2012,2012/2013
+Udinese Calcio,Diego Rodríguez,23.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Lazio,Louis Saha,34.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Lazio,Bruno Pereirinha,24.0,Right Winger,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+SSC Napoli,Josip Radosevic,18.0,Defensive Midfield,Est_EU,Loan fee:2.00m,in,Winter,2,Serie A,2012,2012/2013
+SSC Napoli,Pablo Armero,26.0,Left-Back,Udinese Calcio,Loan fee:1.00m,in,Winter,1,Serie A,2012,2012/2013
+SSC Napoli,Rolando,27.0,Centre-Back,FC Porto,Loan fee:1.00m,in,Winter,1,Serie A,2012,2012/2013
+SSC Napoli,Emanuele Calaiò,31.0,Centre-Forward,Siena,Loan fee:250Th.,in,Winter,"0,25",Serie A,2012,2012/2013
+SSC Napoli,Andrea Mazzarani,23.0,Attacking Midfield,Udinese Calcio,?,in,Winter,0.01,Serie A,2012,2012/2013
+Inter,Mateo Kovacic,18.0,Central Midfield,Est_EU,11.00m,in,Winter,11,Serie A,2012,2012/2013
+Inter,Ezequiel Schelotto,23.0,Right-Back,Atalanta BC,5.30m,in,Winter,"5,3",Serie A,2012,2012/2013
+Inter,Zdravko Kuzmanovic,25.0,Central Midfield,VfB Stuttgart,1.20m,in,Winter,"1,2",Serie A,2012,2012/2013
+Inter,Tommaso Rocchi,35.0,Centre-Forward,Lazio,300Th.,in,Winter,"0,3",Serie A,2012,2012/2013
+Inter,Juan Pablo Carrizo,28.0,Goalkeeper,Lazio,Loan fee:250Th.,in,Winter,"0,25",Serie A,2012,2012/2013
+AS Roma,Marquinhos,18.0,Centre-Back,South America,5.70m,in,Winter,"5,7",Serie A,2012,2012/2013
+AS Roma,Vasilios Torosidis,27.0,Right-Back,Central_EU,400Th.,in,Winter,"0,4",Serie A,2012,2012/2013
+Parma,Alessandro Iacobucci,21.0,Goalkeeper,Siena,3.40m,in,Winter,"3,4",Serie A,2012,2012/2013
+Parma,Álvaro Ampuero,20.0,Left-Back,South America,400Th.,in,Winter,"0,4",Serie A,2012,2012/2013
+Parma,Vincenzo Giannusa,31.0,Central Midfield,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Parma,Lazaros Fotias,21.0,Centre-Back,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Parma,Rodney Strasser,22.0,Defensive Midfield,AC Milan,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,Filippo Boniperti,21.0,Right Winger,Juventus,?,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,Djamel Mesbah,28.0,Left-Back,AC Milan,?,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,Mohamed Traoré,21.0,Right-Back,Italy,?,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,Tommaso Cancelloni,20.0,Centre-Back,SS Milazzo,?,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,Simone Bezziccheri,19.0,Right Winger,Italy,?,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,McDonald Mariga,25.0,Defensive Midfield,Inter,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Parma,Andrea Coda,27.0,Centre-Back,Udinese Calcio,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Bologna,Lazaros Christodoulopoulos,26.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Bologna,Naldo,24.0,Centre-Back,Granada CF,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Bologna,Davide Moscardelli,32.0,Centre-Forward,Chievo Verona,?,in,Winter,0.01,Serie A,2012,2012/2013
+Chievo Verona,Alberto Paloschi,23.0,Centre-Forward,Genoa,6.50m,in,Winter,"6,5",Serie A,2012,2012/2013
+Chievo Verona,Nikolaos Spyropoulos,29.0,Left-Back,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Chievo Verona,Samir Ujkani,24.0,Goalkeeper,US Palermo,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Chievo Verona,Felipe Seymour,25.0,Defensive Midfield,Genoa,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Chievo Verona,Mario Sampirisi,20.0,Centre-Back,Genoa,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Chievo Verona,Gabriel Hauche,26.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Chievo Verona,Francesco Acerbi,24.0,Centre-Back,Genoa,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Catania SSD,Emiliano Tortolano,22.0,Left Winger,Italy,200Th.,in,Winter,"0,2",Serie A,2012,2012/2013
+Catania SSD,Edgar Cani,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Catania SSD,Marco Cuomo,21.0,Defensive Midfield,SS Milazzo,?,in,Winter,0.01,Serie A,2012,2012/2013
+Atalanta BC,Marko Livaja,19.0,Centre-Forward,Inter,5.05m,in,Winter,"5,05",Serie A,2012,2012/2013
+Atalanta BC,Michele Canini,27.0,Centre-Back,Genoa,1.00m,in,Winter,1,Serie A,2012,2012/2013
+Atalanta BC,Matteo Contini,32.0,Centre-Back,Siena,1.00m,in,Winter,1,Serie A,2012,2012/2013
+Atalanta BC,Franco Brienza,33.0,Attacking Midfield,US Palermo,950Th.,in,Winter,"0,95",Serie A,2012,2012/2013
+Atalanta BC,Lionel Scaloni,34.0,Right-Back,Lazio,250Th.,in,Winter,"0,25",Serie A,2012,2012/2013
+Atalanta BC,Luigi Giorgi,25.0,Central Midfield,Italy,Loan fee:200Th.,in,Winter,"0,2",Serie A,2012,2012/2013
+Atalanta BC,Cristiano Del Grosso,29.0,Left-Back,Siena,?,in,Winter,0.01,Serie A,2012,2012/2013
+Atalanta BC,Igor Budan,32.0,Centre-Forward,US Palermo,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Fiorentina,Giuseppe Rossi,25.0,Centre-Forward,Spain,10.00m,in,Winter,10,Serie A,2012,2012/2013
+Fiorentina,Rafal Wolski,20.0,Attacking Midfield,Central_EU,2.70m,in,Winter,"2,7",Serie A,2012,2012/2013
+Fiorentina,Matías Vecino,21.0,Central Midfield,Nacional,2.30m,in,Winter,"2,3",Serie A,2012,2012/2013
+Fiorentina,Marvin Compper,27.0,Centre-Back,TSG Hoffenheim,200Th.,in,Winter,"0,2",Serie A,2012,2012/2013
+Fiorentina,Mohamed Sissoko,28.0,Defensive Midfield,Paris SG,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Fiorentina,Marcelo Larrondo,24.0,Centre-Forward,Siena,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Salvador Agra,21.0,Left Winger,Real Betis,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Innocent Emeghara,23.0,Centre-Forward,FC Lorient,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Fabrizio Grillo,25.0,Left-Back,Italy,?,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Adrián Calello,25.0,Defensive Midfield,Est_EU,?,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Bruno Uvini,21.0,Centre-Back,SSC Napoli,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Jorge Teixeira,26.0,Centre-Back,Uk,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Carlos Matheu,27.0,Centre-Back,Atalanta BC,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Christian Terlizzi,33.0,Centre-Back,Pescara,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Siena,Nicola Pozzi,26.0,Centre-Forward,Sampdoria,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Cagliari Calcio,Matías Cabrera,26.0,midfield,Nacional,1.50m,in,Winter,"1,5",Serie A,2012,2012/2013
+US Palermo,Stefano Sorrentino,33.0,Goalkeeper,Chievo Verona,Loan fee:2.00m,in,Winter,2,Serie A,2012,2012/2013
+US Palermo,Alejandro Faurlín,26.0,Central Midfield,QPR,Loan fee:1.00m,in,Winter,1,Serie A,2012,2012/2013
+US Palermo,Mauricio Sperduti,26.0,Right Winger,South America,250Th.,in,Winter,"0,25",Serie A,2012,2012/2013
+US Palermo,Mauro Boselli,27.0,Centre-Forward,Wigan,Loan fee:250Th.,in,Winter,"0,25",Serie A,2012,2012/2013
+US Palermo,Nélson,29.0,Right-Back,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+US Palermo,Anselmo,23.0,Defensive Midfield,Genoa,?,in,Winter,0.01,Serie A,2012,2012/2013
+US Palermo,Diego Fabbrini,22.0,Attacking Midfield,Udinese Calcio,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+US Palermo,Mauro Formica,24.0,Attacking Midfield,Uk,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+US Palermo,Andrea Dossena,31.0,Left Midfield,SSC Napoli,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Francesco Acerbi,24.0,Centre-Back,AC Milan,4.00m,in,Winter,4,Serie A,2012,2012/2013
+Genoa,Rubén Olivera,29.0,Central Midfield,Fiorentina,Loan fee:300Th.,in,Winter,"0,3",Serie A,2012,2012/2013
+Genoa,Enis Nadarevic,25.0,Left Winger,Italy,250Th.,in,Winter,"0,25",Serie A,2012,2012/2013
+Genoa,Daniele Portanova,34.0,Centre-Back,Bologna,?,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Thomas Manfredini,32.0,Centre-Back,Atalanta BC,?,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Eros Pisano,25.0,Right-Back,US Palermo,?,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Antonio Floro Flores,29.0,Centre-Forward,Udinese Calcio,?,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Marco Rigoni,33.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Mattia Cassani,29.0,Right-Back,Fiorentina,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Genoa,Matuzalém,32.0,Defensive Midfield,Lazio,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Pescara,Nicolás Bianchi Arce,25.0,Centre-Back,South America,730Th.,in,Winter,"0,73",Serie A,2012,2012/2013
+Pescara,Milton Caraglio,24.0,Centre-Forward,South America,Loan fee:500Th.,in,Winter,"0,5",Serie A,2012,2012/2013
+Pescara,Ferdinando Sforzini,28.0,Centre-Forward,Italy,400Th.,in,Winter,"0,4",Serie A,2012,2012/2013
+Pescara,Giuseppe Rizzo,21.0,Central Midfield,Italy,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Pescara,Luciano Zauri,35.0,Right-Back,Lazio,?,in,Winter,0.01,Serie A,2012,2012/2013
+Pescara,Giuseppe Sculli,31.0,Left Winger,Lazio,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Pescara,Gaetano D'Agostino,30.0,Central Midfield,Siena,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Torino,Barreto,27.0,Second Striker,Udinese Calcio,3.55m,in,Winter,"3,55",Serie A,2012,2012/2013
+Torino,Dolly Menga,19.0,Centre-Forward,Belgium,Loan fee:200Th.,in,Winter,"0,2",Serie A,2012,2012/2013
+Torino,Ferdinando Coppola,34.0,Goalkeeper,free agents,free transfer,in,Winter,0,Serie A,2012,2012/2013
+Torino,Jonathas,23.0,Centre-Forward,Pescara,loan transfer,in,Winter,0.01,Serie A,2012,2012/2013
+Sampdoria,Matías Rodríguez,26.0,Right-Back,South America,3.40m,in,Winter,"3,4",Serie A,2012,2012/2013
+Sampdoria,Gianluca Sansone,25.0,Centre-Forward,Torino,3.00m,in,Winter,3,Serie A,2012,2012/2013
+Sampdoria,Davide Gavazzi,26.0,Central Midfield,Italy,1.20m,in,Winter,"1,2",Serie A,2012,2012/2013
+Olympique Lyon,Arnold Mvuemba,27.0,Defensive Midfield,FC Lorient,3.00m,in,Summer,3,Ligue 1,2012,2012/2013
+Olympique Lyon,Fabián Monzón,25.0,Left-Back,OGC Nice,3.00m,in,Summer,3,Ligue 1,2012,2012/2013
+Olympique Lyon,Milan Bisevac,28.0,Centre-Back,Paris SG,2.75m,in,Summer,"2,75",Ligue 1,2012,2012/2013
+Évian,Daniel Wass,23.0,Central Midfield,Benfica,1.20m,in,Summer,"1,2",Ligue 1,2012,2012/2013
+Évian,Iheb Mbarki,20.0,Right-Back,Africa Sports,400Th.,in,Summer,"0,4",Ligue 1,2012,2012/2013
+Évian,David Jarolim,33.0,midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Évian,Mickaël Salamone,20.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Évian,Djakaridja Koné,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Évian,Zouhaier Dhaouadi,24.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Brestois,Charlison Benschop,22.0,Centre-Forward,AZ Alkmaar,1.25m,in,Summer,"1,25",Ligue 1,2012,2012/2013
+Stade Brestois,Alexis Thébaux,27.0,Goalkeeper,France,1.20m,in,Summer,"1,2",Ligue 1,2012,2012/2013
+Stade Brestois,Geoffrey Dernis,31.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Brestois,Kamel Chafni,30.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Brestois,Ismaël Traoré,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Brestois,Bernard Mendy,30.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Valenciennes FC,Loris Néry,21.0,Right-Back,Saint-Étienne,800Th.,in,Summer,"0,8",Ligue 1,2012,2012/2013
+Valenciennes FC,Anthony Le Tallec,27.0,Centre-Forward,France,500Th.,in,Summer,"0,5",Ligue 1,2012,2012/2013
+Valenciennes FC,Carlos Sánchez,26.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Stade Reims,Diego Rigonato,24.0,Attacking Midfield,France,850Th.,in,Summer,"0,85",Ligue 1,2012,2012/2013
+Stade Reims,Grzegorz Krychowiak,22.0,Defensive Midfield,G. Bordeaux,800Th.,in,Summer,"0,8",Ligue 1,2012,2012/2013
+Stade Reims,Nicolas Fauvergue,27.0,Centre-Forward,France,600Th.,in,Summer,"0,6",Ligue 1,2012,2012/2013
+Stade Reims,Kamel Ghilas,28.0,Second Striker,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Reims,Franck Signorino,30.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Reims,Mohamed Fofana,27.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Reims,Antoine Devaux,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Stade Reims,Julien Toudic,26.0,Centre-Forward,France,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Stade Reims,Pape Souaré,22.0,Left-Back,LOSC Lille,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+AS Nancy,Yohan Mollo,22.0,Right Winger,Granada CF,2.00m,in,Summer,2,Ligue 1,2012,2012/2013
+AS Nancy,Salif Sané,21.0,Centre-Back,G. Bordeaux,1.20m,in,Summer,"1,2",Ligue 1,2012,2012/2013
+AS Nancy,Romain Grange,23.0,Attacking Midfield,France,800Th.,in,Summer,"0,8",Ligue 1,2012,2012/2013
+AS Nancy,Jeff Louis,19.0,Attacking Midfield,France,700Th.,in,Summer,"0,7",Ligue 1,2012,2012/2013
+AS Nancy,Thomas Ayasse,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AS Nancy,Vincent Muratori,24.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AS Nancy,Thomas Mangani,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AS Nancy,Simon Zenke,23.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AS Nancy,Jean-Landry Bassilekin,20.0,Centre-Forward,Renaissance FC,?,in,Summer,0.01,Ligue 1,2012,2012/2013
+FC Lorient,Alain Traoré,23.0,Attacking Midfield,France,5.00m,in,Summer,5,Ligue 1,2012,2012/2013
+FC Lorient,Benjamin Corgnet,25.0,Attacking Midfield,France,4.00m,in,Summer,4,Ligue 1,2012,2012/2013
+FC Lorient,Enzo Réale,20.0,Central Midfield,Olympique Lyon,1.00m,in,Summer,1,Ligue 1,2012,2012/2013
+FC Lorient,Ludovic Giuly,36.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Sigamary Diarra,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Stefan Popescu,19.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Ricardo Faty,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Oumar Sissoko,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Chahir Belghazouani,25.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Adrian Mutu,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Ammar Jemal,25.0,Centre-Back,Uk,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Troyes,Maxime Colin,20.0,Right-Back,France,500Th.,in,Summer,"0,5",Ligue 1,2012,2012/2013
+Troyes,Jérémie Bréchet,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Troyes,Stéphane Darbion,28.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Troyes,Benjamin Nivet,35.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Troyes,Matthieu Dreyer,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Troyes,Granddi N'Goyi,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Troyes,Georges Gope-Fenepej,23.0,Left Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Troyes,Fabien Camus,27.0,Attacking Midfield,Belgium,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Troyes,Jean-Christophe Bahebeck,19.0,Centre-Forward,Paris SG,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Troyes,Mohamed Yattara,19.0,Centre-Forward,Olympique Lyon,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+LOSC Lille,Marvin Martin,24.0,Attacking Midfield,FC Sochaux,10.00m,in,Summer,10,Ligue 1,2012,2012/2013
+LOSC Lille,Ryan Mendes,22.0,Left Winger,France,3.00m,in,Summer,3,Ligue 1,2012,2012/2013
+LOSC Lille,Djibril Sidibé,19.0,Right-Back,Troyes,2.50m,in,Summer,"2,5",Ligue 1,2012,2012/2013
+LOSC Lille,Viktor Klonaridis,19.0,Second Striker,Central_EU,800Th.,in,Summer,"0,8",Ligue 1,2012,2012/2013
+LOSC Lille,Steeve Elana,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+LOSC Lille,Salomon Kalou,26.0,Left Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Montpellier,Daniel Congré,27.0,Centre-Back,Toulouse,5.00m,in,Summer,5,Ligue 1,2012,2012/2013
+Montpellier,Anthony Mounier,24.0,Left Winger,OGC Nice,3.50m,in,Summer,"3,5",Ligue 1,2012,2012/2013
+Montpellier,Emanuel Herrera,25.0,Centre-Forward,South America,2.50m,in,Summer,"2,5",Ligue 1,2012,2012/2013
+Montpellier,Gaëtan Charbonnier,23.0,Centre-Forward,France,1.50m,in,Summer,"1,5",Ligue 1,2012,2012/2013
+FC Sochaux,Thierry Doubai,24.0,Defensive Midfield,Udinese Calcio,3.00m,in,Summer,3,Ligue 1,2012,2012/2013
+FC Sochaux,Ishmael Yartey,22.0,Left Winger,Benfica,2.00m,in,Summer,2,Ligue 1,2012,2012/2013
+FC Sochaux,Kalilou Traoré,24.0,Defensive Midfield,North_EU,1.75m,in,Summer,"1,75",Ligue 1,2012,2012/2013
+FC Sochaux,Roy Contout,27.0,Right Winger,France,800Th.,in,Summer,"0,8",Ligue 1,2012,2012/2013
+FC Sochaux,Omar Daf,35.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+FC Sochaux,Cédric Kanté,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Saint-Étienne,Romain Hamouma,25.0,Centre-Forward,France,4.00m,in,Summer,4,Ligue 1,2012,2012/2013
+Saint-Étienne,Florentin Pogba,22.0,Centre-Back,France,500Th.,in,Summer,"0,5",Ligue 1,2012,2012/2013
+Saint-Étienne,François Clerc,29.0,Right-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Saint-Étienne,Renaud Cohade,27.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Saint-Étienne,Brandão,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Julian Palmieri,25.0,Left-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Ilan,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Landry Bonnefoi,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Sambou Yatabaré,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Gaëtan Varenne,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Sylvain Marchal,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+SC Bastia,Anthony Modeste,24.0,Centre-Forward,G. Bordeaux,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Paris SG,Thiago Silva,27.0,Centre-Back,AC Milan,42.00m,in,Summer,42,Ligue 1,2012,2012/2013
+Paris SG,Ezequiel Lavezzi,27.0,Second Striker,SSC Napoli,30.00m,in,Summer,30,Ligue 1,2012,2012/2013
+Paris SG,Zlatan Ibrahimovic,30.0,Centre-Forward,AC Milan,21.00m,in,Summer,21,Ligue 1,2012,2012/2013
+Paris SG,Marco Verratti,19.0,Central Midfield,Pescara,12.00m,in,Summer,12,Ligue 1,2012,2012/2013
+Paris SG,Gregory van der Wiel,24.0,Right-Back,Ajax,6.00m,in,Summer,6,Ligue 1,2012,2012/2013
+OGC Nice,Jérémy Pied,23.0,Right-Back,Olympique Lyon,3.00m,in,Summer,3,Ligue 1,2012,2012/2013
+OGC Nice,Darío Cvitanich,28.0,Centre-Forward,Ajax,1.50m,in,Summer,"1,5",Ligue 1,2012,2012/2013
+OGC Nice,Timothée Kolodziejczak,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+OGC Nice,Joris Delle,22.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+OGC Nice,Eric Bauthéac,24.0,Right Winger,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+OGC Nice,Kévin Diaz,24.0,Right Midfield,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+OGC Nice,Romain Genevois,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+OGC Nice,Valentin Eysseric,20.0,Attacking Midfield,France,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Toulouse,Jonathan Zebina,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Toulouse,Olivier Blondel,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Toulouse,Issiaga Sylla,18.0,Left-Back,Horoya AC,?,in,Summer,0.01,Ligue 1,2012,2012/2013
+Toulouse,Yannick Djaló,26.0,Left Winger,Benfica,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Rennes,Sadio Diallo,21.0,Central Midfield,SC Bastia,4.00m,in,Summer,4,Ligue 1,2012,2012/2013
+Rennes,Romain Alessandrini,23.0,Right Winger,France,2.50m,in,Summer,"2,5",Ligue 1,2012,2012/2013
+Rennes,Jean II Makoun,29.0,Defensive Midfield,Aston Villa,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+Marseille,Lucas Mendes,22.0,Centre-Back,South America,2.30m,in,Summer,"2,3",Ligue 1,2012,2012/2013
+Marseille,Kassim Abdallah,25.0,Right-Back,France,500Th.,in,Summer,"0,5",Ligue 1,2012,2012/2013
+Marseille,Florian Raspentino,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Ligue 1,2012,2012/2013
+Marseille,Joey Barton,29.0,Central Midfield,QPR,loan transfer,in,Summer,0.01,Ligue 1,2012,2012/2013
+G. Bordeaux,Diego Rolán,19.0,Centre-Forward,South America,2.80m,in,Winter,"2,8",Ligue 1,2012,2012/2013
+G. Bordeaux,Julien Faubert,29.0,Right-Back,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+LOSC Lille,Florian Thauvin,20.0,Right Winger,SC Bastia,3.50m,in,Winter,"3,5",Ligue 1,2012,2012/2013
+LOSC Lille,Soualiho Meïté,18.0,Central Midfield,France,2.70m,in,Winter,"2,7",Ligue 1,2012,2012/2013
+AC Ajaccio,Dennis Oliech,27.0,Right Winger,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Ronald Zubar,27.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+AC Ajaccio,Matthieu Chalmé,32.0,Right-Back,G. Bordeaux,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+FC Lorient,Ryan Mason,21.0,Central Midfield,Spurs,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+FC Lorient,Mohammed Abu,21.0,Defensive Midfield,Man City,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+AS Nancy,Yassine Jebbour,21.0,Right-Back,Stade Rennais,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Stade Reims,Nicolas de Préville,22.0,Centre-Forward,France,1.10m,in,Winter,"1,1",Ligue 1,2012,2012/2013
+Stade Reims,Johny Placide,24.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+Valenciennes FC,Lindsay Rose,20.0,Centre-Back,France,1.50m,in,Winter,"1,5",Ligue 1,2012,2012/2013
+Valenciennes FC,Maor Melikson,28.0,Right Winger,Central_EU,800Th.,in,Winter,"0,8",Ligue 1,2012,2012/2013
+Valenciennes FC,Younousse Sankharé,23.0,Central Midfield,France,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Stade Brestois,Florian Raspentino,23.0,Centre-Forward,Marseille,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Stade Brestois,Florian Lejeune,21.0,Centre-Back,Spain,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Stade Brestois,Magaye Gueye,22.0,Centre-Forward,Everton,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Marseille,Modou Sougou,28.0,Right Winger,Est_EU,3.00m,in,Winter,3,Ligue 1,2012,2012/2013
+Marseille,Alaixys Romao,29.0,Defensive Midfield,FC Lorient,2.00m,in,Winter,2,Ligue 1,2012,2012/2013
+Marseille,Foued Kadir,29.0,Attacking Midfield,Valenciennes FC,500Th.,in,Winter,"0,5",Ligue 1,2012,2012/2013
+Marseille,Brice Samba,18.0,Goalkeeper,France,400Th.,in,Winter,"0,4",Ligue 1,2012,2012/2013
+Rennes,Anders Konradsen,22.0,Defensive Midfield,North_EU,2.20m,in,Winter,"2,2",Ligue 1,2012,2012/2013
+Rennes,Alou Diarra,31.0,Defensive Midfield,West Ham,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Toulouse,Eden Ben Basat,26.0,Centre-Forward,Stade Brestois,1.00m,in,Winter,1,Ligue 1,2012,2012/2013
+Toulouse,Adrien Rabiot,17.0,Central Midfield,Paris SG,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Toulouse,Adil Hermach,26.0,Defensive Midfield,Asia,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+OGC Nice,Valentin Eysseric,20.0,Attacking Midfield,France,1.50m,in,Winter,"1,5",Ligue 1,2012,2012/2013
+Paris SG,Lucas Moura,20.0,Right Winger,South America,40.00m,in,Winter,40,Ligue 1,2012,2012/2013
+Paris SG,David Beckham,37.0,Right Midfield,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+SC Bastia,Mickaël Landreau,33.0,Goalkeeper,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+SC Bastia,Jacques Faty,28.0,Centre-Back,Turkey,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+SC Bastia,Florian Thauvin,20.0,Right Winger,LOSC Lille,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+SC Bastia,Samuel Inkoom,23.0,Right-Back,Est_EU,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+SC Bastia,Claudio Beauvue,24.0,Centre-Forward,France,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Saint-Étienne,Yohan Mollo,23.0,Right Winger,AS Nancy,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Saint-Étienne,Mathieu Bodmer,30.0,Defensive Midfield,Paris SG,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Saint-Étienne,Andreas Laudrup,22.0,Left Winger,North_EU,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+FC Sochaux,Giovanni Sio,23.0,Centre-Forward,VfL Wolfsburg,Loan fee:200Th.,in,Winter,"0,2",Ligue 1,2012,2012/2013
+Évian,Betão,29.0,Centre-Back,free agents,free transfer,in,Winter,0,Ligue 1,2012,2012/2013
+Évian,Milos Ninkovic,28.0,Left Winger,Est_EU,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Évian,Diogo Campos,22.0,Attacking Midfield,South America,loan transfer,in,Winter,0.01,Ligue 1,2012,2012/2013
+Bayern Munich,Javi Martínez,23.0,Defensive Midfield,Athletic,40.00m,in,Summer,40,1 Bundesliga,2012,2012/2013
+Bayern Munich,Mario Mandzukic,26.0,Centre-Forward,VfL Wolfsburg,13.00m,in,Summer,13,1 Bundesliga,2012,2012/2013
+Bayern Munich,Xherdan Shaqiri,20.0,Right Winger,Uk,11.80m,in,Summer,"11,8",1 Bundesliga,2012,2012/2013
+Bayern Munich,Dante,28.0,Centre-Back,Bor. M'gladbach,4.70m,in,Summer,"4,7",1 Bundesliga,2012,2012/2013
+Bayern Munich,Mitchell Weiser,18.0,Right-Back,Germany,800Th.,in,Summer,"0,8",1 Bundesliga,2012,2012/2013
+Bayern Munich,Lukas Raeder,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Bayern Munich,Tom Starke,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Bayern Munich,Claudio Pizarro,33.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Bor. Dortmund,Marco Reus,23.0,Attacking Midfield,Bor. M'gladbach,17.10m,in,Summer,"17,1",1 Bundesliga,2012,2012/2013
+Bor. Dortmund,Julian Schieber,23.0,Centre-Forward,VfB Stuttgart,5.50m,in,Summer,"5,5",1 Bundesliga,2012,2012/2013
+Bor. Dortmund,Leonardo Bittencourt,18.0,Attacking Midfield,Germany,2.70m,in,Summer,"2,7",1 Bundesliga,2012,2012/2013
+Bor. Dortmund,Oliver Kirch,29.0,Defensive Midfield,Germany,350Th.,in,Summer,"0,35",1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Philipp Wollscheid,23.0,Centre-Back,1.FC Nuremberg,7.00m,in,Summer,7,1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Daniel Carvajal,20.0,Right-Back,Spain,5.00m,in,Summer,5,1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Junior Fernandes,24.0,Left Winger,South America,4.70m,in,Summer,"4,7",1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Konstantinos Stafylidis,18.0,Left-Back,Central_EU,1.50m,in,Summer,"1,5",1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Carlinhos,18.0,Attacking Midfield,Desp. Brasil,Loan fee:100Th.,in,Summer,"0,1",1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Michael Rensing,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+FC Schalke 04,Chinedu Obasi,26.0,Centre-Forward,TSG Hoffenheim,4.00m,in,Summer,4,1 Bundesliga,2012,2012/2013
+FC Schalke 04,Ibrahim Afellay,26.0,Attacking Midfield,Barcelona,Loan fee:500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+FC Schalke 04,Roman Neustädter,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+FC Schalke 04,Tranquillo Barnetta,27.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+SC Freiburg,Max Kruse,24.0,Second Striker,Germany,500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+SC Freiburg,Vegar Hedenstad,21.0,Right-Back,North_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+SC Freiburg,Marco Terrazzino,21.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+SC Freiburg,Ezequiel Calvente,21.0,Right Winger,Real Betis,loan transfer,in,Summer,0.01,1 Bundesliga,2012,2012/2013
+E. Frankfurt,Kevin Trapp,21.0,Goalkeeper,Germany,1.50m,in,Summer,"1,5",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Takashi Inui,24.0,Left Winger,Germany,1.45m,in,Summer,"1,45",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Olivier Occéan,30.0,Centre-Forward,Greuther Fürth,1.30m,in,Summer,"1,3",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Carlos Zambrano,23.0,Centre-Back,Germany,1.20m,in,Summer,"1,2",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Bamba Anderson,24.0,Centre-Back,Bor. M'gladbach,800Th.,in,Summer,"0,8",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Vadim Demidov,25.0,Centre-Back,Real Sociedad,500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Bastian Oczipka,23.0,Left-Back,Bay. Leverkusen,500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Dorge Kouemaha,29.0,Centre-Forward,Belgium,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Erwin Hoffer,25.0,Centre-Forward,SSC Napoli,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Martin Lanig,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+E. Frankfurt,Stefan Aigner,24.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+E. Frankfurt,Stefano Celozzi,23.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Hamburger SV,Rafael van der Vaart,29.0,Attacking Midfield,Spurs,13.00m,in,Summer,13,1 Bundesliga,2012,2012/2013
+Hamburger SV,Milan Badelj,23.0,Defensive Midfield,Est_EU,4.00m,in,Summer,4,1 Bundesliga,2012,2012/2013
+Hamburger SV,Petr Jiracek,26.0,midfield,VfL Wolfsburg,4.00m,in,Summer,4,1 Bundesliga,2012,2012/2013
+Hamburger SV,Artjoms Rudnevs,24.0,Centre-Forward,Central_EU,3.50m,in,Summer,"3,5",1 Bundesliga,2012,2012/2013
+Hamburger SV,Hakan Calhanoglu,18.0,Central Midfield,Germany,2.50m,in,Summer,"2,5",1 Bundesliga,2012,2012/2013
+Hamburger SV,Paul Scharner,32.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Hamburger SV,René Adler,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Bor. M'gladbach,Luuk de Jong,21.0,Centre-Forward,Twente FC,12.00m,in,Summer,12,1 Bundesliga,2012,2012/2013
+Bor. M'gladbach,Álvaro Domínguez,23.0,Centre-Back,Atlético Madrid,10.00m,in,Summer,10,1 Bundesliga,2012,2012/2013
+Bor. M'gladbach,Granit Xhaka,19.0,Defensive Midfield,Uk,8.50m,in,Summer,"8,5",1 Bundesliga,2012,2012/2013
+Bor. M'gladbach,Peniel Mlapa,21.0,Centre-Forward,TSG Hoffenheim,2.50m,in,Summer,"2,5",1 Bundesliga,2012,2012/2013
+Bor. M'gladbach,Branimir Hrgota,19.0,Centre-Forward,North_EU,400Th.,in,Summer,"0,4",1 Bundesliga,2012,2012/2013
+Hannover 96,Felipe,25.0,Centre-Back,Belgium,2.50m,in,Summer,"2,5",1 Bundesliga,2012,2012/2013
+Hannover 96,Hiroki Sakai,22.0,Right-Back,Asia,1.20m,in,Summer,"1,2",1 Bundesliga,2012,2012/2013
+Hannover 96,Szabolcs Huszti,29.0,Left Midfield,Russia,750Th.,in,Summer,"0,75",1 Bundesliga,2012,2012/2013
+Hannover 96,Adrian Nikci,22.0,Left Winger,Uk,600Th.,in,Summer,"0,6",1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Hiroshi Kiyotake,22.0,Left Midfield,Asia,1.00m,in,Summer,1,1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Timo Gebhart,23.0,Attacking Midfield,VfB Stuttgart,1.00m,in,Summer,1,1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Sebastian Polter,21.0,Centre-Forward,VfL Wolfsburg,Loan fee:200Th.,in,Summer,"0,2",1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Roussel Ngankam,18.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Marcos António,29.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Noah Korczowski,18.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Bas Dost,23.0,Centre-Forward,Heerenveen,7.00m,in,Summer,7,1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Naldo,29.0,Centre-Back,Werder Bremen,4.80m,in,Summer,"4,8",1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Fagner,23.0,Right-Back,Portugal,3.00m,in,Summer,3,1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Emanuel Pogatetz,29.0,Centre-Back,Hannover 96,2.50m,in,Summer,"2,5",1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Vaclav Pilar,23.0,Left Midfield,Central_EU,1.50m,in,Summer,"1,5",1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Kevin Pannewitz,20.0,Defensive Midfield,Germany,300Th.,in,Summer,"0,3",1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Ivica Olic,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+VfB Stuttgart,Tim Hoogland,27.0,Centre-Back,FC Schalke 04,Loan fee:300Th.,in,Summer,"0,3",1 Bundesliga,2012,2012/2013
+VfB Stuttgart,Tunay Torun,22.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+1.FSV Mainz 05,Chinedu Ede,25.0,Right Winger,Germany,1.20m,in,Summer,"1,2",1 Bundesliga,2012,2012/2013
+1.FSV Mainz 05,Nikita Rukavytsya,25.0,Centre-Forward,Germany,900Th.,in,Summer,"0,9",1 Bundesliga,2012,2012/2013
+1.FSV Mainz 05,Júnior Díaz,28.0,Centre-Back,Belgium,80Th.,in,Summer,"0,08",1 Bundesliga,2012,2012/2013
+Werder Bremen,Eljero Elia,25.0,Left Winger,Juventus,5.50m,in,Summer,"5,5",1 Bundesliga,2012,2012/2013
+Werder Bremen,Sokratis Papastathopoulos,24.0,Centre-Back,Genoa,3.50m,in,Summer,"3,5",1 Bundesliga,2012,2012/2013
+Werder Bremen,Theodor Gebre Selassie,25.0,Right-Back,Central_EU,1.80m,in,Summer,"1,8",1 Bundesliga,2012,2012/2013
+Werder Bremen,Joseph Akpala,25.0,Centre-Forward,Belgium,1.50m,in,Summer,"1,5",1 Bundesliga,2012,2012/2013
+Werder Bremen,Nils Petersen,23.0,Centre-Forward,Bayern Munich,Loan fee:500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+Werder Bremen,Kevin De Bruyne,21.0,Attacking Midfield,Chelsea,Loan fee:450Th.,in,Summer,"0,45",1 Bundesliga,2012,2012/2013
+Werder Bremen,Raphael Wolf,24.0,Goalkeeper,Central_EU,200Th.,in,Summer,"0,2",1 Bundesliga,2012,2012/2013
+Werder Bremen,Richard Strebinger,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Werder Bremen,Assani Lukimya,26.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+FC Augsburg,Jan Moravek,22.0,Central Midfield,FC Schalke 04,700Th.,in,Summer,"0,7",1 Bundesliga,2012,2012/2013
+FC Augsburg,Kevin Vogt,20.0,Centre-Back,Germany,600Th.,in,Summer,"0,6",1 Bundesliga,2012,2012/2013
+FC Augsburg,Aristide Bancé,27.0,Centre-Forward,Asia,500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+FC Augsburg,Milan Petrzela,29.0,Right Midfield,Central_EU,300Th.,in,Summer,"0,3",1 Bundesliga,2012,2012/2013
+FC Augsburg,Ragnar Klavan,26.0,Centre-Back,AZ Alkmaar,250Th.,in,Summer,"0,25",1 Bundesliga,2012,2012/2013
+FC Augsburg,Knowledge Musona,22.0,Attacking Midfield,TSG Hoffenheim,Loan fee:100Th.,in,Summer,"0,1",1 Bundesliga,2012,2012/2013
+FC Augsburg,Giovanni Sio,23.0,Centre-Forward,VfL Wolfsburg,Loan fee:100Th.,in,Summer,"0,1",1 Bundesliga,2012,2012/2013
+FC Augsburg,Ronny Philp,23.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+FC Augsburg,Andreas Ottl,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Zoltán Stieber,23.0,Attacking Midfield,1.FSV Mainz 05,900Th.,in,Summer,"0,9",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Djiby Fall,27.0,Centre-Forward,Belgium,800Th.,in,Summer,"0,8",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Tobias Mikkelsen,25.0,Right Winger,North_EU,500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Edú,30.0,Centre-Forward,FC Schalke 04,Loan fee:300Th.,in,Summer,"0,3",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Lasse Sobiech,21.0,Centre-Back,Bor. Dortmund,Loan fee:100Th.,in,Summer,"0,1",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Thanos Petsos,21.0,Defensive Midfield,Bay. Leverkusen,50Th.,in,Summer,"0,05",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Franck Ohandza,20.0,Centre-Forward,Asia,Loan fee:50Th.,in,Summer,"0,05",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Issa Ndoye,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Abdul-Rahman Baba,17.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Michael Hefele,21.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Wolfgang Hesl,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Thomas Pledl,18.0,Right Winger,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Joselu,22.0,Centre-Forward,Spain,6.00m,in,Summer,6,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Eren Derdiyok,24.0,Centre-Forward,Bay. Leverkusen,5.50m,in,Summer,"5,5",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Filip Malbasic,19.0,Right Winger,Central_EU,1.20m,in,Summer,"1,2",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Takashi Usami,20.0,Centre-Forward,Asia,Loan fee:300Th.,in,Summer,"0,3",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Patrick Ochs,28.0,Right-Back,VfL Wolfsburg,Loan fee:100Th.,in,Summer,"0,1",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Tim Wiese,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Chris,33.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Stephan Schröck,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Matthieu Delpierre,31.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Andriy Voronin,33.0,Second Striker,Russia,Loan fee:500Th.,in,Summer,"0,5",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Stelios Malezas,27.0,Centre-Back,Central_EU,450Th.,in,Summer,"0,45",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Fabian Giefer,22.0,Goalkeeper,Bay. Leverkusen,400Th.,in,Summer,"0,4",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Gerrit Wegkamp,19.0,Centre-Forward,Germany,250Th.,in,Summer,"0,25",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Tobias Levels,25.0,Right-Back,Bor. M'gladbach,200Th.,in,Summer,"0,2",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Stefan Reisinger,30.0,Centre-Forward,SC Freiburg,200Th.,in,Summer,"0,2",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Nikolaos Papadopoulos,22.0,Goalkeeper,Central_EU,50Th.,in,Summer,"0,05",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Bruno Soares,23.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Bastian Müller,20.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,André Fomitschow,21.0,Left-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Du-ri Cha,31.0,Right-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Nando Rafael,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Ivan Paurevic,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Ronny Garbuschewski,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Leon Balogun,24.0,Centre-Back,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Axel Bellinghausen,29.0,Left Midfield,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Dani Schahin,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Mazin Ahmed Al-Huthayfi,26.0,Left Winger,Asia,loan transfer,in,Summer,0.01,1 Bundesliga,2012,2012/2013
+Bor. Dortmund,Nuri Sahin,24.0,Defensive Midfield,Real Madrid,Loan fee:1.00m,in,Winter,1,1 Bundesliga,2012,2012/2013
+Bay. Leverkusen,Arkadiusz Milik,18.0,Centre-Forward,Central_EU,2.60m,in,Winter,"2,6",1 Bundesliga,2012,2012/2013
+FC Schalke 04,Raffael,27.0,Second Striker,Est_EU,Loan fee:1.00m,in,Winter,1,1 Bundesliga,2012,2012/2013
+FC Schalke 04,Michel Bastos,29.0,Left Midfield,Olympique Lyon,Loan fee:1.00m,in,Winter,1,1 Bundesliga,2012,2012/2013
+SC Freiburg,Hendrick Zuck,22.0,Left Midfield,Germany,500Th.,in,Winter,"0,5",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Marco Russ,27.0,Centre-Back,VfL Wolfsburg,Loan fee:500Th.,in,Winter,"0,5",1 Bundesliga,2012,2012/2013
+E. Frankfurt,Srdjan Lakic,29.0,Centre-Forward,VfL Wolfsburg,loan transfer,in,Winter,0.01,1 Bundesliga,2012,2012/2013
+Hannover 96,Sébastien Pocognoli,25.0,Left-Back,Belgium,2.00m,in,Winter,2,1 Bundesliga,2012,2012/2013
+Hannover 96,França,21.0,Defensive Midfield,South America,1.30m,in,Winter,"1,3",1 Bundesliga,2012,2012/2013
+Hannover 96,Andre Hoffmann,19.0,Centre-Back,Germany,800Th.,in,Winter,"0,8",1 Bundesliga,2012,2012/2013
+Hannover 96,Johan Djourou,25.0,Centre-Back,Arsenal,Loan fee:400Th.,in,Winter,"0,4",1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Muhammed Ildiz,21.0,Central Midfield,Central_EU,500Th.,in,Winter,"0,5",1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Berkay Dabanli,22.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2012,2012/2013
+1.FC Nuremberg,Mu Kanazaki,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,1 Bundesliga,2012,2012/2013
+VfL Wolfsburg,Ivan Perisic,23.0,Left Midfield,Bor. Dortmund,8.00m,in,Winter,8,1 Bundesliga,2012,2012/2013
+VfB Stuttgart,Alexandru Maxim,22.0,Attacking Midfield,Pandurii,1.50m,in,Winter,"1,5",1 Bundesliga,2012,2012/2013
+VfB Stuttgart,Felipe Lopes,25.0,Centre-Back,VfL Wolfsburg,Loan fee:300Th.,in,Winter,"0,3",1 Bundesliga,2012,2012/2013
+VfB Stuttgart,Federico Macheda,21.0,Centre-Forward,Man Utd,Loan fee:300Th.,in,Winter,"0,3",1 Bundesliga,2012,2012/2013
+1.FSV Mainz 05,Niki Zimling,27.0,Defensive Midfield,Belgium,2.00m,in,Winter,2,1 Bundesliga,2012,2012/2013
+Werder Bremen,Mateo Pavlovic,22.0,Centre-Back,Est_EU,1.28m,in,Winter,"1,28",1 Bundesliga,2012,2012/2013
+FC Augsburg,André Hahn,22.0,Right Winger,Germany,250Th.,in,Winter,"0,25",1 Bundesliga,2012,2012/2013
+FC Augsburg,Dong-won Ji,21.0,Centre-Forward,Sunderland,Loan fee:50Th.,in,Winter,"0,05",1 Bundesliga,2012,2012/2013
+FC Augsburg,Michael Parkhurst,28.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Nikola Djurdjic,26.0,Centre-Forward,North_EU,1.00m,in,Winter,1,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Matthias Zimmermann,20.0,Right-Back,Bor. M'gladbach,Loan fee:100Th.,in,Winter,"0,1",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Florian Trinks,20.0,Attacking Midfield,Werder Bremen,50Th.,in,Winter,"0,05",1 Bundesliga,2012,2012/2013
+Greuther Fürth,Stefan Lex,23.0,Left Winger,free agents,free transfer,in,Winter,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Tom Mickel,23.0,Goalkeeper,free agents,free transfer,in,Winter,0,1 Bundesliga,2012,2012/2013
+Greuther Fürth,Jung-bin Park,18.0,Left Winger,Germany,loan transfer,in,Winter,0.01,1 Bundesliga,2012,2012/2013
+Greuther Fürth,József Varga,24.0,Defensive Midfield,Central_EU,loan transfer,in,Winter,0.01,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,David Abraham,26.0,Centre-Back,Getafe,4.00m,in,Winter,4,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Eugen Polanski,26.0,Defensive Midfield,1.FSV Mainz 05,3.00m,in,Winter,3,1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Afriyie Acquah,21.0,Central Midfield,US Palermo,2.50m,in,Winter,"2,5",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Guilherme Biteco,18.0,Left Midfield,South America,1.50m,in,Winter,"1,5",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Luis Advíncula,22.0,Right-Back,Est_EU,900Th.,in,Winter,"0,9",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Igor de Camargo,29.0,Centre-Forward,Bor. M'gladbach,Loan fee:600Th.,in,Winter,"0,6",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Heurelho Gomes,31.0,Goalkeeper,Spurs,Loan fee:400Th.,in,Winter,"0,4",1 Bundesliga,2012,2012/2013
+TSG Hoffenheim,Junior Ponce,18.0,Right Winger,South America,300Th.,in,Winter,"0,3",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Mathis Bolly,22.0,Left Winger,North_EU,500Th.,in,Winter,"0,5",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Cristian Ramírez,18.0,Left-Back,South America,500Th.,in,Winter,"0,5",1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Martin Latka,28.0,Centre-Back,free agents,free transfer,in,Winter,0,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Robert Tesche,25.0,Central Midfield,Hamburger SV,loan transfer,in,Winter,0.01,1 Bundesliga,2012,2012/2013
+F. Düsseldorf,Genki Omae,23.0,Second Striker,Asia,?,in,Winter,0.01,1 Bundesliga,2012,2012/2013
+Chelsea,Eden Hazard,21.0,Left Winger,LOSC Lille,35.00m,in,Summer,35,Premier League,2012,2012/2013
+Chelsea,Oscar,20.0,Attacking Midfield,South America,32.00m,in,Summer,32,Premier League,2012,2012/2013
+Chelsea,Victor Moses,21.0,Right Midfield,Wigan,11.50m,in,Summer,"11,5",Premier League,2012,2012/2013
+Chelsea,César Azpilicueta,22.0,Right-Back,Marseille,8.80m,in,Summer,"8,8",Premier League,2012,2012/2013
+Chelsea,Marko Marin,23.0,Attacking Midfield,Werder Bremen,8.00m,in,Summer,8,Premier League,2012,2012/2013
+Chelsea,Thorgan Hazard,19.0,Left Winger,France,500Th.,in,Summer,"0,5",Premier League,2012,2012/2013
+Chelsea,Lamisha Musonda,20.0,Central Midfield,Belgium,?,in,Summer,0.01,Premier League,2012,2012/2013
+Swansea,Pablo Hernández,27.0,Attacking Midfield,Valencia,7.00m,in,Summer,7,Premier League,2012,2012/2013
+Swansea,Sung-yueng Ki,23.0,Defensive Midfield,Uk,7.00m,in,Summer,7,Premier League,2012,2012/2013
+Swansea,Michu,26.0,Second Striker,Rayo Vallecano,2.57m,in,Summer,"2,57",Premier League,2012,2012/2013
+Swansea,Chico Flores,25.0,Centre-Back,Genoa,2.50m,in,Summer,"2,5",Premier League,2012,2012/2013
+Swansea,Kyle Bartley,21.0,Centre-Back,Uk,1.30m,in,Summer,"1,3",Premier League,2012,2012/2013
+Swansea,Itay Shechter,25.0,Centre-Forward,Germany,Loan fee:100Th.,in,Summer,"0,1",Premier League,2012,2012/2013
+Swansea,Jonathan de Guzmán,24.0,Central Midfield,Spain,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Swansea,Jamie Proctor,20.0,Centre-Forward,Uk,?,in,Summer,0.01,Premier League,2012,2012/2013
+Man Utd,Robin van Persie,29.0,Centre-Forward,Arsenal,30.70m,in,Summer,"30,7",Premier League,2012,2012/2013
+Man Utd,Shinji Kagawa,23.0,Attacking Midfield,Bor. Dortmund,16.00m,in,Summer,16,Premier League,2012,2012/2013
+Man Utd,Nick Powell,18.0,Attacking Midfield,Uk,7.50m,in,Summer,"7,5",Premier League,2012,2012/2013
+Man Utd,Ángelo Henríquez,18.0,Centre-Forward,South America,5.50m,in,Summer,"5,5",Premier League,2012,2012/2013
+Man Utd,Alexander Büttner,23.0,Left-Back,Vitesse,5.00m,in,Summer,5,Premier League,2012,2012/2013
+West Brom,Ben Foster,29.0,Goalkeeper,Uk,5.00m,in,Summer,5,Premier League,2012,2012/2013
+West Brom,Markus Rosenberg,29.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+West Brom,Claudio Yacob,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+West Brom,Yassine El Ghanassy,21.0,Left Winger,Belgium,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+West Brom,Romelu Lukaku,19.0,Centre-Forward,Chelsea,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+West Brom,Goran Popov,27.0,Left-Back,Est_EU,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Fulham,Dimitar Berbatov,31.0,Centre-Forward,Man Utd,5.00m,in,Summer,5,Premier League,2012,2012/2013
+Fulham,Ashkan Dejagah,26.0,Right Winger,VfL Wolfsburg,2.50m,in,Summer,"2,5",Premier League,2012,2012/2013
+Fulham,Kieran Richardson,27.0,Left-Back,Sunderland,2.50m,in,Summer,"2,5",Premier League,2012,2012/2013
+Fulham,Hugo Rodallega,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Fulham,Georgios Karagounis,35.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Fulham,Mladen Petric,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Fulham,Sascha Riether,29.0,Right-Back,Germany,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Newcastle,Vurnon Anita,23.0,Defensive Midfield,Ajax,8.50m,in,Summer,"8,5",Premier League,2012,2012/2013
+Newcastle,Gaël Bigirimana,18.0,Central Midfield,Uk,1.25m,in,Summer,"1,25",Premier League,2012,2012/2013
+Newcastle,Curtis Good,19.0,Centre-Back,Asia,515Th.,in,Summer,"0,515",Premier League,2012,2012/2013
+Newcastle,Romain Amalfitano,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Arsenal,Santi Cazorla,27.0,Central Midfield,Málaga CF,19.00m,in,Summer,19,Premier League,2012,2012/2013
+Arsenal,Lukas Podolski,27.0,Attacking Midfield,Germany,15.00m,in,Summer,15,Premier League,2012,2012/2013
+Arsenal,Olivier Giroud,25.0,Centre-Forward,Montpellier,12.00m,in,Summer,12,Premier League,2012,2012/2013
+Aston Villa,Christian Benteke,21.0,Centre-Forward,Belgium,8.80m,in,Summer,"8,8",Premier League,2012,2012/2013
+Aston Villa,Ron Vlaar,27.0,Centre-Back,Feyenoord,3.80m,in,Summer,"3,8",Premier League,2012,2012/2013
+Aston Villa,Matthew Lowton,23.0,Right-Back,Uk,3.75m,in,Summer,"3,75",Premier League,2012,2012/2013
+Aston Villa,Joe Bennett,22.0,Left-Back,Uk,3.15m,in,Summer,"3,15",Premier League,2012,2012/2013
+Aston Villa,Karim El Ahmadi,27.0,Defensive Midfield,Feyenoord,2.80m,in,Summer,"2,8",Premier League,2012,2012/2013
+Aston Villa,Ashley Westwood,22.0,Defensive Midfield,Uk,2.50m,in,Summer,"2,5",Premier League,2012,2012/2013
+Aston Villa,Jordan Bowery,21.0,Centre-Forward,Uk,630Th.,in,Summer,"0,63",Premier League,2012,2012/2013
+Aston Villa,Brett Holman,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+West Ham,Matt Jarvis,26.0,Left Winger,Uk,9.50m,in,Summer,"9,5",Premier League,2012,2012/2013
+West Ham,Modibo Maïga,24.0,Centre-Forward,FC Sochaux,6.00m,in,Summer,6,Premier League,2012,2012/2013
+West Ham,James Collins,28.0,Centre-Back,Aston Villa,3.20m,in,Summer,"3,2",Premier League,2012,2012/2013
+West Ham,Alou Diarra,31.0,Defensive Midfield,Marseille,2.50m,in,Summer,"2,5",Premier League,2012,2012/2013
+West Ham,Andy Carroll,23.0,Centre-Forward,Uk,Loan fee:1.25m,in,Summer,"1,25",Premier League,2012,2012/2013
+West Ham,Stephen Henderson,24.0,Goalkeeper,Uk,745Th.,in,Summer,"0,745",Premier League,2012,2012/2013
+West Ham,Raphael Spiegel,19.0,Goalkeeper,Uk,400Th.,in,Summer,"0,4",Premier League,2012,2012/2013
+West Ham,George McCartney,31.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+West Ham,Jussi Jääskeläinen,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+West Ham,Mohamed Diamé,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+West Ham,Yossi Benayoun,32.0,Right Winger,Chelsea,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Sunderland,Steven Fletcher,25.0,Centre-Forward,Uk,15.20m,in,Summer,"15,2",Premier League,2012,2012/2013
+Sunderland,Adam Johnson,25.0,Right Winger,Man City,12.60m,in,Summer,"12,6",Premier League,2012,2012/2013
+Sunderland,Carlos Cuéllar,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Sunderland,Louis Saha,34.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Sunderland,Danny Rose,22.0,Left-Back,Spurs,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Man City,Javi García,25.0,Defensive Midfield,Benfica,20.20m,in,Summer,"20,2",Premier League,2012,2012/2013
+Man City,Matija Nastasic,19.0,Centre-Back,Fiorentina,15.20m,in,Summer,"15,2",Premier League,2012,2012/2013
+Man City,Jack Rodwell,21.0,Defensive Midfield,Everton,15.00m,in,Summer,15,Premier League,2012,2012/2013
+Man City,Scott Sinclair,23.0,Left Winger,Swansea,7.80m,in,Summer,"7,8",Premier League,2012,2012/2013
+Man City,Maicon,31.0,Right-Back,Inter,3.75m,in,Summer,"3,75",Premier League,2012,2012/2013
+Man City,Richard Wright,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Southampton,Gastón Ramírez,21.0,Attacking Midfield,Bologna,15.20m,in,Summer,"15,2",Premier League,2012,2012/2013
+Southampton,Jay Rodríguez,22.0,Centre-Forward,Uk,8.65m,in,Summer,"8,65",Premier League,2012,2012/2013
+Southampton,Emmanuel Mayuka,21.0,Centre-Forward,Uk,4.00m,in,Summer,4,Premier League,2012,2012/2013
+Southampton,Nathaniel Clyne,21.0,Right-Back,Uk,3.20m,in,Summer,"3,2",Premier League,2012,2012/2013
+Southampton,Paulo Gazzaniga,20.0,Goalkeeper,Uk,3.15m,in,Summer,"3,15",Premier League,2012,2012/2013
+Southampton,Maya Yoshida,24.0,Centre-Back,VVV-Venlo,2.80m,in,Summer,"2,8",Premier League,2012,2012/2013
+Southampton,Steven Davis,27.0,Central Midfield,Uk,1.00m,in,Summer,1,Premier League,2012,2012/2013
+Spurs,Mousa Dembélé,25.0,Central Midfield,Fulham,19.00m,in,Summer,19,Premier League,2012,2012/2013
+Spurs,Hugo Lloris,25.0,Goalkeeper,Olympique Lyon,12.60m,in,Summer,"12,6",Premier League,2012,2012/2013
+Spurs,Jan Vertonghen,25.0,Centre-Back,Ajax,12.50m,in,Summer,"12,5",Premier League,2012,2012/2013
+Spurs,Gylfi Sigurdsson,22.0,Attacking Midfield,TSG Hoffenheim,10.00m,in,Summer,10,Premier League,2012,2012/2013
+Spurs,Clint Dempsey,29.0,Second Striker,Fulham,7.50m,in,Summer,"7,5",Premier League,2012,2012/2013
+Spurs,Emmanuel Adebayor,28.0,Centre-Forward,Man City,6.40m,in,Summer,"6,4",Premier League,2012,2012/2013
+Spurs,Grant Hall,20.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,2012,2012/2013
+Liverpool FC,Joe Allen,22.0,Central Midfield,Swansea,19.00m,in,Summer,19,Premier League,2012,2012/2013
+Liverpool FC,Fabio Borini,21.0,Left Winger,AS Roma,13.30m,in,Summer,"13,3",Premier League,2012,2012/2013
+Liverpool FC,Nuri Sahin,23.0,Defensive Midfield,Real Madrid,Loan fee:5.00m,in,Summer,5,Premier League,2012,2012/2013
+Liverpool FC,Oussama Assaidi,24.0,Left Winger,Heerenveen,4.00m,in,Summer,4,Premier League,2012,2012/2013
+Liverpool FC,Samed Yesil,18.0,Centre-Forward,Bay. Leverkusen,1.30m,in,Summer,"1,3",Premier League,2012,2012/2013
+Everton,Kevin Mirallas,24.0,Right Winger,Central_EU,7.65m,in,Summer,"7,65",Premier League,2012,2012/2013
+Everton,Steven Pienaar,30.0,Left Winger,Spurs,5.75m,in,Summer,"5,75",Premier League,2012,2012/2013
+Everton,Bryan Oviedo,22.0,Left-Back,North_EU,4.50m,in,Summer,"4,5",Premier League,2012,2012/2013
+Everton,Matty Kennedy,17.0,Left Winger,Uk,250Th.,in,Summer,"0,25",Premier League,2012,2012/2013
+Everton,Steven Naismith,25.0,Second Striker,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Everton,Ben McLaughlin,17.0,Right-Back,Uk,?,in,Summer,0.01,Premier League,2012,2012/2013
+Norwich,Robert Snodgrass,24.0,Right Winger,Uk,3.20m,in,Summer,"3,2",Premier League,2012,2012/2013
+Norwich,Sébastien Bassong,26.0,Centre-Back,Spurs,3.00m,in,Summer,3,Premier League,2012,2012/2013
+Norwich,Michael Turner,28.0,Centre-Back,Sunderland,1.90m,in,Summer,"1,9",Premier League,2012,2012/2013
+Norwich,Alexander Tettey,26.0,Defensive Midfield,Stade Rennais,1.50m,in,Summer,"1,5",Premier League,2012,2012/2013
+Norwich,Mark Bunn,27.0,Goalkeeper,Uk,1.25m,in,Summer,"1,25",Premier League,2012,2012/2013
+Norwich,Steven Whittaker,28.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Norwich,Javier Garrido,27.0,Left-Back,Lazio,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Norwich,Adel Gafaiti,17.0,Centre-Back,Rangers U20,?,in,Summer,0.01,Premier League,2012,2012/2013
+Norwich,Jacob Butterfield,22.0,Central Midfield,Uk,?,in,Summer,0.01,Premier League,2012,2012/2013
+Norwich,Harry Kane,19.0,Centre-Forward,Spurs,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Stoke City,Charlie Adam,26.0,Central Midfield,Uk,6.20m,in,Summer,"6,2",Premier League,2012,2012/2013
+Stoke City,Steven Nzonzi,23.0,Defensive Midfield,Uk,4.40m,in,Summer,"4,4",Premier League,2012,2012/2013
+Stoke City,Michael Kightly,26.0,Left Winger,Uk,3.50m,in,Summer,"3,5",Premier League,2012,2012/2013
+Stoke City,Geoff Cameron,27.0,Defensive Midfield,North America,2.15m,in,Summer,"2,15",Premier League,2012,2012/2013
+Stoke City,Maurice Edu,26.0,Defensive Midfield,Uk,630Th.,in,Summer,"0,63",Premier League,2012,2012/2013
+Stoke City,Jamie Ness,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Stoke City,Ben Glasgow,18.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Stoke City,James Campbell,18.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Wigan,Iván Ramis,27.0,Centre-Back,RCD Mallorca,6.00m,in,Summer,6,Premier League,2012,2012/2013
+Wigan,Arouna Koné,28.0,Centre-Forward,Levante,3.80m,in,Summer,"3,8",Premier League,2012,2012/2013
+Wigan,Fraser Fyvie,19.0,Central Midfield,Uk,635Th.,in,Summer,"0,635",Premier League,2012,2012/2013
+Wigan,Ryo Miyaichi,19.0,Right Winger,Arsenal,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+QPR,Esteban Granero,25.0,Central Midfield,Real Madrid,8.00m,in,Summer,8,Premier League,2012,2012/2013
+QPR,Stéphane Mbia,26.0,Defensive Midfield,Marseille,6.00m,in,Summer,6,Premier League,2012,2012/2013
+QPR,Samba Diakité,23.0,Defensive Midfield,AS Nancy,4.00m,in,Summer,4,Premier League,2012,2012/2013
+QPR,Junior Hoilett,22.0,Left Winger,Uk,3.75m,in,Summer,"3,75",Premier League,2012,2012/2013
+QPR,Ji-sung Park,31.0,Attacking Midfield,Man Utd,3.10m,in,Summer,"3,1",Premier League,2012,2012/2013
+QPR,Júlio César,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+QPR,Sam Magri,18.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+QPR,Rob Green,32.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+QPR,Andy Johnson,31.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+QPR,Ryan Nelsen,34.0,Centre-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+QPR,Bosingwa,29.0,Right-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+QPR,Fábio,21.0,Right-Back,Man Utd,loan transfer,in,Summer,0.01,Premier League,2012,2012/2013
+Reading,Adrian Mariappa,25.0,Centre-Back,Uk,3.80m,in,Summer,"3,8",Premier League,2012,2012/2013
+Reading,Chris Gunter,22.0,Right-Back,Uk,3.00m,in,Summer,3,Premier League,2012,2012/2013
+Reading,Stuart Taylor,31.0,Goalkeeper,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Reading,Pavel Pogrebnyak,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Reading,Danny Guthrie,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Reading,Nicky Shorey,31.0,Left-Back,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Reading,Garath McCleary,25.0,Right Winger,free agents,free transfer,in,Summer,0,Premier League,2012,2012/2013
+Reading,Pierce Sweeney,17.0,Centre-Back,Uk,?,in,Summer,0.01,Premier League,2012,2012/2013
+Chelsea,Demba Ba,27.0,Centre-Forward,Newcastle,8.50m,in,Winter,"8,5",Premier League,2012,2012/2013
+Chelsea,Wallace Oliveira,18.0,Right-Back,South America,5.40m,in,Winter,"5,4",Premier League,2012,2012/2013
+Swansea,Roland Lamah,25.0,Left Winger,CA Osasuna,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Man Utd,Wilfried Zaha,20.0,Left Winger,Uk,11.75m,in,Winter,"11,75",Premier League,2012,2012/2013
+Fulham,Eyong Enoh,26.0,Defensive Midfield,Ajax,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Fulham,Emmanuel Frimpong,21.0,Defensive Midfield,Arsenal,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Fulham,Stanislav Manolev,27.0,Right Winger,PSV Eindhoven,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Fulham,Urby Emanuelson,26.0,Central Midfield,AC Milan,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Newcastle,Mapou Yanga-Mbiwa,23.0,Centre-Back,Montpellier,8.00m,in,Winter,8,Premier League,2012,2012/2013
+Newcastle,Mathieu Debuchy,27.0,Right-Back,LOSC Lille,6.20m,in,Winter,"6,2",Premier League,2012,2012/2013
+Newcastle,Massadio Haidara,20.0,Left-Back,AS Nancy,2.50m,in,Winter,"2,5",Premier League,2012,2012/2013
+Newcastle,Yoan Gouffran,26.0,Left Winger,G. Bordeaux,2.00m,in,Winter,2,Premier League,2012,2012/2013
+Newcastle,Moussa Sissoko,23.0,Central Midfield,Toulouse,2.00m,in,Winter,2,Premier League,2012,2012/2013
+Newcastle,Kevin Mbabu,17.0,Right-Back,Uk,1.00m,in,Winter,1,Premier League,2012,2012/2013
+Arsenal,Nacho Monreal,26.0,Left-Back,Málaga CF,10.00m,in,Winter,10,Premier League,2012,2012/2013
+Aston Villa,Yacouba Sylla,22.0,Defensive Midfield,France,2.40m,in,Winter,"2,4",Premier League,2012,2012/2013
+Aston Villa,Simon Dawkins,25.0,Left Winger,Spurs,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+West Ham,Emanuel Pogatetz,30.0,Centre-Back,VfL Wolfsburg,Loan fee:300Th.,in,Winter,"0,3",Premier League,2012,2012/2013
+West Ham,Joe Cole,31.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Premier League,2012,2012/2013
+West Ham,Marouane Chamakh,28.0,Centre-Forward,Arsenal,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+West Ham,Sean Maguire,18.0,Centre-Forward,Uk,?,in,Winter,0.01,Premier League,2012,2012/2013
+West Ham,Wellington Paulista,28.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Sunderland,Danny Graham,27.0,Centre-Forward,Swansea,5.80m,in,Winter,"5,8",Premier League,2012,2012/2013
+Sunderland,Alfred N'Diaye,22.0,Defensive Midfield,Turkey,4.70m,in,Winter,"4,7",Premier League,2012,2012/2013
+Sunderland,Kader Mangane,29.0,Centre-Back,Asia,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Southampton,Vegard Forren,24.0,Centre-Back,North_EU,3.50m,in,Winter,"3,5",Premier League,2012,2012/2013
+Spurs,Zeki Fryers,20.0,Left-Back,Belgium,3.50m,in,Winter,"3,5",Premier League,2012,2012/2013
+Spurs,Lewis Holtby,22.0,Central Midfield,FC Schalke 04,1.75m,in,Winter,"1,75",Premier League,2012,2012/2013
+Liverpool FC,Daniel Sturridge,23.0,Centre-Forward,Chelsea,15.00m,in,Winter,15,Premier League,2012,2012/2013
+Liverpool FC,Philippe Coutinho,20.0,Left Winger,Inter,13.00m,in,Winter,13,Premier League,2012,2012/2013
+Everton,John Stones,18.0,Centre-Back,Uk,3.50m,in,Winter,"3,5",Premier League,2012,2012/2013
+Norwich,Luciano Becchio,29.0,Centre-Forward,Uk,230Th.,in,Winter,"0,23",Premier League,2012,2012/2013
+Norwich,Lee Camp,28.0,Goalkeeper,free agents,free transfer,in,Winter,0,Premier League,2012,2012/2013
+Norwich,Kei Kamara,28.0,Centre-Forward,North America,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Stoke City,Jack Butland,19.0,Goalkeeper,Uk,3.80m,in,Winter,"3,8",Premier League,2012,2012/2013
+Stoke City,Brek Shea,22.0,Left Midfield,North America,3.00m,in,Winter,3,Premier League,2012,2012/2013
+Wigan,Paul Scharner,32.0,Centre-Back,Hamburger SV,Loan fee:100Th.,in,Winter,"0,1",Premier League,2012,2012/2013
+Wigan,Róger Espinoza,26.0,Central Midfield,free agents,free transfer,in,Winter,0,Premier League,2012,2012/2013
+Wigan,Joel Robles,22.0,Goalkeeper,Atlético Madrid,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+Wigan,Ángelo Henríquez,18.0,Centre-Forward,Man Utd,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+QPR,Christopher Samba,28.0,Centre-Back,Russia,15.00m,in,Winter,15,Premier League,2012,2012/2013
+QPR,Loïc Rémy,26.0,Centre-Forward,Marseille,10.50m,in,Winter,"10,5",Premier League,2012,2012/2013
+QPR,Jermaine Jenas,29.0,Central Midfield,free agents,free transfer,in,Winter,0,Premier League,2012,2012/2013
+QPR,Andros Townsend,21.0,Right Winger,Spurs,loan transfer,in,Winter,0.01,Premier League,2012,2012/2013
+QPR,Seok-yeong Yun,22.0,Left-Back,Asia,?,in,Winter,0.01,Premier League,2012,2012/2013
+Reading,Stephen Kelly,29.0,Right-Back,Fulham,1.50m,in,Winter,"1,5",Premier League,2012,2012/2013
+Reading,Nick Blackman,23.0,Centre-Forward,Uk,1.40m,in,Winter,"1,4",Premier League,2012,2012/2013
+Reading,Daniel Carriço,24.0,Centre-Back,Sporting CP,750Th.,in,Winter,"0,75",Premier League,2012,2012/2013
+Reading,Hope Akpan,21.0,Central Midfield,Uk,370Th.,in,Winter,"0,37",Premier League,2012,2012/2013
+Athletic,Aritz Aduriz,31.0,Centre-Forward,Valencia,2.50m,in,Summer,"2,5",Primera Division,2012,2012/2013
+Athletic,Isma López,22.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Athletic,Iago Herrerín,24.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Granada CF,Youssef El Arabi,25.0,Centre-Forward,Asia,5.00m,in,Summer,5,Primera Division,2012,2012/2013
+Granada CF,Allan,21.0,Defensive Midfield,South America,3.00m,in,Summer,3,Primera Division,2012,2012/2013
+Granada CF,Borja Gómez,24.0,Centre-Back,Est_EU,800Th.,in,Summer,"0,8",Primera Division,2012,2012/2013
+Granada CF,Silvan Widmer,19.0,Right-Back,Uk,750Th.,in,Summer,"0,75",Primera Division,2012,2012/2013
+Granada CF,Yacine Brahimi,22.0,Left Winger,Stade Rennais,Loan fee:300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+Granada CF,Juanma Ortiz,30.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Granada CF,Iriney,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Granada CF,Brayan Angulo,22.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Granada CF,Álex Bernal,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Granada CF,Ritchie Kitoko,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Granada CF,Gabriel Torje,22.0,Right Winger,Udinese Calcio,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Granada CF,Antonio Floro Flores,29.0,Centre-Forward,Udinese Calcio,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Granada CF,Allan Nyom,24.0,Right-Back,Udinese Calcio,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Getafe,Álvaro Vázquez,21.0,Centre-Forward,Espanyol,3.00m,in,Summer,3,Primera Division,2012,2012/2013
+Getafe,Miguel Ángel Moyá,28.0,Goalkeeper,Valencia,2.00m,in,Summer,2,Primera Division,2012,2012/2013
+Getafe,Xavi Torres,25.0,Defensive Midfield,Levante,500Th.,in,Summer,"0,5",Primera Division,2012,2012/2013
+Getafe,David Abraham,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Getafe,Ángel Lafita,27.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Getafe,Paco Alcácer,19.0,Centre-Forward,Valencia,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Levante,Xavi Torres,25.0,Defensive Midfield,Málaga CF,300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+Levante,Pape Diop,26.0,Defensive Midfield,Spain,200Th.,in,Summer,"0,2",Primera Division,2012,2012/2013
+Levante,Keylor Navas,25.0,Goalkeeper,Spain,150Th.,in,Summer,"0,15",Primera Division,2012,2012/2013
+Levante,Pedro Ríos,30.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Ángel Rodríguez,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Christian Lell,27.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Arouna Koné,28.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Dariusz Dudka,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Nikolaos Karabelas,27.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Theofanis Gekas,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Obafemi Martins,27.0,Centre-Forward,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Míchel Herrero,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Levante,Massimo Volta,25.0,Centre-Back,Sampdoria,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Málaga CF,Javier Saviola,30.0,Second Striker,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Málaga CF,Manuel Iturra,28.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Málaga CF,Roque Santa Cruz,31.0,Centre-Forward,Man City,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Málaga CF,Oguchi Onyewu,30.0,Centre-Back,Sporting CP,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Valencia,Sergio Canales,21.0,Attacking Midfield,Real Madrid,7.50m,in,Summer,"7,5",Primera Division,2012,2012/2013
+Valencia,Aly Cissokho,24.0,Centre-Back,Olympique Lyon,6.00m,in,Summer,6,Primera Division,2012,2012/2013
+Valencia,João Pereira,28.0,Right-Back,Sporting CP,3.70m,in,Summer,"3,7",Primera Division,2012,2012/2013
+Valencia,Fernando Gago,26.0,Defensive Midfield,Real Madrid,3.50m,in,Summer,"3,5",Primera Division,2012,2012/2013
+Valencia,Jonathan Viera,22.0,Attacking Midfield,Spain,2.50m,in,Summer,"2,5",Primera Division,2012,2012/2013
+Valencia,Andrés Guardado,25.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Valencia,Nelson Valdez,28.0,Centre-Forward,Russia,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Celta de Vigo,Augusto Fernández,26.0,Central Midfield,South America,1.50m,in,Summer,"1,5",Primera Division,2012,2012/2013
+Celta de Vigo,Michael Krohn-Dehli,29.0,Central Midfield,North_EU,1.00m,in,Summer,1,Primera Division,2012,2012/2013
+Celta de Vigo,Gustavo Cabral,26.0,Centre-Back,South America,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2012,2012/2013
+Celta de Vigo,Chu-young Park,27.0,Centre-Forward,Arsenal,Loan fee:500Th.,in,Summer,"0,5",Primera Division,2012,2012/2013
+Celta de Vigo,Samuel Llorca,27.0,Centre-Back,Spain,450Th.,in,Summer,"0,45",Primera Division,2012,2012/2013
+Celta de Vigo,Javi Varas,29.0,Goalkeeper,Sevilla FC,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Nélson Oliveira,20.0,Centre-Forward,Benfica,Loan fee:600Th.,in,Summer,"0,6",Primera Division,2012,2012/2013
+Dep. La Coruña,Carlos Marchena,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Dep. La Coruña,André Santos,23.0,Central Midfield,Sporting CP,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Tiago Pinto,24.0,Left-Back,Rio Ave FC,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Evaldo,30.0,Left-Back,Sporting CP,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Javier Camuñas,32.0,Right Winger,Spain,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Abel Aguilar,27.0,Defensive Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Roderick Miranda,21.0,Centre-Back,Benfica,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Pizzi,22.0,Attacking Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Espanyol,Cristhian Stuani,25.0,Centre-Forward,Italy,2.70m,in,Summer,"2,7",Primera Division,2012,2012/2013
+Espanyol,Joan Capdevila,34.0,Left-Back,Benfica,350Th.,in,Summer,"0,35",Primera Division,2012,2012/2013
+Espanyol,Mubarak Wakaso,21.0,Central Midfield,Spain,300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+Espanyol,Simão,32.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Espanyol,Diego Colotto,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Espanyol,Sergio Tejera,22.0,Central Midfield,RCD Mallorca,?,in,Summer,0.01,Primera Division,2012,2012/2013
+Espanyol,Samuele Longo,20.0,Centre-Forward,Inter,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Sociedad,Carlos Vela,23.0,Right Winger,Arsenal,14.00m,in,Summer,14,Primera Division,2012,2012/2013
+Real Sociedad,Chory Castro,27.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Sociedad,Yuri Berchiche,22.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Sociedad,Cote,22.0,Left-Back,AS Roma,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Atlético Madrid,Cata Díaz,32.0,Centre-Back,Getafe,1.00m,in,Summer,1,Primera Division,2012,2012/2013
+Atlético Madrid,Domingo Cisma,30.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Atlético Madrid,Cristian Rodríguez,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Atlético Madrid,Emre Belözoglu,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Madrid,Luka Modric,26.0,Central Midfield,Spurs,35.00m,in,Summer,35,Primera Division,2012,2012/2013
+Real Madrid,Michael Essien,29.0,Defensive Midfield,Chelsea,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Sevilla FC,Geoffrey Kondogbia,19.0,Defensive Midfield,France,4.00m,in,Summer,4,Primera Division,2012,2012/2013
+Sevilla FC,Diego López,30.0,Goalkeeper,Spain,3.50m,in,Summer,"3,5",Primera Division,2012,2012/2013
+Sevilla FC,Alberto Botía,23.0,Centre-Back,Spain,3.00m,in,Summer,3,Primera Division,2012,2012/2013
+Sevilla FC,Cicinho,25.0,Right-Back,South America,2.00m,in,Summer,2,Primera Division,2012,2012/2013
+Sevilla FC,Hedwiges Maduro,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Alejandro Domínguez,31.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Adrián González,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Rodri,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Alejandro Gálvez,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,José Carlos,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Manuel Arana,27.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Nicki Bille Nielsen,24.0,Centre-Forward,Spain,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Rayo Vallecano,Rubén Martínez,28.0,Goalkeeper,Málaga CF,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Rayo Vallecano,Franco Vázquez,23.0,Attacking Midfield,US Palermo,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Rayo Vallecano,Mohammed Abu,20.0,Defensive Midfield,Man City,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Rayo Vallecano,Jordi Amat,20.0,Centre-Back,Espanyol,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Valladolid,Antonio Rukavina,28.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Valladolid,Lluis Sastre,26.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Valladolid,Patrick Ebert,25.0,Right Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Valladolid,Omar Ramos,24.0,Attacking Midfield,Spain,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Valladolid,Juan Neira,23.0,Attacking Midfield,South America,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Valladolid,Henrique Sereno,27.0,Centre-Back,FC Porto,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+CA Osasuna,José Núñez,24.0,Second Striker,South America,Loan fee:300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+CA Osasuna,Anthony Annan,26.0,Defensive Midfield,FC Schalke 04,Loan fee:300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+CA Osasuna,Sisi González,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+CA Osasuna,Nano,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+CA Osasuna,Alejandro Arribas,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+CA Osasuna,Emiliano Armenteros,26.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+CA Osasuna,Joseba Llorente,32.0,Centre-Forward,Real Sociedad,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+RCD Mallorca,Pedro Geromel,26.0,Centre-Back,Germany,Loan fee:1.50m,in,Summer,"1,5",Primera Division,2012,2012/2013
+RCD Mallorca,Javi Márquez,26.0,Central Midfield,Espanyol,1.20m,in,Summer,"1,2",Primera Division,2012,2012/2013
+RCD Mallorca,Giovani dos Santos,23.0,Second Striker,Spurs,1.00m,in,Summer,1,Primera Division,2012,2012/2013
+RCD Mallorca,Antonio López,30.0,Left-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+RCD Mallorca,Rubén Miño,23.0,Goalkeeper,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+RCD Mallorca,Javier Arizmendi,28.0,Centre-Forward,Getafe,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+RCD Mallorca,Anderson Conceição,22.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+RCD Mallorca,Andreu Fontàs,22.0,Centre-Back,Barcelona,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Betis,Nosa Igiebor,21.0,Central Midfield,Est_EU,1.10m,in,Summer,"1,1",Primera Division,2012,2012/2013
+Real Betis,Damien Perquis,28.0,Centre-Back,FC Sochaux,750Th.,in,Summer,"0,75",Primera Division,2012,2012/2013
+Real Betis,Salvador Agra,20.0,Left Winger,Olhanense,300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+Real Betis,Ángel López,31.0,Right-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Betis,Paulão,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Betis,Joel Campbell,20.0,Right Winger,Arsenal,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Betis,Rubén Pérez,23.0,Defensive Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Betis,Juankar,22.0,Left-Back,SC Braga,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Real Zaragoza,Apoño,28.0,Central Midfield,Málaga CF,1.00m,in,Summer,1,Primera Division,2012,2012/2013
+Real Zaragoza,Javi Álamo,23.0,Right Winger,Spain,300Th.,in,Summer,"0,3",Primera Division,2012,2012/2013
+Real Zaragoza,Paco Montañés,25.0,Left Winger,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Álvaro González,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Franco Zuculini,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Glenn Loovens,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Romaric,29.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Lucas Porcar,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Stefan Babovic,25.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Cristian Sapunaru,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,José María Movilla,37.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Primera Division,2012,2012/2013
+Real Zaragoza,Lucas Wílchez,28.0,midfield,South America,loan transfer,in,Summer,0.01,Primera Division,2012,2012/2013
+Barcelona,Alex Song,24.0,Defensive Midfield,Arsenal,19.00m,in,Summer,19,Primera Division,2012,2012/2013
+Barcelona,Jordi Alba,23.0,Left-Back,Valencia,14.00m,in,Summer,14,Primera Division,2012,2012/2013
+Granada CF,Diego Buonanotte,24.0,Attacking Midfield,Málaga CF,2.30m,in,Winter,"2,3",Primera Division,2012,2012/2013
+Granada CF,Nolito,26.0,Left Winger,Benfica,Loan fee:600Th.,in,Winter,"0,6",Primera Division,2012,2012/2013
+Granada CF,Carlos Aranda,32.0,Centre-Forward,Real Zaragoza,300Th.,in,Winter,"0,3",Primera Division,2012,2012/2013
+Granada CF,Jona,24.0,Centre-Forward,CD Ourense,20Th.,in,Winter,"0,02",Primera Division,2012,2012/2013
+Granada CF,Naldo,24.0,Centre-Back,União São João,?,in,Winter,0.01,Primera Division,2012,2012/2013
+Granada CF,Recio,21.0,Central Midfield,Málaga CF,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Getafe,Sergio Escudero,23.0,Left-Back,FC Schalke 04,Loan fee:200Th.,in,Winter,"0,2",Primera Division,2012,2012/2013
+Getafe,Federico Fernández,23.0,Centre-Back,SSC Napoli,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Levante,Loukas Vyntra,31.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Levante,Simão,24.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Levante,Valdo,31.0,Right Winger,North America,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Levante,Robert Acquafresca,25.0,Centre-Forward,Bologna,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Málaga CF,Pedro Morales,27.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Málaga CF,Diego Lugano,32.0,Centre-Back,Paris SG,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Málaga CF,Lucas Piazon,18.0,Attacking Midfield,Chelsea,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Málaga CF,Vitorino Antunes,25.0,Left-Back,Paços Ferreira,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Celta de Vigo,Fabián Orellana,27.0,Right Winger,Granada CF,1.20m,in,Winter,"1,2",Primera Division,2012,2012/2013
+Celta de Vigo,Danijel Pranjic,31.0,Left-Back,Sporting CP,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Celta de Vigo,Vadim Demidov,26.0,Centre-Back,E. Frankfurt,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Dep. La Coruña,Kaká,31.0,Centre-Back,Central_EU,Loan fee:150Th.,in,Winter,"0,15",Primera Division,2012,2012/2013
+Dep. La Coruña,Paulo Assunção,32.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Dep. La Coruña,Sílvio,25.0,Right-Back,Atlético Madrid,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Espanyol,Martin Petrov,33.0,Left Winger,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Atlético Madrid,Emiliano Insúa,24.0,Centre-Back,Sporting CP,3.50m,in,Winter,"3,5",Primera Division,2012,2012/2013
+Real Madrid,Diego López,31.0,Goalkeeper,Sevilla FC,3.50m,in,Winter,"3,5",Primera Division,2012,2012/2013
+Sevilla FC,Miroslav Stevanovic,22.0,Right Midfield,Central_EU,1.50m,in,Winter,"1,5",Primera Division,2012,2012/2013
+Sevilla FC,Beto,30.0,Goalkeeper,SC Braga,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Rayo Vallecano,Raúl Tamudo,35.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Gabriel Machado,23.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Anaitz Arbilla,25.0,Centre-Back,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Rayo Vallecano,Jordi Figueras,25.0,Centre-Back,Belgium,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Real Valladolid,Daniel Larsson,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+Real Valladolid,Valdet Rama,25.0,Left Winger,free agents,free transfer,in,Winter,0,Primera Division,2012,2012/2013
+CA Osasuna,Miguel de las Cuevas,26.0,Right Winger,Spain,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+CA Osasuna,Francisco Silva,26.0,Defensive Midfield,South America,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+RCD Mallorca,Fernando Tissone,26.0,Defensive Midfield,Sampdoria,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+RCD Mallorca,Antonio Luna,21.0,Left-Back,Sevilla FC,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+RCD Mallorca,Alan Hutton,28.0,Right-Back,Aston Villa,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Real Betis,Guillermo Molins,24.0,Centre-Forward,Belgium,Loan fee:500Th.,in,Winter,"0,5",Primera Division,2012,2012/2013
+Real Betis,Dorlan Pabón,25.0,Right Winger,Parma,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Real Zaragoza,José Manuel Fernández,23.0,Right-Back,Spain,500Th.,in,Winter,"0,5",Primera Division,2012,2012/2013
+Real Zaragoza,Henri Bienvenu,24.0,Centre-Forward,Turkey,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Real Zaragoza,Rodri Ríos,22.0,Centre-Forward,Spain,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Real Zaragoza,Adrià Carmona,20.0,Left Winger,AC Milan,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+Real Zaragoza,Rubén Rochina,21.0,Right Winger,Uk,loan transfer,in,Winter,0.01,Primera Division,2012,2012/2013
+FC Porto,Jackson Martínez,25.0,Centre-Forward,North America,8.89m,in,Summer,"8,89",Liga Nos,2012,2012/2013
+FC Porto,Héctor Quiñónes,20.0,Left-Back,South America,1.98m,in,Summer,"1,98",Liga Nos,2012,2012/2013
+FC Porto,Fabiano,24.0,Goalkeeper,Olhanense,1.20m,in,Summer,"1,2",Liga Nos,2012,2012/2013
+Benfica,Ola John,20.0,Left Winger,Twente FC,12.00m,in,Summer,12,Liga Nos,2012,2012/2013
+Benfica,Eduardo Salvio,22.0,Right Winger,Atlético Madrid,11.00m,in,Summer,11,Liga Nos,2012,2012/2013
+Benfica,Lima,29.0,Centre-Forward,SC Braga,4.00m,in,Summer,4,Liga Nos,2012,2012/2013
+Benfica,Luisinho,27.0,Left-Back,Paços Ferreira,2.00m,in,Summer,2,Liga Nos,2012,2012/2013
+Benfica,Paulo Lopes,34.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Benfica,Hugo Vieira,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Beto,30.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Éder,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Maximilian Haas,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Michel,26.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+SC Braga,Ismaily,22.0,Left-Back,Olhanense,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+SC Braga,Carlao,25.0,Centre-Forward,Asia,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+SC Braga,Chindeu Vine,18.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+SC Braga,Manoel,23.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+SC Braga,Rúben Micael,25.0,Central Midfield,Atlético Madrid,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Sporting CP,Marcos Rojo,22.0,Centre-Back,Russia,4.00m,in,Summer,4,Liga Nos,2012,2012/2013
+Sporting CP,Valentín Viola,20.0,Left Winger,South America,4.00m,in,Summer,4,Liga Nos,2012,2012/2013
+Sporting CP,Zakaria Labyad,19.0,Attacking Midfield,PSV Eindhoven,900Th.,in,Summer,"0,9",Liga Nos,2012,2012/2013
+Sporting CP,Gelson Fernandes,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Danijel Pranjic,30.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Khalid Boulahrouz,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Fabrice Fokobo,18.0,Defensive Midfield,Njalla Quan SA,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Marítimo,Rúben Brígido,21.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Marítimo,Semedo,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Marítimo,Márcio Rosário,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Marítimo,Wellington,22.0,Goalkeeper,South America,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Marítimo,Gegé,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Marítimo,David Simão,22.0,Central Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vit. Guimarães,Moreno,31.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vit. Guimarães,David Addy,22.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vit. Guimarães,André André,22.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vit. Guimarães,Matej Delac,19.0,Goalkeeper,Chelsea,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vit. Guimarães,Amido Baldé,21.0,Centre-Forward,Sporting CP,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vit. Guimarães,João Gonçalves,24.0,Right-Back,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vit. Guimarães,Milan Lalkovic,19.0,Left Winger,Uk,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Gottardi,26.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Nacional,Revson,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Nacional,Mexer,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Nacional,Emiliano García,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Nacional,Ladji Keita,29.0,Centre-Forward,SC Braga,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Miguel Rodrigues,19.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Bruno Moreira,24.0,Centre-Forward,Moreirense,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Isael,24.0,Right Winger,South America,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Kim,24.0,Left-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Eliandro,22.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Nacional,Manuel da Costa,26.0,Centre-Back,Russia,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Ricardo,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Olhanense,David Silva,25.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Olhanense,Liban Abdi,23.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Olhanense,Naftal,17.0,midfield,CD Costa do Sol,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Tiago Targino,26.0,Right Winger,Vit. Guimarães,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Babanco,26.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Nuno Silva,25.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Fernando Alexandre,26.0,Defensive Midfield,SC Braga,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Evandro Brandão,21.0,Second Striker,Central_EU,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Nuno Reis,21.0,Centre-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Rui Sampaio,25.0,Central Midfield,Cagliari Calcio,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,José Luis Fernández,24.0,Central Midfield,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Rafael Bracali,31.0,Goalkeeper,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Djaniny,21.0,Centre-Forward,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Olhanense,Alex Zahavi,21.0,Right Winger,Est_EU,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Luan Scapolan,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente,Leonardo,24.0,attack,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente,Bruno Pinheiro,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente,Ramazotti,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente,Thomas Agyiri,18.0,Central Midfield,Uk,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,William Kwabena Tiero,31.0,Attacking Midfield,Asia,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Pedro Pereira,28.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Brito,24.0,Left Winger,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Califo,23.0,Left-Back,Mirandela,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Lúcio,22.0,Goalkeeper,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Pio,24.0,Central Midfield,Monte Azul-SP,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Luciano Amaral,29.0,Left-Back,Villa Rio,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Djalma,24.0,midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Elízio,24.0,Left-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Rafael Silva,21.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Paços Ferreira,Jaime Poulson,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Paços Ferreira,Abdullah Al-Hafith,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Paços Ferreira,Vitorino Antunes,25.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Paços Ferreira,Uillian Correia,22.0,Defensive Midfield,Santa Cruz-RS,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Paços Ferreira,Paulo Loureiro,19.0,Left-Back,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Paços Ferreira,Tiago Valente,27.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Paços Ferreira,Vinicio Angulo,24.0,Centre-Forward,Norte América,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vitória Setúbal,Nélson Pedroso,27.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Cristiano,28.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Paulo Tavares,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Jorge Luiz,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Danilo,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Jorginho,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Caleb Patterson-Sewell,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Miguel Pedro,28.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Pawel Kieszek,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Pedro Santos,24.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal,Bruno Turco,20.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vitória Setúbal,Bruninho,23.0,Second Striker,Padroense,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vitória Setúbal,Fonseca,27.0,Goalkeeper,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Vitória Setúbal,Pedro Queirós,27.0,Right-Back,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Rafik Halliche,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,John Ogu,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,Carlos Saleiro,26.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,Makelele,27.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,Júnior Lopes,24.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,Alphousseyni Keita,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,Marcos Paulo,23.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Coimbra,Rodrigo Galo,25.0,Right-Back,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Wilson Eduardo,22.0,Left Winger,Sporting CP,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Salim Cissé,19.0,Centre-Forward,Italy,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Bruno China,29.0,Central Midfield,Rio Ave FC,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Reiner Ferreira,26.0,Centre-Back,South America,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Saná Camará,20.0,Central Midfield,Real Valladolid,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Serge N'Gal,26.0,Right Winger,Africa Sports,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Nuno Henrique,25.0,Centre-Back,SC Braga,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Cleyton,22.0,Attacking Midfield,Santa Rita,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Coimbra,Afonso,20.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Beira-Mar,Hélder Lopes,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Beira-Mar,Cédric Collet,28.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Beira-Mar,Vincent Sasso,21.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Beira-Mar,David Fleurival,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Beira-Mar,Bruno Jorge,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Beira-Mar,Leandro Ratinho,21.0,defence,Cotia-SP,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Beira-Mar,Rúben Ribeiro,24.0,Central Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Beira-Mar,Rafael Batatinha,22.0,Right Winger,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,João Paulo,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Elizeu,23.0,defence,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Jefferson,23.0,Left-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Hugo Leal,32.0,Central Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Mano,25.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Bruno Miguel,29.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Carlitos,29.0,Left Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Luís Leal,25.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,João Falque,18.0,Centre-Forward,Botafogo U17,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Diogo Amado,22.0,Defensive Midfield,Uk,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,João Pedro,24.0,Centre-Back,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Pedro Henrique,21.0,Centre-Forward,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Carlos Eduardo,22.0,Attacking Midfield,Desp. Brasil,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Evandro,25.0,Attacking Midfield,Desp. Brasil,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Renan,21.0,Goalkeeper,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Dieguinho,20.0,Right Winger,Desp. Brasil,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Filipe Augusto,18.0,Defensive Midfield,South America,2.20m,in,Summer,"2,2",Liga Nos,2012,2012/2013
+Rio Ave FC,Fabinho,18.0,Defensive Midfield,South America,500Th.,in,Summer,"0,5",Liga Nos,2012,2012/2013
+Rio Ave FC,Esmaël Gonçalves,21.0,Centre-Forward,OGC Nice,400Th.,in,Summer,"0,4",Liga Nos,2012,2012/2013
+Rio Ave FC,Tope Obadeyi,22.0,Left Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,William Soares,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Nivaldo,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Alberto Rodríguez,28.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ederson,18.0,Goalkeeper,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Zé Diogo,18.0,Right-Back,Varzim U19,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,André Costa,19.0,Right Midfield,Portugal,?,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Diego Lopes,18.0,Central Midfield,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Lionn,23.0,Right-Back,Est_EU,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Edimar,26.0,Left-Back,Est_EU,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Yonathan Del Valle,22.0,Left Winger,France,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Ukra,24.0,Right Midfield,FC Porto,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Jan Oblak,19.0,Goalkeeper,Benfica,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Paulinho,20.0,Right-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense ,Rafa Lopes,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense ,André Luiz,26.0,Right Winger,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense ,Diego Gaúcho,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense ,Rui Santos,23.0,Goalkeeper,AD Oeiras,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Nilson Júnior,20.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Renato Augusto,20.0,Defensive Midfield,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Ricardo Pessoa,30.0,Right-Back,Portugal,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Jô,23.0,Second Striker,Juventus-AC,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Pablo Olivera,24.0,Centre-Forward,South America,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Vinicius,26.0,Central Midfield,SC Braga,loan transfer,in,Summer,0.01,Liga Nos,2012,2012/2013
+FC Porto,Marat Izmailov,30.0,Central Midfield,Sporting CP,1.00m,in,Winter,1,Liga Nos,2012,2012/2013
+FC Porto,Liedson,35.0,Centre-Forward,South America,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+SC Braga,Vincent Sasso,21.0,Centre-Back,Beira-Mar,750Th.,in,Winter,"0,75",Liga Nos,2012,2012/2013
+SC Braga,João Pedro,26.0,Right-Back,Portugal,100Th.,in,Winter,"0,1",Liga Nos,2012,2012/2013
+SC Braga,Emídio Rafael,26.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Rabiola,23.0,Centre-Forward,Portugal,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Sporting CP,Miguel Lopes,26.0,Right-Back,FC Porto,1.75m,in,Winter,"1,75",Liga Nos,2012,2012/2013
+Sporting CP,Joãozinho,23.0,Left-Back,Beira-Mar,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Sporting CP,Hugo Ventura,25.0,Goalkeeper,FC Porto,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Marítimo,Hyun-jun Suk,21.0,Centre-Forward,FC Groningen,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Marítimo,Artur,28.0,Attacking Midfield,Est_EU,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Vit. Guimarães,Jona,24.0,Centre-Forward,Granada CF,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Nacional,Ali Ghazal,20.0,Centre-Back,Wadi Degla,40Th.,in,Winter,"0,04",Liga Nos,2012,2012/2013
+Olhanense,Tiago Terroso,25.0,Defensive Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Olhanense,Lucas Souza,22.0,Central Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Olhanense,Thalles,21.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Olhanense,Pepe,24.0,attack,Canoas Sport Club (RS),?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Vítor Vinha,26.0,Left-Back,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente,Hugo Vieira,24.0,Centre-Forward,Benfica,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,João Vilela,27.0,Central Midfield,Asia,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Luís Martins,20.0,Left-Back,Portugal,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Gabriel Rodríguez,24.0,Centre-Forward,South America,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Paulo Jorge,31.0,Right Winger,Asia,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Gil Vicente,Valdinho,23.0,Left Winger,Portugal,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Paços Ferreira,Duarte Duarte,25.0,Attacking Midfield,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Paços Ferreira,Luís Sousa,23.0,Left-Back,Portugal,?,in,Winter,0.01,Liga Nos,2012,2012/2013
+Vitória Setúbal,Ariza Makukula,31.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Beira-Mar,Tonel,32.0,Centre-Back,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Beira-Mar,Tozé Marreco,25.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Beira-Mar,Yazalde,24.0,Centre-Forward,SC Braga,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Beira-Mar,Rui Sampaio,25.0,Central Midfield,Cagliari Calcio,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Beira-Mar,Dani Abalo,25.0,Right Winger,Celta de Vigo,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Estoril Praia,Frédéric Mendy,24.0,Centre-Forward,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Estoril Praia,Yohan Tavares,24.0,Centre-Back,Belgium,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Rio Ave FC,Bebé,22.0,Left Winger,Man Utd,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Tijani Belaid,25.0,Attacking Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense ,Christian Kinkela,30.0,Right Midfield,free agents,free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense ,Jorge Chula,22.0,Right Winger,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Florent Hanin,22.0,Left-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Moreirense ,Aníbal Capela,21.0,Centre-Back,Portugal,loan transfer,in,Winter,0.01,Liga Nos,2012,2012/2013
+Ajax,Niklas Moisander,26.0,Centre-Back,AZ Alkmaar,4.00m,in,Summer,4,Eredivisie,2012,2012/2013
+Ajax,Lucas Andersen,17.0,Left Winger,North_EU,1.40m,in,Summer,"1,4",Eredivisie,2012,2012/2013
+Ajax,Tobias Sana,23.0,Left Winger,North_EU,320Th.,in,Summer,"0,32",Eredivisie,2012,2012/2013
+Ajax,Ryan Babel,25.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Ajax,Christian Poulsen,32.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Ajax,Lasse Schöne,26.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Feyenoord,Lex Immers,26.0,Attacking Midfield,ADO Den Haag,800Th.,in,Summer,"0,8",Eredivisie,2012,2012/2013
+Feyenoord,Harmeet Singh,21.0,Central Midfield,North_EU,600Th.,in,Summer,"0,6",Eredivisie,2012,2012/2013
+Feyenoord,Mitchell Te Vrede,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Feyenoord,Joris Mathijsen,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Feyenoord,Daryl Janmaat,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Feyenoord,John Goossens,23.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Feyenoord,Ruud Vormer,24.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Feyenoord,Omar Elabdellaoui,20.0,Right-Back,Uk,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Feyenoord,Wesley Verhoek,25.0,Right Winger,Twente FC,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Feyenoord,Graziano Pellè,27.0,Centre-Forward,Parma,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+PSV Eindhoven,Luciano Narsingh,21.0,Right Winger,Heerenveen,4.10m,in,Summer,"4,1",Eredivisie,2012,2012/2013
+PSV Eindhoven,Przemyslaw Tyton,25.0,Goalkeeper,Roda JC,2.50m,in,Summer,"2,5",Eredivisie,2012,2012/2013
+PSV Eindhoven,Mark van Bommel,35.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Ruud Swinkels,25.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Boy Waterman,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Zanka,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Markus Henriksen,20.0,Central Midfield,North_EU,2.00m,in,Summer,2,Eredivisie,2012,2012/2013
+AZ Alkmaar,Steven Berghuis,20.0,Attacking Midfield,Twente FC,500Th.,in,Summer,"0,5",Eredivisie,2012,2012/2013
+AZ Alkmaar,Donny Gorter,24.0,Left-Back,NAC Breda,350Th.,in,Summer,"0,35",Eredivisie,2012,2012/2013
+AZ Alkmaar,Yves De Winter,25.0,Goalkeeper,Netherlands,200Th.,in,Summer,"0,2",Eredivisie,2012,2012/2013
+AZ Alkmaar,Viktor Elm,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Mikhail Rosheuvel,21.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heerenveen,Jukka Raitala,23.0,Left-Back,TSG Hoffenheim,800Th.,in,Summer,"0,8",Eredivisie,2012,2012/2013
+Heerenveen,Marco Pappa,24.0,Left Winger,North America,700Th.,in,Summer,"0,7",Eredivisie,2012,2012/2013
+Heerenveen,Alfred Finnbogason,23.0,Centre-Forward,Belgium,500Th.,in,Summer,"0,5",Eredivisie,2012,2012/2013
+Heerenveen,Mark Uth,20.0,Second Striker,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heerenveen,Christian Kum,26.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heerenveen,Marten de Roon,21.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heerenveen,Daniël de Ridder,28.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heerenveen,Gianni Zuiverloon,25.0,Centre-Back,RCD Mallorca,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Heerenveen,Joey van den Berg,26.0,Defensive Midfield,PEC Zwolle,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Heerenveen,Matthew Amoah,31.0,attack,Turkey,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Heerenveen,Lukas Marecek,22.0,Defensive Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Twente FC,Luc Castaignos,19.0,Centre-Forward,Inter,6.00m,in,Summer,6,Eredivisie,2012,2012/2013
+Twente FC,Dusan Tadic,23.0,Left Winger,FC Groningen,5.50m,in,Summer,"5,5",Eredivisie,2012,2012/2013
+Twente FC,Andreas Bjelland,23.0,Centre-Back,North_EU,2.80m,in,Summer,"2,8",Eredivisie,2012,2012/2013
+Twente FC,Felipe Gutiérrez,21.0,Central Midfield,South America,2.80m,in,Summer,"2,8",Eredivisie,2012,2012/2013
+Twente FC,Robbert Schilder,26.0,Centre-Back,NAC Breda,900Th.,in,Summer,"0,9",Eredivisie,2012,2012/2013
+Twente FC,Dmitri Bulykin,32.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Twente FC,Tim Breukers,24.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Twente FC,Edson Braafheid,29.0,Left-Back,TSG Hoffenheim,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Twente FC,Jerson Cabral,21.0,Left Winger,Feyenoord,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Twente FC,Dedryck Boyata,21.0,Centre-Back,Man City,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Vitesse,Nikola Aksentijevic,19.0,Right-Back,Central_EU,2.00m,in,Summer,2,Eredivisie,2012,2012/2013
+Vitesse,Theo Janssen,31.0,Central Midfield,Ajax,550Th.,in,Summer,"0,55",Eredivisie,2012,2012/2013
+Vitesse,Dan Mori,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Vitesse,Simon Cziommer,31.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Vitesse,Gaël Kakuta,21.0,Attacking Midfield,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Sören Rieks,25.0,Left Winger,North_EU,300Th.,in,Summer,"0,3",Eredivisie,2012,2012/2013
+NEC Nijmegen,Michel Breuer,32.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Evander Sno,25.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Khalid Sinouh,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Stijn de Looijer,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Geert Arend Roorda,24.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Marcel Stutter,24.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Admir Bajrovic,16.0,Centre-Forward,Trollhättan,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Danny van den Meiracker,23.0,Centre-Forward,Netherlands,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Kelle Roos,20.0,Goalkeeper,Willem II U21,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Victor Pálsson,21.0,Defensive Midfield,North America,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+RKC Waalwijk,Teddy Chevalier,25.0,Centre-Forward,Belgium,100Th.,in,Summer,"0,1",Eredivisie,2012,2012/2013
+RKC Waalwijk,Mart Lieder,22.0,Centre-Forward,Vitesse,50Th.,in,Summer,"0,05",Eredivisie,2012,2012/2013
+RKC Waalwijk,Imad Najah,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Theo Lucius,35.0,Defensive Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Nourdin Boukhari,32.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Richard Barroilhet,19.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Peter Jungschläger,28.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Florian Jozefzoon,21.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Rodney Sneijder,21.0,Central Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+RKC Waalwijk,Denzel Slager,19.0,Right Winger,FC Utrecht U19,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Roda JC,Krisztián Németh,23.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Roda JC,Tamás Kádár,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Roda JC,Filip Kurto,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Roda JC,Mikolaj Lebedynski,21.0,Centre-Forward,Central_EU,10Th.,in,Summer,"0,01",Eredivisie,2012,2012/2013
+Roda JC,Amin Affane,18.0,Attacking Midfield,Chelsea,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Roda JC,Abel Tamata,21.0,Left-Back,PSV Eindhoven,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Roda JC,Danilo Pereira,20.0,Defensive Midfield,Parma,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+FC Utrecht,Robbin Ruiter,25.0,Goalkeeper,Netherlands,500Th.,in,Summer,"0,5",Eredivisie,2012,2012/2013
+FC Utrecht,Mark Diemers,18.0,Central Midfield,Gron./Cam.,100Th.,in,Summer,"0,1",Eredivisie,2012,2012/2013
+Heracles Almelo,Jeroen Veldmate,23.0,Centre-Back,Netherlands,220Th.,in,Summer,"0,22",Eredivisie,2012,2012/2013
+Heracles Almelo,Bart Schenkeveld,20.0,Centre-Back,Feyenoord,100Th.,in,Summer,"0,1",Eredivisie,2012,2012/2013
+Heracles Almelo,Renze Fij,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Brian van Loo,37.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Dragan Paljic,29.0,Left Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Christian Dorda,23.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Milano Koenders,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Geoffrey Castillion,21.0,Centre-Forward,Netherlands,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+NAC Breda,Nadir Ciftci,20.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NAC Breda,Mark Looms,31.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NAC Breda,Wilko de Vogt,36.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NAC Breda,Anouar Hadouir,29.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+NAC Breda,Danny Verbeek,22.0,Attacking Midfield,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+NAC Breda,Sepp De Roover,27.0,Right-Back,Belgium,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+NAC Breda,Thilo Leugers,21.0,Defensive Midfield,Twente FC,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+FC Groningen,Filip Kostic,19.0,Left Midfield,Central_EU,1.25m,in,Summer,"1,25",Eredivisie,2012,2012/2013
+FC Groningen,Género Zeefuik,22.0,Centre-Forward,PSV Eindhoven,550Th.,in,Summer,"0,55",Eredivisie,2012,2012/2013
+FC Groningen,Stefano Magnasco,19.0,Right-Back,South America,480Th.,in,Summer,"0,48",Eredivisie,2012,2012/2013
+FC Groningen,Andraz Kirm,27.0,Central Midfield,Central_EU,300Th.,in,Summer,"0,3",Eredivisie,2012,2012/2013
+FC Groningen,Michael de Leeuw,25.0,Centre-Forward,Netherlands,125Th.,in,Summer,"0,125",Eredivisie,2012,2012/2013
+FC Groningen,Marco Bizot,21.0,Goalkeeper,Netherlands,125Th.,in,Summer,"0,125",Eredivisie,2012,2012/2013
+FC Groningen,Timo Letschert,19.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+FC Groningen,Joey Potveer,19.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+FC Groningen,Mitchell Schet,24.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+FC Groningen,Paco van Moorsel,22.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+FC Groningen,Luis Pedro,20.0,Centre-Back,Gron./Cam.,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+ADO Den Haag,Rydell Poepon,24.0,Centre-Forward,Netherlands,300Th.,in,Summer,"0,3",Eredivisie,2012,2012/2013
+ADO Den Haag,Danny Holla,24.0,Central Midfield,FC Groningen,168Th.,in,Summer,"0,168",Eredivisie,2012,2012/2013
+ADO Den Haag,Garry Rodrigues,21.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Kevin Jansen,20.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Dion Malone,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Aaron Meijers,24.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Vito Wormgoor,23.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Yuki Otsu,22.0,Attacking Midfield,Bor. M'gladbach,400Th.,in,Summer,"0,4",Eredivisie,2012,2012/2013
+VVV-Venlo,Jules Reimerink,22.0,Left Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Ricky van Haaren,21.0,Central Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Oguzhan Türk,26.0,Attacking Midfield,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Niki Mäenpää,27.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Marcel Seip,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Niclas Heimann,21.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Ahmed Ammi,31.0,Right-Back,ADO Den Haag,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Aleksandar Radosavljevic,33.0,Defensive Midfield,ADO Den Haag,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Roland Bergkamp,21.0,Centre-Forward,Uk,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Travis Cooper,18.0,Right Winger,C. Coast U21,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Jeffrey Altheer,25.0,Defensive Midfield,Netherlands,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Guus Joppen,22.0,Centre-Back,Netherlands,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Matheus,18.0,Centre-Back,South America,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Nils Röseler,20.0,Centre-Back,Twente FC,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+PEC Zwolle,Youness Mokhtar,20.0,Left Winger,Netherlands,75Th.,in,Summer,"0,075",Eredivisie,2012,2012/2013
+PEC Zwolle,Mike Koenders,20.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Danny Wintjens,28.0,Goalkeeper,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Norichio Nieveld,23.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Joost Broerse,33.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Sherwin Grot,21.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Mimoun Eloisghiri,22.0,Centre-Forward,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Ronnie Reniers,24.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Denni Avdic,23.0,Centre-Forward,Werder Bremen,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+PEC Zwolle,Giovanni Gravenbeek,24.0,Central Midfield,Willem II,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+PEC Zwolle,Wiljan Pluim,23.0,Attacking Midfield,Roda JC,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Willem II,Sanny Monteiro,22.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Kees van Buuren,25.0,Right-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Jordens Peters,25.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Philipp Haastrup,30.0,Centre-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Gaby Jallo,23.0,Left-Back,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Genaro Snijders,22.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Marc Höcher,27.0,Right Winger,free agents,free transfer,in,Summer,0,Eredivisie,2012,2012/2013
+Willem II,Kevin Brands,24.0,Attacking Midfield,Netherlands,25Th.,in,Summer,"0,025",Eredivisie,2012,2012/2013
+Willem II,Larbi El Harouchi,18.0,Attacking Midfield,Feyenoord,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Willem II,Alexander Maes,20.0,Central Midfield,Standard,?,in,Summer,0.01,Eredivisie,2012,2012/2013
+Willem II,Aurélien Joachim,26.0,Centre-Forward,Central_EU,loan transfer,in,Summer,0.01,Eredivisie,2012,2012/2013
+Ajax,Isaac Cuenca,21.0,Left Winger,Barcelona,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+PSV Eindhoven,Oscar Hiljemark,20.0,Central Midfield,North_EU,2.20m,in,Winter,"2,2",Eredivisie,2012,2012/2013
+AZ Alkmaar,Aron Jóhannsson,22.0,Centre-Forward,North_EU,1.60m,in,Winter,"1,6",Eredivisie,2012,2012/2013
+AZ Alkmaar,Willie Overtoom,26.0,Attacking Midfield,Heracles Almelo,300Th.,in,Winter,"0,3",Eredivisie,2012,2012/2013
+AZ Alkmaar,Jonas Heymans,19.0,Left-Back,Belgium,?,in,Winter,0.01,Eredivisie,2012,2012/2013
+Heerenveen,Yassine El Ghanassy,22.0,Left Winger,Belgium,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Karl-Johan Johnsson,22.0,Goalkeeper,free agents,free transfer,in,Winter,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Daan Bovenberg,24.0,Right-Back,FC Utrecht,?,in,Winter,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Erik Falkenburg,24.0,Attacking Midfield,AZ Alkmaar,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+NEC Nijmegen,Ruud Boymans,23.0,Centre-Forward,AZ Alkmaar,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+RKC Waalwijk,Dennis Lemke,23.0,Right-Back,Germany,?,in,Winter,0.01,Eredivisie,2012,2012/2013
+Roda JC,Roly Bonevacia,21.0,Central Midfield,Netherlands,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+Roda JC,Frank Demouge,30.0,Centre-Forward,Uk,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+FC Utrecht,Jens Toornstra,23.0,Attacking Midfield,ADO Den Haag,950Th.,in,Winter,"0,95",Eredivisie,2012,2012/2013
+Heracles Almelo,Mathias Schamp,24.0,Left Winger,Belgium,?,in,Winter,0.01,Eredivisie,2012,2012/2013
+Heracles Almelo,Jaroslav Navratil,21.0,Right Winger,Central_EU,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+NAC Breda,Rick ten Voorde,21.0,Centre-Forward,NEC Nijmegen,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+ADO Den Haag,Dico Koppers,21.0,Left-Back,Ajax,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+VVV-Venlo,Kaj Ramsteijn,23.0,Centre-Back,Feyenoord,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+PEC Zwolle,Mateusz Klich,22.0,Central Midfield,VfL Wolfsburg,Loan fee:100Th.,in,Winter,"0,1",Eredivisie,2012,2012/2013
+PEC Zwolle,Maikel van der Werff,23.0,Centre-Back,Netherlands,?,in,Winter,0.01,Eredivisie,2012,2012/2013
+PEC Zwolle,Rúnar Már Sigurjónsson,22.0,Central Midfield,North_EU,?,in,Winter,0.01,Eredivisie,2012,2012/2013
+PEC Zwolle,Arsenio Valpoort,20.0,Left Winger,Heerenveen,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+Willem II,Tim Cornelisse,34.0,Right-Back,Twente FC,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
+Willem II,Nicky Hofs,29.0,Attacking Midfield,Vitesse,loan transfer,in,Winter,0.01,Eredivisie,2012,2012/2013
