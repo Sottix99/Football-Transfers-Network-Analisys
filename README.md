@@ -6,4 +6,4 @@ This Repository refers to the Final Project of the course Data Driven Models for
 
 # Dataset and Benchmark
 
-![My Imaged](Immagine 2023-04-15 171050.png)
+![Cover](Immagine 2023-04-15 171050.png)
