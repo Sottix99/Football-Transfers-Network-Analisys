@@ -37,9 +37,25 @@ the 2021/2022 season. The raw data were extremely dirty so a massive and detaile
 
 ![My Imaged](Imgs/Data%20and%20Cleaning%20procedure.png)
 
+# Graph Builindg
+
+Every team is a Node. If team A buys a player from team B, they are connected with a link, weighted with the fee and directed to B. For every season: 
+* Nodes: 134
+* Links: a) ~900 if one considers all transactions b)  ~600 if one considers only transactions from team of Top 7 European Leagues
+
+
 # Results
 
 ## Degree
+
+![My Imaged](Imgs/Max_mean_degree.png)
+
+The degree of a team, represents how many different teams it has had negotiations with (both in and out). The Average degree of the teams has more
+or less doubled over the seasons (from 4 to 7.5). The maximum degree of clubs has increased over time, although the effects are less noticeable than the average degree. After all, a team cannot make too many different deals per season, as 11 players always take the field.
+
+![My Imaged](Imgs/Old_hist.png)
+
+![My Imaged](Imgs/New_hist.png)
 
 ## Measures on the overall network
 
