@@ -77,6 +77,11 @@ with 9 other clubs.
 than 10 teams.
 * Still a lot of transactions are loans
 
+
+![My Imaged](Imgs/max_edge_fee_overtime.jpg)
+Until 2000, no purchase had ever exceeded 50 million. After the purchase of G. Bale, the Market exploded: at least 75 million was spent each year on a deal. Neymar to PSG for 225 million is the most expensive transfer in football history.
+
+
 ## Measures on the overall network
 
 ## Measures averaged by each league sub-network
