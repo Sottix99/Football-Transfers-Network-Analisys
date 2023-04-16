@@ -12,3 +12,13 @@ The data comes from Kaggle, scraped from Transfer Markt. The datasets regards al
 the 2021/2022 season. The raw data were extremely dirty so a massive and detailed cleaning operation was necessary.
 
 # Cleaning procedures
+
+1. Scrape data from Transfer Markt to build two types of dictionaries:
+ - one that maps every team name for every season its long name to the short one. (ex: "Juventus FC" : "Juventus").
+ - one that maps each club not in the 7 top leagues in its continent/country. (ex: "Santos" : "South America").
+ 
+2. Delete all the "out" and "End of loan" operations to avoid duplicate transactions.
+
+3- Check and correct some typos in original data.
+
+
