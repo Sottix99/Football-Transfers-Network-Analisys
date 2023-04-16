@@ -55,7 +55,27 @@ or less doubled over the seasons (from 4 to 7.5). The maximum degree of clubs ha
 
 ![My Imaged](Imgs/Old_hist.png)
 
+In the figure above we can notice: 
+
+* Most of the operations are loans
+* There are only few Transfers with a fee > 5
+Milion
+* Each team on average is involved in deals
+with 4 other clubs.
+* Only a few clubs do business with more than
+10 teams
+
 ![My Imaged](Imgs/New_hist.png)
+
+In the recent years a lot of things are changed: 
+
+* There are some edges with a high charge
+* Three purchases exceed 100 million
+* Each team on average is involved in deals
+with 9 other clubs.
+* 43 clubs over 134 do business with more
+than 10 teams.
+* Still a lot of transactions are loans
 
 ## Measures on the overall network
 
