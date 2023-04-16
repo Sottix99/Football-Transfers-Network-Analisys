@@ -19,6 +19,6 @@ the 2021/2022 season. The raw data were extremely dirty so a massive and detaile
  
 2. Delete all the "out" and "End of loan" operations to avoid duplicate transactions.
 
-3- Check and correct some typos in original data.
+3. Check and correct some typos in original data.
 
 
