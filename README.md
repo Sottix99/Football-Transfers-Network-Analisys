@@ -11,6 +11,7 @@ This Repository refers to the Final Project of the course Data Driven Models for
 
 ## Files:
 * `Code_R.R` contains all the code used to carry out all the various analyses performed in this work;
+* `Functions.R` contains some functions defined here that are used in the `Code_R.R` file ;
 * `PreProcessing.ipynb` notebook contains all the code used in preprocessing the data;
 * `Scarping.ipynb` notebook contains all the code to scrape the extra data of transfer markt;
 * `datasets_cleaned` folder has all the datasets used in this work;
