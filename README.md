@@ -10,10 +10,11 @@ This Repository refers to the Final Project of the course Data Driven Models for
 
 
 ## Files:
-* `TF4AML_theory.ipynb` notebook contains exercises regarding the implementation of Transformers fundamental blocks;
-* `TF4AML_practice.ipynb` notebook contains exercises for a Computer Vision research application. See paper [[Under the Hood of Transformer Networks for Trajectory Forecasting](https://arxiv.org/abs/2203.11878)];
-* `Data` folder has all the ETH/UCY data used as trajectory forecasting benchmark;
-* `transformer` folder includes all the necessary file to build TF and experiment with the benchmark. The code is inspired by the original Hugging code of 2018.
+* `Code_R.R` contains all the code used to carry out all the various analyses performed in this work;
+* `PreProcessing.ipynb` notebook contains all the code used in preprocessing the data;
+* `Scarping.ipynb` notebook contains all the code to scrape the extra data of transfer markt;
+* `datasets_cleaned` folder has all the datasets used in this work;
+* `Imgs` folder includes some of the Image and graphs carried out in my work.
 
 
 # Dataset
