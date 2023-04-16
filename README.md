@@ -26,3 +26,24 @@ the 2021/2022 season. The raw data were extremely dirty so a massive and detaile
 3. Check and correct some typos in original data.
 
 ![My Imaged](Imgs/Data%20and%20Cleaning%20procedure.png)
+
+# Results
+
+## Degree
+
+## Measures on the overall network
+
+## Measures averaged by each league sub-network
+
+## Modularity and Communities
+
+## Centrality
+
+## League Comparision
+
+# Conlcusion
+
+
+
+
+
