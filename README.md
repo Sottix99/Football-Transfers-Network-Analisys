@@ -116,7 +116,7 @@ It is interesting to note that, although each season has different negotiations,
 
 ## League Comparision
 
-![My Imaged](Imgs/streamplot_ridge.png)
+![My Imaged](Imgs/stream_plot_F.png)
 
 For the first three seasons more than 50% of the money spent in European football came from Italian teams, from 2005 onwards this amount dropped below 25 per cent. Since then its place has been taken by the Premier league. In recent years, more than half of the money spent in Ligue 1 comes from PSG. Covid-19 stopped the insane growth of spending in all leagues except the Premier league.
 
