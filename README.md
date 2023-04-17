@@ -86,25 +86,43 @@ Until 2000, no purchase had ever exceeded 50 million. After the purchase of G. B
 
 ![My Imaged](Imgs/4M.png)
 
+* The Diameter has decreased quite a bit over the seasons (from 20 to 10 and in 2017/2018 was equal to 8).
+* Also the Mean distance decreased a lot.
+* The Density has increased, but it's still very low.
+* The Mean clustering coefficient has varied over the seasons, but on average, apart from the last 3 years, it has not changed much from its initial value.
+
+
 ## Measures averaged by each league sub-network
 
-![My Imaged](Imgs/4M_intra.png)
+![My Imaged](Imgs/4M_Intra.png)
+
+* All four measures, calculated inside the leagues remain very constant over the years. 
+* We can see that the Diameter and the Mean Distance are lower than those calculated in the entire network.
+* The Density and The Mean clustering coefficient are higher than those in the whole network.
 
 ## Modularity and Communities
 
 ![My Imaged](Imgs/Modularity_lines.png)
 
+* In the initial four seasons, the score was very high.
+* The results of all three cases calculated are in agreement with each other, and show a continuous decrease in this value.
+* The market has become more and more global.
+
 ## Centrality
 
 ![My Imaged](Imgs/v1.png)
+
+It is interesting to note that, although each season has different negotiations, the nodes with the highest betweness centrality are very often the same. In addition, almost all of them are mid-to-high-end clubs: this makes his players attractive to all the big teams in Europe but also to the lower-end ones.
 
 ## League Comparision
 
 ![My Imaged](Imgs/streamplot_ridge.png)
 
+For the first three seasons more than 50% of the money spent in European football came from Italian teams, from 2005 onwards this amount dropped below 25 per cent. Since then its place has been taken by the Premier league. In recent years, more than half of the money spent in Ligue 1 comes from PSG. Covid-19 stopped the insane growth of spending in all leagues except the Premier league.
+
 # Conlcusion
 
-
+The market has become increasingly global over the years. This is evidenced by the decreasing diameter, average distance and modularity. Over the course of the seasons, the changing balance of power between the leagues can also be seen in the money spent by the various clubs in them. Furthermore, since 2013 there has been a strong price increase. Some clubs like Roma, Porto and Chelsea have, in many seasons, always extremely high betweness centrality values. 
 
 
 
