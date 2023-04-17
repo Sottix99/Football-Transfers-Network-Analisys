@@ -108,6 +108,20 @@ Until 2000, no purchase had ever exceeded 50 million. After the purchase of G. B
 * The results of all three cases calculated are in agreement with each other, and show a continuous decrease in this value.
 * The market has become more and more global.
 
+![My Imaged](Imgs/g1.png)
+
+* Very closed structure.
+* Few clubs buy outside their league
+* Transfers are fewer and the amounts are very low.
+
+
+![My Imaged](Imgs/g2.png)
+
+* The structure is very open, it almost looks like one league.
+* There are many transfers and prices are often high.
+
+
+
 ## Centrality
 
 ![My Imaged](Imgs/v1.png)
