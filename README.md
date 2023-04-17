@@ -84,13 +84,23 @@ Until 2000, no purchase had ever exceeded 50 million. After the purchase of G. B
 
 ## Measures on the overall network
 
+![My Imaged](Imgs/4M.png)
+
 ## Measures averaged by each league sub-network
+
+![My Imaged](Imgs/4M_intra.png)
 
 ## Modularity and Communities
 
+![My Imaged](Imgs/Modularity_lines.png)
+
 ## Centrality
 
+![My Imaged](Imgs/v1.png)
+
 ## League Comparision
+
+![My Imaged](Imgs/streamplot_ridge.png)
 
 # Conlcusion
 
