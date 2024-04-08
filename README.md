@@ -5,7 +5,7 @@
 This Repository refers to the Final Project of the course Data Driven Models for Complex Systems (DDMCS) at University Sapienza of Rome 2022/2023.
 
 # Abstract
-
+The project examined the European football market network of the top 7 leagues over the years. The process involved data extraction from Transfer Markt by web scraping, followed by graph analysis and temporal comparison.
 ![My Imaged](Imgs/sistemare.png)
 
 
